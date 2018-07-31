@@ -1,2 +1,2 @@
 # bookCollection
-读音资料汇集
+讀音資料
