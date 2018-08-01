@@ -1,5 +1,6 @@
-# 南寧白話讀音資料
+# 南寧白話讀音資料文本檔
 
+## 說明
 
 目前已知共有六份資料可以查南寧白話字音：
 
@@ -17,3 +18,15 @@
 學識有限，提供這些資料給方家研究，有問題也希望不吝提出。
 
 --LeiMaau  2018.08.01
+
+## 本站主要链接
+
+[南宁白话小册子](https://leimaau.github.io/book/) 
+
+[南宁白话小册子（备用地址）](https://leimaau.gitbooks.io/nnbh/content/) 
+
+[南宁白话输入方案](https://github.com/leimaau/myself_jyutping) 
+
+[南宁白话字词典](https://github.com/leimaau/NaamBaakDict) 
+
+[南宁白话读音资料文本档](https://github.com/leimaau/bookCollection) 
