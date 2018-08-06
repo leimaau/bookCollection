@@ -19,14 +19,14 @@
 
 --LeiMaau  2018.08.01
 
-## 本站主要链接
+## 本站主要鏈接
 
-[南宁白话小册子](https://leimaau.github.io/book/) 
+[南寧白話小冊子](https://leimaau.github.io/book/) 
 
-[南宁白话小册子（备用地址）](https://leimaau.gitbooks.io/nnbh/content/) 
+[南寧白話小冊子（備用地址）](https://leimaau.gitbooks.io/nnbh/content/) 
 
-[南宁白话输入方案](https://github.com/leimaau/myself_jyutping) 
+[南寧白話輸入方案](https://github.com/leimaau/myself_jyutping) 
 
-[南宁白话字词典](https://github.com/leimaau/NaamBaakDict) 
+[南寧白話字詞典](https://github.com/leimaau/NaamBaakDict) 
 
-[南宁白话读音资料文本档](https://github.com/leimaau/bookCollection) 
+[南寧白話讀音資料文本檔](https://github.com/leimaau/bookCollection) 
