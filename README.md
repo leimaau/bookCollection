@@ -1,6 +1,6 @@
 # 南寧白話讀音資料文本檔
 
-本站若是下載緩慢或下載出錯，可以嘗試[這裏](https://coding.net/u/LeiMaau/p/bookCollection/git)。
+本站若是下載緩慢或下載出錯，可以嘗試[這裏](https://dev.tencent.com/u/LeiMaau/p/bookCollection/git)。
 
 ## 說明
 
