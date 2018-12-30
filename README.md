@@ -1,7 +1,5 @@
 # 南寧白話讀音資料文本檔
 
-本站若是下載緩慢或下載出錯，可以嘗試[這裏](https://dev.tencent.com/u/LeiMaau/p/bookCollection/git)。
-
 ## 說明
 
 目前已知共有六份正式資料可以查南寧白話字音：
@@ -26,8 +24,6 @@
 ## 本站主要鏈接
 
 [南寧白話小冊子](https://leimaau.github.io/book/) 
-
-[南寧白話小冊子（備用地址）](https://leimaau.gitbooks.io/nnbh/content/) 
 
 [南寧白話輸入方案](https://github.com/leimaau/myself_jyutping) 
 
