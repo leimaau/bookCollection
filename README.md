@@ -25,8 +25,3 @@
 
 [南寧白話小冊子](https://leimaau.github.io/book/) 
 
-[南寧白話輸入方案](https://github.com/leimaau/myself_jyutping) 
-
-[南寧白話字詞典](https://github.com/leimaau/NaamBaakDict) 
-
-[南寧白話讀音資料文本檔](https://github.com/leimaau/bookCollection) 
