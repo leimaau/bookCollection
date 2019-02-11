@@ -1255,7 +1255,7 @@ hin33	宪
 Øin33	堰
 Øin33	燕
 Øin33	宴
-Øin22	谚		常见读[Øin33]
+Øin22	谚		又读[Øin33]
 Øin22	砚
 Øin22	现
 pun55	搬
@@ -2487,7 +2487,7 @@ lit2	劣
 kit2	杰
 kit2	结		应读[kit3]
 khit3	揭
-Øit3	乙		大多读[Øyt3]
+Øit3	乙		又读[Øyt3]
 Øit2	热
 muk2	木
 muk2	目
