@@ -1,6 +1,7 @@
 繁體	簡體	南寧白話	又音	廣州話
 㓟	㓟	pai1「削，又作𠜱字」		pai1,pei1
 㓤	㓤	gat1「刺」		gat1
+劏	㓥	tong1「宰殺」		tong1
 㔆	㔆	caam5「刺；扎」		caam5
 㕭	㕭	jaau1「咿㕭，不認真」		jaau1
 㗱	㗱	zep1「吸奶聲」,zep6「咀嚼聲」	(又)zaap1,(又)zaap6	zaap6,zep6
@@ -13,11 +14,13 @@
 㞗	㞗	gau1「男陰」	(書)kau4	gau1,kau4
 㞘	㞘	duk1「容器底部，又作䐁/𡰪字」		duk1
 㞢	㞢	zi1「古通作之」,jau5「古通作有」		zi1,jau5
+嵾	㟥	cam1	(又)caam1	caam1,cam1
 㟼	㟼	ngu4	(語)ngaau4「用力搖動，又作嶅字」	ngou4
 㡿	㡿	cik1		cik1
+㨤	㧟	kwaai5「舀，又作擓字」		kwaai5
+擓	㧟	kwaai5「舀，又作㨤字」		kwaai5
 㨆	㨆	lam6「堆砌」		lam6
 㨘	㨘	saang2「拭擦、訓斥」		saang2
-㨤	㧟	kwaai5「舀，又作擓字」		kwaai5
 㨴	㨴	kin2「掀，揭」		kin2
 㩙	㩙	slaak1「～開邊，剖成兩半」		nim2, saak1
 㩧	㩧	bok1「敲」		bok1
@@ -26,6 +29,7 @@
 㬤	㬤	kap1	(又)jap1	jap1
 㮇	㮇	tim2		tim5,tim3
 㳄	㳄	jin4		jin4
+燶	㶶	nung1「焦，糊，又作𪒬字」		nung1
 㷫	㷫	hing3「烤，热，烫」		hing3
 㷹	㷹	(白)zeu3「用油炸」	(文)zaau3	zaau3
 㹃	㹃	he3「翻開、扒開、撬」	(又)fe3	he3,fe3
@@ -35,8 +39,8 @@
 䀡	䀡	zim1「同覘字」		zim1
 䂻	䂻	zaang6「硬塞；撐飽肚子」		zaang6
 䅦	䅦	maau1「蘿蔔等糠了，又作泡字」		nau4
-䉲	𥮜	mi4	(又)ni4	nei4
 䊦	䊦	(白)et3「糍粑」	(文)jit3	jit3,zit3
+膞	䏝	zyun1		zyun1
 䐁	䐁	duk1「容器底部，又作㞘/𡰪字」		duk1
 䝋	䝋	zung1	(又)zung3	zung1；(又)zung3
 䝼	䞍	cing4「承受財物」,zing6「賜予」		cing4,zing6
@@ -51,89 +55,130 @@
 一	一	jat1		jat1
 丁	丁	ding1「甲乙丙丁」	(白)deng1「人丁，豆丁」	ding1；(古)zang1伐木丁丁
 七	七	cat1		cat1
-万	万	maan6「同萬字」,mak6「万俟，複姓」		(異讀)maak6,maan6,mak6
+万	万	maan6「同萬字」,mak6「万俟，複姓」		maan6,mak6
+萬	万	maan6		maan6
 丈	丈	zoeng6		zoeng6
 三	三	slaam1		saam1；三思又讀saam3
 上	上	soeng6「上面」,soeng5「上山」		1)soeng6:上面 2)soeng5:上山
 下	下	haa6「底下」,haa5「一下，等下」		1)haa6:山下 2)haa5:打十下
 不	不	bat1		bat1
 与	与	jyu5		jyu4,jyu5,jyu6
+與	与	jyu5		1)jyu5:贈與 2)jyu6:參與；同歟
 丐	丐	koi3	(又)goi3	koi3
 丑	丑	cau2		cau2
+醜	丑	cau2		cau2
+專	专	zyun1		zyun1
 且	且	ce2		ce2；(古)zeoi1
 丕	丕	pi1		pei1
 世	世	sai3		sai3
 丘	丘	jau1		jau1
 丙	丙	bing2		bing2
+業	业	nip6		jip6
+叢	丛	cung4		cung4
+東	东	dung1		dung1
+絲	丝	si1	(老派)sy1	si1
 丞	丞	sing4		sing4
-丟	丢	diu1	(白)deu6「丟棄，又作掉字」	diu1
-並	并	bing6「並且」		bing6；(又)bing3
+丟	丢	diu1		diu1
+兩	两	loeng5「兩個」,loeng2「斤兩」		1)loeng5:兩本書 2)loeng2:十兩
+嚴	严	jim4		jim4
+喪	丧	slong3「喪失」,slong1「喪事」		1)song3:喪失 2)song1:喪事
+個	个	go3		go3
 丫	丫	aa1	(又)jaa1	aa1
 中	中	zung3「中計」,zung1「中間」		1)zung1:中央 2)zung3:中毒
 丰	丰	fung1		fung1
+豐	丰	fung1		fung1
 串	串	cyun3		cyun3
+臨	临	lam4		lam4
 丸	丸	jyun4		jyun4；(語)jyun2
 丹	丹	daan1		daan1
+為	为	wai4「作為」,wai6「為了」		1)wai4:人為 2)wai6:為了
+爲	为	wai4「作爲」,wai6「爲了」		1)wai4:人爲 2)wai6:爲了
 主	主	zyu2		zyu2
 丼	丼	(白)zeng2「同井字」,dam2「投物井中的聲音；姓氏」	(文)zing2	dam2,zing2
 丽	丽	lai6		lai6
+麗	丽	lai6		lai6
+舉	举	gyu2		geoi2
 乃	乃	naai5		naai5
 久	久	gau2		gau2
 么	么	jiu1「同幺字」,mo1「同麼字」,maa1「同嗎字」		maa1,mo1,jiu1
+麼	么	mo1	(又)maa1「同嗎字」	mo1
+義	义	ji6		ji6
 之	之	zi1		zi1
+烏	乌	wu1		wu1
 乍	乍	zaa3		zaa3
 乎	乎	wu4	(又)fu4,(又)fu1	fu4
 乏	乏	faat6		fat6
+樂	乐	lok6「快樂」,ngok6「音樂」,ngaau6「仁者樂山」		1)lok6:快樂 2)ngok6:音樂 3)ngaau6:樂群
 乒	乒	bing1		ping1
 乓	乓	baang1		pong1；(又)bam1
+喬	乔	kiu4		kiu4
 乖	乖	gwaai1		gwaai1
 乘	乘	sing4「乘坐」,sing6「千乘」		1)sing4:乘車 2)sing6:千乘之國
 乙	乙	jyut3	(又)jit3	jyut6；(又)jyut3
-乜	乜	mat1「乜嘢」,(訓)me2「歪，訓讀字」	(語)me4「乜斜，醉態」	mat1,(異讀)me5,ne6,(異讀)me2,me1
+乜	乜	mat1「乜嘢」,(訓)me2「歪，訓讀字」	(語)me4「乜斜，醉態」	mat1,me6,me1
 九	九	gau2		gau2
 乞	乞	hat1		hat1
 也	也	jaa5		jaa5
+習	习	zap6		zaap6
+鄉	乡	hoeng1		hoeng1
+書	书	syu1		syu1
 乩	乩	gi1		gei1
+買	买	maai5		maai5
 乱	乱	lyun6		lyun6
+亂	乱	lyun6		lyun6
 乳	乳	jyu5		jyu5
 乸	乸	naa2「母，雌」		naa2
 乾	乾	kin4「乾坤」,gon1「乾燥」	(又)kyun4「乾坤」	1)gon1:乾燥 2)kin4:乾坤
-亂	乱	lyun6		lyun6
 了	了	liu5		liu5
 予	予	jyu5「賦予」,jyu4「予取予求」		1)jyu4:予取予求 2)jyu5:授予
+爭	争	zaang1		zang1
 事	事	si6	(老派)sy6	si6
 二	二	ji6		ji6
 于	于	jyu1		jyu1；(古)jyu4之子于歸
+於	于	jyu1		jyu1；(古)wu1於戲
+虧	亏	kwai1		kwai1
 云	云	wan4		wan4
+雲	云	wan4		wan4
 互	互	wu6	(又)ng6	wu6
 五	五	ng5		ng5
 井	井	(白)zeng2	(文)zing2	zeng2；井井有條，井然又讀zing2
 亙	亘	gang3		gang2
-些	些	sle1		se1
 亞	亚	aa3		aa3
+些	些	sle1		se1
 亟	亟	gik1「亟待」,ki3「亟請」		1)gik1:需款甚亟 2)kei3:亟來問訊
 亡	亡	mong4		mong4；(古)同無
 交	交	(白)geu1「交錢」	(文)gaau1「成交」,(又)keu1「交叉」	gaau1
 亥	亥	hoi6		hoi6
 亦	亦	jik6		jik6
+產	产	caan2		caan2
 亨	亨	hang1		hang1；(古)同烹
+畝	亩	mau5		mau5
 享	享	hoeng2		hoeng2
 京	京	ging1		ging1
 亭	亭	ting4		ting4
 亮	亮	loeng6		loeng6
 亯	亯	hoeng2		hoeng2
+親	亲	can3「親家」,can1「親切」		1)can1:雙親 2)can3:親家
+褻	亵	slit3		sit3
 人	人	jan4		jan4
+億	亿	jik1		jik1
 什	什	sam6「什麼」,sap6「什錦，什物」	(又)zaap6「什錦，什物」	1)sap6:什一之稅 2)sam6:什麼；(俗)用作雜
 仁	仁	jan4	(白)ngan4「果仁」	jan4
 仃	仃	ding1		ding1
 仄	仄	zak1		zak1
 仅	仅	gan2		gan2
+僅	仅	gan2		gan2
 仆	仆	puk1「仆倒」	(書)fu6「前仆後繼」	fu6
+僕	仆	puk6「僕人」		buk6
 仇	仇	cau4「仇恨」,kau4「姓」		sau4；姓氏又讀kau4或cau4
 今	今	gam1		gam1
 介	介	gaai3		gaai3
 仍	仍	jing4		jing4
 从	从	cung4		cung4
+從	从	cung4		1)cung4:服從 2)sung1:從容 3)zung6:主從；(古)zung1 從橫
+侖	仑	lan4		leon4
+崙	仑	lan4		leon4
+倉	仓	cong1		cong1
 仔	仔	zi2「仔細；仔雞」,zai2「仔女」		1)zi2:仔細 2)zai2:香港仔；(古)zi1:仔肩
 仕	仕	si6	(老派)sy6	si6
 他	他	taa1		taa1
@@ -146,11 +191,14 @@
 代	代	doi6		doi6
 令	令	ling6		1)ling6:命令 2)ling1:一令紙
 以	以	ji5		ji5
+儀	仪	ji4		ji4
+們	们	mun4		mun4
 仰	仰	joeng5「信仰」	(白)ngong5「仰頭」	joeng5
 仲	仲	zung6		zung6
 仳	仳	pi2		pei2
 件	件	gin6		gin6
-价	价	gaa3		gaa3,gaai3
+价	价	gaa3		gaa3
+價	价	gaa3		gaa3
 任	任	jam4「姓」,jam6「責任」		1)jam6:信任 2)jam4:姓任
 份	份	fan6		fan6
 仿	仿	fong2		fong2
@@ -162,67 +210,86 @@
 伐	伐	faat6		fat6
 休	休	jau1		jau1
 伕	伕	fu1		fu1
+眾	众	zung3		zung3
+衆	众	zung3		zung3
 优	优	jau1		jau1
+優	优	jau1		jau1
 伙	伙	fo2		fo2
+夥	伙	fo2		fo2
+會	会	wui6「開會，會計」,wui5「不會」		1)wui6:會師，會計 2)wui5:學會了；(古)kui2會稽，會計又讀kui2
+傘	伞	slaan3	(又)slaan2	saan3
+偉	伟	wai2		wai5
+傳	传	zyun6「傳記」,cyun4「傳達」		1)cyun4:傳達 2)zyun6:小傳
 伢	伢	ngaa4		ngaa4
+傷	伤	soeng1		soeng1
+倀	伥	coeng1「為虎作倀」,caang4「獨立貌」		caang4；(又)coeng1
+倫	伦	lan4	(老派)lyun4	leon4
+傖	伧	cong1		cong1
+偽	伪	ngai6		ngai6
+僞	伪	ngai6		ngai6
+佇	伫	cyu5		cyu5
 伯	伯	baak3		baak3；(古)baa3五伯
 估	估	gu2	(又)gu1	gu2
 伴	伴	bun6「伴侶」	(白)pun5「作伴」	bun6
 伶	伶	ling4		ling4
-伸	伸	san1	(語)can1「伸懶腰，又作抻/胂字」	san1
+伸	伸	san1	(語)can1「～懶腰，又作抻/胂字」	san1
 伺	伺	ci3	(老派)cy3,(又)sy6,(又)si6	zi6
 似	似	ci5	(老派)cy5	ci5
 伽	伽	gaa1「伽馬射線」,ke4「伽藍」		gaa1；伽藍又讀ke4
 佃	佃	din6「佃戶」,tin4「佃作」		1)din6:佃農 2)tin4:佃作
 但	但	daan6		daan6
-佇	伫	cyu5		cyu5
-佈	布	bu3		bou3
 位	位	wai6「位置」	(又)wai2「一位，座位」	wai6
 低	低	dai1		dai1
 住	住	zyu6		zyu6
 佐	佐	zo2		zo3；(俗)zo2
 佑	佑	jau6		jau6
-体	体	tai2		tai2,ban6
-佔	占	zim3		zim3
+体	体	tai2		tai2
+體	体	tai2		tai2
 何	何	ho4		ho4
 佗	佗	to4		to4
 佘	佘	se4		se4
 余	余	jyu4		jyu4
+餘	余	jyu4		jyu4
+佚	佚	jat6		jat6
 佛	佛	fat6「佛教」,fat1「仿佛」		1)fat6:佛教 2)fat1:彷彿
+彿	佛	fat1		fat1
 作	作	zok3		zok3
 佝	佝	kau3	(又)kyu1,(又)gau1	keoi1
 佞	佞	ning6		ning6
 你	你	ni5		nei5
 佢	佢	kyu5「第三人稱代詞」		keoi5
 佣	佣	jung6「佣金」	(又)jung2	jung2；(又)jung6；同傭
+傭	佣	jung4「傭工」		jung4
 佩	佩	pui3		pui3
 佬	佬	lu2		lou2
 佮	佮	gap3「佮份，湊份子，又作敆字」	(語)tap1「套，又作錔字」	gap3
 佯	佯	joeng4		joeng4
 佰	佰	baak3		baak3
 佳	佳	gaai1		gaai1
-併	并	bing3「合併」		bing3
 佻	佻	tiu1	(又)tiu4	tiu1；(又)tiu4
 使	使	sai2	(書)si2	1)si2:古使 2)si3:公使；(語)sai2
 侃	侃	hon2		hon2
-侄	侄	zat6		zat1,zat6
-來	来	(白)lai4	(文)loi4	loi4
+侄	侄	zat6		zat6
 侈	侈	ci2		ci2
-侉	侉	kwaa1		kwaa2,(異讀)kwaa1
+侉	侉	kwaa1		kwaa2,kwaa1
 例	例	lai6		lai6
 侍	侍	si6	(老派)sy6	si6
 侏	侏	zyu1		zyu1
-侖	仑	lan4		leon4
-侗	侗	dung6		dung6,(異讀)tung2,tung4
+侗	侗	dung6「侗族」,tung4「倥侗」		dung6,tung4
 供	供	gung1「供應」,gung3「供奉」		gung1；供養又讀gung3
 依	依	ji1		ji1
+俠	侠	haap6		hap6；(又)haap6
+侶	侣	lyu5		leoi5
+僥	侥	hiu1		hiu1；(古)jiu4僬僥
+偵	侦	zing1		zing1
+側	侧	zak1		zak1
+僑	侨	kiu4		kiu4
+儈	侩	kui3	(又)kwai3,(又)kwaai3	kui2；(又)kui3
+儂	侬	nung4	(又)nung1	nung4
 侮	侮	mu5		mou5
 侯	侯	hau4		hau4
 侵	侵	cam1		cam1
-侶	侣	lyu5		leoi5
-侷	局	guk6		guk6
 便	便	bin6「方便」,pin4「便宜」	(又)bin2「順便，隨便」	1)bin6:方便 2)pin4:大腹便便
-係	系	hai6「關係；是」		hai6
 促	促	cuk1		cuk1
 俄	俄	ngo4		ngo4
 俅	俅	kau4		kau4
@@ -238,27 +305,25 @@
 保	保	bu2		bou2
 俞	俞	jyu4		jyu4
 俟	俟	si6「俟機」,ki4「万俟，複姓」	(又)zi6「俟機」	zi6；(複姓)kei4万俟
-俠	侠	haap6		hap6；(又)haap6
 信	信	slan3	(老派)slyun3	seon3
-俬	私	si1	(老派)sy1	si1
+儔	俦	cau4		cau4
+儼	俨	jim5	(又)jim4	jim5
+倆	俩	loeng5		loeng5
+儷	俪	lai6		lai6
+儉	俭	gim6		gim6
 修	修	slau1		sau1
+脩	修	slau1		sau1
 俯	俯	fu2		fu2
 俱	俱	gyu6	(書)kyu1	keoi1
 俳	俳	paai4		paai4
 俸	俸	fung6	(又)fung2	fung2
 俺	俺	jim3	(又)aan2	jim3
 俾	俾	bi2		bei2
-倀	伥	coeng1「為虎作倀」,caang4「獨立貌」		caang4；(又)coeng1
-倆	俩	loeng5		loeng5
-倉	仓	cong1		cong1
-個	个	go3		go3
 倌	倌	gun1		gun1
 倍	倍	pui5		pui5
 倏	倏	suk1		suk1
-們	们	mun4		mun4
 倒	倒	du3「倒掛」,du2「倒塌」		dou2
 倔	倔	gwat6		gwat6
-倖	幸	hang6		hang6
 倘	倘	tong2		tong2
 候	候	hau6		hau6
 倚	倚	ji2		ji2
@@ -270,13 +335,13 @@
 倨	倨	gyu3		geoi3
 倩	倩	sin6	(舊)cin3	sin6；(又)sin3
 倪	倪	ngai4	(又)ni4	ngai4
-倫	伦	lan4	(老派)lyun4	leon4
 倭	倭	wo1		wo1；(古)wai1倭遲
+債	债	zaai3		zaai3
 值	值	zik6		zik6
+傾	倾	king1		king1
 偃	偃	jin2		jin2
 假	假	gaa3「放假」,gaa2「真假」	(常)kaa3「放假」	1)gaa2:真假 2)gaa3:休假
-偈	偈	gai6「佛偈」	(語)gai2「傾偈，聊天」	gai2,gai6,git6
-偉	伟	wai2		wai5
+偈	偈	gai6「佛偈」	(語)gai2「傾偈，聊天」	gai2,gai6
 偌	偌	je6		je6
 偎	偎	wui1		wui1
 偏	偏	pin1		pin1
@@ -285,136 +350,138 @@
 停	停	ting4		ting4
 健	健	gin6		gin6
 偪	偪	bik1		bik1
-側	侧	zak1		zak1
-偵	侦	zing1		zing1
 偶	偶	ngau5		ngau5
 偷	偷	tau1		tau1
-偽	伪	ngai6		ngai6
+償	偿	coeng4	(又)soeng4	soeng4
 傀	傀	kwai2「傀儡」,gwai1「傀奇」	(又)gwai2「傀儡」	1)faai3:傀儡 2)gwai1:傀偉
 傅	傅	fu6		fu6
 傍	傍	bong6「依傍」,pong4「傍晚」		1)bong6:依山傍水 2)pong4:傍晚
-傑	杰	git6「傑出；（粥）稠」		git6
-傖	伧	cong1		cong1
-傘	伞	slaan3	(又)slaan2	saan3
-備	备	bi6		bei6
-傢	家	gaa1		gaa1
+儐	傧	ban3		ban3
+儲	储	cyu4		cyu5
+儺	傩	no4		no4
 催	催	cui1		ceoi1
-傭	佣	jung4「傭工」		jung4
 傲	傲	ngu6		ngou6
-傳	传	zyun6「傳記」,cyun4「傳達」		1)cyun4:傳達 2)zyun6:小傳
-債	债	zaai3		zaai3
-傷	伤	soeng1		soeng1
 傻	傻	slo4		so4
-傾	倾	king1		king1
-僅	仅	gan2		gan2
 僊	僊	slin1「同仙字」		sin1
 像	像	zoeng6		zoeng6
-僑	侨	kiu4		kiu4
-僕	仆	puk6「僕人」		buk6
 僖	僖	hi1		hei1
 僚	僚	liu4		liu4
-僞	伪	ngai6		ngai6
-僥	侥	hiu1		hiu1；(古)jiu4僬僥
 僧	僧	zang1		zang1
 僭	僭	cim3		cim3
 僮	僮	tung4「書僮」,zong6「僮族」		1)tung4:書僮 2)zong6:僮族
-僱	雇	gu3		gu3
 僵	僵	goeng1	(常)koeng1	goeng1
-價	价	gaa3		gaa3
+殭	僵	goeng1	(常)koeng1	goeng1
 僻	僻	pik1		pik1
-儀	仪	ji4		ji4
-儂	侬	nung4	(又)nung1	nung4
-億	亿	jik1		jik1
 儆	儆	ging2	(語)geng6「儆惜，珍惜」	ging2
-儈	侩	kui3	(又)kwai3,(又)kwaai3	kui2；(又)kui3
-儉	俭	gim6		gim6
-儐	傧	ban3		ban3
 儒	儒	jyu4		jyu4
-儔	俦	cau4		cau4
-儘	尽	zan6		1)zeon6:儘量 2)zeon2:儘管
-償	偿	coeng4	(又)soeng4	soeng4
 儡	儡	lui5		leoi5
-優	优	jau1		jau1
-儲	储	cyu4		cyu5
-儷	俪	lai6		lai6
 儹	儹	zan2「攢錢，積攢，同攢字」	(又)zaan2	zaan2
-儺	傩	no4	(語)no2「阿儺，侏儒」	no4
-儼	俨	jim5	(又)jim4	jim5
-儽	儽	lui5	(又)lui4,(又)lui6	leoi5,leoi4
-儿	儿	ji4「同兒字」,jan4「同人字」		(異讀)ngai4,ji4,jan4
+儽	儽	lui5		leoi5
+儿	儿	ji4「同兒字」,jan4「同人字」		ji4,jan4
+兒	儿	ji4		ji4
 兀	兀	ngat6		ngat6
 允	允	wan5		wan5
 元	元	jyun4		jyun4
 兄	兄	hing1		hing1
 充	充	cung1		cung1
 兆	兆	ziu6		siu6
-兇	凶	hung1		hung1
 先	先	slin1		sin1
 光	光	gong1		gwong1
 克	克	hak1	(常)kak1	hak1
-兌	兑	dui3		deoi3
+剋	克	hak1	(常)kak1	hak1
 免	免	min5		min5
+兌	兑	dui3		deoi3
 兑	兑	dui3		dui3
-兒	儿	ji4		ji4
 兔	兔	tu3		tou3
 兕	兕	zi6	(又)ci5	zi6
 兗	兖	jin5		jin5
 党	党	dong2		dong2
+黨	党	dong2		dong2
 兜	兜	dau1		dau1
 兢	兢	ging1		ging1
 入	入	jap6		jap6
-內	内	nui6		noi6；(古)同納
 全	全	cyun4		cyun4
-兩	两	loeng5「兩個」,loeng2「斤兩」		1)loeng5:兩本書 2)loeng2:十兩
 八	八	(白)bet3	(文)baat3	baat3
 公	公	gung1		gung1
 六	六	luk6		luk6
 兮	兮	hai4	(又)hi1	hai4
+蘭	兰	laan4		laan4
 共	共	gung6		gung6
+關	关	(白)gwen1「關門」	(文)gwaan1「關公」	gwaan1
+興	兴	hing3「高興」,hing1「興旺」		1)hing1:興奮 2)hing3:高興
 兵	兵	bing1		bing1
 其	其	ki4		kei4
 具	具	gyu6		geoi6
 典	典	(習)dim2	(書)din2	din2
+茲	兹	zi1	(老派)zy1	1)zi1:念茲在茲 2)ci4:龜茲
+養	养	joeng5		joeng5；(古)joeng6奉養
 兼	兼	gim1		gim1
+獸	兽	sau3		sau3
 冀	冀	gi3		kei3
-冇	冇	mu5		(異讀)mo5,mou5
+內	内	nui6		noi6；(古)同納
+冇	冇	mu5「沒有」		mou5
+岡	冈	gong1		gong1
 冉	冉	jim5		jim5
 冊	册	caak3		caak3
 再	再	zoi3		zoi3
-冑	胄	zau6		zau6
 冒	冒	mu6	(白)maau6	mou6；(古人名)mak6冒頓
 冕	冕	min5		min5
 冗	冗	jung2		jung2
+宂	冗	jung2		jung2
+寫	写	sle2		se2
 冚	冚	kam2「蓋上」,ham6「蓋得嚴密；全部，冚𠾴唥」		kam2,ham6
+軍	军	gwan1		gwan1
+農	农	nung4		nung4
 冠	冠	gun3「冠軍」,gun1「衣冠」		1)gun1:衣冠 2)gun3:冠軍
 冢	冢	zung2		cung2
+塚	冢	zung2		cung2
 冤	冤	jyun1		jyun1
 冥	冥	ming4		ming4；(又)ming5
 冧	冧	lam3「垮塌」,lam1「哄；花～，花蕾；好～，甜蜜」		lam3,lam1
-冪	幂	mik6		mik6
 冬	冬	dung1		dung1
+鼕	冬	dung1	(又)tung4	dung1
+馮	冯	fung4		fung4；(古)通憑
 冰	冰	bing1		bing1
+沖	冲	cung1		cung1
+衝	冲	cung1		cung1
+決	决	kyut3		kyut3
+況	况	kong3		fong3
 冶	冶	je5		je5
 冷	冷	laang5「冷凍」,(外)laang1「冷衫，毛絨衣，法語laine音譯」		laang5
+凍	冻	dung3		dung3
 冽	冽	lit6		lit6
-凄	凄	cai1		cai1
-准	准	zan2	(老派)zyun2	zeon2
 凈	净	zing6「凈重」	(白)zeng6「乾凈」	zeng6,zing6
+淨	净	zing6「淨重」	(白)zeng6「乾淨」	zing6
+凄	凄	cai1		cai1
+悽	凄	cai1		cai1
+淒	凄	cai1		cai1
+准	准	zan2	(老派)zyun2	zeon2
+準	准	zan2	(老派)zyun2	zeon2
+涼	凉	loeng4		loeng4
 凋	凋	diu1		diu1
 凌	凌	ling4		ling4
-凍	冻	dung3		dung3
+淩	凌	ling4		ling4
+減	减	(白)gem2	(文)gaam2	gaam2
+湊	凑	cau3		cau3
 凜	凛	lam5	(又)lam2	lam5
 凝	凝	ning4	(語)king4「凝結，啲油～嗮」	jing4
 几	几	gi1「茶几」		gei1
+幾	几	gi2「幾個」,gi1「幾乎」		1)gei2:幾個 2)gei1:幾乎
 凡	凡	faan4		faan4
-凰	凰	wong4		wong4
+鳳	凤	fung6		fung6
+憑	凭	pang4	(又)bang6「倚靠」	pang4
 凱	凯	hoi2	(又)koi2	hoi2
+凰	凰	wong4		wong4
 凳	凳	dang3		dang3
+兇	凶	hung1		hung1
 凶	凶	hung1		hung1
 凸	凸	dat6		dat6
 凹	凹	map1	(又)nap1,(又)aau1	nap1；(又)aau3
 出	出	cyut1	(又)cat1	ceot1
+齣	出	cyut1	(又)cat1	ceot1
+擊	击	gik1		gik1
 函	函	haam4		haam4
+鑿	凿	zok6		zok6
 刀	刀	du1		dou1
 刁	刁	diu1		diu1
 刃	刃	jan6		jan6
@@ -422,97 +489,98 @@
 切	切	cit3「切開」,cai3「一切」		1)cit3:急切 2)cai3:一切
 刈	刈	ngai6		ngaai6
 刊	刊	hon2		hon1；(又)hon2
+芻	刍	cyu1		co1
 刎	刎	man5		man5
 刑	刑	jing4		jing4
 划	划	waa1「划船」	(又)waa4「划船，划算」	1)waa1:划船 2)faa3:划不來
+劃	划	waak6		waak6
 列	列	lit6「排列」	(白)let6「排列列」	lit6
+劉	刘	lau4		lau4
+則	则	zak1		zak1
+剛	刚	gong1		gong1
+創	创	cong3		1)cong3:創造 2)cong1:刀創
 初	初	co1		co1
+刪	删	saan1		saan1
 判	判	pun3		pun3
-別	别	bit6		bit6
 刨	刨	(白)peu4	(文)paau4	paau4
 利	利	li6		lei6
-刪	删	saan1		saan1
+別	别	bit6		bit6
+彆	别	bit3		bit6；(又)bit3
 刮	刮	(白)gwet3	(文)gwaat3	gwaat3
+颳	刮	(白)gwet3	(文)gwaat3	gwaat3
 到	到	du3		dou3
 刱	刱	cong3		cong3
 制	制	zai3		zai3
+製	制	zai3		zai3
 刷	刷	caat3		1)caat3:刷牙 2)saat3:刷白
 券	券	gyun3	(又)hyun3	hyun3；(又)gyun3
+剎	刹	saat3		saat3；古剎又讀caat3
 刺	刺	ci3「魚刺」	(老派)cy3「魚刺」,(白)cek3「刺骨」	ci3；行刺又讀cik3
 刻	刻	hak1	(常)kak1	hak1
+劊	刽	kui3	(又)kwai3,(又)kwaai3	kui2
+剴	剀	hoi2		hoi2
 剁	剁	(訓)doek3「訓讀爲斫」	(又)do3	doek3；(又)do3
+劑	剂	zai1		zai1
 剃	剃	tai3		tai3
-則	则	zak1		zak1
 削	削	sloek3		soek3
-剋	克	hak1	(常)kak1	hak1
 剌	剌	laat6「乖剌」,laa1「割開」		1)laat6:剌謬 2)laa1:剌了一個口子
 前	前	cin4		cin4
-剎	刹	saat3		saat3；古剎又讀caat3
+剮	剐	gwaa2		gwaa2
+劍	剑	gim3		gim3
 剔	剔	tik1「挑剔」	(白)tek3「剔除」	tik1
 剖	剖	pau2		fau2；(又)pau2
-剛	刚	gong1		gong1
 剜	剜	wun2		wun2；(又)wun1
 剝	剥	bok3		mok1
+劇	剧	kek6		kek6
 剩	剩	zing6	(書)sing6	sing6
 剪	剪	zin2		zin2
-剮	剐	gwaa2		gwaa2,(異讀)waa2
 副	副	fu3		fu3
 割	割	got3		got3
-剴	剀	hoi2		hoi2
-創	创	cong3		1)cong3:創造 2)cong1:刀創
-剷	铲	(白)cen2	(文)caan2	caan2
 剺	剺	li4	(語)li1「撕，或作劙字」	lai5,lei4
 剽	剽	piu4		piu5
 剿	剿	ziu2		ziu2；同抄，剿襲
-劃	划	waak6		waak6
-劄	劄	zaap3		zaap3,(異讀)zaat3
-劇	剧	kek6		kek6
+劄	劄	zaap3		zaap3,zaat3
 劈	劈	pek3		pek3
-劉	刘	lau4		lau4
-劊	刽	kui3	(又)kwai3,(又)kwaai3	kui2
-劍	剑	gim3		gim3
-劏	㓥	tong1「宰殺」		tong1
 劐	劐	kok3「用刀劃開；裂口」	(又)wok6,(又)waak6	wok6,hap6
-劑	剂	zai1		zai1
 劖	劖	(白)cem4「刺入，又作鑱/攙字」	(文)caam4	caam4
 劘	劘	mo4	(語)mai1「～皮，削皮」	mo4
-劙	劙	lai5	(又)li4	lai5,(異讀)lai6
+劙	劙	lai5	(又)li4	lai5,lei4
 力	力	lik6		lik6
+勸	劝	hyun3		hyun3
+辦	办	baan6		baan6
 功	功	gung1		gung1
 加	加	gaa1		gaa1
+務	务	mu6		mou6
 劣	劣	(習)lit6	(書)lyut6	lyut3
+動	动	dung6		dung6
 助	助	zo6		zo6
 努	努	nu5		nou5
 劫	劫	gip3		gip3
 劬	劬	kyu4		keoi4
-劾	劾	hat6		hat6
+勵	励	lai6		lai6
 勁	劲	ging3「幹勁」,ging6「好勁，好厲害」		ging6
+勞	劳	lu4		lou4；慰勞又讀lou6
+劾	劾	hat6		hat6
+勢	势	sai3		sai3
 勃	勃	but6		but6
 勇	勇	jung5		jung5
 勉	勉	min5		min5
+勛	勋	fan1	(白)wan1	fan1
+勳	勋	fan1	(白)wan1	fan1
 勒	勒	lak6		lak6
-動	动	dung6		dung6
 勗	勗	juk1		juk1
 勘	勘	ham3		ham3；(又)ham1
-務	务	mu6		mou6
-勛	勋	fan1	(白)wan1	fan1
-勝	胜	sing3		1)sing3:聖地 2)sing1:勝任
-勞	劳	lu4		lou4；慰勞又讀lou6
+勩	勚	ji6	(又)jai6,(語)het6「器物磨損」	jai6,ji6
 募	募	mu6		mou6
-勢	势	sai3		sai3
 勤	勤	kan4		kan4
-勥	犟	goeng6「固執，又作犟字」		goeng6
-勦	勦	ziu2		caau1,ziu2,caau4
-勩	勚	ji6	(又)jai6,(語)het6「器物磨損」	jai6,(異讀)ji6
-勳	勋	fan1	(白)wan1	fan1
-勵	励	lai6		lai6
-勸	劝	hyun3		hyun3
-勺	勺	soek6	(又)sek6	(異讀)soek3,zoek3
-勻	匀	wan4		wan4
+勦	勦	ziu2		ziu2
+勺	勺	soek6	(又)sek6	zoek3
 勾	勾	(白)ngau1	(文)gau1	ngau1；(古)寫作句
 勿	勿	mat6		mat6
+勻	匀	wan4		wan4
 包	包	(白)beu1	(文)baau1	baau1
 匆	匆	cung1		cung1
+怱	匆	cung1		cung1
 匈	匈	hung1		hung1
 匍	匍	pu4		pou4
 匏	匏	paau4	(白)peu4	paau4
@@ -526,71 +594,103 @@
 匡	匡	kwaang1	(又)kong1	hong1
 匣	匣	haap6	(又)gaap3	haap6
 匪	匪	fi2		fei2
-匯	汇	wui6		wui6
 匱	匮	gwai6		gwai6
 匹	匹	pat1		pat1
+區	区	kyu1「區域」,au1「姓」		1)keoi1:區別 2)au1:姓區
+醫	医	ji1		ji1
 匾	匾	(白)ben2	(文)bin2	bin2
 匿	匿	nik6		nik1
-區	区	kyu1「區域」,au1「姓」		1)keoi1:區別 2)au1:姓區
 十	十	sap6		sap6
 千	千	cin1		cin1
+韆	千	cin1		cin1
 卅	卅	saa1		saa1
 升	升	sing1		sing1
+昇	升	sing1		sing1
 午	午	ng5		ng5
 卉	卉	wai2		wai2
 半	半	bun3		bun3
+華	华	waa4		1)waa4:中華 2)waa6:華山，姓華；(古)同花
+協	协	hip3		hip3；(又)hip6
 卑	卑	bi1		bei1
 卒	卒	zat1	(又)zyut1	zeot1；(古)同猝cyut3
 卓	卓	zoek3	(又)zok3	coek3
-協	协	hip3		hip3；(又)hip6
+單	单	daan1「單獨」,sin6「姓」		1)daan1:單純 2)sin6:姓單；(古人名)sim4單于
+賣	卖	maai6		maai6
 南	南	naam4		naam4
 博	博	bok3		bok3
 卜	卜	buk1	(常)puk1	buk1
+蔔	卜	baak6		baak6
 卞	卞	bin6		bin6
+佔	占	zim3		zim3
 占	占	zim1「占卜」,zim3「同佔字」		zim1
 卡	卡	kaa1		1)kaa1:關卡 2)kaat1:資料卡
+盧	卢	lu4		lou4
+滷	卤	lu5		lou5
+鹵	卤	lu5		lou5
 卦	卦	gwaa3		gwaa3
 卧	卧	ngo6		ngo6
+臥	卧	ngo6		ngo6
+衛	卫	wai6		wai6
+衞	卫	wai6		wai6
 卮	卮	zi1		zi1
 卯	卯	maau5		mau5；(又)maau5
 印	印	jan3		jan3
 危	危	ngai4		ngai4
 即	即	zik1		zik1
+卽	即	zik1		zik1
+卻	却	koek3		koek3
 卵	卵	lyun2		leon2
 卷	卷	gyun2		gyun2
+捲	卷	gyun2		gyun2
 卸	卸	sle3		se3
-卹	恤	slat1	(老派)slyut1	seot1
-卻	却	koek3		koek3
-卽	即	zik1		zik1
+巹	卺	gan2		gan2
 卿	卿	hing1		hing1
-厂	厂	hon3「山邊可住人之巖洞」,cong2「同廠字」	(又)hon2	am1,(異讀)ngam1,hon3,(異讀)hon2,cong2,ngon6,ho1
+厂	厂	hon3「山石之崖」,cong2「同廠字」		hon3,cong2
+廠	厂	cong2		cong2
 厄	厄	ak1	(又)ngak1	aak1
+廳	厅	teng1		teng1
+曆	历	lik6		lik6
+歷	历	lik6		lik6
+厲	厉	li6「厲害，原作利害」,lai6「嚴厲」		lai6
+壓	压	aat3	(又)aap3	aat3
+厭	厌	jim3		jim3
 厔	厔	zat6「同庢字」	(語)zat1「塞、瓶塞，又作庢字」	zat6
+厠	厕	ci3	(老派)cy3,(又)cak1	ci3
+廁	厕	ci3	(老派)cy3,(又)cak1	ci3
 厘	厘	li4	(白)li1「一～子，一分錢」	lei4
+釐	厘	li4	(白)li1「一～子，一分錢」	1)lei4:釐定 2)hei1:恭賀新釐
 厚	厚	hau5		hau5
 原	原	jyun4		jyun4
-厠	厕	ci3	(老派)cy3,(又)cak1	ci3
-厥	厥	kyut3		kyut3
-厭	厌	jim3		jim3
-厲	厉	li6「厲害，原作利害」,lai6「嚴厲」		lai6
+廂	厢	sloeng1		soeng1
 厴	厣	jim2		jim2
+厥	厥	kyut3		kyut3
+廈	厦	haa6		haa6
+廚	厨	cyu4		cyu4；(語)ceoi4
+廝	厮	si1	(老派)sy1	si1
 去	去	hyu3		heoi3
 厾	厾	duk1「戳，刺，捅」		duk1
+縣	县	jyun6		jyun6；(古)同懸jyun4
 叁	叁	slaam1		saam1
 參	参	caam1「參加」,sam1「人參」,cam1「參差」		1)caam1:參加 2)sam1:參商 3)cam1:參差
+蔘	参	sam1		saam1,saam2,sam1
 叄	叄	slaam1		saam1
 又	又	jau6		jau6
 叉	叉	caa1		caa1
 及	及	gap6		kap6
 友	友	jau5		jau5
+雙	双	soeng1		soeng1
 反	反	faan2		faan2
+發	发	faat3		faat3
+髮	发	faat3		faat3
 叔	叔	suk1		suk1
 取	取	cyu2		ceoi2
 受	受	sau6		sau6
+變	变	bin3		bin3
+敘	叙	zyu6		zeoi6
 叚	叚	gaa2		gaa2
 叛	叛	pun3		bun6
 叟	叟	slau2		sau2
-叢	丛	cung4		cung4
+疊	叠	dip6		dip6
 口	口	hau2		hau2
 古	古	gu2		gu2
 句	句	gyu3		geoi3；同勾字
@@ -598,71 +698,102 @@
 叨	叨	du1「嘮叨」,tu1「叨光」		1)tou1:叨光 2)dou1:叨嘮
 叩	叩	kau3		kau3
 只	只	zi2		zi2
+隻	只	zek3	(又)zik3	zek3
 叫	叫	giu3		giu3
 召	召	ziu6		ziu6；(古人名)siu6召公
 叭	叭	baa1		baa1
 叮	叮	ding1		ding1
 可	可	ho2		ho2；(古)hak1可汗
 台	台	toi4		toi4
+檯	台	toi4		toi4
+臺	台	toi4		toi4
+颱	台	toi4		toi4
 叱	叱	cik1		cik1
 史	史	sai2	(書)si2	si2
 右	右	jau6		jau6
 叵	叵	po2		po2
 叶	叶	hip3「叶韻」		hip6,hip3
+葉	叶	jip6		jip6
+號	号	hu6「號碼」,hu4「呼號，號叫，又作嚎字」		1)hou6:國號 2)hou4:呼號
 司	司	si1	(老派)sy1	si1
-叻	叻	lek1		(異讀)lak6,lek1,lik1
+嘆	叹	taan3		taan3
+歎	叹	taan3		taan3
+叻	叻	lek1「聰明、能幹」		lak6,lek1
 叼	叼	diu1		diu1
+嘰	叽	gi1		gei1
 吁	吁	hyu1		heoi1
+籲	吁	jyu6		jyu6
 吃	吃	hek3	(白)jaak3,(又)hat1,(又)hik1	hek3
+喫	吃	(白)jaak3	(文)hek3,(又)hat1,(又)hik1	jaak3,hek3
 各	各	gok3		gok3
 吆	吆	jiu1「吆喝」	(語)eu1「叫，喊」	jiu1
 合	合	hap6		hap6；gap3容量單位
+閤	合	hap6「同闔字」,gok3「同閣字」,gap3「大門旁的小門；姓」		hap6；通閣
 吉	吉	gat1		gat1
 吊	吊	diu3		diu3
+弔	吊	diu3		diu3
 吋	吋	cyun3		cyun3
 同	同	tung4		tung4
+衕	同	tung4「衚衕」,dung6「腹瀉」		dung6,tung4
 名	名	ming4「名聲」	(白)meng4「人名」	ming4
 后	后	hau6		hau6
+後	后	hau6		hau6
 吏	吏	li6		lei6
 吐	吐	tu3		tou3
 向	向	hoeng3		hoeng3
-吒	咤	caak1「叱吒」,zaa1「哪吒」		1)zaa1:木吒 2)caak1:叱吒風雲
+嚮	向	hoeng3		hoeng3
+曏	向	hoeng3		hoeng3
+嚇	吓	haak3		haak3
 吔	吔	jaa1「語氣詞」		jaa1
+呂	吕	lyu5		leoi5
+嗎	吗	maa1		maa1
 吙	吙	hoe1「呼氣聲」	(又)fo2,(語)fo4「擬聲詞，～～聲，火旺貌」	fo2
 君	君	gwan1		gwan1
 吝	吝	lan6	(老派)lyun6	leon6
 吞	吞	tan1		tan1
 吟	吟	jam4	(白)ngam4「吟沉，嘮叨」	jam4
 吠	吠	fai6		fai6
+唚	吣	cam3		cam3
 否	否	fau2「否定」,pi2「否極泰來」		1)fau2:可否 2)pei2:臧否
 吧	吧	baa1「酒吧」,baa6「助詞」		baa6
 吨	吨	dan1		deon1
+噸	吨	dan1		deon1
 吩	吩	fan1		fan1
-吪	吪	ngo4	(語)faa4「詞綴，水流吪吪」	faa4,ngo4
+吪	吪	ngo4	(語)faa4「詞綴，水流～～」	faa4,ngo4
 含	含	ham4	(又)haam4	ham4
-听	听	jan5「形容笑的樣子」,(白)teng1「同聽字，聽見」,ting3「同聽字，聽其自然」	(文)ting1「同聽字，聽見」	jan5,ting3,ting1,(異讀)teng1
+听	听	jan5「形容笑的樣子」,(白)teng1「同聽字，聽見」,ting3「同聽字，聽其自然」	(文)ting1「同聽字，聽見」	jan5,ting3,ting1,teng1
+聽	听	(白)teng1「聽見」,ting3「聽任，聽其自然」	(文)ting1	1)ting1:聽見 2)ting3:聽其自然
 吭	吭	hong4「引吭高歌」,hang1「不吭聲」		1)hong4:引吭 2)hang1:不吭聲
 吮	吮	san5	(老派)syun5	syun5
+啓	启	kai2		kai2
+啟	启	kai2		kai2
 吱	吱	zi1		zi1
 吳	吴	ng4		ng4
 吵	吵	caau2	(白)ceu2	caau2
-吶	呐	naap6	(又)nat6	naap6；(又)nat6,neot6
 吸	吸	kap1		kap1
 吹	吹	cui1		ceoi1
 吻	吻	man5		man5
 吼	吼	hau2		haau1；(又)hau3
-吽	吽	ngau6「吽哣dau6，古板，難溝通」,hau2「同吼字」	(又)hung1「佛教六字真言之一」	(異讀)hau1,hung1,hau2,ngau6
+吽	吽	ngau6「～哣dau6，古板，難溝通」,hung1「佛教六字真言之一」,hau2「同吼字」		hung1,hau2,ngau6
 吾	吾	ng4		ng4
 呀	呀	aa1	(又)jaa1	1)aa1:嘆詞 2)aa3:助詞
-呂	吕	lyu5		leoi5
 呃	呃	ak1「打～，打嗝」	(語)ngak1「欺騙，也作眲字」	aak1
 呆	呆	daai1「書呆子」,ngoi4「呆板」	(又)ngaai4「呆板」	1)ngoi4:呆板 2)daai1:通獃,書獃子
+獃	呆	daai1「書獃子」,ngoi4「獃板」	(又)ngaai4「獃板」	ngoi4
 呈	呈	cing4		cing4
 告	告	gu3		gou3；忠告又讀guk1
 呎	呎	cek3		cek3
-呔	呔	taai1		taai1,toi2
+吶	呐	naap6	(又)nat6	naap6；(又)nat6,neot6
+囈	呓	ngai6		ngai6
+呔	呔	(外)taai1「車～，英語tyre音譯」		taai1,toi2
+嘔	呕	au2		au2
+唄	呗	be6「語氣助詞」,baai6「梵音」	(又)baa6	baa6,baai6,be6
+員	员	jyun4		jyun4；1)(古人名)wan4 2)wan6姓員
+嗆	呛	coeng3「油煙嗆人」,coeng1「吃飯嗆著」		1)coeng1:吃嗆 2)coeng3:煙嗆嗓子
+嗚	呜	wu1		wu1
 呢	呢	ni4「呢絨，呢喃」,ne1「助詞」	(又)ni1「細呢呢，小貌」	1)nei4:呢喃 2)ne1:助詞
 周	周	zau1		zau1
+週	周	zau1		zau1
 呯	呯	ping4	(又)peng4	ping4
 呱	呱	gwaa1「頂呱呱」,gu1「呱呱墜地」		gwaa1
 味	味	mi6		mei6
@@ -680,17 +811,22 @@
 咋	咋	zaa3		zaa3
 和	和	wo4		1)wo4:和氣 2)wo6:和詩
 咎	咎	gau3		gau3
+詠	咏	wing5		wing6
 咐	咐	fu3		fu3；本讀fu6
-咑	咑	daak1	(又)daa1	(異讀)daa1,daak1
+咑	咑	daak1「嘞laak1～，窩囊，不整潔」	(又)daa1	daa1,daak1
 咒	咒	zau3		zau3
 咔	咔	kaa4「阻塞；擬聲詞」,kaa1「擬聲詞」		kaa4,kaa1
 咕	咕	gu1		gu1
 咖	咖	gaa3	(又)kaa1	gaa3
 咗	咗	zo2「助词，表示完成」		zo2
+嚨	咙	lung4		lung4
 咚	咚	dung1		dung1
+嚀	咛	ning4		ning4
+吒	咤	caak1「叱吒」,zaa1「哪吒」		1)zaa1:木吒 2)caak1:叱吒風雲
 咦	咦	ji2		ji2；本讀ji4
 咧	咧	lit6「咧嘴」,le1「大大咧咧」		lit6
 咨	咨	zi1	(老派)zy1	zi1
+諮	咨	zi1	(老派)zy1	zi1
 咩	咩	me1		me1
 咪	咪	mi1「貓咪」,mai1「話筒」		mei1；(又)mai1
 咫	咫	zi2		zi2
@@ -699,19 +835,30 @@
 咱	咱	zaa1		zaa1
 咳	咳	kat1		1)kat1:咳嗽 2)haai4:嘆詞
 咸	咸	haam4「咸陽，老少咸宜」	(白)hem4「同鹹字」	haam4
+鹹	咸	(白)hem4	(文)haam4	haam4
 咻	咻	jau1		jau1
 咽	咽	jin3「咽氣」,jin1「咽喉」,jit3「硬咽」		1)jin1:咽頭 2)jin3:虎咽 3)jit3:硬咽
-咿	咿	ji1		ji1
+嚥	咽	jin3		jin3
+咿	咿	ji1「～㕭jaau1，不認真」		ji1
 哀	哀	oi1		oi1
 品	品	pan2		ban2
 哂	哂	can2「哂笑」	(語)slaai3「助詞，又作嗮字」	can2
 哄	哄	hung6「起哄」,hung2「哄騙」,hung1「亂哄哄」		1)hung1:哄堂大笑 2)hung3:哄騙
+鬨	哄	hung6「起鬨」		1)hung3:鬨騙 2)hung1:鬨堂大笑
 哇	哇	waa1		waa1
 哈	哈	haa1	(語)he1「笑哈哈」	haa1
 哉	哉	zoi1		zoi1
 哋	哋	di6「我哋，我們」		dei6,dei2
+響	响	hoeng2		hoeng2
 哎	哎	aai1	(又)ai1	aai1
-員	员	jyun4		jyun4；1)(古人名)wan4 2)wan6姓員
+啞	哑	aa2「啞巴」		1)aa2:聾啞 2)aa1:咿啞
+噠	哒	daat3	(又)daat6	daat6
+嗶	哔	bat1		bat1
+噦	哕	jyut3「乾嘔」,wai3「噦噦」	(語)we6「語氣詞」,(語)we2「嘔吐」,(語)oet6「嘔吐聲」	wai3,jyut6
+嘩	哗	waa1「同譁字」,waa4「嘆詞」		1)waa1:同譁 2)waa4:象聲詞
+譁	哗	waa1		waa1
+噥	哝	nung4		nung4
+喲	哟	jo1		jo1
 哣	哣	dau6「吽哣，古板」		dau6
 哥	哥	go1		go1
 哦	哦	o4「表示應允」,o2「表示驚奇」,ngo4「吟哦」		1)ngo4:吟哦 2)o2:嘆詞 3)o6:嘆詞
@@ -723,17 +870,19 @@
 哲	哲	zit3		zit3
 哺	哺	pu2	(又)bu6	bou6
 哼	哼	hang1「哼唱」,hng6「感嘆詞」		1)hang1:哼歌 2)hng6:感嘆詞
-哽	哽	ang2「鞋～腳，鞋硌腳」,kang2「骨～在喉，又作鯁/骾字」	(又)gang2「骨～在喉」	gang2
+哽	哽	ang2「鞋～腳，鞋硌腳」,gang2「骨～在喉，又作鯁/骾字」	(習)kang2「骨～在喉」	gang2
 唁	唁	jin6		jin6
-唄	呗	baai6	(又)bui6,(語)be6	(異讀)baa6,baai6,bui6
 唆	唆	slo1		so1
 唇	唇	san4	(老派)syun4	seon4
+脣	唇	san4	(老派)syun4	seon4
 唉	唉	aai1「唉聲嘆氣」,aai6「嘆詞」		aai1
 唎	唎	li6	(又)li1	lei6,li1
 唐	唐	tong4		tong4
 唔	唔	m4「否定詞」		ng4；(語)m4否定義
-唚	吣	cam3		cam3
+嘜	唛	(外)mak1「商標，牌號，英語mark音譯」		mak1
 唞	唞	tau2「休息，本字敨/㪗」		tau2
+嘮	唠	lu4		lou4
+喚	唤	wun6		wun6
 唥	唥	laang6「冚𠾴～，全部」,laang1「擬聲詞，鈴聲」		laang6,laang1
 唧	唧	zik1		zik1
 唬	唬	fu2		fu2；同嚇
@@ -742,74 +891,67 @@
 唱	唱	coeng3		coeng3
 唳	唳	lui6		leoi6
 唷	唷	jo1		jo1
-唸	念	nim6		nim6
 唾	唾	to3		to3；(又)toe3
 啁	啁	zaau1	(白)zeu1	zau1
 啃	啃	hang2	(又)kang2,(又)kan2	hang2
 啄	啄	doek3	(白)doeng1	doek3
 商	商	soeng1		soeng1
 啊	啊	aa1「表示驚訝」,aa2「表示疑問」,aa3「表示讚歎」,aa4「表示惋惜」		1)aa1:歎詞，表示讚嘆驚異 2)aa2:歎詞，表示追問驚疑 3)aa3:歎詞，表示應諾驚歎
-問	问	man6		man6
-啓	启	kai2		kai2
 啕	啕	tu4		tou4
 啖	啖	daam6		daam6
 啜	啜	zyut3「喝；啜泣」,cui3「姓」		zyut3
-啞	哑	aa2「啞巴」		1)aa2:聾啞 2)aa1:咿啞
-啟	启	kai2		kai2
 啡	啡	fe1	(又)fi1	fe1；(又)fei1
 啣	啣	haam4		haam4
 啤	啤	be1		be1
 啥	啥	saa2		saa2
 啦	啦	laa1		laa1
+嘖	啧	zaak3		zaak3；嘖有煩言又讀zik1
 啪	啪	paak1		paak1
+嗇	啬	sik1		sik1
+囀	啭	zyun2		zyun2
+囉	啰	lo1「囉嗦」,lo4「嘍囉」,lo3「助詞」		1)lo1:囉唆 2)lo4:嘍囉 3)lo3:助詞
 啱	啱	ngaam1「剛，恰好；合適」		ngaam1
 啲	啲	di1「一些，一點」	(又)dit1	dit1,di1
-啷	啷	long1		long1,(異讀)long4
+啷	啷	long1「噹啷」		long1
+嘯	啸	sliu3		siu3
 啹	啹	goe1「～屎窟，撅屁股，又作撅字；～嘴，噘嘴，又作噘字」	(又)koe1	goe1,koe1
 啻	啻	ci3		ci3
 啼	啼	tai4		tai4
 啾	啾	zau1		zau1
 喀	喀	haak3「喀山」,kaa1「喀嚓」		haak3
 喂	喂	wai3		wai3
+餵	喂	wai3		wai3
 喃	喃	(白)naam1「喃經」	(文)naam4「呢喃」	naam4
 善	善	sin6		sin6
 喇	喇	laa3「喇叭」,laa1「喇嘛」		1)laa3:喇叭 2)laa1:喇嘛
 喉	喉	hau4		hau4
 喊	喊	(白)hem3	(文)haam3	haam3
 喋	喋	dip6		dip6
-喏	喏	nok6「同諾字」,je5「唱喏」	(又)nok3	je5,nok6
+喏	喏	nok6「同諾字」,je5「唱喏」,no6「嘆詞」		je5,nok6,no6
 喐	喐	juk1「動，本字逳」		juk1
 喔	喔	o1「感歎詞」,ak1「雞啼聲」		1)ak1:喔喔叫 2)o1:歎詞
 喘	喘	cyun2		cyun2
-喚	唤	wun6		wun6
 喜	喜	hi2		hei2
 喝	喝	hot3		hot3
 喟	喟	wai2		wai2
 喧	喧	hyun1		hyun1
-喪	丧	slong3「喪失」,slong1「喪事」		1)song3:喪失 2)song1:喪事
-喫	吃	(白)jaak3	(文)hek3,(又)hat1,(又)hik1	jaak3,hek3
-喬	乔	kiu4		kiu4
-單	单	daan1「單獨」,sin6「姓」		1)daan1:單純 2)sin6:姓單；(古人名)sim4單于
 喱	喱	li1		lei1
-喲	哟	jo1		jo1
 喳	喳	zaa1		1)zaa1:喳喳叫 2)caa1:打渣渣
 喵	喵	miu1		miu1
+噴	喷	pan3		pan3
 喺	喺	hai2「在」		hai2
 喻	喻	jyu6		jyu6
 喼	喼	(白)gep1「～帽，鴨舌帽，英文cap音譯；～紐，按釦；皮夾子，手提箱，又作篋字」	(文)gip1	gip1
-嗄	嗄	haa2		aa2,(異讀)ngaai3,(異讀)aai3,saa3,(異讀)haa2
+嘍	喽	lau4		lau4
+嗄	嗄	aa2「語氣詞」,saa3「嗄啞」	(又)haa2「語氣詞」	aa2,saa3
 嗅	嗅	cau3「嗅覺」	(語)hung3「用鼻聞」	cau3
-嗆	呛	coeng3「油煙嗆人」,coeng1「吃飯嗆著」		1)coeng1:吃嗆 2)coeng3:煙嗆嗓子
-嗇	啬	sik1		sik1
 嗉	嗉	slui3	(又)slyu3	sou3
-嗌	嗌	aai3「喊叫；嗌人，罵人」		aai3,jik1,(異讀)ngaai3
+嗌	嗌	aai3「喊叫；～人，罵人」,jik1「咽喉」		aai3,jik1
 嗍	嗍	sok3「吮吸，又作欶字」		sok3
-嗎	吗	maa1		maa1
 嗑	嗑	hap6		hap6
-嗒	嗒	(白)dep1「小口吃喝」,(白)tep1「剪物聲」	(文)daap1,(文)taap1	daap1,taap3,daat6,(異讀)daap3
+嗒	嗒	(白)dep1「小口吃喝」,(白)tep1「剪物聲」,taap3「嗒然若失」	(文)daap1,(文)taap1	daap1,taap3,daat6
 嗓	嗓	slong2	(又)slong1	song2
 嗗	嗗	gut6「象聲詞，引申作喝」		gut6
-嗚	呜	wu1		wu1
 嗜	嗜	si3		si3
 嗝	嗝	gaak3		gaak3
 嗟	嗟	ze1		ze1
@@ -819,158 +961,148 @@
 嗥	嗥	hu4		hou4
 嗦	嗦	slo1		so1
 嗨	嗨	hoi1	(又)haai1	hoi1
+囁	嗫	(書)zip3	(又)nip6	zip3
 嗮	嗮	slaai3「助詞，也作哂字」		saai3
 嗯	嗯	ng2		ng2
-嗲	嗲	de2	(語)de4「流嗲嗲，滴瀝貌」	de2
-嗶	哔	bat1		bat1
+嗲	嗲	de2	(語)de4「流～～，滴瀝貌」	de2
+噯	嗳	aai1「同哎字」,oi2「嘆詞」		oi2
 嗷	嗷	ngu4		ngou4
 嗽	嗽	slau3		sau3
 嗾	嗾	slau2	(又)zuk6	sau2；(語)zuk6
 嘀	嘀	dik6「嘀咕」,dik1「嘀嗒，又作滴答」		dik6；(又)dik1
 嘅	嘅	ge3「助詞，的」		ge3,ge2
-嘆	叹	taan3		taan3
 嘈	嘈	cu4		cou4
 嘉	嘉	gaa1		gaa1
-嘍	喽	lau4		lau4
-嘎	嘎	gaa4		gaa1,gaa2,gaa4,(異讀)gat1
-嘔	呕	au2		au2
-嘖	啧	zaak3		zaak3；嘖有煩言又讀zik1
-嘗	尝	coeng4	(又)soeng4	soeng4
+嘎	嘎	gaa1「象聲詞」		gaa1
+噓	嘘	hyu1		1)heoi1:噓寒問暖 2)syu4:嘆詞
 嘛	嘛	maa4「喇嘛」,maa3「助詞」		1)maa4:喇嘛 2)maa3:助詞
-嘜	唛	mak1		mak1
 嘞	嘞	laak1「～咑daak1，不修邊幅」,laak3「裂開」,lak1「跳～～，跳動貌；～揢kak1，路不平，說話結巴」,laa3「語氣詞」		laak3,laa1
 嘟	嘟	du1		dou1
 嘢	嘢	je5「東西」		je5
+嚶	嘤	jing1		jing1
 嘥	嘥	slaai1「浪費」		saai1
-嘩	哗	waa1「同譁字」,waa4「嘆詞」		1)waa1:同譁 2)waa4:象聲詞
 嘬	嘬	caai3「咬；吃」,zyut3「吮吸」	(語)zoet1「吻」	caai3,zyut3
-嘮	唠	lu4		lou4
-嘯	啸	sliu3		siu3
-嘰	叽	gi1		gei1
+囑	嘱	zuk1		zuk1
 嘲	嘲	zaau1		zaau1
 嘴	嘴	zui2		zeoi2
 嘶	嘶	si1		si1
 嘹	嘹	liu4		liu4
 嘻	嘻	hi1		hei1
 嘿	嘿	hai1		hei1；默的本字
-噁	恶	ok3「噁心」,wu3「喑噁」		ok3,wu3
 噆	噆	caam2「叼、銜；咬、叮」	(語)cam3「～氣，嘮叨」	caam2,cam3
 噇	噇	cong4		zong6,cong4
 噉	噉	gam2「如此、這樣」,daam6「同啖字」		gam2,daam6
 噍	噍	ziu6「嚼」		ziu6
 噎	噎	jit3		jit3
 噏	噏	kap1「同吸字」,ngap1「亂～，胡說」		kap1,ngap1
-噓	嘘	hyu1		1)heoi1:噓寒問暖 2)syu4:嘆詞
 噗	噗	puk1	(又)pok3	pok3
 噘	噘	kyut3	(語)doe1「～嘴，噘嘴」,(語)goe1「～嘴，噘嘴，又作啹字」	kyut3
 噙	噙	kam4		kam4
-噠	哒	daat3	(又)daat6	daat6
+嚕	噜	lu1		lou1
 噢	噢	u3	(又)o1「同喔字」	ou3；或o1
 噤	噤	gam3		gam3
-噥	哝	nung4		nung4
-噦	哕	jyut3「乾嘔」,wai3「噦噦」	(語)we6「語氣詞」,(語)we2「嘔吐」,(語)oet6「嘔吐聲」	wai3,jyut6
 器	器	hi3		hei3
 噩	噩	ngok6		ngok6
 噪	噪	cu3		cou3
 噫	噫	ji1		ji1
 噬	噬	sai6		sai6
-噯	嗳	aai1「同哎字」,oi2「嘆詞」		oi2
 噱	噱	koek3	(又)kek6	koek3
-噴	喷	pan3		pan3
-噶	噶	gaa1「譯音用字」,got3「象聲詞」	(又)gaat3,(語)got6「噶噶聲，吞咽聲；噶酒，飲酒」	gaa1,(異讀)got3
+噶	噶	gaa1「譯音用字」,got3「象聲詞」		gaa1,got3
 噷	噷	hm1		hm1
-噸	吨	dan1		deon1
-噹	当	dong1		dong1
 噼	噼	pik1「擬聲詞」	(語)pet6「～一槍，打一槍」,(語)pet1「打手～，打手掌」	pik1
-嚀	咛	ning4		ning4
 嚅	嚅	jyu4		jyu4
-嚇	吓	haak3		haak3
 嚎	嚎	hu4		hou4
 嚏	嚏	tai3		tai3
-嚐	尝	coeng4	(又)soeng4	soeng4
 嚓	嚓	caat3		caat3
-嚕	噜	lu1		lou1
-嚜	嚜	maa1「助詞」,mak1「同嘜字」,maak1「商標」,mak6「同默字」		maa1,(異讀)maa3,mak1,mak6,maak1
+嚜	嚜	maa1「助詞」,mak1「同嘜字」,maak1「商標」,mak6「同默字」		maa1,mak1,mak6,maak1
 嚟	嚟	lai4「來」		lai4
-嚥	咽	jin3		jin3
-嚨	咙	lung4		lung4
-嚮	向	hoeng3		hoeng3
-嚴	严	jim4		jim4
-嚶	嘤	jing1		jing1
+囂	嚣	hiu1		hiu1
 嚷	嚷	joeng6		joeng6；(又)joeng5
 嚼	嚼	zoek3		zoek3
 嚾	嚾	fun1「同歡字」		fun1
 嚿	嚿	gau6「量詞，塊、團」		gau6
-囀	啭	zyun2		zyun2
-囁	嗫	(書)zip3	(又)nip6	zip3
-囂	嚣	hiu1		hiu1
-囈	呓	ngai6		ngai6
-囉	啰	lo1「囉嗦」,lo4「嘍囉」,lo3「助詞」		1)lo1:囉唆 2)lo4:嘍囉 3)lo3:助詞
 囊	囊	nong4		nong4
-囌	苏	slu1		sou1
-囑	嘱	zuk1		zuk1
 囚	囚	cau4		cau4
 四	四	sli3		sei3
-囝	囝	zai2	(又)naam4「同囡字」	(異讀)naam4,zai2
+囝	囝	zai2		zai2
 回	回	wui4		wui4
+迴	回	wui4		wui4
 因	因	jan1		jan1
 囡	囡	naam4		naam4
-囤	囤	tan4「囤積」	(白)dan2「大囤滿，小囤流」	tyun4
-囪	囱	cung1	(語)tung1「煙囪，又作煙通」	cung1；(語)tung1:同窗
-困	困	kwan3「困難」	(白)wan3「關，囚禁」	kwan3
-囱	囱	cung1	(語)tung1「煙囱，又作煙通」	cung1；(語)tung1:同窗
-固	固	gu3		gu3
-圃	圃	pu2		pou2
-圈	圈	hyun1「圓圈」,gyun3「圈養」		1)hyun1:圈子 2)gyun6:羊圈
-國	国	gok3		gwok3
-圍	围	wai4		wai4
-園	园	jyun4		jyun4
-圓	圆	jyun4		jyun4
-圖	图	tu4		tou4
 團	团	tyun4		tyun4
-圜	圜	jyun4		waan4,jyun4
+糰	团	tyun4		tyun4
+囤	囤	tan4「囤積」	(白)dan2「大囤滿，小囤流」	tyun4
+園	园	jyun4		jyun4
+困	困	kwan3「困難」	(白)wan3「關，囚禁」	kwan3
+睏	困	(白)han3	(文)kwan3	kwan3
+囪	囱	cung1	(語)tung1「煙囪，又作煙通」	cung1；(語)tung1:同窗
+囱	囱	cung1	(語)tung1「煙囱，又作煙通」	cung1；(語)tung1:同窗
+圍	围	wai4		wai4
+固	固	gu3		gu3
+國	国	gok3		gwok3
+圖	图	tu4		tou4
+圃	圃	pu2		pou2
+圓	圆	jyun4		jyun4
+圈	圈	hyun1「圓圈」,gyun3「圈養」		1)hyun1:圈子 2)gyun6:羊圈
+圜	圜	jyun4「同圓字」,waan4「圍繞」		waan4,jyun4
 土	土	tu2		tou2
-圣	圣	sing3		gaai3,fat1,sing3
+圣	圣	sing3		sing3
+聖	圣	sing3		sing3
 在	在	zoi6		zoi6
-圩	圩	hyu1		wai4,heoi1,(異讀)jyu4
+圩	圩	hyu1「同墟字」,wai4「圩堤，築圩」		wai4,heoi1
 圬	圬	wu1		wu1
 圭	圭	gwai1		gwai1
 圯	圯	ji4		ji4
 地	地	di6		dei6
 圳	圳	zan3		zan3
+壙	圹	kong3		kwong3；(又)kong3
+場	场	coeng4		coeng4
 圾	圾	slaap3		saap3
 址	址	zi2		zi2
 坅	坅	ham2「坑」		jam2,ham2
 均	均	(舊)kwan1	(又)gwan1	gwan1；通韻
-坉	坉	tan4	(又)dan6「同沌字」	nang4,tyun4
+坉	坉	tan4	(又)dan6	nang4,tyun4
 坊	坊	fong1		fong1
 坍	坍	taan1	(又)taam1	taan1
 坎	坎	ham2		ham2
 坏	坏	waai6「同壞字」		1)pui1:同坯字 2)waai6:同壞字
+壞	坏	waai6		waai6
 坐	坐	co5		zo6；(又)co5
 坑	坑	haang1		haang1
+塊	块	faai3	(白)waai3	faai3
+堅	坚	gin1		gin1
+壇	坛	taan4		taan4
+罈	坛	taam4		taam4
+垻	坝	baa3		baa3
+壩	坝	baa3		baa3
+塢	坞	wu1		1)wu2:山塢 2)ou3:船塢
+墳	坟	fan4		fan4
+墜	坠	zui6		zeoi6
 坡	坡	po1		bo1；(又)po1
 坤	坤	kwan1		kwan1
 坦	坦	taan2		taan2
 坩	坩	ham1		ham1
 坪	坪	ping4		ping4
 坯	坯	pui1	(又)pi1	pui1
-坳	坳	(白)eu3	(文)aau3	(異讀)aau1,aau3,(異讀)ngaau1,(異讀)ngaau3
+坳	坳	(白)eu3	(文)aau3	aau3
 坷	坷	ho2		ho2
 坺	坺	(白)bet6「濕～～，濕貌」	(文)baat6	paat6,pet6
 坼	坼	caak3		caak3
 垂	垂	sui4	(又)cui4	seoi4
 垃	垃	laap6		laap6
+壟	垄	lung5		lung5
+壠	垄	lung5「同壟字」		lung5
 型	型	jing4		jing4
-垌	垌	dung6		dung6,tung2,(異讀)tung4
-垕	垕	hau5		hau5,(異讀)hau6
-垛	垛	do3		do2,(異讀)do6
+垌	垌	dung6「田垌；儒垌，廣東地名」,tung4「坰冢，湖北地名」		dung6,tung4
+壘	垒	lui5「堡壘」	(又)lui1「一壘堆，一大堆」	leoi5；leot6神荼鬱壘
+垕	垕	hau5「同厚字」		hau5
+垛	垛	do3		do2
 垠	垠	ngan4		ngan4
 垢	垢	gau3		gau3
 垣	垣	wun4		wun4
+墾	垦	han2		han2
+墊	垫	(訓)dim6「訓讀爲簟」		din3；(又)din6
 垮	垮	kwaa1		kwaa1
-垵	埯	ham2	(又)am2	am1,(異讀)am2
-垻	坝	baa3		baa3
 埂	埂	gang2		gang2
 埃	埃	aai1	(又)oi1	oi1；(又)aai1
 埋	埋	maai4		maai4
@@ -982,78 +1114,60 @@
 埞	埞	deng6「地方」		deng6
 域	域	wik6	(又)jik6	wik6
 埠	埠	fau6「商埠」,bu6「埠頭，又作埗字」		fau6
-埭	埭	dai6	(又)doi6	(異讀)dai6,doi6
+埭	埭	dai6	(又)doi6	dai6
+垵	埯	ham2	(又)am2	am2
 埯	埯	ham2	(又)am2	am2
 埲	埲	bung6「量詞，堵、面、串」		bung6
-執	执	zap1		zap1
 培	培	pui4		pui4
 基	基	gi1		gei1
 埽	埽	slu3		sou3
 堂	堂	tong4		tong4
-堅	坚	gin1		gin1
 堆	堆	dui1		deoi1
+塹	堑	cim3		cim3
+墮	堕	do6		do6
 堡	堡	bu2		bou2
 堤	堤	tai4		tai4
 堪	堪	ham1		ham1
-堯	尧	jiu4		jiu4
 堰	堰	jin3		jin2
-報	报	bu3		bou3
-場	场	coeng4		coeng4
 堵	堵	du2		dou2
-堿	碱	(白)gen2	(文)gaan2	haam4,(異讀)ham3,gaan2
-塊	块	faai3	(白)waai3	faai3
-塋	茔	jing4		jing4
 塌	塌	taap3		taap3
-塍	塍	sing4	(又)sing1	sing4
+塍	塍	sing4		sing4
 塑	塑	slok3	(又)slu3	sou3
 塔	塔	taap3		taap3
-塗	涂	tu4		tou4
 塘	塘	tong4		tong4
-塚	冢	zung2		cung2
 塞	塞	slak1「塞車」,soi3「邊塞」		1)sak1:堵塞 2)coi3:塞外
-塢	坞	wu1		1)wu2:山塢 2)ou3:船塢
 填	填	tin4		tin4
 塱	塱	long5		long5
 塳	塳	pung1「灰塵大」		pung1
-塵	尘	can4		can4
-塹	堑	cim3		cim3
 塾	塾	suk6		suk6
 墀	墀	ci4		ci4
 境	境	ging2		ging2
 墅	墅	syu5	(又)syu6	seoi5；(又)seoi6
-墊	垫	(訓)dim6「訓讀爲簟」		din3；(又)din6
 墓	墓	mu6		mou6
-墜	坠	zui6		zeoi6
+墻	墙	coeng4		coeng4
+牆	墙	coeng4		coeng4
 增	增	zang1		zang1
 墟	墟	hyu1		heoi1
 墨	墨	mak6		mak6
 墩	墩	dan1	(白)dan2	deon1
 墬	墬	di6		dei6
-墮	堕	do6		do6
-墳	坟	fan4		fan4
-墻	墙	coeng4		coeng4
-墾	垦	han2		han2
 壁	壁	bik1		bik1；(語)bek3
 壅	壅	ung1「埋」,jung1「壅肥，壅塞」		jung1；(又)jung2
-壇	坛	taan4		taan4
 壑	壑	kok3		kok3
-壓	压	aat3	(又)aap3	aat3
 壕	壕	hu4		hou4
-壘	垒	lui5「堡壘」	(又)lui1「一壘堆，一大堆」	leoi5；leot6神荼鬱壘
-壙	圹	kong3		kwong3；(又)kong3
-壞	坏	waai6		waai6
-壟	垄	lung5		lung5
-壠	垄	lung5「同壟字」		lung5
 壤	壤	joeng6		joeng6
-壩	坝	baa3		baa3
 士	士	si6	(老派)sy6	si6
 壬	壬	jam4		jam4
 壯	壮	zong3		zong3
-壹	壹	jat1		jat1
+聲	声	(白)seng1	(文)sing1	sing1
+殼	壳	hok3		hok3
 壺	壶	wu4		wu4
-壻	婿	slai3		sai3
-壽	寿	sau6		sau6
+壹	壹	jat1		jat1
+處	处	cyu5「相處」,cyu3「處所」		1)cyu3:住處 2)cyu2:處理
+備	备	bi6		bei6
 复	复	fuk1		fuk6,fuk1
+復	复	fuk1		1)fuk6:復仇 2)fuk1:回復 3)fau6:不復回
+複	复	fuk1		fuk1
 夏	夏	haa6		haa6
 夕	夕	zik6		zik6
 外	外	ngoi6		ngoi6
@@ -1061,63 +1175,71 @@
 多	多	do1		do1
 夜	夜	je6		je6
 夠	够	gau3		gau3
-夢	梦	mung6		mung6
 夤	夤	jan4		jan4
-夥	伙	fo2		fo2
 大	大	daai6	(白)daai2「老大，老人家」	daai6 大哥；(古)同泰
 天	天	tin1		tin1
 太	太	taai3		taai3
 夫	夫	fu1		1)fu1:農夫 2)fu4:悲夫
 夭	夭	jiu1		jiu1
 央	央	joeng1		joeng1
-夯	夯	haang1		haang1,ban6
+夯	夯	haang1		haang1
 失	失	sat1		sat1
+頭	头	tau4		tau4
 夷	夷	ji4		ji4
 夸	夸	kwaa1		kwaa1
+誇	夸	kwaa1		kwaa1
 夾	夹	(白)gep6「鐵夾」	(文)gaap3「夾層」	gaap3
+奪	夺	dyut6		dyut6
 奀	奀	ngan1「瘦小」		ngan1
+奩	奁	lim4		lim4
+奐	奂	wun6		wun6
 奄	奄	jim2「奄然」,jim1「奄奄一息」		1)jim2:奄有四方 2)jim1:奄奄一息；(古)同閹，地名亦讀jim1
 奇	奇	ki4「奇怪」,gi1「奇數」		1)kei4:奇聞 2)gei1:奇數
 奈	奈	noi6		noi6
 奉	奉	fung6		fung6
+奮	奋	fan5	(又)fan3	fan5
 奎	奎	kwai4		fui1
 奏	奏	zau3		zau3
-奐	奂	wun6		wun6
 契	契	kai3		1)kai3:契約 2)kit3:契闊 3)sit3:商的祖先 4)hat1:契丹；契丹又讀kit3、kai2
 奔	奔	ban1		ban1
 奕	奕	jik6		jik6
+獎	奖	zoeng2		zoeng2
 套	套	tu3		tou3
 奘	奘	zong6		zong1；(又)zong6
 奚	奚	kai1	(又)hai4	hai4
 奠	奠	din6		din6
 奢	奢	se1	(又)ce1	ce1
 奧	奥	u3		ou3
-奩	奁	lim4		lim4
-奪	夺	dyut6		dyut6
-奮	奋	fan5	(又)fan3	fan5
 女	女	nyu5		neoi5
 奴	奴	nu4		nou4
 奶	奶	naai5「牛奶」	(白)naai1「阿奶，祖母」	naai5
 奸	奸	gaan1「漢奸」	(白)gen1	gaan1
+姦	奸	gaan1「強姦」	(白)gen1	gaan1
 她	她	taa1		taa1
 好	好	hu3「喜好」,hu2「好壞」		1)hou2:好人 2)hou3:嗜好
 如	如	jyu4		jyu4
 妃	妃	fi1		fei1
 妄	妄	mong6		mong5
+妝	妆	zong1		zong1
+婦	妇	fu5	(白)pu5「心抱，本字新妇」,(又)fu6	fu5
+媽	妈	maa1		maa1
 妊	妊	jam4		jam4
 妍	妍	jin4		jin4
 妒	妒	du6		dou3
+妬	妒	du6		dou3
 妓	妓	gi6		gei6
 妖	妖	jiu1		jiu2；(又)jiu1
 妗	妗	kam5		kam5
 妙	妙	miu6		miu6
-妝	妆	zong1		zong1
 妞	妞	nau2		nau2
 妣	妣	bi2		bei2
 妤	妤	jyu4		jyu4
 妥	妥	to5	(又)to2	to5；(又)to2
 妨	妨	fong4		fong4
-妬	妒	du6		dou3
+嫵	妩	mu5		mou5；(又)mou4
+嫗	妪	jyu2		jyu2
+媯	妫	gwai1		gwai1
+嬀	妫	gwai1		gwai1
 妮	妮	ni4		nei4
 妯	妯	zuk6		zuk6
 妳	妳	ni5		nei5
@@ -1127,18 +1249,18 @@
 姆	姆	mu5		mou5
 姊	姊	zi2	(老派)zy2	zi2
 始	始	ci2		ci2
-姍	姗	saan1		saan1
 姐	姐	ze2	(白)ze1	ze2
 姑	姑	gu1		gu1
 姒	姒	ci5	(老派)cy5	ci5
 姓	姓	sling3		sing3
 委	委	wai2		1)wai2:委屈 2)wai1:虛與委蛇ji4
+姍	姗	saan1		saan1
 姘	姘	ping3	(又)ping1	ping1
 姚	姚	jiu4		jiu4
 姜	姜	goeng1		goeng1
+薑	姜	goeng1		goeng1
 姣	姣	(白)heu4	(文)haau4	gaau2；haau4淫也
 姥	姥	lu5		lou5；mou5年老婦人
-姦	奸	gaan1「強姦」	(白)gen1	gaan1
 姨	姨	ji4	(白)ji1	ji4
 姪	姪	zat6		zat6
 姬	姬	gi1		gei1
@@ -1146,103 +1268,97 @@
 姿	姿	zi1	(老派)zy1	zi1
 威	威	wai1		wai1
 娃	娃	waa1	(白)waa2「阿娃，暱稱小孩」	waa1
+婁	娄	lau4		lau4
+嬌	娇	giu1		giu1
 娌	娌	li5		lei5
 娑	娑	slo1		so1
 娓	娓	mi5		mei5
 娘	娘	noeng4	(白)noeng1「阿孃，母之妹」,(語)neng1「老laau1娘，母親的敘稱」	noeng4
-娛	娱	jyu4		jyu4
+孃	娘	noeng4	(白)noeng1「阿孃，母之妹」,(語)neng1「老laau1孃，母親的敘稱」	noeng4
 娜	娜	naa4「人名」,no4「婀娜」		1)no5:婀娜 2)naa4:人名
 娟	娟	gyun1		gyun1
 娠	娠	san4		san1；(又)zan3
 娣	娣	tai5	(又)dai6	tai5；(又)dai6
 娥	娥	ngo4		ngo4
 娩	娩	min5		min5
+娛	娱	jyu4		jyu4
+媧	娲	wo1		wo1
+嫺	娴	haan4		haan4
+嫻	娴	haan4		haan4
 娶	娶	cyu2	(白)cu2	ceoi2；(又)ceoi3
 娼	娼	coeng1		coeng1
 婀	婀	o1		o2；(又)o1
-婁	娄	lau4		lau4
 婄	婄	pau3「鬆軟，又作䋨字」	(語)bau6「陋婄，不整潔」	pau3
 婆	婆	po4		po4
 婉	婉	jyun2	(又)wun2	jyun2
 婊	婊	biu2		biu2
 婚	婚	(白)wan1	(文)fan1	fan1
 婢	婢	pi5	(又)bi6	pei5
-婦	妇	fu5	(白)pu5「心抱，本字新妇」,(又)fu6	fu5
 婪	婪	laam4		laam4
+嬰	婴	jing1		jing1
+嬋	婵	sim4		sim4
+嬸	婶	sam2		sam2
 婷	婷	ting4		ting4
+壻	婿	slai3		sai3
 婿	婿	slai3		sai3
 媒	媒	mui4		mui4
 媚	媚	mi6		mei6
 媛	媛	jyun4	(又)wun4	wun4或jyun4
-媧	娲	wo1		wo1
 媪	媪	u2		ou2
-媯	妫	gwai1		gwai1
+媼	媪	u2		ou2
 媲	媲	pi3		pei3
 媳	媳	slik1		sik1
-媼	媪	u2		ou2
-媽	妈	maa1		maa1
 媾	媾	gau3	(又)kau3	gau3
 媿	媿	kwai3「同愧字」		kwai3
 嫁	嫁	gaa3		gaa3
 嫂	嫂	slu2		sou2
 嫉	嫉	zat6		zat6
-嫋	袅	niu5		niu1,niu5
 嫌	嫌	jim4	(白)him4	jim4
+嬪	嫔	ban3	(又)pan4	ban3
 嫖	嫖	piu4		piu4
-嫗	妪	jyu2		jyu2
 嫘	嫘	lui4		leoi4
 嫡	嫡	dik1	(又)dik6	dik1
 嫣	嫣	jin1		jin1
 嫦	嫦	coeng4		soeng4
 嫩	嫩	nyun6		nyun6
-嫵	妩	mu5		mou5；(又)mou4
-嫺	娴	haan4		haan4
-嫻	娴	haan4		haan4
-嬀	妫	gwai1		gwai1
-嬉	嬉	hi1		hei1
-嬋	婵	sim4		sim4
-嬌	娇	giu1		giu1
-嬔	嬔	faan3		faan3,fu6
 嬙	嫱	coeng4		coeng4
+嬉	嬉	hi1		hei1
+嬔	嬔	faan3		faan3
 嬝	嬝	niu5		niu5
-嬤	嬷	maa1		maa1
-嬪	嫔	ban3	(又)pan4	ban3
 嬭	嬭	naai5		naai5
-嬰	婴	jing1		jing1
 嬲	嬲	nau1「生氣」,niu5「戲弄」		nau1,niu5
 嬴	嬴	jing4		jing4
-嬸	婶	sam2		sam2
+嬤	嬷	maa1		maa1
 嬾	嬾	laan5		laan5
 孀	孀	soeng1	(又)sloeng1	soeng1
-孃	娘	noeng4	(白)noeng1「阿孃，母之妹」,(語)neng1「老laau1孃，母親的敘稱」	noeng4
 子	子	zi2	(老派)zy2	zi2
 孑	孑	kit3		kit3
 孓	孓	kyut3		kyut3
 孔	孔	hung2	(又)kung2	hung2
 孕	孕	jan6	(老派)jyun6	jan6
-孖	孖	maa1	(白)me1「孖指，六指」	maa1,(異讀)zi1
+孖	孖	maa1	(白)me1「孖指，六指」	maa1
 字	字	zi6	(老派)zy6	zi6
 存	存	cyun4		cyun4
+孫	孙	slyun1		syun1；(古)同遜
 孚	孚	fu1		fu1
 孜	孜	zi1	(老派)zy1	zi1
 孝	孝	haau3		haau3
 孟	孟	maang6	(又)mang6	maang6
 季	季	gwai3		gwai3
 孤	孤	gu1		gu1
+學	学	hok6		hok6
 孩	孩	haai4		haai4
-孫	孙	slyun1		syun1；(古)同遜
+孿	孪	lyun4		lyun4
 孭	孭	me1「背，動詞」		me1
 孰	孰	suk6		suk6
 孱	孱	saan4		saan4；caan3孱頭
 孳	孳	zi1	(老派)zy1	zi1
 孵	孵	fu1		fu1
-學	学	hok6		hok6
 孺	孺	jyu4		jyu4
-孻	𡥧	laai1「最後的」		laai1
 孽	孽	nit6	(又)nip6	jip6；(又)jit6
-孿	孪	lyun4		lyun4
 宁	宁	ning4「同寧字」,cyu5「大門與屏風之間」		ning4,cyu5
-宂	冗	jung2		jung2
+寧	宁	ning4		ning4
+甯	宁	ning6「姓」,ning4「同寧字」		ning4,ning6
 它	它	taa1		taa1
 宅	宅	zaak6		zaak6
 宇	宇	jyu5		jyu5
@@ -1258,18 +1374,26 @@
 定	定	ding6	(白)deng6「地方，又作埞字」	ding6
 宛	宛	wun2	(又)jyun2	jyun2；(古地名)jyun1大宛
 宜	宜	ji4	(又)ni4	ji4
+寶	宝	bu2		bou2
+實	实	sat6		sat6
+寵	宠	cung2		cung2
+審	审	sam2		sam2
 客	客	haak3		haak3
 宣	宣	slyun1		syun1
 室	室	sat1		sat1
 宥	宥	jau6		jau6
 宦	宦	waan6		waan6
+憲	宪	hin3		hin3
 宮	宫	gung1		gung1
 宰	宰	zoi2		zoi2
 害	害	hoi6		hoi6；(古)同曷hot3
 宴	宴	jin3		jin3
 宵	宵	sliu1		siu1
+傢	家	gaa1		gaa1
 家	家	gaa1		gaa1；(古人名)gu1曹大家
 容	容	jung4		jung4
+寬	宽	fun1		fun1
+賓	宾	ban1		ban1
 宿	宿	slau3「星宿」,sluk1「住宿」		1)suk1:住宿 2)sau3:星宿
 寂	寂	zik6		zik6
 寄	寄	gi3		gei3
@@ -1281,124 +1405,123 @@
 寑	寑	cam2		cam2
 寒	寒	hon4		hon4
 寓	寓	jyu6		jyu6
+寢	寝	cam2		cam2
 寞	寞	mok6		mok6
 察	察	caat3		caat3
 寡	寡	gwaa2		gwaa2
-寢	寝	cam2		cam2
 寤	寤	ng6		ng6
 寥	寥	liu4	(語)leu1「空寥寥，空蕩蕩」	liu4
-實	实	sat6		sat6
-寧	宁	ning4		ning4
 寨	寨	zaai6		zaai6
-審	审	sam2		sam2
-寫	写	sle2		se2
-寬	宽	fun1		fun1
 寮	寮	liu4		liu4
 寰	寰	waan4		waan4
-寵	宠	cung2		cung2
-寶	宝	bu2		bou2
 寸	寸	cyun3		cyun3
+對	对	dui3		deoi3
 寺	寺	ci6	(老派)zy6,(又)cy6,(又)zi6	zi6；(語)zi2
+尋	寻	cam4		cam4
+導	导	du6		dou6
+壽	寿	sau6		sau6
 封	封	fung1		fung1
 射	射	se6		1)se6:射擊 2)je6:僕射
 將	将	zoeng3「大將」,zoeng1「將來」		1)zoeng1:將來 2)zoeng3:將領
-專	专	zyun1		zyun1
 尉	尉	wai3「太尉」wat1「尉遲，複姓」		1)wai3:太尉 2)wat1:尉遲
 尊	尊	zyun1		zyun1；同撙zeon1
-尋	寻	cam4		cam4
-對	对	dui3		deoi3
-導	导	du6		dou6
 小	小	sliu2		siu2
 少	少	siu3「少年」,siu2「多少」		1)siu2:多少 2)siu3:老少
 尔	尔	ji5		ji5
+爾	尔	ji5		ji5
 尖	尖	zim1		zim1
+塵	尘	can4		can4
 尚	尚	soeng6「高尚」	(白)soeng2「和尚」	soeng6
+嘗	尝	coeng4	(又)soeng4	soeng4
+嚐	尝	coeng4	(又)soeng4	soeng4
 尤	尤	jau4		jau4
 尥	尥	liu6		liu6
+堯	尧	jiu4		jiu4
 尬	尬	gaai3		gaai3
 就	就	zau6		zau6
 尷	尴	gaam3	(又)gaam1	gaam3；(又)gaam1
 尸	尸	si1		si1
+屍	尸	si1		si1
 尹	尹	wan5		wan5
 尺	尺	cek3		cek3；ce2:樂譜記音符號
-尻	尻	haau1		haau1,(異讀)hou1
+尻	尻	haau1		haau1
 尼	尼	ni4	(又)nai4	nei4
+儘	尽	zan6		1)zeon6:儘量 2)zeon2:儘管
+盡	尽	zan6		zeon6
 尾	尾	mi5		mei5
 尿	尿	niu6		niu6
+侷	局	guk6		guk6
 局	局	guk6		guk6
 屁	屁	pi3		pei3
+層	层	cang4		cang4
 屄	屄	(白)be1「女陰」	(文)bi1	bei1
 居	居	gyu1		geoi1
-屆	届	gaai3		gaai3
 屈	屈	wat1		wat1
+屜	屉	tai3		tai3
+屆	届	gaai3		gaai3
 屋	屋	uk1		uk1
 屌	屌	diu2		diu2
-屍	尸	si1		si1
 屎	屎	si2		si2
 屏	屏	ping4「屏風」,bing2「屏除，屏息」		1)ping4:屏風 2)bing2:屏息;同摒
 屐	屐	(白)kek1	(文)kek6	kek6
 屑	屑	slit3		sit3
 展	展	zin2		zin2
 屘	屘	mi1「末尾」	(語)met1「末尾」	mei1
-屙	屙	o1		o1,(異讀)ngo1
-屜	屉	tai3		tai3
+屙	屙	o1		o1
+屬	属	suk6		1)suk6:家屬 2)zuk1:屬文
 屠	屠	tu4		tou4；(古人名)ceoi4休屠
 屢	屡	lyu5	(又)lui5	leoi5
-層	层	cang4		cang4
 履	履	lyu5	(又)li5	lei5；(又)leoi5
-屬	属	suk6		1)suk6:家屬 2)zuk1:屬文
 屯	屯	tan4	(又)dan6「屯里，地名」	tyun4；同迍zeon1
 山	山	saan1		saan1
 屹	屹	ngat6		ngat6
+嶼	屿	zyu6「島嶼」,jyu4「大嶼山」	(又)jyu5「島嶼」	1)zeoi6:島嶼 2)jyu4:大嶼山
+歲	岁	slui3		seoi3
+豈	岂	hi2		hei2
 岌	岌	(書)kap1「岌岌可危」,(語)ngap6「岌頭，點頭」	(又)ngam1「岌頭，點頭」	kap1
 岐	岐	ki4		kei4
 岑	岑	cam4	(又)kam4	sam4
 岔	岔	caa3	(又)caa1	caa3
-岡	冈	gong1		gong1
+嶇	岖	kyu1		keoi1
+崗	岗	gong1		gong1
+嵐	岚	laam4		laam4
+島	岛	du2		dou2
 岩	岩	ngaam4		ngaam4
+巖	岩	ngaam4		ngaam4
 岫	岫	zau6		zau6
-岭	岭	(白)leng5	(文)ling5	leng5,ling4,ling5
+岭	岭	(白)leng5	(文)ling5	ling5
+嶺	岭	(白)leng5	(文)ling5	ling5
 岱	岱	doi6		doi6
 岳	岳	ngok6		ngok6
+嶽	岳	ngok6		ngok6
 岷	岷	man4		man4
 岸	岸	ngon6		ngon6
 峙	峙	ci5	(又)si6	si6；(又)ci5
+峽	峡	haap6		haap6
+崢	峥	zang1		zang1
+巒	峦	lyun4		lyun4
 峨	峨	ngo4		ngo4
 峪	峪	juk6	(又)jyu6	jyu6；(又)juk6
 峭	峭	ciu3		ciu3
 峯	峰	fung1		fung1
 峰	峰	fung1		fung1
-島	岛	du2		dou2
 峻	峻	zan3		zeon3
-峽	峡	haap6		haap6
 崆	崆	hung1		hung1
 崇	崇	cung4		sung4
 崎	崎	ki1「崎嶇」,ki4「長崎」		1)kei1:崎嶇 2)kei4:長崎
-崑	昆	kwan1		kwan1；(又)gwan1
 崔	崔	cui1		ceoi1
 崖	崖	ngaai4		ngaai4
-崗	岗	gong1		gong1
-崙	仑	lan4		leon4
 崛	崛	gwat6		gwat6
-崢	峥	zang1		zang1
 崧	崧	slung1		sung1
 崩	崩	bang1		bang1
-崽	崽	zoi2	(又)zai2	(異讀)zai2,zoi2
-嵌	嵌	ham3		ham3；(又)ham6
-嵐	岚	laam4		laam4
-嵩	嵩	slung1		sung1
-嵾	㟥	cam1	(又)caam1	caam1,cam1
 嶄	崭	zaam2		zaam2；(又)zaam3
+崽	崽	zoi2	(又)zai2	zoi2
+嵌	嵌	ham3		ham3；(又)ham6
+嵩	嵩	slung1		sung1
 嶅	嶅	ngu4	(語)ngaau4「用力搖動，又作㟼字」	ngou4
-嶇	岖	kyu1		keoi1
 嶝	嶝	dang3		dang3
-嶺	岭	(白)leng5	(文)ling5	ling5
-嶼	屿	zyu6「島嶼」,jyu4「大嶼山」	(又)jyu5「島嶼」	1)zeoi6:島嶼 2)jyu4:大嶼山
-嶽	岳	ngok6		ngok6
-巍	巍	ngai4		ngai4
-巒	峦	lyun4		lyun4
 巔	巅	din1		din1
-巖	岩	ngaam4		ngaam4
+巍	巍	ngai4		ngai4
 川	川	cyun1		cyun1
 州	州	zau1		zau1
 巡	巡	can4	(老派)slyun4,(常)slan4	ceon4
@@ -1407,6 +1530,8 @@
 左	左	zo2		zo2
 巧	巧	kiu2	(白)keu2,(書)haau2「精巧絕倫」	haau2
 巨	巨	gyu6		geoi6
+鉅	巨	gyu6		geoi6
+鞏	巩	gung2	(又)kung2	gung2
 巫	巫	mu1		mou4
 差	差	caa1「差別」,caai1「出差」,ci1「參差」		1)caa1:差異 2)caai1:差遣 3)ci1:參差
 己	己	gi2		gei2
@@ -1414,101 +1539,107 @@
 巳	巳	si6	(老派)sy6	zi6
 巴	巴	baa1		baa1
 巷	巷	hong2	(書)hong6	hong6
-巹	卺	gan2		gan2
 巽	巽	slan3		seon3
 巾	巾	gan1		gan1
+幣	币	bai6	(又)bi6	bai6
 市	市	si5		si5
+佈	布	bu3		bou3
 布	布	bu3		bou3
+帥	帅	sui3		seoi3；同率seot1率領
 帆	帆	faan4		faan4
+師	师	si1	(老派)sy1	si1
 帊	帊	paa3		paa3
 希	希	hi1		hei1
+幃	帏	wai4		wai4
+帳	帐	zoeng3		zoeng3
 帑	帑	tong2		tong2；(古)同孥nou4
 帕	帕	paak3		paak3
 帖	帖	tip3		tip3
 帘	帘	lim4		lim4
+簾	帘	lim4		lim4
 帚	帚	zau2		zaau2
 帛	帛	baak6	(又)bok6,(白)pok3,(白)paak3	baak6
+幟	帜	ci3		ci3
 帝	帝	dai3		dai3
-帥	帅	sui3		seoi3；同率seot1率領
-師	师	si1	(老派)sy1	si1
-席	席	zik6「主席」		zik6
-帳	帐	zoeng3		zoeng3
 帶	带	daai3		daai3
+幀	帧	zing3		zing3
+席	席	zik6「主席」		zik6
+蓆	席	zek6「草蓆」	(又)zik6	zek6；(又)zik6
+幫	帮	bong1		bong1
 帷	帷	wai4		wai4
 常	常	coeng4		soeng4
+幗	帼	gok3		gwok3
 帽	帽	mu6		mou6；(語)mou2
-幀	帧	zing3		zing3
-幃	帏	wai4		wai4
+冪	幂	mik6		mik6
 幅	幅	fuk1		fuk1
 幌	幌	fong2		fong2
 幔	幔	maan6		maan6
 幕	幕	mok6		mok6
-幗	帼	gok3		gwok3
 幛	幛	zoeng3		zoeng3
-幟	帜	ci3		ci3
 幡	幡	faan1		faan1
 幢	幢	cong4「人影幢幢」,zong6「量詞」,tong4「海幢寺」		1)cong4:幡幢 2)zong6:一幢樓 3)tong4:海幢寺
-幣	币	bai6	(又)bi6	bai6
-幫	帮	bong1		bong1
 干	干	gon1		gon1
+幹	干	gon3		gon3
+榦	干	gon3「同幹字」		gon3
 平	平	ping4「平坦」	(白)peng4「便宜」	ping4
 年	年	nin4		nin4
+並	并	bing6「並且」		bing6；(又)bing3
+併	并	bing3「合併」		bing3
 并	并	bing6「同並字」		bing6；(又)bing3 (地名)bing1冰并州
+倖	幸	hang6		hang6
 幸	幸	hang6		hang6
-幹	干	gon3		gon3
 幺	幺	jiu1		jiu1
 幻	幻	waan6		waan6
 幼	幼	jau3		jau3
 幽	幽	jau1		jau1
-幾	几	gi2「幾個」,gi1「幾乎」		1)gei2:幾個 2)gei1:幾乎
-广	广	jim5「依山崖建造的房屋」,gong2「同廣字」	(又)jim2	jim2,gwong2
+广	广	jim5「依山崖建造的房屋」,gong2「同廣字」		jim2,gwong2
+廣	广	gong2		gwong2
 庄	庄	zong1		zong1
+莊	庄	zong1		zong1
+慶	庆	hing3		hing3
 庇	庇	bi3		bei3
 床	床	cong4		cong4
+牀	床	cong4		cong4
 序	序	zyu6		zeoi6
+廬	庐	lu4		lou4
+庫	库	fu3		fu3
+應	应	jing3「答應」,jing1「應當」		1)jing1:應當 2)jing3:答應
 底	底	dai2		dai2
 庖	庖	paau4		paau4
 店	店	dim3		dim3
 庙	庙	miu6		miu6
+廟	庙	miu6		miu6
 庚	庚	gang1	(白)gaang1	gang1
 府	府	fu2		fu2
+龐	庞	paang4		pong4
+廢	废	fai3		fai3
 庠	庠	coeng4		coeng4
 庢	庢	zat6「盩庢，縣名」	(語)zat1「塞、瓶塞，又作厔字」	zat6
 庥	庥	jau1		jau1
 度	度	du6「長度」,dok6「量度」		1)dou6:度量衡 2)dok6:忖度
 座	座	zo6		zo6
-庫	库	fu3		fu3
 庭	庭	ting4		ting4
 庵	庵	am1		am1
+菴	庵	am1		am1
 庶	庶	syu3		syu3
 康	康	hong1		hong1
 庸	庸	jung4		jung4
 庾	庾	jyu4	(又)jyu5	jyu4；(又)jyu5
 庿	庿	miu6		miu6
-廁	厕	ci3	(老派)cy3,(又)cak1	ci3
-廂	厢	sloeng1		soeng1
-廈	厦	haa6		haa6
 廉	廉	lim4		lim4
 廊	廊	long4		long4
 廓	廓	kok3		kwok3；(又)gwok3
-廕	荫	jam3		jam3
 廖	廖	liu6		liu6
-廚	厨	cyu4		cyu4；(語)ceoi4
-廝	厮	si1	(老派)sy1	si1
-廟	庙	miu6		miu6
-廠	厂	cong2		cong2
-廢	废	fai3		fai3
-廣	广	gong2		gwong2
-廧	𪪞	coeng4		coeng4
-廩	廪	lam5	(又)lam2	lam5
-廬	庐	lu4		lou4
-廳	厅	teng1		teng1
+廩	廪	lam5		lam5
 延	延	jin4		jin4
 廷	廷	ting4		ting4
 建	建	gin3		gin3
 廿	廿	(白)jaa6「二十的合讀」	(文)nim6	jaa6；本讀nim6
+開	开	hoi1		hoi1
 弁	弁	bin6		bin6；(古)pun4 小弁
-异	异	ji6		ji4,ji6
+异	异	ji6		ji6
+異	异	ji6		ji6
+棄	弃	hi3		hei3
 弄	弄	nung6「玩弄」,lung6「里弄」		lung6
 弈	弈	jik6		jik6
 弊	弊	(習)bi6「作弊」	(書)bai6「作弊；糟糕，倒楣」	bai6
@@ -1518,121 +1649,135 @@
 式	式	sik1		sik1
 弒	弑	si3		si3
 弓	弓	gung1		gung1
-弔	吊	diu3		diu3
 引	引	jan5		jan5
 弗	弗	fat1		fat1
 弘	弘	hung4	(又)wang4	wang4
 弛	弛	ci4		ci4
 弟	弟	dai6		dai6；(古)同悌tai5
+張	张	zoeng1		zoeng1；(古)zoeng3夕張
+彌	弥	mi4	(又)ni4	nei4；(又)mei4
+瀰	弥	mi4	(又)ni4	nei4；(又)mei4
 弦	弦	jin4		jin4
+絃	弦	jin4		jin4
 弧	弧	wu4		wu4
 弩	弩	nu5		nou5
 弭	弭	mi5	(又)mai5	mai5；(又)mei5
+彎	弯	waan1		waan1
 弱	弱	joek6		joek6
-張	张	zoeng1		zoeng1；(古)zoeng3夕張
+彈	弹	daan6「子彈」,(白)ten4「彈琴」	(文)taan4	1)daan6:彈丸 2)taan4:彈劾；(語)daan2炸彈
 強	强	koeng4「強大」,koeng5「勉強」,goeng6「倔強，又作犟/勥字」	(又)koeng2「勉強」	1)koeng4:強壯 2)koeng5:勉強，倔強；倔強又讀goeng6
 弼	弼	bat6		bat6
 彀	彀	gau3		gau3
-彆	别	bit3		bit6；(又)bit3
-彈	弹	daan6「子彈」,(白)ten4「彈琴」	(文)taan4	1)daan6:彈丸 2)taan4:彈劾；(語)daan2炸彈
 彊	彊	koeng4「同強字，強大」,goeng6「同強字，倔強」,koeng5「同強字，勉強」	(又)koeng2「同強字，勉強」,(又)goeng1「同疆字」	goeng1,koeng4,goeng6,koeng5,(異讀)koeng3
-彌	弥	mi4	(又)ni4	nei4；(又)mei4
-彎	弯	waan1		waan1
+歸	归	gwai1		gwai1
+噹	当	dong1		dong1
+當	当	dong3「典當，當作」,dong1「應當，當時」		1)dong1:當局 2)dong3:妥當；(古)通擋
+錄	录	luk6		luk6
 彗	彗	wai6		seoi6
-彙	汇	wui6	(又)wai6	wai6；(又)wui6,leoi6
 彝	彝	ji4		ji4
 形	形	jing4		jing4
 彤	彤	tung4		tung4
 彥	彦	jin6		jin6
 彩	彩	coi2		coi2
+綵	彩	coi2		coi2
 彪	彪	biu1		biu1
-彫	雕	diu1	(又)tiu1	diu1；(又)tiu1
 彬	彬	ban1		ban1
 彭	彭	paang4		paang4
 彰	彰	zoeng1		zoeng1
 影	影	jing2		jing2
 彷	彷	fong2「彷彿」,pong4「彷徨」		1)fong2:彷彿 2)pong4:彷徨
 役	役	jik6		jik6
+徹	彻	cit3		cit3
 彼	彼	pi2	(又)bi2	bei2
-彿	佛	fat1		fat1
 往	往	wong5		wong5
 征	征	zing1		zing1
+徵	征	zing1「徵求」,zi2「五音之一」		1)zing1:徵求 2)zi2:宮商角徵羽
+徑	径	ging3		ging3
 待	待	doi6		doi6
 徇	徇	san4	(老派)slyun4,(又)slan4	seon1
 很	很	han2		han2
 徊	徊	wui4		wui4
 律	律	lat6	(老派)lyut6	leot6
-後	后	hau6		hau6
 徐	徐	cyu4		ceoi4
-徑	径	ging3		ging3
 徒	徒	tu4		tou4
 得	得	dak1		dak1
 徘	徘	pui4		pui4
 徙	徙	slai2		saai2
-徛	徛	ki5		gei3,(異讀)kei5
-從	从	cung4		1)cung4:服從 2)sung1:從容 3)zung6:主從；(古)zung1 從橫
+徛	徛	ki5		kei5
 御	御	jyu6		jyu6；ngaa6百輛御之
+禦	御	jyu6		jyu6
 徨	徨	wong4		wong4
-復	复	fuk1		1)fuk6:復仇 2)fuk1:回復 3)fau6:不復回
 循	循	can4	(老派)slyun4,(常)slan4	ceon4
 徬	徬	pong4		pong4
 微	微	mi4		mei4
-徵	征	zing1「徵求」,zi2「五音之一」		1)zing1:徵求 2)zi2:宮商角徵羽
 德	德	dak1		dak1
-徹	彻	cit3		cit3
-徼	徼	giu3「邊界；巡察」	(又)hiu1「同僥字」,(又)giu2「同繳字」,(又)jiu1「同邀字」	(異讀)giu1,jiu1,(異讀)giu2,hiu1,giu3
+徼	徼	giu3		giu3
 徽	徽	fui1		fai1
 心	心	slam1		sam1
 必	必	bit1		bit1
+憶	忆	jik1		jik1
 忌	忌	gi6		gei6
 忍	忍	jan5		jan2；(又)jan5
+懺	忏	caam3		caam3
 忐	忐	taan2		taan2
 忑	忑	tak1	(又)tik1	tik1
 忒	忒	tak1	(又)tik1	tik1
 忖	忖	cyun2		cyun2
 志	志	zi3		zi3
+誌	志	zi3		zi3
 忘	忘	mong6		mong4
 忙	忙	mong4		mong4
 忝	忝	tim2		tim2
 忠	忠	zung1		zung1
+憂	忧	jau1		jau1
 快	快	faai3	(白)waai3	faai3
 忱	忱	sam4		sam4
+唸	念	nim6		nim6
 念	念	nim6		nim6
 忻	忻	jan1「同欣字」	(常)ham1,(又)han1	jan1
 忽	忽	fat1		fat1
+愾	忾	koi3		koi3
 忿	忿	fan5「忿恨」	(又)fan6「忿氣，服氣」	fan5
 怀	怀	waai4		waai4
+懷	怀	waai4		waai4
+態	态	taai3		taai3
+慫	怂	slung2		sung2
+慪	怄	au3		au3
+悵	怅	coeng3		coeng3；(又)zoeng3
+愴	怆	cong3		cong3
 怎	怎	zam2		zam2
 怏	怏	joeng2	(又)joeng3	joeng2；(又)joeng3
 怒	怒	nu6		nou6
 怔	怔	zing1		zing1
 怕	怕	paa3		paa3
 怖	怖	bu3		bou3
-怜	怜	lin4		lin4,ling4
+怜	怜	lin4		lin4
+憐	怜	lin4		lin4
 思	思	si1	(老派)sy1	1)si1:思想 2)si3:意思 3)soi1:于思
 怠	怠	doi6		toi5；(又)doi6
 怡	怡	ji4		ji4
 急	急	gap1		gap1
-怦	怦	paang1	(又)ping1	(異讀)paang1,ping1
+怦	怦	ping1		ping1
 性	性	sling3		sing3
 怨	怨	jyun3		jyun3
 怪	怪	gwaai3		gwaai3
 怯	怯	hip3		hip3
-怱	匆	cung1		cung1
 怵	怵	zat1		zeot1
-恁	恁	nam2「思考，俗字諗」	(書)jam6「這，那」	(異讀)jam5,jam6
+總	总	zung2		zung2
+恁	恁	nam2「思考，俗字諗」,jam6「這，那」		jam6
 恃	恃	ci5	(老派)cy5	ci5
-恆	恒	hang4		hang4
+戀	恋	lyun2	(又)lin2	lyun2；(又)lyun5
 恍	恍	fong2		fong2
 恐	恐	hung2	(又)kung2	hung2
-恒	恒	hang4		gang2,hang4
+恆	恒	hang4		hang4
+恒	恒	hang4		hang4
 恕	恕	syu3		syu3
 恖	恖	si1	(老派)sy1	si1
 恙	恙	joeng6		joeng6
 恢	恢	fui1		fui1
 恣	恣	zi3	(老派)zy3	1)zi3:恣意 2)zi1:恣睢
+卹	恤	slat1	(老派)slyut1	seot1
 恤	恤	slat1	(老派)slyut1	seot1
-恥	耻	ci2		ci2
 恨	恨	han6		han6
 恩	恩	an1	(又)ngan1	jan1
 恪	恪	kok3		kok3
@@ -1641,33 +1786,41 @@
 恭	恭	gung1		gung1
 息	息	slik1		sik1
 恰	恰	haap3	(語)hap1「欺負」	hap1
+懇	恳	han2		han2
+噁	恶	ok3「噁心」,wu3「喑噁」		ok3,wu3
+惡	恶	wu3「可惡」,ok3「善惡」		1)ok3:惡霸、惡心 2)wu3:可惡 3)wu1:惡可乎
+慟	恸	dung6 		dung6
+愷	恺	hoi2	(又)koi2	hoi2
+惻	恻	cak1		cak1；(又)caak1
+惱	恼	nu5		nou5
 恿	恿	jung2		jung2
 悄	悄	ciu1		ciu2
-悅	悦	jyut6		jyut6
 悉	悉	slat1	(又)slik1	sik1
 悊	悊	zit3		zit3
 悌	悌	dai6		1)tai5:愷悌 2)dai6:同弟
 悍	悍	hon6		hon5；(又)hon6
-悒	悒	jaap1		jap1
+悒	悒	jap1	(語)jaap1「心悒，心煩」	jap1
 悔	悔	fui2		fui3
 悖	悖	bui6		bui6
 悚	悚	slung2		sung2
 悟	悟	ng6		ng6
 悠	悠	jau4	(又)jau1	jau4
 患	患	waan6		waan6
+悅	悦	jyut6		jyut6
 悦	悦	jyut6		jyut6
 您	您	ni5		nei5
+懸	悬	jyun4		jyun4
+慳	悭	haan1	(又)hen1	haan1
+憫	悯	man5		man5
 悲	悲	bi1		bei1
 悴	悴	cui3		seoi6
-悵	怅	coeng3		coeng3；(又)zoeng3
-悶	闷	mun6		mun6
 悸	悸	gwai3		gwai3
 悻	悻	hang6		hang6
 悼	悼	du6		dou6
-悽	凄	cai1		cai1
 情	情	cing4		cing4
 惆	惆	cau4		cau4
-惊	惊	ging1	(白)geng1	ging1,loeng6
+惊	惊	ging1	(白)geng1	ging1
+驚	惊	ging1	(白)geng1	ging1
 惋	惋	wun2	(又)jyun2	jyun2
 惌	惌	jyun3		jyun3
 惑	惑	waak6		waak6
@@ -1677,121 +1830,95 @@
 惜	惜	slik1	(白)slek3「疼愛」	sik1
 惟	惟	wai4		wai4
 惠	惠	wai6		wai6
-惡	恶	wu3「可惡」,ok3「善惡」		1)ok3:惡霸、惡心 2)wu3:可惡 3)wu1:惡可乎
 惦	惦	dim3		dim3
+懼	惧	gyu6		geoi6
+慘	惨	caam2		caam2
+懲	惩	cing4		cing4
 惪	惪	dak1		dak1
+憊	惫	bi6	(又)baai6	bei6；(又)baai6
+愜	惬	hip3		hip3；(又)hip6
+慚	惭	caam4	(習)caan4	caam4
+憚	惮	daan6		daan6
+慣	惯	(白)gwen3	(文)gwaan3	gwaan3
 惰	惰	do6		do6
-惱	恼	nu5		nou5
 想	想	sloeng2		soeng2
 惴	惴	zui3		zeoi3
 惶	惶	wong4		wong4
 惹	惹	je5		je5
 惺	惺	sling1		sing1
-惻	恻	cak1		cak1；(又)caak1
 愀	愀	ciu2		ciu2
 愁	愁	cau4		sau4
 愈	愈	jyu6		jyu6
+癒	愈	jyu6		jyu6
 愉	愉	jyu4		jyu4
 愎	愎	bik1		bik1
 意	意	ji3		ji3
 愕	愕	ngok6		ngok6
 愚	愚	jyu4		jyu4
-愛	爱	oi3		oi3
-愜	惬	hip3		hip3；(又)hip6
 感	感	gaam2		gam2
 愠	愠	wan3		wan3
+慍	愠	wan3		wan3
 愣	愣	lang4		ling6
+憤	愤	fan5		fan5
 愧	愧	kwai3		kwai3
 愩	愩	gung1「心煩；恐懼」,hung2「心神恍惚」	(語)gung3「鑽，拱出」	gung1,hung2,gung3
-愴	怆	cong3		cong3
-愷	恺	hoi2	(又)koi2	hoi2
-愾	忾	koi3		koi3
 愿	愿	jyun6		jyun6
-慄	栗	lat6	(老派)lyut6	leot6
+願	愿	jyun6		jyun6
 慇	慇	jan1		jan1
 慈	慈	ci4	(老派)cy4	ci4
-態	态	taai3		taai3
 慌	慌	fong1		fong1
-慍	愠	wan3		wan3
 慎	慎	san6		san6
 慕	慕	mu6		mou6
-慘	惨	caam2		caam2
-慚	惭	caam4	(習)caan4	caam4
 慝	慝	tak1	(又)tik1	tik1
-慟	恸	dung6 		dung6
 慢	慢	maan6		maan6
-慣	惯	(白)gwen3	(文)gwaan3	gwaan3
 慧	慧	wai3	(又)wai6	wai6
 慨	慨	koi3		koi3
-慪	怄	au3		au1,(異讀)ngau1,(異讀)au3
-慫	怂	slung2		sung2
-慮	虑	lyu6		leoi6
 慰	慰	wai3		wai3
-慳	悭	haan1	(又)hen1	haan1
 慵	慵	jung4		jung4
-慶	庆	hing3		hing3
 慷	慷	hong2	(又)kong2	hong2；(又)kong2
-慼	戚	cik1		cik1
-慽	戚	cik1		cik1
-慾	欲	juk6		juk6
-憂	忧	jau1		jau1
-憊	惫	bi6	(又)baai6	bei6；(又)baai6
 憋	憋	bit3		bit3
 憎	憎	zang1		zang1
-憐	怜	lin4		lin4
-憑	凭	pang4	(又)bang6「倚靠」	pang4
 憔	憔	ciu4		ciu4
-憚	惮	daan6		daan6
 憠	憠	gyut3		gyut3
-憤	愤	fan5		fan5
 憧	憧	cung1		cung1；(又)tung4
-憨	憨	haam1	(又)haan1	ham1
+憨	憨	haam1		ham1
 憩	憩	hi3		hei3
-憫	悯	man5		man5
 憬	憬	ging2		ging2
-憲	宪	hin3		hin3
-憶	忆	jik1		jik1
 憾	憾	haam6		ham6
 懂	懂	dung2		dung2
-懇	恳	han2		han2
 懈	懈	haai5		haai6
-應	应	jing3「答應」,jing1「應當」		1)jing1:應當 2)jing3:答應
 懊	懊	u3		ou3
-懍	懔	lam5		lam5
-懞	蒙	mung2「同懵字」,mung4「同蒙字，遮蓋」		mung5
 懣	懑	mun6		mun6
-懦	懦	no6		no6
-懲	惩	cing4		cing4
-懵	懵	mung2		mung2；(又)mung5
 懶	懒	laan5		laan5
-懷	怀	waai4		waai4
-懸	悬	jyun4		jyun4
-懺	忏	caam3		caam3
-懼	惧	gyu6		geoi6
+懍	懔	lam5		lam5
+懦	懦	no6		no6
+懵	懵	mung2		mung2；(又)mung5
 懽	懽	fun1「同歡字」		fun1
 懿	懿	ji3		ji3
-戀	恋	lyun2	(又)lin2	lyun2；(又)lyun5
-戇	戆	ngong6「戇居居，傻傻地」,zong3「戇直」	(又)ngong3「戇居居，傻傻地」,(語)ngang1「痴痴戇戇，瘋瘋癲癲」,(語)ngang2「發愣」	(異讀)ngong6,zong3
+戇	戆	ngong6「戇居居，傻傻地」,zong3「戇直」	(語)ngang1「癡癡～～，瘋瘋癲癲」,(語)ngang2「發愣」	ngong6
 戈	戈	go1		gwo1
 戊	戊	mu6		mou6
 戌	戌	slat1		seot1
 戍	戍	syu3		syu3
 戎	戎	jung4		jung4
+戲	戏	hi3		hei3；(古)fu1於戲
 成	成	sing4「成功」	(白)seng4「成日」,(又)cing4「成數，幾成」	sing4
 我	我	ngo5		ngo5
 戒	戒	gaai3		gaai3
 戕	戕	coeng4		coeng4
 或	或	waak6		waak6
+戰	战	zin3		zin3
+慼	戚	cik1		cik1
+慽	戚	cik1		cik1
 戚	戚	cik1		cik1
+鏚	戚	cik1		cik1
 戛	戛	gaat3		aat3；(又)gaat3
 戟	戟	gik1		gik1
 戡	戡	ham1		ham1
 戢	戢	cap1		cap1
-戥	戥	dang2	(又)dang6	dang2,(異讀)dang6
+戥	戥	dang2	(又)dang6	dang2
 截	截	zit6		zit6
 戮	戮	luk6		luk6
-戰	战	zin3		zin3
-戲	戏	hi3		hei3；(古)fu1於戲
 戳	戳	cok3	(又)coek3	coek3；(又)cok3
 戴	戴	daai3		daai3
 戶	户	wu6		wu6
@@ -1806,20 +1933,31 @@
 扉	扉	fi1		fei1
 手	手	sau2		sau2
 才	才	coi4		coi4
+纔	才	coi4		coi4
 扎	扎	zaat3	(又)zaap3「扎馬步」	zaat3
+紮	扎	zaat3	(又)zaap3「紮馬步」	zaat3
 扑	扑	puk1	(又)pok3	pok3
+撲	扑	puk1	(又)pok3	pok3
 扒	扒	paa4「扒手」,(外)paa2「牛扒，牛排，法語主菜一詞音譯」		paa4
 打	打	daa2「打人」,(外)daa1「十二個叫一打，英語dozen譯音」		1)daa2:打人 2)daa1:十二個叫一打
 扔	扔	jing4	(又)wing1	jing4；(語)wing1
 托	托	tok3		tok3
+託	托	tok3		tok3
 扛	扛	kong4「扛槍」,gong1「力能扛鼎」		gong1
 扣	扣	kau3		kau3
+釦	扣	kau3		kau3
 扤	扤	at1「用力塞」,ngaat6「碾壓」	(又)ngat1	ngaat6,ngat1
 扦	扦	cin1		cin1
+執	执	zap1		zap1
+擴	扩	kok3	(又)kong3	kwok3；(又)kong3
+捫	扪	mun4		mun4
+掃	扫	slu3		sou3
+揚	扬	joeng4		joeng4
 扭	扭	nau2		nau2
 扮	扮	baan6		baan6；(又)baan3
 扯	扯	ce2		ce2
 扰	扰	jiu2		jiu2,jiu5
+擾	扰	jiu2		jiu2；(又)jiu5
 扱	扱	kap1「罩，扣，蓋」	(書)caap3「插；挹取」	caap3,kap1
 扲	扲	gam6「同撳字」,ngam4「探取，掏，又作撢字」		gam6,ngam4
 扳	扳	baan2「扳手」,paan1「同攀字」	(白)maan1「扳倒，又作𢺳字」	baan2；通攀
@@ -1827,7 +1965,7 @@
 批	批	pai1		pai1
 扻	扻	ham2「磕，碰」		ham2
 扼	扼	ak1	(又)ngak1	ak1
-扽	扽	dan3「顛簸；猛地往下放，又作蹾字」		(異讀)dan3,dan6,(異讀)deon6
+扽	扽	dan3「顛簸；猛地往下放，又作蹾字」		dan3
 找	找	zaau2	(白)zeu2「找零錢」	zaau2
 承	承	sing4		sing4
 技	技	gi6		gei6
@@ -1835,6 +1973,7 @@
 抆	抆	man2「擦拭」	(白)men2「擦拭」	man5
 抉	抉	kyut3		kyut3
 把	把	baa2「把握」		baa2
+欛	把	baa3「刀～，刀柄」		baa3
 抌	抌	dam2「錘，扔」		dam2
 抑	抑	jik1		jik1
 抒	抒	syu1		syu1
@@ -1843,29 +1982,40 @@
 抖	抖	dau2		dau2
 抗	抗	kong3		kong3
 折	折	zit3「折斷」,sit6「折本」		1)zit3:折磨 2)zip3:存折
+摺	折	zip3「摺疊，存摺」		zip3
+撫	抚	fu2		fu2
+拋	抛	paau1	(白)peu1	paau1
+摳	抠	kau1「挖；搬」		kau1
+掄	抡	lan4	(老派)lyun4	leon4
+搶	抢	coeng2		coeng2
+護	护	wu6		wu6
+報	报	bu3		bou3
 抨	抨	ping1		ping1
 披	披	pi1		pei1
 抬	抬	toi4		toi4
+擡	抬	toi4		toi4
 抱	抱	pu5		pou5
 抵	抵	dai2		dai2
 抹	抹	maat3「抹布，抹乾」	(書)mut3「抹殺，塗抹」	mut3；(語)maat3
-抻	抻	can1「同伸字」		can2
+抻	抻	can2「扯，拉長」	(語)can1「～懶腰，又作伸/胂字」	can2
 押	押	aap3		aat3；畫押又讀aap3
 抽	抽	cau1		cau1
 抿	抿	man5		man5
 拂	拂	fat1	(白)pat1	fat1；(古)同弼
 拃	拃	zaa6「掗ngaa6～，佔地方，霸道」	(語)zaa4「牙～，無事找事」	zaa6,zaa3
 拄	拄	zyu2	(又)cyu5	zyu2
+擔	担	daam3「擔子」,daam1「擔任；叼，本字鵮」		1)daam1:擔水 2)daam3:重擔
 拆	拆	caak3		caak3
 拇	拇	mu5		mou5
 拈	拈	(白)nem1	(文)nim1	nim1
 拉	拉	laai1	(語)laap3「包攬，又作擸字」	laai1
-拋	抛	paau1	(白)peu1	paau1
 拌	拌	bun6		pun3
 拍	拍	paak3		paak3
-拎	拎	ning1	(又)ling1	ling1,(異讀)ning1,(異讀)ling4
+拎	拎	ning1	(書)ling1	ling1
 拏	拏	naa4		naa4
 拐	拐	gwaai2「拐彎；拐棍」	(又)kwaai2「拐棍，又作枴/柺字」	gwaai2
+枴	拐	gwaai2	(又)kwaai2	gwaai2
+柺	拐	gwaai2	(又)kwaai2	gwaai2
 拒	拒	kyu5	(又)gyu6	keoi5
 拓	拓	tok3「拓展」,taap3「拓本，同搨字」		1)tok3:開拓 2)taap3:拓本
 拔	拔	baat6	(白)bet6	bat6
@@ -1876,6 +2026,15 @@
 拚	拚	pun3		pun3
 招	招	ziu1		ziu1
 拜	拜	baai3		baai3
+擬	拟	ni5		ji5
+攏	拢	lung5	(又)lung2	lung5
+揀	拣	(白)gen2	(文)gaan2	gaan2
+拤	拤	kaa1「用兩手掐住」		kaa1
+擁	拥	jung2「擁有」	(白)ung2「推」	jung2
+攔	拦	laan4		laan4
+擰	拧	(白)ning1「擰嘢，拿東西」	(文)ning6「擰轉，扭轉」,(又)ning4「擰毛巾」	ning6；(又)ning4
+撥	拨	but6		but6
+擇	择	zaak6		zaak6
 括	括	gwaat3	(白)gwet3	1)kut3:括號 2)gwaat3:搜括
 拭	拭	sik1		sik1
 拮	拮	git3		git3
@@ -1890,42 +2049,57 @@
 拿	拿	naa4		naa4
 持	持	ci4		ci4
 挂	挂	gwaa3		gwaa3
+掛	挂	gwaa3		gwaa3
 指	指	zi2		zi2
 挈	挈	kit3		kit3
 按	按	on3		on3
-挎	挎	kwaa3		kwaa3,fu1
+挎	挎	kwaa3		kwaa3
 挐	挐	naa4「同拏字」,jyu4「牽引；連續；亂」		naa4,jyu4
 挑	挑	tiu1	(又)tiu2,(語)teu2「用手提」	1)tiu1:挑水，挑戰 2)tou1:挑達
 挖	挖	(白)wet3	(文)waat3	waat3
+摯	挚	zi3		zi3
+攣	挛	lyun1「鑽入；頭髮捲曲」		lyun4
+掗	挜	ngaa6「佔」,aa3「掗賈」		aa3,ngaa6
+撻	挞	taat3		taat3
+挾	挟	haap6「挾持」,(白)gep6「挾菜」	(文)gaap3「挾帶」,(又)hip3「要挾」	hip3；(又)hip6
+撓	挠	naau4	(語)ngaau1「抓撓，又作𢯎字」,(語)ngeu1「抓撓，又作𢯎字」,(語)jaau1「抓撓」	naau4；(又)naau5
+擋	挡	dong2		1)dong2:阻擋 2)dong3:摒擋
+掙	挣	zaang1	(又)zang1	1)zang1:掙扎 2)zaang6:掙錢
+擠	挤	zai1「排擠，擠迫」	(語)zi1「擁擠」	zai1
+揮	挥	(白)wai1	(文)fai1	fai1
 挨	挨	aai1「挨近」,ngaai4「挨打，同捱字」		aai1；同捱
-挩	捝	tyut3「解脫；遺漏」,sui3「擦拭」		seoi3,tyut3
+捱	挨	ngaai4		ngaai4
 挪	挪	no4		no4
 挫	挫	co3		co3
 振	振	zan3		zan3
-挹	挹	jap1		jap1
+挹	挹	jap1「用手指撮」		jap1
 挺	挺	ting2		ting5
 挼	挼	no1「搓，又作捼字」		no4
 挽	挽	waan5	(白)wen5	waan5
-挾	挟	haap6「挾持」,(白)gep6「挾菜」	(文)gaap3「挾帶」,(又)hip3「要挾」	hip3；(又)hip6
+輓	挽	waan5	(白)wen5	waan5
 捂	捂	ng6	(又)wu2	wu2
 捅	捅	tung2	(白)dung2	tung2
 捆	捆	kwan2		kwan2
+綑	捆	kwan2		kwan2
 捉	捉	zok3		zuk1
-捋	捋	lyut6	(又)lyut3	lyut3,(異讀)lyut6
-捍	捍	hon6		(異讀)hon2,(異讀)hon5,hon6
+捋	捋	lyut6	(又)lyut3	lyut3
+捍	捍	hon6		hon6
 捎	捎	saau1	(又)sliu1	saau1
 捏	捏	(白)net6	(文)nip6	nip6
 捐	捐	gyun1		gyun1
 捕	捕	pu2	(又)bu6	bou6
+挩	捝	tyut3「解脫；遺漏」,sui3「擦拭」		seoi3,tyut3
 捝	捝	tyut3「解脫；遺漏」,sui3「擦拭」		seoi3,tyut3
+撈	捞	lu1「攪拌」,(白)leu1「探取」,(白)laau1「撈籬」	(白)leu4,(文)laau4「打撈」	1)laau4:打撈 2)lou1:撈本兒
+損	损	slyun2		syun2
+撿	捡	gim2		gim2
+換	换	wun6		wun6
+搗	捣	du2		dou2
 捧	捧	pung2	(白)bung2	pung2；(又)bung2
-捨	舍	se2		se2
 捩	捩	lai6「琵琶撥法」,lit6「轉捩點」	(語)lai2「睡捩頸，落枕，又作戾字」	lit6
-捫	扪	mun4		mun4
 捭	捭	baai2		baai2
 据	据	gyu3「同據字」,gyu1「拮据」		geoi1,geoi3
-捱	挨	ngaai4		ngaai4
-捲	卷	gyun2		gyun2
+據	据	gyu3		geoi3
 捵	捵	dim2「掙扎」,can2「拉長，扯平」	(書)din2「掙扎」	can2,din2
 捶	捶	cui4		ceoi4
 捷	捷	zit6		zit6
@@ -1935,24 +2109,18 @@
 捼	捼	no1「搓，又作挼字」		no4
 掀	掀	hin1		hin1
 掂	掂	dim1「掂量」	(語)dim3「碰」,(語)dim6「妥當；直」	dim1
-掃	扫	slu3		sou3
-掄	抡	lan4	(老派)lyun4	leon4
-掇	掇	dyut3	(又)cyut3,(又)zyut3	zyut3
+掇	掇	zyut3	(又)dyut3	zyut3
 授	授	sau6		sau6
-掉	掉	diu6	(白)deu6「丟棄，又作丟字」	diu6
+掉	掉	diu6	(白)deu6「丟棄」	diu6
 掌	掌	zoeng2		zoeng2
 掏	掏	tu4		tou4
 掐	掐	haap3		haap3
 排	排	paai4		paai4
 掖	掖	jik6		jik6
-掗	挜	ngaa6「佔」,aa3「掗賈」		aa3,ngaa6
 掘	掘	gwat6		gwat6
-掙	挣	zaang1	(又)zang1	1)zang1:掙扎 2)zaang6:掙錢
-掛	挂	gwaa3		gwaa3
 掝	掝	waak6	(語)fit1「抽打」,(語)fik1「甩」,(語)fak1「甩」,(語)wak6「揮動」	waak6,kwik1
 掟	掟	deng3「擲，扔」		deng3
 掠	掠	loek6		loek6
-採	采	coi2		coi2
 探	探	taam3	(語)tam3「探落衫袋，放進衣袋」	taam3
 掣	掣	zai3	(又)cit3	zai3；風馳電掣又讀cit3
 接	接	zip3		zip3
@@ -1962,12 +2130,17 @@
 措	措	co3		cou3
 掫	掫	cau1	(白)jau1,(又)zau1	zau1
 掬	掬	guk1		guk1
-掭	掭	tim2「掭筆」		(異讀)tim5,tim3
+掭	掭	tim2「掭筆」		tim3
 掮	掮	kin4		kin4
 掯	掯	kang3「菸、酒味道濃烈；有本事、有能耐」		kang3
-掰	掰	baai1	(又)mik1,(又)maak3「同擘字」	baai1,(異讀)baai2,(異讀)mak3
+掰	掰	baai1	(又)maak3「同擘字」,(又)mik1「同擘字」	baai1
+擄	掳	lu5		lou5
+摑	掴	gwaak3	(又)gok3	gwaak3
+擲	掷	zaak6	(又)zik1,(語)zaai6	zaak6
+撣	掸	daan2		daan6,sin6
 掹	掹	mang1「拉，扯」		mang1,mang3
-揀	拣	(白)gen2	(文)gaan2	gaan2
+摻	掺	cam1		caam1,saam1,cam1
+摜	掼	gwaan3	(白)gwen3	gwaan3
 揆	揆	kwai4	(又)kwai5	kwai4；(又)kwai5
 揇	揇	naam5		naam5
 揈	揈	gwang1「驅趕」,fang4「甩，扔」	(又)kwang1「驅趕」,(又)fing6「甩，又作捹字」	fang4,gwang1
@@ -1978,8 +2151,6 @@
 插	插	(白)cep3	(文)caap3	caap3
 揖	揖	jap1		jap1
 揗	揗	tan4「發抖；來回走動」		tan4
-揚	扬	joeng4		joeng4
-換	换	wun6		wun6
 揞	揞	am2「用手捂」		am2
 握	握	ak1	(又)ngak1	ak1
 揢	揢	kak1「嘞lak1～，路不平，說話結巴」,haak3「以手把着」		kik1,kaa1
@@ -1989,32 +2160,37 @@
 揪	揪	zau1		zau1
 揫	揫	zau1		zau1
 揭	揭	kit3		kit3
-揮	挥	(白)wai1	(文)fai1	fai1
 揰	揰	cung3		cung3
 援	援	jyun4	(又)wun4	wun4或jyun4
 揵	揵	kin4「掮扛」,gin6「同楗字」		gin6,kin4
 揸	揸	zaa1「拿，又作抓字」	(白)jaa1	zaa1
+摣	揸	zaa1「同揸字」	(白)jaa1	zaa1
 揹	揹	bui3「揹黑鍋」		bui3
 揼	揼	dam1「磨蹭」,dam2「落水聲；扔，又作抌字」		dam2,dam1
+攬	揽	laam2		laam5
 揾	揾	wan2「找」		wan3,wan2
+搵	揾	wan2「找」		wan3,wan2
+撳	揿	gam6		gam6
+攙	搀	caam1	(又)caam4「刺入，又作鑱/劖字」,(白)cem4「刺入，又作鑱/劖字」	caam1
+擱	搁	(習)kok3		gok3
+摟	搂	lau2「摟抱」,lau1「邀請；挑逗；搜刮；披；（蒼蠅等）趴」		lau5
+攪	搅	(白)geu2	(文)gaau2,(語)gaau6「摎laau2攪，胡搞」	gaau2
 搉	搉	kok3「敲」		kok3
 搊	搊	cau1	(白)jau1	cau1
-搋	搋	caai1		caai1,(異讀)ci2
-損	损	slyun2		syun2
+搋	搋	caai1「搋麪」		caai1
 搏	搏	bok3		bok3
 搓	搓	co1		co1
 搔	搔	slu1		sou1
-搕	搕	ap1「捂，敷，又作罯字」,hap6「敲擊；取」		ap1,hap6
-搖	摇	jiu4		jiu4
-搗	捣	du2		dou2
+搕	搕	ap1「捂、敷，又作罯字」,hap6「敲擊；取」		ap1,hap6
 搚	搚	laap3	(又)hip3	lap6,hip6
-搛	搛	gim1		gim1,lim4
+搛	搛	gim1		gim1
 搜	搜	slau2「搜查」		sau2；(又)sau1
+蒐	搜	slau1「蒐集」		sau2；(又)sau1
 搞	搞	gaau2		gaau2
 搡	搡	slong2		song2
 搣	搣	mit1「撕、掰」		mit1
 搤	搤	ak1「同扼字」	(又)ngak1	ak1,ngak1
-搦	搦	nik1		(異讀)nok6,nik1
+搦	搦	nik1「拿」		nik1
 搧	搧	sin1		sin3
 搨	搨	taap3「搨本，又作拓字」		taap3
 搩	搩	kit3	(語)gat6「抬，扛，本字揭，又作𢷒字」	kit3
@@ -2023,38 +2199,32 @@
 搭	搭	daap3		daap3
 搯	搯	tu1「掏，挖取」		tou1
 搲	搲	(白)we2「撓，抓」	(文)waa2	waa2,we2
-搴	搴	hin1	(又)kin2「揭開，又作㨴字」	hin1,(異讀)gin2
-搵	揾	wan2「找」		wan3,wan2
-搶	抢	coeng2		coeng2
+搴	搴	hin1	(語)kin2「揭開，又作㨴字」	hin1
+攜	携	kwai4		kwai4
 搽	搽	caa4		caa4
 搾	搾	zaa3		zaa3
 摀	摀	ng6	(又)wu2	wu2
+攝	摄	sip3		sip3
+擺	摆	baai2		baai2
+襬	摆	baai2		baai2
+搖	摇	jiu4		jiu4
+攤	摊	taan1		taan1
 摎	摎	gau1「摎蓼」,lau4「姓」	(語)laau2「摎攪gaau6，胡搞」	gau1,lau4
-摑	掴	gwaak3	(又)gok3	gwaak3
 摒	摒	bing3		bing3
 摔	摔	slat1	(又)soi1	seot1
 摘	摘	zaak6		zaak6
-摜	掼	gwaan3		gwaan3
-摞	摞	lo3		lo4,(異讀)lo3
-摟	搂	lau2「摟抱」,lau1「邀請；挑逗；搜刮；披；（蒼蠅等）趴」		lau5
-摣	揸	zaa1「同揸字」	(白)jaa1	zaa1
+摞	摞	lo3		lo3
 摧	摧	cui1		ceoi1
 摩	摩	mo1		mo1
-摯	挚	zi3		zi3
 摱	摱	maan1「攀爬，扶，又作攀字」		maan1
-摳	抠	kau1		kau1
 摸	摸	mo1「撫摸」,mok3「約摸，又作約莫」		mo2；同摹；摸棱同模棱
 摹	摹	mo1「摹仿，又作模仿」,mo4「臨摹」		mou4
-摺	折	zip3「摺疊，存摺」		zip3
-摻	掺	cam1		caam1,saam1,cam3,saam2
 摼	摼	hang1「敲打」		hang1
 撅	撅	kyut3	(語)goe1「～屎窟，撅屁股，又作啹字」	kyut3
 撇	撇	pit3		pit3
-撈	捞	lu1「攪拌」,(白)leu1「探取」,(白)laau1「撈籬」	(白)leu4,(文)laau4「打撈」	1)laau4:打撈 2)lou1:撈本兒
-撉	撉	dan1「突然用力扯、放，又作撴字」	(又)dan3	(異讀)dan3,deon1
+撉	撉	dan1「突然用力扯、放，又作撴字」	(又)dan3	dan3,deon1
 撐	撑	caang1		caang1
 撒	撒	slaat3		saat3
-撓	挠	naau4	(語)ngaau1「抓撓，又作𢯎字」,(語)ngeu1「抓撓，又作𢯎字」,(語)jaau1「抓撓」	naau4；(又)naau5
 撕	撕	si1	(老派)sy1	si1
 撘	撘	daap3「同搭字」	(語)dap6「捶打，又作𢱕字」	daap3
 撙	撙	zyun2		zyun2
@@ -2062,83 +2232,49 @@
 撜	撜	zing2		caang4,cing2
 撞	撞	zong6		zong6
 撢	撢	daan2「同撣字」,ngam4「探取，掏，又作扲字」,taam3「同探字」		daan6
-撣	掸	daan2		daan6,sin6
 撤	撤	cit3		cit3
-撥	拨	but6		but6
 撦	撦	ce2		ce2
 撩	撩	liu4	(白)leu1,(語)leu2「捲起」	liu4
-撫	抚	fu2		fu2
 撬	撬	(白)geu6	(文)giu6,(又)keu3	giu6
 播	播	bo3		bo3
 撮	撮	zyut3	(又)cyut3	cyut3
 撰	撰	zyun6		zaan6
-撲	扑	puk1	(又)pok3	pok3
-撳	揿	gam6		gam6
 撴	撴	dan1「突然用力扯、放，又作撉字」	(又)dan3	deon1
-撻	挞	taat3		taat3
+攆	撵	nen2		lin5
 撼	撼	haam6		ham6
-撿	捡	gim2		gim2
 擀	擀	gon2		gon2
-擁	拥	jung2「擁有」	(白)ung2「推」	jung2
 擂	擂	lui4		leoi4
 擃	擃	nong2「同攮字」	(語)nung2「捅、推，又作攮/搑字」	nong5
-擄	掳	lu5		lou5
 擅	擅	sin6		sin6
-擇	择	zaak6		zaak6
 擉	擉	cok3		cok3,zuk1,cuk1
-擊	击	gik1		gik1
-擋	挡	dong2		1)dong2:阻擋 2)dong3:摒擋
 操	操	cu1		1)cou1:操戈 2)cou3:操守
 擎	擎	king4		king4
 擒	擒	kam4		kam4
-擓	㧟	kwaai5「舀，又作㨤字」		kwaai5
-擔	担	daam3「擔子」,daam1「擔任；叼，本字鵮」		1)daam1:擔水 2)daam3:重擔
 擖	擖	gaat3「刮聲；斬斷」,jip6「箕舌」,kaat3「刮；撻」		gaat3,kaat3,jip6
 擘	擘	maak3	(又)mik1	maak3
-據	据	gyu3		geoi3
-擠	挤	zai1「排擠，擠迫」	(語)zi1「擁擠」	zai1
-擡	抬	toi4		toi4
+擻	擞	slau2		sau2
 擢	擢	zok6		zok6
 擤	擤	slang3		sang3
 擦	擦	caat3		caat3
 擩	擩	jyu5		jyu5
 擪	擪	(白)jep3「～衫袖，捲起衣袖，又作擫字」	(文)jip3	jip3
-擫	𢬍	(白)jep3「～衫袖，捲起衣袖，又作擪字」	(文)jip3	jip3
-擬	拟	ni5		ji5
-擰	拧	(白)ning1「擰嘢，拿東西」	(文)ning6「擰轉，扭轉」,(又)ning4「擰毛巾」	ning6；(又)ning4
-擱	搁	(習)kok3		gok3
-擲	掷	zaak6	(又)zik1,(語)zaai6	zaak6
 擳	擳	zit1「擠；胳肢」	(白)zet1	zit3
-擴	扩	kok3	(又)kong3	kwok3；(又)kong3
 擸	擸	laap3「攬取，收攏」		laap3
-擺	摆	baai2		baai2
-擻	擞	slau2		sau2
-擾	扰	jiu2		jiu2；(又)jiu5
-擿	擿	zaak6		zek3,zaak6,tik1
+擿	擿	zaak6「同擲字」,tik1「挑出；揭露」		zaak6,tik1
 攀	攀	paan1	(白)maan1「攀爬，扶，又作摱字」	paan1
 攃	攃	caat3「摩擦」,saat3「同撒字」		caat3,saat3
-攆	撵	nen2		lin5
 攋	攋	laai6「～尿，尿褲子」	(又)laai5	laai6
-攏	拢	lung5	(又)lung2	lung5
-攔	拦	laan4		laan4
-攘	攘	joeng6		1)joeng4:攘除 2)joeng6:擾攘
-攙	搀	caam1	(又)caam4「刺入，又作鑱/劖字」,(白)cem4「刺入，又作鑱/劖字」	caam1
-攜	携	kwai4		kwai4
-攝	摄	sip3		sip3
-攞	攞	lo2「拿，取」		lo2
 攢	攒	zan2「攢錢，積攢」,cyun4「攢聚，人頭攢動」	(又)zaan2「攢錢，積攢」	zaan2,cyun4
-攣	挛	lyun1「鑽入；頭髮捲曲」		lyun4
-攤	摊	taan1		taan1
+攘	攘	joeng6		1)joeng4:攘除 2)joeng6:擾攘
+攞	攞	lo2「拿，取」		lo2
 攩	攩	dong2「同擋字」		dong2
-攪	搅	(白)geu2	(文)gaau2,(語)gaau6「摎laau2攪，胡搞」	gaau2
 攫	攫	kok3		fok3
-攬	揽	laam2		laam5
 攮	攮	nong2	(語)nung2「捅、推，又作擃/搑字」	nong5
 支	支	zi1		zi1
 攰	攰	gui6「累，又作癐/䠩字」		gui6
 收	收	sau1		sau1
 攷	攷	haau2「同考字」		haau2
-攸	攸	jau1	(又)jau4	jau4
+攸	攸	jau4	(又)jau1	jau4
 改	改	goi2		goi2
 攻	攻	gung1		gung1
 放	放	fong3		fong3
@@ -2147,15 +2283,15 @@
 故	故	gu3		gu3
 敆	敆	gap3「佮份，湊份子，又作佮字」		gap3
 效	效	haau6		haau6
+敵	敌	dik6		dik6
 敍	敍	zyu6		zeoi6
 敏	敏	man5		man5
 救	救	gau3		gau3
-敓	敚	dyut6		dyut6
 敖	敖	ngu4		ngou4
-敗	败	baai6		baai6
-敘	叙	zyu6		zeoi6
 教	教	(白)geu3	(文)gaau3	gaau3
+敓	敚	dyut6		dyut6
 敚	敚	dyut6		dyut6
+斂	敛	lim2	(又)lim6	lim5；(又)lim6
 敝	敝	(習)bi6	(書)bai6	bai6
 敞	敞	cong2		cong2
 敢	敢	gaam2		gam2
@@ -2163,35 +2299,33 @@
 敦	敦	dan1		deon1
 敨	敨	tau2「休息，又作敨字」		dau2
 敬	敬	ging3		ging3
+數	数	su3「數目，名詞」,su2「數一數，動詞」		1)sou3:數目 2)sou2:數算 3)sok3:數見不鮮
 敲	敲	haau1	(白)heu1	haau1
 整	整	zing2		zing2
-敵	敌	dik6		dik6
 敶	敶	zan6		zan6
 敷	敷	fu1		fu1
-數	数	su3「數目，名詞」,su2「數一數，動詞」		1)sou3:數目 2)sou2:數算 3)sok3:數見不鮮
 敺	敺	kyu1		keoi1
-斂	敛	lim2	(又)lim6	lim5；(又)lim6
-斃	毙	(習)bi6	(書)bai6	bai6
 文	文	man4「文化」	(語)man1「一文銀」	man4；文過飾非又讀man6
+齋	斋	zaai1		zaai1
 斐	斐	fi2		fei2
 斑	斑	baan1		baan1
 斗	斗	dau2		dau2；同鬥，斗爭
+鬥	斗	dau3		dau3
 料	料	liu6「預料」	(白)liu2「材料」	liu6
-斛	斛	huk6		(異讀)fuk6,huk6
+斛	斛	huk6		huk6
 斜	斜	ce4	(語)sle4「乜me4斜，醉態」	ce4
 斟	斟	zam1		zam1
 斡	斡	waat3		waat3；(少數民族名)wo1達斡爾
 斤	斤	gan1		gan1
 斥	斥	cik1		cik1
 斧	斧	fu2		fu2
-斫	斫	doek3	(又)doek1,(書)zoek3	zoek3
 斬	斩	(白)zem2	(文)zaam2	zaam2
+斫	斫	doek3	(又)doek1,(書)zoek3	zoek3
+斲	斫	doek3	(又)doek1	doek3
+斷	断	(白)tyun5「折斷」,dyun3「斷估，推測」	(文)dyun6「判斷」	1)dyun6:斷絕 2)dyun3:判斷；(語)tyun5折斷
 斯	斯	si1	(老派)sy1	si1
 新	新	slan1		san1
-斲	斫	doek3	(又)doek1	doek3,(異讀)zoek3
-斷	断	(白)tyun5「折斷」,dyun3「斷估，推測」	(文)dyun6「判斷」	1)dyun6:斷絕 2)dyun3:判斷；(語)tyun5折斷
 方	方	fong1		fong1
-於	于	jyu1		jyu1；(古)wu1於戲
 施	施	si1		si1；(古)ji6義於子孫
 旁	旁	pong4		pong4；(古)同傍bong6
 旅	旅	lyu5		leoi5
@@ -2201,43 +2335,52 @@
 族	族	zuk6		zuk6
 旖	旖	ji2		ji2
 旗	旗	ki4		kei4
+無	无	mu4		mou4
 既	既	gi3		gei3
 日	日	jat6		jat6
 旦	旦	daan3		1)daan3:元旦 2)daan2:花旦
+舊	旧	gau6		gau6
 旨	旨	zi2		zi2
 早	早	zu2		zou2
 旬	旬	can4	(老派)slyun4,(常)slan4,(又)san4	ceon4
 旭	旭	juk1		juk1
-旮	旮	kaa1	(又)kaa3	go1,kaa1
-旯	旯	laa1		lo1,laa1
+旮	旮	kaa1	(又)kaa3	go1
+旯	旯	laa1		lo1
 旱	旱	hon5		hon5
+時	时	si4		si4
+曠	旷	kong3		kwong3；(又)kong3
 旺	旺	wong6		wong6
 昂	昂	ngong4	(又)ngong5	ngong4
+崑	昆	kwan1		kwan1；(又)gwan1
 昆	昆	kwan1		kwan1；(又)gwan1
-昇	升	sing1		sing1
 昋	昋	gwai3「姓」		gwai3
 昌	昌	coeng1		coeng1
 明	明	ming4		ming4
 昏	昏	(白)wan1	(文)fan1	fan1
 易	易	ji6「容易」,jik6「交易」		1)ji6:容易 2)jik6:交易
 昔	昔	slik1		sik1
+曇	昙	taam4		taam4
 星	星	sling1	(白)sleng1	sing1
 映	映	jing2		jing2
 春	春	can1	(老派)cyun1	ceon1
 昧	昧	mui6	(常)mi6	mui6
 昨	昨	zok6	(又)zok3	zok3；(又)zok6
-昫	昫	hyu2	(又)hyu3	heoi2,(異讀)heoi3
+昫	昫	hyu2		heoi2
 昭	昭	ciu1	(又)ziu1	ciu1
 是	是	si6		si6
-昶	昶	cong2		(異讀)coeng3,cong2
-時	时	si4		si4
+昶	昶	cong2		cong2
+晝	昼	zau3		zau3
+顯	显	hin2		hin2
 晃	晃	fong2		fong2
 晉	晋	zan3		zeon3
 晌	晌	hoeng2		hoeng2
 晏	晏	aan3		aan3
 晒	晒	saai3		saai3
+曬	晒	saai3		saai3
+曉	晓	hiu2		hiu2
+暈	晕	wan4「頭暈」,wan1「暈車」,wan6「日暈」		1)wan6:日暈 2)wan4:頭暈
+暉	晖	(白)wai1	(文)fai1	fai1
 晚	晚	maan5		maan5
-晝	昼	zau3		zau3
 晤	晤	ng6		ng6
 晦	晦	fui3	(又)fui2	fui3
 晨	晨	san4		san4
@@ -2249,43 +2392,35 @@
 智	智	zi3		zi3
 晾	晾	long6		long6
 暀	暀	wong5「光；德；是」,wong6「同旺字」		wong5,wong6
+暫	暂	zaam6		zaam6
 暇	暇	haa6		haa6
-暈	晕	wan4「頭暈」,wan1「暈車」,wan6「日暈」		1)wan6:日暈 2)wan4:頭暈
-暉	晖	(白)wai1	(文)fai1	fai1
 暑	暑	syu2		syu2
 暖	暖	nyun5		nyun5
 暗	暗	am3		am3
-暝	暝	ming4		ming4,(異讀)ming5,ming6
-暢	畅	coeng3		coeng3
+闇	暗	am3		am3
+暝	暝	ming4		ming4
+曖	暧	oi3	(又)oi2	oi3；(又)oi2
 暨	暨	ki3		kei3
-暫	暂	zaam6		zaam6
 暮	暮	mu6		mou6
 暴	暴	bu6		1)bou6:暴動 2)buk6:古同曝
 暹	暹	cim3		cim3；(又)cim1
-曆	历	lik6		lik6
-曇	昙	taam4		taam4
-曉	晓	hiu2		hiu2
-曏	向	hoeng3		hoeng3
-曖	暧	oi3	(又)oi2	oi3；(又)oi2
 曙	曙	syu5	(又)cyu5	cyu5；(又)syu5
 曝	曝	buk6	(常)bu6	buk6
-曠	旷	kong3		kwong3；(又)kong3
 曦	曦	hi1		hei1
 曩	曩	nong5		nong5
-曬	晒	saai3		saai3
 曰	曰	jyut6		joek6；(又)jyut6
 曱	曱	gaat6「～甴，蟑螂」		gaat6
 曲	曲	kuk1		kuk1
+麯	曲	kuk1		kuk1
+麴	曲	kuk1		guk1；(又)同麯kuk1
 曳	曳	jai6		jai6
 更	更	gaang1「三更」,gang1「更換」,gang3「更加」		1)gang1:更改 2)gaang1:打更 3)gang3:更好
 曷	曷	hot3		hot3
-書	书	syu1		syu1
 曹	曹	cu4		cou4
 曼	曼	maan6		maan6
 曾	曾	zang1「姓」,cang4「曾經」		1)zang1:曾祖 2)cang4:曾經
 替	替	tai3		tai3
 最	最	zui3		zeoi3
-會	会	wui6「開會，會計」,wui5「不會」		1)wui6:會師，會計 2)wui5:學會了；(古)kui2會稽，會計又讀kui2
 月	月	jyut6		jyut6
 有	有	jau5		jau5；(古)同又
 朋	朋	pang4		pang4
@@ -2297,20 +2432,27 @@
 朝	朝	ziu1「朝早」,ciu4「朝代」		1)ziu1:朝夕 2)ciu4:朝代
 期	期	ki4		1)kei4:期望 2)gei1:期年
 朦	朦	mung4		mung4
-朧	胧	lung4		lung4
 木	木	muk6		muk6
 未	未	mi6		mei6
 末	末	mut6		mut6
 本	本	bun2		bun2
 札	札	zaat3		zaat3
 朮	术	sat6	(老派)slyut6,(又)slat6	seot6
+術	术	sat6	(老派)slyut6,(又)slat6	seot6
 朱	朱	zyu1		zyu1
+硃	朱	zyu1		zyu1
 朴	朴	puk1「朴樹」,piu4「姓」	(又)pok3「朴樹」	pok3；piu4姓朴
+樸	朴	puk1「樸素」	(又)pok3	pok3
 朵	朵	do2	(白)doe2	do2；(語)doe2
-机	机	gi1		gei1,(異讀)gei2
+机	机	gi1		gei1
+機	机	gi1		gei1
 朽	朽	nau2	(又)ngau2	nau2
+殺	杀	saat3		1)saat3:殺敵 2)saai3:蕭殺
+雜	杂	zaap6		zaap6
+權	权	kyun4		kyun4
 杆	杆	gon2		gon1
-杈	杈	caa1		caa1,caa3
+桿	杆	gon2		gon2；同杆
+杈	杈	caa1		caa3
 杉	杉	caam3	(又)saam1	caam3；(又)saam1
 杌	杌	ngat6		ngat6
 李	李	li5		lei5
@@ -2322,18 +2464,27 @@
 杞	杞	gi2		gei2
 束	束	cuk1		cuk1
 杠	杠	gong3		gong1,gong3
+槓	杠	gong3「槓桿」,lung5「衣箱，又作籠字」		1)gong3:木槓 2)gung3:槓杆 3)lung5:樟木槓
+條	条	tiu4		tiu4
+來	来	(白)lai4	(文)loi4	loi4
 杧	杧	mong1		mong1
+楊	杨	joeng4		joeng4
 杭	杭	hong4		hong4
 杯	杯	bui1		bui1
+盃	杯	bui1		bui1
+傑	杰	git6「傑出；（粥）稠」		git6
 杰	杰	git6		git6
-東	东	dung1		dung1
 杳	杳	miu5		miu5；(又)jiu2
 杵	杵	cyu5		cyu5
 杷	杷	paa4		paa4
 松	松	cung4		cung4
+鬆	松	slung1		sung1
 板	板	baan2		baan2
+闆	板	baan2		baan2
 极	极	gik6		kap1,gik6
+極	极	gik6		gik6
 构	构	kau3	(又)gau3	kau3
+構	构	kau3	(又)gau3	kau3；(又)gau3
 枇	枇	pi4		pei4
 枉	枉	wong2		wong2
 析	析	slik1		sik1
@@ -2342,16 +2493,21 @@
 枚	枚	mui4	(又)mui1	mui4
 果	果	go2		gwo2
 枝	枝	zi1		zi1
+樞	枢	syu1	(又)kyu1	syu1
+棗	枣	zu2		zou2
+梘	枧	(白)gen2「肥皂，又作碱字」	(文)gaan2	gaan2
+槍	枪	coeng1		coeng1
+楓	枫	fung1		fung1
+梟	枭	hiu1		hiu1
 枯	枯	fu1	(又)ku1	fu1
 枱	枱	toi4		toi4
-枳	枳	zi2	(又)zat1	zat1,zi2,(異讀)zeot1
-枴	拐	gwaai2	(又)kwaai2	gwaai2
+枳	枳	zi2	(又)zat1	zi2
 枵	枵	hiu1		hiu1
 架	架	gaa3「吵架」,kaa3「架子」		gaa3
 枷	枷	gaa1		gaa1
 枸	枸	gau2		gau2
 柄	柄	(白)beng3	(文)bing3	beng3
-柈	柈	pun4	(又)bun6	bun6
+柈	柈	pun4「同盤字」,bun6「大塊的劈柴」		pun4,bun6
 柏	柏	paak3	(又)baak3	paak3；(又)baak3
 某	某	mau5		mau5
 柑	柑	gam1		gam1
@@ -2360,7 +2516,9 @@
 柔	柔	jau4		jau4
 柚	柚	(白)jau2	(文)jau6	jau2；(又)jau6；zuk6:杼柚
 柜	柜	gwai6「同櫃字」,gyu2「柜柳」		gwai6,geoi2
-柞	柞	zok6		(異讀)zaa3,zaak3,(異讀)zok3,zok6
+櫃	柜	gwai6		gwai6；(木名)geoi2櫃柳
+柞	柞	zok6		zok6
+檸	柠	ning4		ning4
 柤	柤	zaa1「山柤，即山樝」		zaa1
 查	查	caa4「調查」,zaa1「同楂字」		caa4；zaa1姓查
 柩	柩	gau6		gau6
@@ -2369,16 +2527,26 @@
 柱	柱	cyu5		cyu5
 柳	柳	lau5		lau5
 柴	柴	caai4		caai4
-柵	栅	saan1「柵極」,caak3「柵欄」		1)caak3:籬笆柵 2)saan1:柵極
-柺	拐	gwaai2	(又)kwaai2	gwaai2
 柿	柿	sai6		ci2；(又)ci5
+梔	栀	zi1		zi1
+柵	栅	saan1「柵極」,caak3「柵欄」		1)caak3:籬笆柵 2)saan1:柵極
+標	标	biu1		biu1
+棧	栈	(白)zaan2「客棧」	(文)zaan6「棧道」	zaan6
+櫛	栉	zit3		zit3
+棟	栋	dung6		dung3；(又)dung6
+欄	栏	laan4「圍欄」	(白)laan1「豬欄」	laan4
+樹	树	syu6		syu6
 栓	栓	saan1		saan1
-栖	栖	cai1		cai1,(異讀)sai1
+栖	栖	cai1		cai1
+棲	栖	cai1		cai1
+慄	栗	lat6	(老派)lyut6	leot6
 栗	栗	lat6	(老派)lyut6	leot6
 校	校	haau6「學校」,gaau3「校對，上校」		1)haau6:學校 2)gaau3:校對
 栩	栩	hyu2		heoi2
 株	株	zyu1		zyu1
+樣	样	joeng6	(白)joeng2「樣子」	joeng6
 核	核	hat6「審核」,wat6「果核」		hat6；(語)wat6果核義
+覈	核	hat6		hat6
 根	根	gan1		gan1
 格	格	gaak3		gaak3
 栽	栽	zoi1		zoi1
@@ -2386,199 +2554,167 @@
 桀	桀	git6		git6
 桂	桂	gwai3		gwai3
 桃	桃	tu4		tou4
-桄	桄	gong2		gwong1,gwong3,(異讀)kwong3
+桄	桄	gong2		gwong1
 桅	桅	ngai4		wai4
 框	框	kwaang1	(又)kong1	hong1；(又)kwaang1
 案	案	on3		on3
-桉	桉	on1		on1,(異讀)ngon3,(異讀)ngon1,on3
+桉	桉	on1		on1
 桌	桌	zoek3	(又)zok3	coek3；(又)zoek3；同棹zaau6
 桐	桐	tung4		tung4
 桑	桑	slong1		song1
-桓	桓	wun4		wun4
+桓	桓	wun4	(又)waan4	wun4
 桔	桔	gat1		gat1
 桕	桕	kau5	(又)kau3	kau5
+椏	桠	ngaa1	(又)aa1,(白)nge1	aa1
+橈	桡	jiu4「船槳」,naau4「曲折，曲木」		naau4,jiu4
+楨	桢	zing1		zing1
+檔	档	dong3「排檔」,dong2「檔案」		1)dong2:檔案 2)dong3:一檔子事
+橋	桥	kiu4		kiu4
+樺	桦	waa4		waa4；(又)waa6
+檜	桧	kui3	(又)kwai3,(又)kwaai3	kui2
+槳	桨	zoeng2		zoeng2
+樁	桩	zong1		zong1
 桮	桮	bui1		bui1
 桶	桶	tung2		tung2
 桷	桷	gok3		gok3
-桿	杆	gon2		gon2；同杆
 梁	梁	loeng4		loeng4
+樑	梁	loeng4		loeng4
 梃	梃	ting5		ting5
 梅	梅	mui4		mui4
 梆	梆	bong1		bong1
 梓	梓	zi2	(老派)zy2	zi2
-梔	栀	zi1		zi1
 梗	梗	gang2「桔梗」	(白)kwaang2「菜梗」,(白)gwaang2「菜梗」	gang2
-梘	枧	(白)gen2「肥皂，又作碱字」	(文)gaan2	gaan2
-條	条	tiu4		tiu4
-梟	枭	hiu1		hiu1
 梢	梢	saau1	(又)sliu1	saau1
+夢	梦	mung6		mung6
 梧	梧	ng4		ng4
 梨	梨	li4		lei4
 梭	梭	slo1		so1
 梯	梯	tai1		tai1
 械	械	haai6		haai6
-梲	棁	zyut3「梁上的短柱」,tyut3「梲杖」		jeoi6,zyut3,tyut3
 梳	梳	so1		so1
 梵	梵	faan6		faan4；(又)faan6
+檢	检	gim2		gim2
+梲	棁	zyut3「梁上的短柱」,tyut3「梲杖」		zyut3,tyut3
 棁	棁	zyut3「梁上的短柱」,tyut3「棁杖」		zyut3,tyut3
-棄	弃	hi3		hei3
 棉	棉	min4		min4
 棋	棋	ki4		kei4
 棌	棌	coi3		coi3
 棍	棍	gwan3		gwan3
 棒	棒	bong6	(又)pong5,(語)paang5「驅趕，亦可能作（捧/抨/㧸）字」	paang5
 棕	棕	zung1		zung1；同㯶
-棗	枣	zu2		zou2
+椶	棕	zung1		zung1
 棘	棘	gik1		gik1
 棚	棚	paang4		paang4
-棟	栋	dung6		dung3；(又)dung6
 棠	棠	tong4		tong4
 棣	棣	dai6		dai6
-棧	栈	(白)zaan2「客棧」	(文)zaan6「棧道」	zaan6
 棬	棬	hyun1		hyun1
 森	森	sam1		sam1
 棯	棯	nim1「花棯，番棯的音變，番石榴，又作稔/捻字」	(又)nem1「番棯，又作稔/捻字」	nim1
-棰	棰	cui4		ceoi4,(異讀)zeoi1
+棰	棰	cui4		ceoi4
 棱	棱	ling4	(又)lang4,(語)lang5「鞭痕」	ling4
-棲	栖	cai1		cai1
+稜	棱	ling4	(又)lang4,(語)lang5「鞭痕」	ling4
 棵	棵	ko1	(訓)po1「訓讀爲樖」	fo2
 棹	棹	zaau6	(白)zeu6	zaau6
 棺	棺	gun1		gun1
+槨	椁	kok3		gwok3
 椅	椅	ji2		ji2；(木名)ji1
 椉	椉	sing4「同乘字」,sing6「同乘字」		sing6,sing4
 植	植	zik6		zik6
 椎	椎	zui1「椎骨」,cui4「同槌或捶字」	(白)jui1	1)zeoi1:椎骨 2)ceoi4:鐵椎
-椏	桠	ngaa1	(白)nge1	aa1,(異讀)ngaa1
 椒	椒	ziu1		ziu1
 椗	椗	(白)deng3「蒂」	(文)ding3	ding3
+櫝	椟	duk6		duk6
+橢	椭	to2		to5
 椰	椰	je4		je4
 椴	椴	dyun6		dyun6
-椶	棕	zung1		zung1
 椹	椹	sam6「同葚字」,zam1「同砧字」		sam6,zam1
-椽	椽	cyun4	(又)jyun4	cyun4,(異讀)jyun4
+椽	椽	cyun4		cyun4
 椿	椿	can1	(老派)cyun1	ceon1
-楂	楂	zaa1		caa4,zaa1
-楊	杨	joeng4		joeng4
-楓	枫	fung1		fung1
+楂	楂	zaa1		zaa1
 楔	楔	slit3		sit3
 楗	楗	gin6		gin6
 楚	楚	co2		co2
-楝	楝	lin6	(又)lin1,(又)lin2	lin6
+楝	楝	lin6		lin6
 楞	楞	lang4		ling4
 楠	楠	naam4		naam4
 楣	楣	mi4		mei4
-楦	楦	hyun3	(又)hin3	hyun3
-楨	桢	zing1		zing1
+楦	楦	hyun3		hyun3
 楫	楫	zip3		zip3
-業	业	nip6		jip6
-極	极	gik6		gik6
 楷	楷	gaai1「楷樹」,kaai2「楷書」		1)kaai2:楷書 2)gaai1:楷樹
 楹	楹	jing4		jing4
+樓	楼	lau4		lau4
 概	概	koi3		koi3
+欖	榄	laam2		laam2；(又)laam5
 榅	榅	wan1	(又)wat1	wan1,wat1
+榲	榅	wan1	(又)wat1	wan1,wat1
 榆	榆	jyu4		jyu4
+櫚	榈	lyu5		leoi4
 榔	榔	long4		long4
 榕	榕	jung4		jung4
 榛	榛	zan1		zeon1
 榜	榜	bong2		bong2
-榦	干	gon3「同幹字」		gon3
 榧	榧	fi2		fei2
 榨	榨	zaa3		zaa3
 榫	榫	slan2	(老派)slyun2	seon2
 榭	榭	ze6		ze6
-榮	荣	(習)jung4	(書)wing4	wing4
-榲	榅	wan1	(又)wat1	wan1,wat1
 榴	榴	lau4		lau4
 榷	榷	kok3		kok3
 榻	榻	taap3		taap3
 槁	槁	gu2		gou2
 槃	槃	pun4		pun4
-構	构	kau3	(又)gau3	kau3；(又)gau3
 槌	槌	cui4		ceoi4
-槍	枪	coeng1		coeng1
 槐	槐	waai4		waai4
-槓	杠	gong3「槓桿」,lung5「衣箱，又作籠字」		1)gong3:木槓 2)gung3:槓杆 3)lung5:樟木槓
-槨	椁	kok3		gwok3
-槳	桨	zoeng2		zoeng2
+檻	槛	kaam5「門檻」,laam6「欄杆；關野獸的柵欄」		laam6
+檳	槟	ban1		ban1
 槽	槽	cu4		cou4
-樁	桩	zong1		zong1
-樂	乐	lok6「快樂」,ngok6「音樂」,ngaau6「仁者樂山」		1)lok6:快樂 2)ngok6:音樂 3)ngaau6:樂群
 樊	樊	faan4		faan4；(又)faan6
-樑	梁	loeng4		loeng4
-樓	楼	lau4		lau4
 樖	樖	po1「量詞，棵、株」		po1
-樘	樘	tong4	(又)caang1「同撐字」	tong4
-標	标	biu1		biu1
+樘	樘	tong4		tong4
 樝	樝	zaa1「山樝，又作山柤」		zaa1
-樞	枢	syu1	(又)kyu1	syu1
 樟	樟	zoeng1		zoeng1
 模	模	mo1		1)mou4:模型 2)mou2:模子
-樣	样	joeng6	(白)joeng2「樣子」	joeng6
+橫	横	waang4		waang4
+櫻	樱	jing1		jing1
 樵	樵	ciu4		ciu4
-樸	朴	puk1「樸素」	(又)pok3	pok3
-樹	树	syu6		syu6
-樺	桦	waa4		waa4；(又)waa6
 樼	樼	zan1		zeon1
 樽	樽	zan1	(老派)zyun1	zeon1
+罇	樽	zan1	(老派)zyun1	zeon1
 橄	橄	gaam2		gam2
 橇	橇	(白)keu1	(文)kiu1	hiu1；(又)ceoi3
-橈	桡	jiu4		naau4,(異讀)jiu4,naau6,ling4
-橋	桥	kiu4		kiu4
 橕	橕	caang1		caang1
 橘	橘	gat1		gwat1
 橙	橙	caang2		caang2；本讀caang4
-橛	橛	kyut3	(語)gwat6,(語)ket1「斷橛，斷成兩截」	gyut6,(異讀)kyut3
-機	机	gi1		gei1
+橛	橛	kyut3	(語)gwat6,(語)ket1「斷～，斷成兩截」	kyut3
 橡	橡	zoeng6		zoeng6
-橢	椭	to2		to5
-橫	横	waang4		waang4
-檀	檀	taan4		taan4
-檁	檩	lam5		lam5
-檄	檄	hat6		hat6
-檐	檐	jim4	(白)jam4	(異讀)jam4,(異讀)sim4,jim4
-檔	档	dong3「排檔」,dong2「檔案」		1)dong2:檔案 2)dong3:一檔子事
-檗	檗	baak3	(又)paak3	baak3,(異讀)paak3
-檜	桧	kui3	(又)kwai3,(又)kwaai3	kui2
-檢	检	gim2		gim2
-檬	檬	mung1	(又)mung2	mung1；本讀mung4
-檯	台	toi4		toi4
-檳	槟	ban1		ban1
-檸	柠	ning4		ning4
-檻	槛	kaam5「門檻」,laam6「欄杆；關野獸的柵欄」		laam6
-檾	苘	king2	(又)gwing2	gwing2
-櫂	櫂	(白)zeu6	(文)zaau6	zaau6；通桌，棹
-櫃	柜	gwai6		gwai6；(木名)geoi2櫃柳
-櫓	橹	lu5		lou5
-櫚	榈	lyu5		leoi4
-櫛	栉	zit3		zit3
-櫝	椟	duk6		duk6
 櫥	橱	cyu4		cyu4；(語)ceoi4
-櫻	樱	jing1		jing1
-櫼	櫼	cim1	(又)zim1,(又)caam3「同杉字」	cim1,(異讀)zim1
-欄	栏	laan4「圍欄」	(白)laan1「豬欄」	laan4
-權	权	kyun4		kyun4
-欖	榄	laam2		laam2；(又)laam5
-欛	把	baa3「刀～，刀柄」		baa3
+櫓	橹	lu5		lou5
+檀	檀	taan4		taan4
+檄	檄	hat6		hat6
+檐	檐	jim4	(白)jam4	sim4,jim4
+檗	檗	paak3	(又)baak3	baak3,paak3
+檁	檩	lam5		lam5
+檬	檬	mung1	(又)mung2	mung1；本讀mung4
+櫂	櫂	(白)zeu6	(文)zaau6	zaau6；通桌，棹
+櫼	櫼	cim1	(語)zim1「打～，插隊」	cim1,zim1
 欠	欠	him3		him3
 次	次	ci3	(老派)cy3	ci3
+歡	欢	fun1		fun1
 欣	欣	jan1	(常)ham1,(又)han1	jan1
-欬	欬	kat1		haai1,kat1,hoi4,(異讀)koi3
+歟	欤	jyu4		jyu4
+歐	欧	au1		au1
+欬	欬	kat1		kat1
 欱	欱	hap6	(又)hot3,(語)haap3「大口喝，又作呷字」	hot3,hap6
+慾	欲	juk6		juk6
 欲	欲	juk6		juk6
 欶	欶	sok3「吮吸，又作嗍字」		sok3
-欸	欸	aai2「欸乃」,oi1「嘆詞」	(又)e6,(又)e2,(又)ai2	aai2,ei6,(異讀)e6,(異讀)ai2,oi1,(異讀)ngoi2,(異讀)ngoi1,(異讀)oi2
+欸	欸	aai2「欸乃」,oi1「嘆詞」,e6「嘆詞」		aai2,ei3,oi1
 欺	欺	hi1		hei1
-欽	钦	ham1		jam1
 款	款	fun2		fun2
 歇	歇	hit3		hit3
 歉	歉	him3		hip3
 歌	歌	go1		go1
-歎	叹	taan3		taan3
-歐	欧	au1		au1
 歕	歕	pan3「同噴字」		pan3
-歟	欤	jyu4		jyu4
 歠	歠	zyut3「飲、喝；羹湯之類」		zyut3
-歡	欢	fun1		fun1
 止	止	zi2		zi2
 正	正	zing1「正月」,zing3「正式」	(白)zeng3「正宗，地道，正中」	1)zing3:正中 2)zing1:正月
 此	此	ci2	(老派)cy2	ci2
@@ -2586,32 +2722,29 @@
 武	武	mu5		mou5
 歧	歧	ki4		kei4
 歪	歪	waai1	(語)me2	waai1
-歲	岁	slui3		seoi3
-歷	历	lik6		lik6
-歸	归	gwai1		gwai1
 歹	歹	daai2		daai2
 死	死	sli2		sei2；(又)si2
+殲	歼	cim1		cim1
 歿	殁	mut6		mut6
 殃	殃	joeng1		joeng1
 殆	殆	doi6		toi5；(又)doi6
+殤	殇	soeng1		soeng1
 殉	殉	san4	(老派)slyun4,(又)slan4	seon1
 殊	殊	syu4		syu4
+殘	残	caan4		caan4
+殮	殓	lim2	(又)lim6	lim5
 殕	殕	fu2「食上生白毛」,fau2「物敗也」,ak1「殪殕」,baak6「同踣字」		baak6,fu2,fau2,ak1
 殖	殖	zik6		zik6
-殘	残	caan4		caan4
-殤	殇	soeng1		soeng1
-殭	僵	goeng1	(常)koeng1	goeng1
-殮	殓	lim2	(又)lim6	lim5
 殯	殡	ban1	(書)ban3	ban3
-殲	歼	cim1		cim1
+毆	殴	au1		au2
 段	段	dyun6		dyun6
 殷	殷	jan1		jan1；殷紅又讀jin1
-殺	杀	saat3		1)saat3:殺敵 2)saai3:蕭殺
-殼	壳	hok3		hok3
 殿	殿	din6		din6
 毀	毁	wai2		wai2
+燬	毁	wai2		wai2
+譭	毁	wai2		wai2
+轂	毂	guk1		guk1
 毅	毅	ngai6		ngai6
-毆	殴	au1		au2
 毉	毉	ji1「同醫字」		ji1
 毋	毋	mu4		mou4
 母	母	mu5		mou5
@@ -2619,28 +2752,30 @@
 毒	毒	duk6		duk6；(古地名)duk1身毒
 毓	毓	juk1		juk1
 比	比	bi2		1)bei2:比較 2)bei3:比鄰；朋比又讀bei6
+畢	毕	bat1		bat1
 毗	毗	pi4		pei4
+斃	毙	(習)bi6	(書)bai6	bai6
 毛	毛	mu4	(語)mu1「發毛，發黴」	mou4
+氈	毡	zin1		zin1
 毫	毫	hu4		hou4
 毯	毯	taan2		taan2；(又)taam2
 毽	毽	jin2		jin2
-氄	氄	jung2	(又)jung4	jung5
-氈	毡	zin1		zin1
+氄	氄	jung2		jung2
 氊	氊	zin1		zin1
 氏	氏	si6「氏族」,zi1「月氏」		si6；(古民族名)zi1月氏
 氐	氐	dai1「古民族名；二十八宿之一」,dai2「根本」		dai1；根本義讀dai2
 民	民	man4		man4
 氓	氓	mong4「流氓」,man4「百姓」		mong4 或 man4；(古)又讀mang4或maang4
-气	气	hi3「同氣字」	(語)he3「離le4氣，不修邊幅」	hei3
+气	气	hi3「同氣字」	(語)he3「離le4～，不修邊幅」	hei3
+氣	气	hi3「空氣」	(語)he3「離le4氣，不修邊幅」	hei3
 氖	氖	naai5		naai5
 氛	氛	fan1		fan1
 氟	氟	fat1		fat1
-氣	气	hi3「空氣」	(語)he3「離le4氣，不修邊幅」	hei3
+氫	氢	hing1		hing1
 氤	氤	jan1		jan1
 氦	氦	hoi6		hoi6
 氧	氧	joeng5		joeng5
 氨	氨	on1		on1
-氫	氢	hing1		hing1
 氮	氮	daam6		daam6
 氯	氯	luk6		luk6
 氲	氲	wan1		wan1
@@ -2648,29 +2783,31 @@
 水	水	sui2		seoi2
 永	永	wing5		wing5
 氹	氹	tam5「水坑」	(語)tam4「壓；塌下；～～轉，團團轉」	tam5
-氾	泛	faan3		faan3；(古)faan4如氾勝之
 汀	汀	(白)teng1	(文)ting1	ting1
 汁	汁	zap1		zap1
 求	求	kau4		kau4
-汆	汆	cyun1		(異讀)mei6,cyun1
-汎	泛	faan3		faan3
+汆	汆	cyun1		mei6,cyun1
+匯	汇	wui6		wui6
+彙	汇	wui6	(又)wai6	wai6；(又)wui6,leoi6
+漢	汉	hon3		hon3
 汐	汐	zik6		zik6
 汕	汕	saan3		saan3
 汗	汗	hon6		hon6；(古)hon4可汗
-汙	污	wu1		waa1,wu1
 汛	汛	slan3		seon3
 汝	汝	jyu5		jyu5
 汞	汞	gung3	(又)hung3	hung6；(又)hung3
 江	江	gong1		gong1
 池	池	ci4		ci4
+汙	污	wu1		waa1,wu1
 污	污	wu1		wu1
+湯	汤	tong1		tong1；(古)soeng1浩浩湯湯
 汨	汨	mik6		mik6
 汪	汪	wong1		wong1
 汰	汰	taai3		taai3
 汲	汲	kap1		kap1
 汴	汴	bin6		bin6
 汶	汶	man3		man4,man6
-決	决	kyut3		kyut3
+洶	汹	hung1		hung1
 汽	汽	hi3		hei3
 汾	汾	fan4		fan4
 沁	沁	sam3		sam3
@@ -2678,15 +2815,23 @@
 沃	沃	juk1		juk1
 沅	沅	jyun4		jyun4
 沈	沈	sam2「姓」,cam4「沈沒，同沉字」		1)cam4:浮沈 2)sam2:姓沈
-沉	沉	cam4		cam4,zam6
+瀋	沈	sam2		sam2
+沉	沉	cam4	(語)zam6「～水，溺水，又作浸字」	cam4,zam6
 沌	沌	dan6		deon6
 沐	沐	muk6		muk6
-沒	没	mut6		mut6
 沓	沓	daap6		daap6
 沕	沕	mat6	(語)mi3「潷」	mat6
-沖	冲	cung1		cung1
 沙	沙	saa1		saa1
 沛	沛	pui3		pui3
+溝	沟	gau1		kau1
+沒	没	mut6		mut6
+漚	沤	au3		au3
+瀝	沥	lik6		lik6
+淪	沦	lan4	(老派)lyun4	leon4
+滄	沧	cong1		cong1
+溈	沩	gwai1		gwai1
+潙	沩	gwai1		gwai1
+滬	沪	wu6		wu6
 沫	沫	mut6		mut6
 沬	沬	mui6		mui6
 沮	沮	zyu2		zeoi2；(古)zeoi3沮洳；zeoi1沮水
@@ -2699,8 +2844,8 @@
 沽	沽	gu1		gu1
 沾	沾	zim1		zim1
 沿	沿	jyun4	(又)jin4	jyun4
-況	况	kong3		fong3
 泄	泄	slit3		jai6,sit3
+洩	泄	slit3		sit3
 泅	泅	cau4		cau4；(又)jau4
 泉	泉	cyun4		cyun4
 泊	泊	paak3「泊船」	(書)bok6「飄泊，停泊」	bok6；湖泊又讀baak3
@@ -2709,72 +2854,103 @@
 泔	泔	gam1		gam1
 法	法	faat3		faat3
 泗	泗	sli3		si3；(又)sei3
+氾	泛	faan3		faan3；(古)faan4如氾勝之
+汎	泛	faan3		faan3
 泛	泛	faan3		faan3
+濘	泞	ning6		ning6
 泡	泡	paau1「量詞；虛鬆不實」,paau3「浸泡」,pu5「泡沫」	(白)peu1「量詞」,(白)peu3「起泡」	1)paau1:一泡尿，燈泡 2)pou5:泡沫 3)paau3:泡影；泡影又讀pou5
 波	波	bo1		bo1
 泣	泣	jap1	(又)lap1	jap1
 泥	泥	nai4「泥土」,ni6「拘泥」		1)nai4:泥土 2)nei6:拘泥
 注	注	zyu3		zyu3
-泯	泯	man5	(又)min4	man5
+註	注	zyu3		zyu3
+淚	泪	lui6		leoi6
+泯	泯	man5		man5
 泰	泰	taai3		taai3
 泱	泱	joeng1		joeng1
 泳	泳	wing5		wing6
 泵	泵	bam1		bam1
 泹	泹	daan6	(語)daan2「～水，用開水焯」	daan6
+瀉	泻	sle3	(白)sle2「倒瀉，溢出」	se3
+潑	泼	put3		put3
+澤	泽	zaak6		zaak6
+涇	泾	ging1		ging1
 洁	洁	git3		git3
-洇	洇	jan1	(又)jin1	jan1
+潔	洁	git3		git3
+洇	洇	jan1		jan1
 洋	洋	joeng4		joeng4
-洒	洒	slaa2	(又)saa2	saa2,sin2,ceoi1,sai2
+洒	洒	slaa2		saa2
+灑	洒	slaa2	(又)saa2	saa2
 洗	洗	slai2		sai2
 洛	洛	lok3		lok3
 洞	洞	dung6		dung6
 津	津	zan1	(老派)zyun1	zeon1
-洩	泄	slit3		sit3
 洪	洪	hung4		hung4
 洱	洱	ji5		1)nei2:普洱 2)ji5:（地名）洱海
 洲	洲	zau1		zau1
-洶	汹	hung1		hung1
 活	活	wut6		wut6
-洼	洼	waa1		waa1,gwai1
+洼	洼	waa1		waa1
+窪	洼	waa1		waa1
 洽	洽	haap6	(又)hap6	hap1
 派	派	paai3	(語)paai1「夠派，有派頭」	paai3
 洿	洿	wu1		wu1
 流	流	lau4		lau4
+淺	浅	cin2		cin2
+漿	浆	zoeng1		zoeng1
+澆	浇	giu1		giu1
+濁	浊	zuk6		zuk6
+測	测	cak1		cak1；(又)caak1
+濟	济	zai3「經濟」,zai2「濟濟一堂」		1)zai3:救濟 2)zai2:人才濟濟
+瀏	浏	lau4		lau4
+渾	浑	wan4		wan4
+滸	浒	fu2		wu2
+濃	浓	nung4		nung4
 浙	浙	zit3		zit3
 浚	浚	zan3「疏通」,slan3「浚縣」		zeon3；(地名)seon3浚縣
 浜	浜	bong1		bong1,ban1
-浞	浞	zok6		zok6,(異讀)zuk1
-浥	浥	ap1		jap1
+浞	浞	zok6		zok6
+浥	浥	jap1	(語)ap1「～汁，陰暗潮濕，又作罨字」	jap1
 浦	浦	pu2		pou2
 浩	浩	hu6		hou6
 浪	浪	long6		long6；(水名)long4滄浪
 浬	浬	li5		lei5
-浭	浭	gaang3		gaang3,gang1
+浭	浭	gaang3「涉水」	(書)gang1「浭水，河流名」	gaang3,gang1
 浮	浮	fau4	(白)pu4	fau4
 浴	浴	juk6		juk6
 海	海	hoi2		hoi2
-浸	浸	zam3「浸泡」	(又)zam6「浸水，溺水」	zam3
-涂	涂	tu4		ceoi4,tou4
+浸	浸	zam3「浸泡」	(語)zam6「～水，溺水，又作沉字」	zam3
+塗	涂	tu4		tou4
+涂	涂	tu4		tou4
 涅	涅	(白)nit6	(文)nip6	nip6
-涇	泾	ging1		ging1
 消	消	sliu1		siu1
 涉	涉	sip3		sip3
-涊	涊	nin5	(又)nan2,(語)lan2「粘，溢出，弄髒」	(異讀)nan2,nin5
-涌	涌	jung2「涌現」,cung1「小河」	(又)jung5	(異讀)jung5,cung1,jung2
+涊	涊	nin5	(又)jan2,(又)nan2,(語)lan2「粘，溢出，弄髒」	nin5
+涌	涌	jung2「涌現」,cung1「小河」		cung1,jung2
+湧	涌	jung2		jung2
 涎	涎	jin4		jin4
 涓	涓	gyun1		gyun1
 涕	涕	tai3		tai3
 涗	涚	sui3		seoi3
 涚	涚	sui3		seoi3
+濤	涛	tu4		tou4
+澇	涝	lu6		lou6
+漣	涟	lin4		lin4
+渦	涡	wo1		wo1；(地名)gwo1渦河
+渙	涣	wun6		wun6
+滌	涤	dik6		dik6
+潤	润	jan6	(老派)jyun6,(白)jyun2「豬～，豬肝，又作膶字」,(白)jan2「豬～，豬肝，又作膶字」	jeon6
+澗	涧	gaan3		gaan3
+漲	涨	zoeng3	(又)zoeng2	zoeng3；漲價又讀zoeng2
+澀	涩	gip3「苦澀」,sap1「羞澀」		1)saap3:羞澀 2)gip3:澀味
 涮	涮	saan3	(又)caat3	saan3
 涯	涯	ngaai4		ngaai4
 液	液	jik6		jik6
-涴	涴	wo3		wo3,jyun1,jyun2
+涴	涴	wo3		wo3
 涵	涵	haam4		haam4
 涸	涸	kok3		kok3
-涼	凉	loeng4		loeng4
 涿	涿	doek3	(又)zoek3,(又)zok3	doek3
 淀	淀	din6		din6
+澱	淀	din6		din6
 淄	淄	zi1		zi1
 淅	淅	slik1		sik1
 淆	淆	ngaau4		ngaau4
@@ -2782,96 +2958,86 @@
 淋	淋	lam4		lam4
 淌	淌	tong2		tong2
 淑	淑	suk6	(常)suk1	suk6
-淒	凄	cai1		cai1
-淖	淖	naau6「泥淖」,coek3「同綽字」	(又)cok3	naau6,zoek3
+淖	淖	naau6「泥淖」,coek3「同綽字」		naau6
 淘	淘	tu4		tou4
 淙	淙	zung1	(又)cung4	cung4；(又)zung1
-淚	泪	lui6		leoi6
 淞	淞	slung1		sung1
 淡	淡	(白)taam5「鹹淡」	(文)daam6「淡定」	daam6；(語)taam5
 淤	淤	jyu1		jyu1；(又)jyu2
-淥	渌	luk6「濕淥淥」	(語)luk1「燙，又作熝字」	luk6
-淨	净	zing6「淨重」	(白)zeng6「乾淨」	zing6
-淩	凌	ling4		ling4
-淪	沦	lan4	(老派)lyun4	leon4
 淫	淫	jam4		jam4
-淬	淬	cui3		ceoi3,(異讀)seoi6
+淬	淬	cui3		ceoi3
 淮	淮	waai4		waai4
 深	深	sam1		sam1
 淳	淳	san4	(老派)syun4	seon4
-淵	渊	jyun1		jyun1
 混	混	wan6	(白)wan2	wan6
 淹	淹	jim1		jim1
-淺	浅	cin2		cin2
 添	添	tim1		tim1
 清	清	cing1「清理」	(白)ceng1「水清」	cing1
-渙	涣	wun6		wun6
+淵	渊	jyun1		jyun1
+淥	渌	luk6	(語)luk1「燙，又作熝字」	luk6
+漬	渍	zik1		zik1
+瀆	渎	duk6		duk6
+漸	渐	zim6		1)zim6:逐漸 2)zim1:歐風東漸
+澠	渑	man5「澠池縣，在河南」,sing4「河名，在山東省」	(又)min5「澠池縣」	man5,sing4
+漁	渔	jyu4		jyu4
+滲	渗	cam3「水滲透」	(語)cam5「洇」,(書)sam3	sam3
 渚	渚	zyu2		zyu2
-減	减	(白)gem2	(文)gaam2	gaam2
 渝	渝	jyu4		jyu4
 渠	渠	kyu4		keoi4
 渡	渡	du6		dou6
 渣	渣	zaa1	(白)jaa1	zaa1
 渤	渤	but6		but6
 渥	渥	ak1		ak1
-渦	涡	wo1		wo1；(地名)gwo1渦河
 渧	渧	dai3「滴」		dai3
 温	温	wan1		wan1
-測	测	cak1		cak1；(又)caak1
+溫	温	wan1		wan1
 渭	渭	wai6		wai6
 港	港	gong2		gong2
 渲	渲	slyun3	(又)hyun1	hyun1
 渴	渴	hot3		hot3
 游	游	jau4		jau4
+遊	游	jau4		jau4
 渺	渺	miu5		miu5
-渾	浑	wan4		wan4
 湃	湃	baai3	(又)paai3	baai3
-湊	凑	cau3		cau3
 湍	湍	tyun1		teon1；(俗)cyun2
 湔	湔	zin1		zin1
 湖	湖	wu4		wu4
 湘	湘	sloeng1		soeng1
 湛	湛	zaam3		zaam3
-湧	涌	jung2		jung2
 湮	湮	jan1	(又)jin1	jan1
-湯	汤	tong1		tong1；(古)soeng1浩浩湯湯
-湴	湴	baan6		baan6
-溈	沩	gwai1		gwai1
+湴	湴	baan6「爛泥，淤泥」		baan6
+灣	湾	waan1		waan1
+溼	湿	sap1		sap1
+濕	湿	sap1		sap1
+潰	溃	kwai3		kui2；(又)kui3
+濺	溅	zin3		1)zin3:水花四濺 2)zin1:流水濺濺
 溉	溉	koi3		koi3
 源	源	jyun4		jyun4
-準	准	zan2	(老派)zyun2	zeon2
 溘	溘	hap6		hap6
 溜	溜	lau6「溜糟」,liu1「溜走」	(又)lau4「溜糟」	lau6
-溝	沟	gau1		kau1
 溢	溢	jat6		jat6
 溥	溥	pu2		pou2
 溪	溪	kai1		kai1
-溫	温	wan1		wan1
 溯	溯	slok3	(又)sok3,(書)slu3	sou3
 溶	溶	jung4		jung4
 溺	溺	nik6		1)nik6:溺愛 2)niu6:同尿
 溻	溻	taap3		taap3
-溼	湿	sap1		sap1
 滂	滂	pong4		pong4
-滄	沧	cong1		cong1
-滅	灭	mit6		mit6
 滇	滇	tin4「水流的樣子」,din1「雲南省別稱」		tin4
 滋	滋	zi1	(老派)zy1	zi1
-滌	涤	dik6		dik6
-滎	荥	jing4		jing4
 滑	滑	(白)wet6	(文)waat6	waat6；(古)gwat1滑稽
 滓	滓	zai2	(書)zi2	zi2
 滔	滔	tu1		tou1
 滕	滕	tang4		tang4
-滬	沪	wu6		wu6
-滯	滞	zai6		zai6
-滲	渗	cam3「水滲透」	(語)cam5「洇」,(書)sam3	sam3
-滴	滴	dik1		dik6；(又)dik1
-滷	卤	lu5		lou5
-滸	浒	fu2		(異讀)fu2,heoi2,wu2
+潷	滗	bi3	(又)bat1	bat1,bei3
 滾	滚	gwan2		gwan2
+滯	滞	zai6		zai6
 滿	满	mun5		mun5
-漁	渔	jyu4		jyu4
+濾	滤	lyu6		leoi6
+濫	滥	laam6	(又)laan6	laam6
+濱	滨	ban1		ban1
+灘	滩	taan1		taan1
+滴	滴	dik1		dik6；(又)dik1
 漂	漂	piu3「漂白，漂亮」,piu1「漂浮」		1)piu1:漂泊 2)piu3:漂白，漂亮
 漆	漆	cat1		cat1
 漉	漉	luk6	(又)luk1	luk6
@@ -2879,109 +3045,77 @@
 漓	漓	li4		lei4
 演	演	(習)jim2	(書)jin2	jin2；(又)jin5
 漕	漕	cu4		cou4
-漚	沤	au3		au1,(異讀)ngau1,(異讀)ngau3,au3
 漠	漠	mok6		mok6
-漢	汉	hon3		hon3
-漣	涟	lin4		lin4
 漧	漧	gon1		gon1
 漩	漩	slyun4	(又)syun4	syun4
 漪	漪	ji1		ji1
 漫	漫	maan6		maan6
-漬	渍	zik1		zik1
 漱	漱	slu3		sau3
-漲	涨	zoeng3	(又)zoeng2	zoeng3；漲價又讀zoeng2
 漳	漳	zoeng1		zoeng1
-漸	渐	zim6		1)zim6:逐漸 2)zim1:歐風東漸
 漾	漾	joeng6		joeng6
-漿	浆	zoeng1		zoeng1
 潀	潀	cung4「水流匯合處」,zung1「崖岸」		cung4,zung1
-潑	泼	put3		put3
-潔	洁	git3		git3
+瀟	潇	sliu1		siu1
 潘	潘	pun1		pun1
-潙	沩	gwai1		gwai1
 潛	潜	cim4	(語)cam4	cim4
-潤	润	jan6	(老派)jyun6,(白)jyun2「豬～，豬肝，又作膶字」,(白)jan2「豬～，豬肝，又作膶字」	jeon6
 潦	潦	liu4「潦草」,lu6「同澇字」		1)liu4:潦倒 2)lou5:(古)水潦降
 潨	潨	cung4「水流匯合處」,zung1「崖岸」		cung4,zung1
 潭	潭	taam4		taam4
 潮	潮	ciu4		ciu4
-潰	溃	kwai3		kui2；(又)kui3
-潲	潲	(白)seu3	(文)saau3	siu6,saau3
-潷	滗	bi3	(又)bat1	bat1,(異讀)bei3
+潲	潲	(白)seu3	(文)saau3	saau3
 潸	潸	saan1		saan1
 潺	潺	saan4		saan4
 潼	潼	tung4		tung4
-澀	涩	gip3「苦澀」,sap1「羞澀」		1)saap3:羞澀 2)gip3:澀味
-澂	澂	cing4「同澄字」	(又)dang6,(語)king4	cing4
-澄	澄	cing4「澄清」,dang6「水濁，用明礬澄一澄」	(又)cang4,(語)king4「澄清（水、液體）」	cing4
-澆	浇	giu1		giu1
-澇	涝	lu6		lou6,lou4
+澂	澂	cing4「同澄字」		cing4
+澄	澄	cing4「澄清」,dang6「水濁，用明礬～一～」	(語)king4「澄清（水、液體）」	cing4
 澈	澈	cit3		cit3
-澌	澌	si1	(老派)sy1	(異讀)si3,si1
+澌	澌	si1	(老派)sy1	si1
 澎	澎	paang4		paang4
-澗	涧	gaan3		gaan3
-澠	渑	min5		man5,(異讀)min5,sing4
+瀾	澜	laan4		laan4
 澡	澡	zu2		cou3；(又)zou2
-澤	泽	zaak6		zaak6
 澧	澧	lai5		lai5
-澱	淀	din6		din6
 澳	澳	u3		ou3
 澹	澹	daam6		daam6；(複姓,湖名)taam4澹臺
 激	激	gik1		gik1
-濁	浊	zuk6		zuk6
 濂	濂	lim4		lim4
-濃	浓	nung4		nung4
-濕	湿	sap1		sap1
-濘	泞	ning6		ning6
-濛	蒙	mung4		mung4
-濟	济	zai3「經濟」,zai2「濟濟一堂」		1)zai3:救濟 2)zai2:人才濟濟
+瀨	濑	laai6		laai6
+瀕	濒	pan4		pan4
 濠	濠	hu4		hou4
 濡	濡	jyu4		jyu4
-濤	涛	tu4		tou4
-濫	滥	laam6	(又)laan6	laam6
 濬	濬	zan3「疏通」,slan3「濬縣」		zeon3；(地名)seon3濬縣
 濯	濯	zok6		zok6
-濱	滨	ban1		ban1
-濺	溅	zin3		1)zin3:水花四濺 2)zin1:流水濺濺
-濾	滤	lyu6		leoi6
 瀄	瀄	zit1「擠水射出」	(白)zet1	zit1
-瀆	渎	duk6		duk6
-瀉	泻	sle3	(白)sle2「倒瀉，溢出」	se3
-瀋	沈	sam2		sam2
-瀏	浏	lau4		lau4
 瀑	瀑	buk6	(常)bu6	buk6
-瀕	濒	pan4		pan4
 瀚	瀚	hon6		hon6
 瀛	瀛	jing4		jing4
-瀝	沥	lik6		lik6
 瀞	瀞	zing6		zing6
-瀟	潇	sliu1		siu1
-瀨	濑	laai6		laai6
-瀰	弥	mi4	(又)ni4	nei4；(又)mei4
-瀾	澜	laan4		laan4
 灋	灋	faat3「同法字」		faat3
 灌	灌	gun3		gun3
-灑	洒	slaa2	(又)saa2	saa2
-灒	𪷽	zaan3	(語)daan6「濺水」	zaan3
-灘	滩	taan1		taan1
 灠	灠	laam2		laam5,laam6
-灣	湾	waan1		waan1
 火	火	fo2		fo2
+滅	灭	mit6		mit6
+燈	灯	dang1		dang1
 灰	灰	fui1		fui1
+靈	灵	ling4	(白)leng4「靈驗」,(白)ling1「精靈，聰明」	ling4
 灶	灶	zu3		zou3
+竈	灶	zu3		zou3
 灸	灸	gau3	(又)kau3	gau3
 灼	灼	zoek3		zoek3
 災	灾	zoi1		zoi1
 灾	灾	zoi1		zoi1
+燦	灿	caan3		caan3
+煬	炀	joeng4		joeng4
 炅	炅	gwai3「姓」,gwing2「火光；明亮」		gwai3,gwing2
-炆	炆	man1		man1
+炆	炆	man1「燒，燉」		man1
+爐	炉	lu4		lou4
 炊	炊	cui1		ceoi1
 炎	炎	jim4		jim4
 炒	炒	(白)ceu2	(文)caau2	caau2
-炔	炔	gwai3「姓」,kyut3「乙炔」		gai3,kyut3
+炔	炔	gwai3「姓」,kyut3「乙炔」		gwai3,kyut3
 炕	炕	kong3「火炕」,hong3「烤」		kong3
+燉	炖	dan6		dan6
 炙	炙	zik1	(又)zik3	zek3
-炤	炤	ziu3		(異讀)ciu1,ziu3,ziu1
+煒	炜	wai2		wai5
+炤	炤	ziu3		ziu3
 炫	炫	jyun6		jyun4；(又)jyun6
 炬	炬	gyu6		geoi6
 炭	炭	taan3		taan3
@@ -2989,121 +3123,108 @@
 炯	炯	gwing2		gwing2
 炳	炳	bing2		bing2
 炸	炸	zaa3「炸彈」,(白)zeu3「用油炸，本字㷹」	(文)zaau3「用油炸，本字㷹」	zaa3
-為	为	wai4「作為」,wai6「為了」		1)wai4:人為 2)wai6:為了
+點	点	dim2	(白)dem2「點鹽，蘸鹽」	dim2
+煉	炼	lin6		lin6
+鍊	炼	lin6「同煉字，煉乳，修煉」,lin2「同鏈字，拉鏈，鏈條」		lin6；(語)lin2金鍊，亦作金鏈
+熾	炽	ci3		ci3
+爍	烁	soek3	(又)lik1	soek3
+爛	烂	laan6		laan6
 烈	烈	lit6		lit6
 烊	烊	joeng4		joeng4
-烏	乌	wu1		wu1
 烘	烘	hung1	(又)hung3	hung3
 烙	烙	lok3		lok3
+燭	烛	zuk1		zuk1
 烝	烝	zing1		zing1
+煙	烟	jin1		jin1
+菸	烟	jin1		jin1
 烤	烤	haau1		haau1；(又)haau2
+煩	烦	faan4		faan4
+燒	烧	siu1		siu1
+燴	烩	wui6		wui6
+燙	烫	tong3		tong3
+熱	热	jit6		jit6
 烹	烹	pang1		paang1
 烽	烽	fung1		fung1
 焉	焉	jin1「焉能」,jin4「心不在焉」		1)jin4:善莫大焉 2)jin1:焉能如此
 焊	焊	hon6		hon6
+煥	焕	wun6		wun6
+燜	焖	mun6	(語)man1「燜（炆）熟，同炆字」	mun6
 焙	焙	bui6		bui6
 焚	焚	fan4		fan4
-無	无	mu4		mou4
+焠	焠	cui3		ceoi3
 焦	焦	ziu1	(白)zeu1「飯焦，鍋巴」	ziu1
 焫	焫	naat3「灼，燙」		naat3
-焯	焯	coek3		(異讀)zoek3,coek3
+焯	焯	coek3		coek3
 焰	焰	jim6		jim6
 焱	焱	jim6		jim6
 然	然	jin4		jin4
-煇	𪸩	(白)wai1	(文)fai1	fai1,(異讀)wai1,wan6
-煉	炼	lin6		lin6
 煊	煊	hyun1		hyun1
 煌	煌	wong4		wong4
 煎	煎	zin1		zin1
 "煏
 "	"煏
 "	bik1「用火烤」		bik1
-煑	煮	zyu2「同煮字」		zyu2
-煒	炜	wai2		wai5
 煖	煖	hyun1「同煊字」,nyun5「同暖字」		hyun1,nyun5
-煙	烟	jin1		jin1
 煜	煜	juk1		juk1
 煞	煞	saat3		saat3
 煠	煠	(白)sep6「熬、煮，也作熠字」	(文)saap6,(又)zep6,(又)zaap6	zaa3,saap6
 煤	煤	mui4		mui4
-煥	焕	wun6		wun6
 煦	煦	hyu2	(又)jyu3	heoi2；(又)jyu3
 照	照	ziu3		ziu3
 煨	煨	wui1		wui1
-煩	烦	faan4		faan4
-煬	炀	joeng4		joeng4
+煑	煮	zyu2「同煮字」		zyu2
 煮	煮	zyu2		zyu2
 煲	煲	bu1		bou1
 煴	煴	wan1「無焰的火」,wan6「同熨字」		wan1,wan6
+熅	煴	wan1「無焰的火」,wan6「同熨字」		wan1,wan6
 煽	煽	sin3		sin3
 熄	熄	slik1		sik1
-熅	煴	wan1「無焰的火」,wan6「同熨字」		wan1,wan6
 熊	熊	jung4		hung4
-熏	熏	(白)wan1	(文)fan1	fan1,fan3
+熏	熏	(白)wan1	(文)fan1	fan1
+燻	熏	(白)wan1	(文)fan1	fan1
 熔	熔	jung4		jung4
 熙	熙	hi1		hei1
 熛	熛	biu1		biu1
 熝	熝	u1「用文火久煮，～白菜，又作爊字」,luk6「提煉」	(語)luk1「～手，燙手，又作淥字」	luk6
 熟	熟	suk6		suk6
-熠	熠	jap1	(語)jaap6「閃爍」,(又)saap6「熬，煮，一般作煠字」,sep6「熬，煮，一般作煠字」	saap6,jap1,(異讀)jap6
+熠	熠	jap1	(語)jaap6「閃爍」,(語)saap6「熬、煮，又作煠字」,(語)sep6「熬、煮，又作煠字」	saap6,jap1,(異讀)jap6
 熥	熥	tung1		tung1
 熨	熨	wan6	(語)tong3「熨斗，又作燙斗」	tong3；通燙；熨斗又讀wan6；熨貼又讀wat1
 熬	熬	ngu4	(白)ngaau4	ngou4
-熯	熯	hon3	(又)hon5	naan5,hon3,(異讀)hon2,jin5
-熱	热	jit6		jit6
+熯	熯	hon3		hon3
 熹	熹	hi1		hei1
-熾	炽	ci3		ci3
 燃	燃	jin4		jin4
 燄	燄	jim6		jim6
-燈	灯	dang1		dang1
-燉	炖	dan6		dan6
 燎	燎	liu4		liu4
 燐	燐	lan4	(老派)lyun4	leon4
-燒	烧	siu1		siu1
 燕	燕	jin3「燕子」,jin1「燕京」		1)jin3:燕子 2)jin1:燕國
-燙	烫	tong3		tong3
-燜	焖	mun6	(語)man1「燜（炆）熟，同炆字」	mun6
-營	营	jing4		jing4
 燥	燥	cu3		cou3
-燦	灿	caan3		caan3
 燧	燧	sui6		seoi6
-燬	毁	wai2		wai2
-燭	烛	zuk1		zuk1
 燮	燮	slit3	(又)slyut3	sit3
-燴	烩	wui6		wui6
-燶	㶶	nung1「焦，糊，又作𪒬字」		nung1
-燻	熏	(白)wan1	(文)fan1	fan1
 爆	爆	(白)beu3	(文)baau3,(又)bu6	baau3
 爊	爊	u1「用文火久煮，～白菜，又作熝字」	(又)ngu4「同熬字」,(又)ngaau4「同熬字」	ngaau4,ngou4,ou1
 爌	爌	kong3		kong3
-爍	烁	soek3	(又)lik1	soek3
-爐	炉	lu4		lou4
 爓	爓	jim6「同焰字」		jim6
-爛	烂	laan6		laan6
 爨	爨	cyun3		cyun3
 爪	爪	(白)zeu2	(文)zaau2,(白)jaau2,(白)jeu2	zaau2
 爬	爬	paa4		paa4
-爭	争	zaang1		zang1
 爰	爰	jyun4	(又)wun4	wun4 或jyun4
-爲	为	wai4「作爲」,wai6「爲了」		1)wai4:人爲 2)wai6:爲了
+愛	爱	oi3		oi3
 爵	爵	zoek3		zoek3
 父	父	fu6		fu6；(古)fu2田父
+爺	爷	je4		je4
 爸	爸	baa1		baa1
 爹	爹	de1		de1
-爺	爷	je4		je4
 爻	爻	ngaau4		ngaau4
 爽	爽	song2		song2
-爾	尔	ji5		ji5
 爿	爿	paan4		baan6,coeng4
-牀	床	cong4		cong4
-牆	墙	coeng4		coeng4
 片	片	pin3	(白)pen2「片肉，動詞；尿片，名詞」,(又)pin2「片肉，動詞；尿片，名詞」	pin3；(語)pin2
 版	版	baan2		baan2
 牋	牋	cim1「同箋字」	(書)zin1	zin1
 牌	牌	paai4		paai4
+牘	牍	duk6		duk6
 牒	牒	dip6		dip6
 牖	牖	jau5		jau5
-牘	牍	duk6		duk6
 牙	牙	ngaa4		ngaa4
 牚	牚	caang3		caang1,caang3
 牛	牛	ngau4		ngau4
@@ -3112,112 +3233,119 @@
 牠	牠	taa1		taa1
 牡	牡	maau5	(又)mau5	maau5
 牢	牢	lu4		lou4
+犛	牦	li4		lei4
 牧	牧	muk6		muk6
 物	物	mat6		mat6
 牯	牯	gu2		gu2
 牲	牲	saang1		sang1
 牴	牴	dai2		dai2
+牽	牵	hin1		hin1
 牸	牸	zi6	(老派)zy6	zi6
 特	特	dak6		dak6
-牽	牵	hin1		hin1
+犧	牺	hi1		hei1
 犀	犀	slai1		sai1
 犁	犁	lai4		lai4
 犂	犁	lai4「同犁字」		lai4
 犄	犄	gi1「犄角」,ji2「去勢的公牛」		ji2
-犍	犍	gin3「犍牛」,gin6「犍为县」	(又)zin2「犍牛」	gin1,kin4
-犒	犒	kaau3	(又)hu3	hou3
-犖	荦	lok3		lok3
-犛	牦	li4		lei4
-犟	犟	goeng6「固執，又作勥字」		goeng6
 犢	犊	duk6		duk6
-犧	牺	hi1		hei1
+犍	犍	gin3「犍牛」,gin6「犍爲縣」	(又)zin2「犍牛」	gin1,kin4
+犒	犒	kaau3	(又)hu3	hou3
+勥	犟	goeng6「固執，又作犟字」		goeng6
+犟	犟	goeng6「固執，又作勥字」		goeng6
 犬	犬	hyun2		hyun2
 犯	犯	faan6		faan6
 狀	状	zong6		zong6
+獷	犷	gong2		gwong2
+猶	犹	jau4		jau4
 狂	狂	kong4		kwong4；(又)kong4
 狄	狄	dik6		dik6
+狽	狈	bui3		bui3
 狍	狍	paau4		paau4
+麅	狍	paau4		paau4
 狎	狎	haap6		haap6
 狐	狐	wu4		wu4
 狗	狗	gau2		gau2
 狙	狙	zyu1		zeoi1
+獰	狞	ning4		ning4
 狠	狠	han2		han2
 狡	狡	(白)geu2	(文)gaau2	gaau2
 狨	狨	jung4		jung4
 狩	狩	sau3		sau3
+獨	独	duk6		duk6
+狹	狭	haap3	(又)haap6	haap6；(又)haap3
+獅	狮	si1	(老派)sy1	si1
+猙	狰	zang1		zang1
+獄	狱	juk6		juk6
 狷	狷	gyun3		gyun3
 狸	狸	li4		lei4
-狹	狭	haap3	(又)haap6	haap6；(又)haap3
 狼	狼	long4		long4
-狽	狈	bui3		bui3
+獵	猎	lip6	(又)lit6	lip6
 猖	猖	coeng1		coeng1
-猙	狰	zang1		zang1
 猛	猛	maang5		maang5
 猜	猜	caai1		caai1
-猝	猝	cyut1	(又)zat1	cyut3
+猝	猝	cyut1	(又)cat1	cyut3
+玀	猡	lo4		lo4
 猥	猥	wai2	(又)wui1	wai2；(又)wui1
 猩	猩	sling1		sing1
+豬	猪	zyu1		zyu1
+貓	猫	(白)meu1	(文)maau1	maau1
+蝟	猬	wai6	(又)wai3	wai6
+獻	献	hin3		hin3
 猴	猴	hau4		hau4
-猶	犹	jau4		jau4
 猷	猷	jau4		jau4
 猾	猾	(白)wet6	(文)waat6	waat6
 猿	猿	jyun4		jyun4
-獃	呆	daai1「書獃子」,ngoi4「獃板」	(又)ngaai4「獃板」	ngoi4
-獄	狱	juk6		juk6
-獅	狮	si1	(老派)sy1	si1
-獎	奖	zoeng2		zoeng2
 獐	獐	zoeng1		zoeng1
 獗	獗	kyut3		kyut3
-獨	独	duk6		duk6
-獰	狞	ning4		ning4
-獲	获	waak6	(又)wok6	wok6
-獵	猎	lip6	(又)lit6	lip6
-獷	犷	gong2		gwong2
-獸	兽	sau3		sau3
 獺	獭	caat3		caat3
-獻	献	hin3		hin3
-玀	猡	lo4		lo4
 玄	玄	jyun4		jyun4
 玅	玅	miu6「同妙字」		miu6
 率	率	slat1「率領」,lat6「效率」	(老派)slyut1「率領」,(老派)lyut6「效率」	1)seot1:率領 2)leot6:效率
 玉	玉	juk6「玉石」		juk6
 王	王	wong4		wong4；(古)wong6王天下
+璣	玑	gi1		gei1
 玖	玖	gau2		gau2
+瑪	玛	maa5		maa5
 玟	玟	man4		man4
 玨	玨	gok3		gok3
 玩	玩	(白)waan2	(又)waan6,(書)wun6	1)wun6:玩弄 2)waan4:玩耍
 玫	玫	mui4		mui4
+瑋	玮	wai2		wai5
+環	环	(白)wen4「耳環」	(文)waan4「環境」	waan4
+現	现	jin6		jin6
 玲	玲	ling4		ling4
 玳	玳	doi6		doi6
 玷	玷	dim3		dim3
+璽	玺	slai2		saai2
 玻	玻	bo1		bo1
 珀	珀	paak3		paak3
 珊	珊	saan1		saan1
 珍	珍	zan1		zan1
 珏	珏	gok3		gok3
+琺	珐	faat3		faat3
+瓏	珑	lung4		lung4
 珠	珠	zyu1		zyu1
 班	班	baan1		baan1
 珮	珮	pui3		pui3
-現	现	jin6		jin6
+琿	珲	wan4「琿春縣」,(白)wai1「璦琿」	(文)fai1「璦琿」	1)wan4:琿春縣 2)fai1:璦琿
 球	球	kau4		kau4
 琅	琅	long4	(又)long5	long4
 理	理	li5		lei5
 琉	琉	lau4		lau4
 琊	琊	je4		je4
+瑣	琐	slo2		so2
 琖	琖	zaan2		zaan2
 琢	琢	doek3	(又)zoek3,(又)zok3	doek3
 琥	琥	fu2		fu2
 琦	琦	ki4		kei4
-琨	琨	kwan1		(異讀)gwan1,kwan1
+琨	琨	kwan1		kwan1
 琪	琪	ki4		kei4
 琳	琳	lam4		lam4
 琴	琴	kam4		kam4
 琵	琵	pi4		pei4
 琶	琶	paa4		paa4
-琺	珐	faat3		faat3
-琿	珲	wan4「琿春縣」,(白)wai1「璦琿」	(文)fai1「璦琿」	1)wan4:琿春縣 2)fai1:璦琿
+瓊	琼	king4		king4
 瑁	瑁	mu6	(又)mui6「玳瑁」	mou6；玳瑁又讀mui6
-瑋	玮	wai2		wai5
 瑕	瑕	haa4		haa4
 瑙	瑙	nu5		nou5
 瑚	瑚	wu4		wu4
@@ -3225,60 +3353,52 @@
 瑜	瑜	jyu4		jyu4
 瑞	瑞	sui6		seoi6
 瑟	瑟	slat1		sat1
-瑣	琐	slo2		so2
-瑤	瑶	jiu4		jiu4
-瑩	莹	jing4		jing4
-瑪	玛	maa5		maa5
 瑯	瑯	long4		long4
 瑰	瑰	gwai3「玫瑰」,gwai1「瑰寶」		1)gwai3:玫瑰 2)gwai1:瑰麗
-瑾	瑾	gan2		gan2,(異讀)gan6
+瑤	瑶	jiu4		jiu4
+璦	瑷	oi3		oi3
+瑾	瑾	gan2		gan2
 璃	璃	li1「玻璃」,li4「琉璃」		1)lei4:琉璃 2)lei1:玻璃
 璋	璋	zoeng1		zoeng1
 璚	璚	king4「同瓊字」,kyut3「同玦字」		king4,kyut3
 璜	璜	wong4		wong4
-璣	玑	gi1		gei1
-璦	瑷	oi3		oi3
 璧	璧	bik1		bik1
-環	环	(白)wen4「耳環」	(文)waan4「環境」	waan4
-璺	璺	man6「裂痕」,man3「置於邊沿的；勉強」	(白)men6「裂痕」,(白)men3「置於邊沿的；勉強」	(異讀)man4,man6
-璽	玺	slai2		saai2
-瓊	琼	king4		king4
-瓏	珑	lung4		lung4
+璺	璺	man6「裂痕」	(白)men6「裂痕」,(語)man3「置於邊沿的；勉強」,(語)men3「置於邊沿的；勉強」	man6
 瓜	瓜	gwaa1		gwaa1
 瓠	瓠	wu4「瓠蘆，同葫蘆」,ku4「瓠瓜」	(又)pu4「瓠瓜，又作蒲瓜」	wu6
 瓢	瓢	piu4		piu4
 瓣	瓣	baan6		faan6；(又)baan6
-瓤	瓤	nong4	(又)noeng4	nong4
+瓤	瓤	nong4		nong4
 瓦	瓦	ngaa5		ngaa5
 瓨	瓨	gong1		gong1
 瓮	瓮	ung3		ung3
+甕	瓮	ung3		ung3
+甌	瓯	au1		au1
 瓶	瓶	ping4		ping4
 瓷	瓷	ci4	(老派)cy4	ci4
 甄	甄	jan1	(又)zan1	jan1；(又)zan1
-甌	瓯	au1		au1
-甑	甑	zang3		(異讀)zang3,zang6
-甕	瓮	ung3		ung3
+甑	甑	zang3		zang6
 甘	甘	gam1		gam1
 甚	甚	sam6		sam6
 甜	甜	tim4		tim4
 生	生	saang1		sang1；(又)saang1
-產	产	caan2		caan2
 甥	甥	saang1		sang1；(又)saang1
-甦	苏	slu1		sou1
 用	用	jung6		jung6
 甩	甩	(訓)lat1「訓讀字，～色，掉色」	(語)saai2「甩手」	lat1
 甫	甫	pu2		1)fu2:台甫 2)pou2:十八甫（廣州市地名用字）
 甬	甬	jung2		jung2
 甭	甭	bung2		bung2
-甯	宁	ning6「姓」	(又)ning4「同寧字」	ning4,ning6
 田	田	tin4		tin4
 由	由	jau4		jau4
 甲	甲	gaap3「花甲螺」	(白)gep3「指甲」	gaap3
 申	申	san1		san1
 甴	甴	zaat6「曱～，蟑螂」		zaat6
+電	电	din6		din6
 男	男	naam4		naam4
 甸	甸	din6		din6
-畀	畀	bi2		(異讀)bei2,bei3
+畫	画	waa2「圖畫，名詞」,waak6「畫圖，動詞」		1)waa6:圖畫 2)waak6:畫個圈；(語)waa2圖畫
+畀	畀	bi2「給」		bei2
+暢	畅	coeng3		coeng3
 畈	畈	faan3		faan3
 界	界	gaai3		gaai3
 畏	畏	wai3		wai3
@@ -3286,103 +3406,95 @@
 留	留	lau4		lau4
 畚	畚	bun2		bun2
 畜	畜	cuk1		cuk1
-畝	亩	mau5		mau5
-畢	毕	bat1		bat1
 略	略	loek6		loek6
 畦	畦	kwai4		kwai4
 番	番	faan1	(白)fen1	faan1
-畫	画	waa2「圖畫，名詞」,waak6「畫圖，動詞」		1)waa6:圖畫 2)waak6:畫個圈；(語)waa2圖畫
-畬	畬	se1		se1,(異讀)se4,jyu4
-異	异	ji6		ji6
-當	当	dong3「典當，當作」,dong1「應當，當時」		1)dong1:當局 2)dong3:妥當；(古)通擋
+畬	畬	se1「燒草耕田」,jyu4「開墾過兩年的土地」		se1,jyu4
+畲	畲	se4「畲族」		se4
+疇	畴	cau4		cau4
 畸	畸	ki1	(又)gi1	kei1；(又)gei1
 畺	畺	goeng1	(常)koeng1	goeng1
 疆	疆	goeng1	(常)koeng1	goeng1
-疇	畴	cau4		cau4
-疊	叠	dip6		dip6
 疋	疋	pat1「同匹字」,ngaa5「同雅字」		pat1；通雅
 疏	疏	so1「疏忽」,so3「注疏」		1)so1:疏導 2)so3:注疏
 疑	疑	ni4	(又)ji4	ji4
-疔	疔	ding1	(白)deng1	(異讀)deng1,ding1
+疔	疔	ding1	(白)deng1	ding1
+癤	疖	zit3		zit3
+療	疗	liu4		liu4
 疙	疙	gat6	(又)ngat6	gat6
 疚	疚	gau3		gau3
 疝	疝	saan3		saan3
+瘧	疟	noek6	(又)joek6	joek6
+癘	疠	lai6		lai6
+瘍	疡	joeng4		joeng4
 疤	疤	baa1		baa1
 疥	疥	gaai3		gaai3
 疫	疫	jik6		jik6
+癧	疬	(白)lek6「淋巴結」	(文)lik6	lik6
+瘡	疮	cong1		cong1
+瘋	疯	fung1		fung1
+皰	疱	(白)peu3	(文)paau3	paau3
 疲	疲	pi4		pei4
 疳	疳	gam1		gam1
+痾	疴	o1		o1
 疵	疵	ci1	(老派)cy1	ci1
-疸	疸	taan2		(異讀)daam2,taan2,(異讀)daan3
+疸	疸	taan2		taan2
 疹	疹	can2		can2
 疼	疼	tang4		1)tang4:疼痛 2)tung3:肚子疼，疼愛
 疽	疽	zyu1		zeoi1
 疾	疾	zat6		zat6
 疿	疿	fi2「同痱字」		fai2；(又)fei2
-痂	痂	gaa1		gaa1,(異讀)ge1
+痂	痂	gaa1		gaa1
 病	病	(白)beng6	(文)bing6	beng6；(又)bing6
 症	症	zing3		zing3
+癥	症	zing1		zing1
+癰	痈	jung1		jung1
+痙	痉	ging6		ging6
 痊	痊	cyun4		cyun4
-痒	痒	joeng5		joeng5,joeng4
+痒	痒	joeng5		joeng5
+癢	痒	joeng5		joeng5
 痔	痔	zi6		zi6
 痕	痕	han4		han4
 痘	痘	dau6		dau6
-痙	痉	ging6		ging6
 痛	痛	tung3		tung3
 痞	痞	pi2	(語)mau1「地痞，又作踎字」	pei2；(語)mau1
-痠	酸	slyun1		syun1
 痢	痢	li6	(語)li1「瘌laat3痢，頭癬，又作鬎laat3鬁li1，又作癩laat3/laai3痢」	lei6
 痣	痣	zi3		zi3
 痧	痧	saa1		saa1
+癆	痨	lu4		lou4
+瘓	痪	wun6		wun6
 痰	痰	taam4		taam4
 痱	痱	fi2		fai2；(又)fei2
 痲	痲	maa4		maa4
 痳	痳	maa4「同痲字」,lam4「同淋字」		maa4,lam4
 痴	痴	ci1		ci1
+癡	痴	ci1		ci1
 痹	痹	bi3		bei3
 痺	痹	bi3		bei3
-痾	疴	o1		o1
 痿	痿	wai2		wai2
 瘀	瘀	jyu1		jyu2；(又)jyu1
 瘁	瘁	cui3		seoi6
 瘉	瘉	jyu6		jyu6
 瘊	瘊	hau4		hau4
-瘋	疯	fung1		fung1
 瘌	瘌	laat3		laat6
-瘍	疡	joeng4		joeng4
-瘓	痪	wun6		wun6
 瘟	瘟	wan1		wan1
 瘠	瘠	(白)zek3	(文)zik3,(又)zik1	zek3
-瘡	疮	cong1		cong1
 瘤	瘤	lau4		lau4
 瘦	瘦	sau3		sau3
-瘧	疟	noek6	(又)joek6	joek6
 瘩	瘩	daap3		daap3
-瘰	瘰	lo2		(異讀)leoi4,(異讀)lo5,lo2
+癟	瘪	bit3		bit6
+癱	瘫	taan1	(白)taan2	taan2；(又)taan1
+瘰	瘰	lo2		lo2
 瘴	瘴	zoeng3		zoeng3
 瘸	瘸	kwe4		ke4
-療	疗	liu4		liu4
-癆	痨	lu4		lou4
+癮	瘾	jan5		jan5
 癌	癌	ngaam4		ngaam4
-癐	𤶊	gui6「累，又作䠩/攰字」,wai1「象聲詞」		gui6,wai1
-癒	愈	jyu6		jyu6
 癖	癖	pik1		pik1
-癘	疠	lai6		lai6
-癟	瘪	bit3		bit6
-癡	痴	ci1		ci1
-癢	痒	joeng5		joeng5
-癤	疖	zit3		zit3
-癥	症	zing1		zing1
-癧	疬	(白)lek6「淋巴結」	(文)lik6	lik6
 癩	癞	laai3	(又)laat3「癩laat3/laai3痢li1，頭癬，又作瘌laat3痢li1，又作鬎laat3鬁li1」	laai3
 癬	癣	slyun2	(又)slin2	sin2
-癮	瘾	jan5		jan5
-癰	痈	jung1		jung1,(異讀)jung2
-癱	瘫	taan1	(白)taan2	taan2；(又)taan1
 癲	癫	din1		din1
 癸	癸	gwai3	(常)kwai4	gwai3
 登	登	dang1		dang1
-發	发	faat3		faat3
 白	白	baak6		baak6
 百	百	baak3		baak3
 皁	皂	zu6		zou6
@@ -3392,34 +3504,31 @@
 皇	皇	wong4		wong4
 皈	皈	gwai1		gwai1
 皎	皎	gaau2		gaau2
+皚	皑	ngoi4	(又)ngaai4	ngoi2；(又)ngoi4
 皓	皓	hu6		hou6
 皖	皖	wun5		wun5
-皚	皑	ngoi4		ngoi2；(又)ngoi4
 皮	皮	pi4		pei4
-皰	疱	(白)peu3	(文)paau3	paau3
-皴	皴	cyun1	(又)can1	seon1
 皺	皱	zau3	(白)jau3	zau3
-皿	皿	man5	(又)ming5	ming5
+皴	皴	cyun1	(又)can1	seon1
+皿	皿	ming5	(習)man5	ming5
 盂	盂	jyu4		jyu4
-盃	杯	bui1		bui1
 盅	盅	zung1		zung1
 盆	盆	pun4		pun4
 盈	盈	jing4		jing4
 益	益	jik1		jik1
 盍	盍	hap6		hap6
 盎	盎	ong3		ong3；盎士讀on1
+盞	盏	zaan2	(白)zen2	zaan2
+鹽	盐	jim4		jim4
+監	监	gaam3「太監」,gaam1「監視」		1)gaam1:監視 2)gaam3:太監
 盒	盒	hap6		hap6
 盔	盔	kwai1	(又)fui1	kwai1
-盛	盛	sing6「旺盛，姓」,sing4「盛滿」		sing6；盛飯又讀sing4
+蓋	盖	goi3		1)goi3:瓶蓋 2)koi3:蓋世英雄；gap6:姓蓋
 盜	盗	du6		dou6
-盞	盏	zaan2	(白)zen2	zaan2
-盟	盟	mang4		mang4
-盡	尽	zan6		zeon6
-監	监	gaam3「太監」,gaam1「監視」		1)gaam1:監視 2)gaam3:太監
 盤	盘	pun4		pun4
+盛	盛	sing6「旺盛，姓」,sing4「盛滿」		sing6；盛飯又讀sing4
+盟	盟	mang4		mang4
 盥	盥	gun3		gun3；(又)fun2
-盧	卢	lu4		lou4
-盪	荡	dong6		dong6
 盬	盬	gu2		gu2
 目	目	muk6		muk6
 盯	盯	ding1	(白)deng1	ding1
@@ -3433,12 +3542,14 @@
 眇	眇	miu5		miu5
 眉	眉	mi4		mei4
 看	看	hon3「看見」,hon1「看牛」		1)hon3:看書 2)hon1:看守
+瞘	眍	kau1		kau1
 眚	眚	saang2		saang2
 真	真	zan1		zan1
 眠	眠	min4		min4
 眨	眨	zaap3	(白)jap1,(白)jaap3	zaap3；(語)zaam2
 眩	眩	jyun4		jyun4；(又)jyun6
-眯	眯	mi1		(異讀)mai4,mai5,(異讀)mi1,mei1
+矓	眬	lung4		lung4
+眯	眯	mi1		mai4,mei1
 眲	眲	ngak1「欺騙，俗作呃字」,ni6「輕視」		nei6,ngak1
 眵	眵	ci1		ci1
 眶	眶	kwaang1	(又)kong1	hong1；(又)kwaang1
@@ -3446,13 +3557,11 @@
 眸	眸	mau4		mau4
 眺	眺	tiu3		tiu3
 眼	眼	(白)ngen5	(文)ngaan5	ngaan5
-眾	众	zung3		zung3
 着	着	zoek6「着涼，睡着」,zoek3「穿着，着衫」		1)zoek3:衣着 2)zoek6:看着，着涼
-睇	睇	tai2		(異讀)dai6,tai2
-睏	困	(白)han3	(文)kwan3	kwan3
-睛	睛	zing1		zing1
 睜	睁	zang1		zang1
+睇	睇	tai2「看」		tai2
 睞	睐	loi6		loi6
+睛	睛	zing1		zing1
 睠	睠	gyun3「同眷字」		gyun3
 睡	睡	sui6		seoi6
 督	督	duk1		duk1
@@ -3460,12 +3569,12 @@
 睦	睦	muk6		muk6
 睨	睨	ngai6		ngai6
 睩	睩	luk6	(語)luk1「瞪」	luk1,luk6
-睪	睾	gu1		gou1
 睫	睫	zit6		zit6
 睬	睬	coi2		coi2
 睹	睹	du2		dou2
 睺	睺	hau1「守候，留意」		hau1
 睽	睽	kwai4		kwai4
+睪	睾	gu1		gou1
 睾	睾	gu1		gou1
 睿	睿	jui6		jeoi6
 瞄	瞄	miu4「瞄準」	(白)miu1「瞄一眼」	miu4
@@ -3474,14 +3583,14 @@
 瞌	瞌	hap1		hap6
 瞎	瞎	haat3	(又)haat6	hat6
 瞑	瞑	ming4	(又)ming5	ming5；本讀ming4
+瞞	瞒	mun4		mun4
 瞓	瞓	fan3「睡」		fan3
 瞖	瞖	ai3		ai3
-瞘	眍	kau1		kau1
-瞞	瞒	mun4		mun4
 瞟	瞟	piu5		piu5
 瞠	瞠	caang1		caang1
 瞥	瞥	pit3		pit3
 瞧	瞧	ciu4		ciu4
+矚	瞩	zuk1		zuk1
 瞪	瞪	dang1		dang1
 瞫	瞫	sam2	(語)sam3「偷看」	sam2
 瞬	瞬	san3	(老派)syun3	seon3
@@ -3491,30 +3600,33 @@
 瞻	瞻	zim1		zim1
 瞽	瞽	gu2		gu2
 瞿	瞿	kyu4		keoi4；(古)通攫fok3
-矇	蒙	mung4		mung4
-矓	眬	lung4		lung4
 矗	矗	cuk1		cuk1
-矚	瞩	zuk1		zuk1
 矛	矛	maau4	(白)meu4	maau4
 矜	矜	ging1		ging1；(古)通鰥gwaan1
 矢	矢	ci2	(又)si2	ci2；(古)通屎
 矣	矣	ji5		ji5
 知	知	zi1		1)zi1:知道 2)zi3:通智
 矩	矩	gyu2		geoi2
+矯	矫	giu2	(白)geu2	giu2
 矬	矬	co4		co4
 短	短	dyun2		dyun2
 矮	矮	ai2	(白)ai1	ai2
-矯	矫	giu2	(白)geu2	giu2
 石	石	sek6		sek6；通擔daam3
+磯	矶	gi1		gei1
 矺	矺	zaak3「壓」		zaak3
-矼	矼	gong1		gong1,hong1
+矼	矼	gong1		gong1
 矽	矽	zik6		zik6
+礬	矾	faan4		faan4
+礦	矿	kong3		kwong3；(又)kong3
+碼	码	maa5		maa5
 砂	砂	saa1		saa1
 砌	砌	cai3		cai3
 砍	砍	ham2	(又)kaam2	ham2
 砑	砑	ngaa6	(語)ngen4「碾，砑平」	ngaa6
 砒	砒	pi1		pei1
 研	研	jin4「研究」	(又)ngen4「研磨」,(又)ngaan4「研磨」	jin4；同硯jin6
+磚	砖	zyun1		zyun1
+硯	砚	jin6		jin6
 砝	砝	faat3		faat3
 砥	砥	dai2		dai2
 砧	砧	zam1		zam1
@@ -3523,18 +3635,26 @@
 砳	砳	laak6	(語)kok3「二石相擊成聲」,(語)gwak1「敲」	laak6
 破	破	po3		po3
 砸	砸	zaap3		zaap3
-硃	朱	zyu1		zyu1
+礪	砺	lai6		lai6
+礱	砻	lung4		lung4
+礫	砾	lik1		lik1
+礎	础	co2		co2
 硅	硅	gwai1		gwai1
-硎	硎	jing4	(又)haang1「同坑字」	jing4
+硎	硎	jing4		jing4
+碩	硕	sek6		sek6
+磑	硙	ngoi4「磑磑」,wai3「磨子」	(又)ngaai4「磑磑」	wai3,ngoi4
 硝	硝	sliu1		siu1
 硫	硫	lau4		lau4
 硬	硬	ngaang6	(白)ngaang2「硬要」	ngaang6
 确	确	kok3		kok3
-硯	砚	jin6		jin6
+確	确	kok3		kok3
+礆	硷	(白)gen2	(文)gaan2	gaan2
+鹼	硷	(白)gen2	(文)gaan2	gaan2
 硼	硼	paang4		pang4；(又)paang4
-碁	碁	ki4		gei1,kei4
+碁	碁	ki4		kei4
 碉	碉	diu1		diu1
 碌	碌	luk1		luk1
+礙	碍	ngoi6		ngoi6
 碎	碎	slui3		seoi3
 碑	碑	bi1		bei1
 碓	碓	dui3		deoi3
@@ -3542,13 +3662,11 @@
 碘	碘	(習)dim2	(書)din2	din2
 碟	碟	dip6		dip6
 碧	碧	bik1		bik1
-碩	硕	sek6		sek6
 碰	碰	pung3		pung3
+堿	碱	(白)gen2	(文)gaan2	gaan2
 碱	碱	(白)gen2	(文)gaan2	gaan2
 碳	碳	taan3		taan3
-確	确	kok3		kok3
 碻	碻	kok3		kok3
-碼	码	maa5		maa5
 碾	碾	(白)nen2	(文)nin2,(又)zin2	zin2
 磁	磁	ci4	(老派)cy4	ci4
 磅	磅	bong6「過磅」,pong4「磅礡」		1)bong6:一磅 2)pong4:磅礡
@@ -3557,28 +3675,18 @@
 磋	磋	co1		co1
 磎	磎	kai1		kai1
 磐	磐	pun4		pun4
-磑	硙	ngoi4	(又)ngaai4	ngai4,(異讀)wai3,ngoi6,(異讀)hoi2
 磕	磕	hap1「磕碰，磕頭」	(又)hap6	hap6
-磚	砖	zyun1		zyun1
 磨	磨	mo4「磨刀」,mo6「石磨」		1)mo4:磨損 2)mo6:磨坊
 磬	磬	hing3		hing3
-磯	矶	gi1		gei1
 磴	磴	dang3		dang3
 磷	磷	lan4	(老派)lyun4	leon4
 磺	磺	wong4		wong4
 礁	礁	ziu1		ziu1
-礆	硷	(白)gen2	(文)gaan2	gaan2
 礊	礊	faak3「抽打」		faak3
-礎	础	co2		co2
-礓	礓	goeng1		goeng1
-礙	碍	ngoi6		ngoi6
-礦	矿	kong3		kwong3；(又)kong3
-礪	砺	lai6		lai6
-礫	砾	lik1		lik1
-礬	矾	faan4		faan4
-礱	砻	lung4		lung4
+礓	礓	goeng1	(又)koeng1	goeng1
 礹	礹	ngaam4「同巖字」,jim5「險峻」		ngaam4,jim5
 示	示	si6		si6
+禮	礼	lai5		lai5
 社	社	se5		se5
 祀	祀	si6	(老派)sy6	zi6
 祁	祁	ki4		kei4
@@ -3587,11 +3695,10 @@
 祈	祈	ki4		kei4
 祉	祉	zi2		zi2
 祐	祐	jau6		jau6
-祕	秘	bi3		bei3
 祖	祖	zu2		zou2
 祗	祗	zi1		zi1
 祚	祚	zu6		zou6
-祜	祜	wu2	(又)wu6	wu2,(異讀)wu6
+祜	祜	wu2		wu2
 祝	祝	zuk1		zuk1
 神	神	san4		san4；神荼（門神）讀san1
 祟	祟	slui3		seoi6
@@ -3599,32 +3706,37 @@
 祥	祥	coeng4		coeng4
 票	票	piu3		piu3
 祭	祭	zai3		zai3
-祺	祺	ki4		kei4
-祿	禄	luk6		luk6
-禁	禁	gam3「禁止」,kam1「禁用，耐用」		1)gam3:禁止 2)kam1:弱不禁風
-禍	祸	wo6		wo6
 禎	祯	zing1		zing1
-福	福	fuk1		fuk1
-禦	御	jyu6		jyu6
-禧	禧	hi1		hei1
-禪	禅	sim4「禪宗」,sin6「禪讓」		1)sim4:禪師 2)sin6:禪讓
-禮	礼	lai5		lai5
 禱	祷	du2		tou2
+禍	祸	wo6		wo6
+祺	祺	ki4		kei4
+稟	禀	ban2		1)ban2:稟告 2)lam5:倉稟
+禁	禁	gam3「禁止」,kam1「禁用，耐用」		1)gam3:禁止 2)kam1:弱不禁風
+祿	禄	luk6		luk6
+禪	禅	sim4「禪宗」,sin6「禪讓」		1)sim4:禪師 2)sin6:禪讓
+福	福	fuk1		fuk1
+禧	禧	hi1		hei1
 禹	禹	jyu5		jyu5
-离	离	li4「同離字」	(語)le4「離氣he3，不修邊幅」	lei4,ci1
+离	离	li4「同離字」	(語)le4「離氣he3，不修邊幅」	lei4
+離	离	li4「離開」	(語)le4「離氣he3，不修邊幅」	lei4；(古)lei6不可須臾離也
 禽	禽	kam4		kam4
 禾	禾	wo4		wo4
-禿	秃	tuk1	(又)tyut1	tuk1
 秀	秀	slau3		sau3
+俬	私	si1	(老派)sy1	si1
 私	私	si1	(老派)sy1	si1
+禿	秃	tuk1	(又)tyut1	tuk1
+稈	秆	gon2		gon2
 秉	秉	bing2		bing2
 秋	秋	cau1		cau1
-种	种	cung4「姓」	(又)zung3「同種字，種植」,(又)zung2「同種字，種類」	zung3,cung4,zung2
+鞦	秋	cau1		cau1
+种	种	cung4「姓」,zung3「同種字，種植」,zung2「同種字，種類」		zung3,cung4,zung2
+種	种	zung3「種植」,zung2「種類」		1)zung2:種子 2)zung3:種植
 秏	秏	hu3		hou3
 科	科	fo1		fo1
 秒	秒	miu5		miu5
 秕	秕	bi2		bei2
-秘	秘	bi3		(異讀)bai3,bei3
+祕	秘	bi3		bei3
+秘	秘	bi3		bei3
 租	租	zu1		zou1
 秣	秣	mut3		mut3
 秤	秤	cing3		cing3
@@ -3632,90 +3744,87 @@
 秧	秧	joeng1		joeng1
 秩	秩	dit6	(又)dip6	dit6
 秫	秫	sat6		seot6
+積	积	zik1		zik1
+稱	称	cing3「相稱」,cing1「稱呼」		1)cing1:稱呼 2)cing3:稱心
 秸	秸	gaai1		gaai1
+稭	秸	gaai1		gaai1
 移	移	ji4		ji4
+穢	秽	wai3		wai3
 稀	稀	hi1		hei1
-稅	税	sui3		seoi3,teoi3,tyut3
 稆	稆	lyu5		leoi5
-稈	秆	gon2		gon2
 程	程	cing4		cing4
 稍	稍	saau2		saau2
+稅	税	sui3		seoi3
 税	税	sui3		seoi3
 稔	稔	nim1「花稔，番稔的音變，番石榴，又作棯/捻字」,nam5「熟稔」	(又)nem1「番稔，又作棯/捻字」	1)nam5:熟稔 2)nim1:山稔
-稗	稗	baai6	(又)bai2	baai6,(異讀)bai6,(異讀)pei4
-稙	稙	zik6	(又)zik1	(異讀)zik1,zik6
+稗	稗	baai6	(又)bai2	bai6
+稙	稙	zik6		zik6
 稚	稚	zi3	(又)zi6	zi6
-稜	棱	ling4	(又)lang4,(語)lang5「鞭痕」	ling4
-稟	禀	ban2		1)ban2:稟告 2)lam5:倉稟
 稠	稠	cau4		cau4
-稭	秸	gaai1		gaai1
-種	种	zung3「種植」,zung2「種類」		1)zung2:種子 2)zung3:種植
-稱	称	cing3「相稱」,cing1「稱呼」		1)cing1:稱呼 2)cing3:稱心
+穌	稣	slu1		sou1
+穩	稳	wan2		wan2
 稷	稷	zik1		zik1
 稻	稻	du6		dou6
 稼	稼	gaa3		gaa3
 稽	稽	kai1		kai1
 稿	稿	gu2		gou2
-穀	谷	guk1		guk1
 穄	穄	zai3		zai3
 穆	穆	muk6		muk6
-穌	稣	slu1		sou1
-積	积	zik1		zik1
-穎	颖	wing5		wing6
-穗	穗	sui6	(又)slui6	seoi6
 穡	穑	sik1		sik1
-穢	秽	wai3		wai3
-穩	稳	wan2		wan2
-穫	获	waak6	(又)wok6	wok6
+穗	穗	sui6	(又)slui6	seoi6
+繐	穗	slui6	(又)sui6	seoi6
 穭	穞	lyu5		leoi5
 穮	穮	biu1「除草」	(又)paau1「穮䅦，禾虛貌」	biu1
-穰	穰	nong4		joeng4,(異讀)joeng6,(異讀)joeng5
+穰	穰	nong4		joeng4
 穴	穴	jyut6		jyut6
 穵	穵	(白)wet3「同挖字」	(文)waat3	waat3
 究	究	gau3		gau3
+窮	穷	kung4		kung4
 穹	穹	kung4		kung4
 空	空	hung1		hung1
 穿	穿	cyun1		cyun1
 突	突	dat6		dat6；(泉名)duk1趵突泉
+竊	窃	cit3		sit3
 窄	窄	zaak3		zaak3
 窈	窈	miu5		miu5；(又)jiu2
+竅	窍	kiu3	(又)hiu3	hiu3；(又)kiu3
+窯	窑	jiu4		jiu4
 窒	窒	zat6		zat6
 窕	窕	tiu5		tiu5
 窖	窖	gaau3		gaau3
 窗	窗	cong1	(又)coeng1	coeng1
 窘	窘	kwan3		kwan3
+竄	窜	cyun3		cyun2；(又)cyun3
+窩	窝	wo1		wo1
 窟	窟	fat1	(白)wat1	fat1
 窠	窠	fo1	(又)wo1	wo1；(又)fo1
-窨	窨	jam3「窨井」	(白)am3「窨熟，捂熱」	jam3,fan1
-窩	窝	wo1		wo1
-窪	洼	waa1		waa1
-窮	穷	kung4		kung4
-窯	窑	jiu4		jiu4
-窴	窴	tin4		tin4
 窺	窥	kwai1		kwai1
-窿	窿	lung1		(異讀)lung1,lung4
-竄	窜	cyun3		cyun2；(又)cyun3
-竅	窍	kiu3	(又)hiu3	hiu3；(又)kiu3
 竇	窦	dau6		dau6
-竈	灶	zu3		zou3
-竊	窃	cit3		sit3
+窨	窨	jam3「窨井」	(白)am3「～熟，捂熱」	jam3,fan1
+窴	窴	tin4		tin4
+窿	窿	lung1		lung1,lung4
 立	立	lap6		lap6；(又)laap6
+豎	竖	syu6		syu6
 站	站	zaam6		zaam6
+競	竞	ging3	(又)ging6	ging6
 竟	竟	ging3		ging2
 章	章	zoeng1		zoeng1
 竣	竣	zan3		zeon3
 童	童	tung4		tung4
 竭	竭	kit3		kit3
 端	端	dyun1		dyun1
-競	竞	ging3	(又)ging6	ging6
 竹	竹	zuk1		zuk1
 竺	竺	zuk1		zuk1
 竽	竽	jyu4		jyu1；(又)jyu4
 竿	竿	gon1		gon1
+篤	笃	duk1		duk1
 笆	笆	baa1		baa1
 笊	笊	(白)zeu3	(文)zaau3	zaau3
+筍	笋	slan2	(老派)slyun2	seon2
 笐	笐	hong4		hong4
 笑	笑	sliu3		siu3
+筆	笔	bat1		bat1
+筧	笕	gaan2		gaan2
 笙	笙	saang1		sang1；(又)saang1
 笛	笛	dik6		dek6
 笞	笞	ci1		ci1
@@ -3723,285 +3832,265 @@
 笡	笡	ce3「斜，陡」		ce3
 符	符	fu4		fu4
 笨	笨	ban6		ban6
-笪	笪	daat3「竹笪；量詞，塊，一笪地方」		daat3
+笪	笪	daat3「竹笪；量詞，塊，一～地方」		daat3
 第	第	dai6		dai6
-笭	笭	ling4	(語)neng2「魚笭，魚簍」,(語)ning2「魚笭，魚簍」	ling4
+笭	笭	ling4	(語)neng2「魚～，魚簍」,(語)ning2「魚～，魚簍」	ling4
 笴	笴	gon2	(又)go2	gon2,go2
+箋	笺	(習)cim1	(書)zin1	zin1
+籠	笼	lung4「鳥籠」,lung5「籠箱」		lung4
 筅	筅	slin2		sin2
-筆	笔	bat1		bat1
 等	等	dang2		dang2
 筋	筋	gan1		gan1
-筍	笋	slan2	(老派)slyun2	seon2
 筏	筏	faat6		fat6
 筐	筐	kwaang1	(又)kong1	hong1
 筑	筑	cuk1		zuk1
+築	筑	cuk1		zuk1
 筒	筒	tung4		tung4；(語)tung2
 答	答	daap3		daap3
 策	策	caak3		caak3
+篩	筛	sai1		sai1
+箏	筝	zang1		zang1
 筠	筠	wan4「筠竹」,gwan1「筠連，地名」		wan4；(縣名)gwan1筠連
 筦	筦	gun2		gun2
-筧	笕	gaan2		gaan2
 筭	筭	slyun3		syun3
 筲	筲	saau1		saau1
 筵	筵	jin4		jin4
 筷	筷	faai3	(白)waai3	faai3
+籌	筹	cau4		cau4
+簽	签	cim1		cim1
+籤	签	cim1		cim1
+簡	简	gaan2	(白)gen2	gaan2
 箄	箄	paai4「竹筏，又作簰/𥱼字」,bi6「漁具」		paai4,bei6
 箅	箅	bi6		bei3
-箋	笺	(習)cim1	(書)zin1	zin1
 箍	箍	ku1		ku1
-箏	筝	zang1		zang1
 箔	箔	bok6		bok6
 箕	箕	gi1		gei1
 算	算	slyun3		syun3
 箝	箝	(白)kem4	(文)kim4	kim4
 管	管	gun2		gun2
+篋	箧	haap6	(語)gip1「箱子，又作喼字」,(語)gep1「箱子，又作喼字」	haap6
+籮	箩	lo4	(白)lo1	lo4
+簞	箪	daan1		daan1
+簫	箫	sliu1		siu1
 箬	箬	joek6		joek6
 箭	箭	zin3		zin3
 箱	箱	sloeng1		soeng1
 箴	箴	zam1		zam1
-箸	箸	zyu6		zyu3,zyu6
-節	节	zit3		zit3
+箸	箸	zyu6		zyu6
 篁	篁	wong4		wong4
-範	范	faan3「模範」	(又)faan6	faan6
 篆	篆	zyun6		syun6
 篇	篇	pin1	(白)pen1	pin1
-築	筑	cuk1		zuk1
-篋	箧	(白)gep1	(文)gip1,(書)haap6	(異讀)gip2,(異讀)hip3,haap6
+簣	篑	gwai6		gwai6
+簍	篓	lau5		lau5
 篙	篙	gu1		gou1
 篡	篡	cyun3	(又)saan3	saan3
-篤	笃	duk1		duk1
-篦	篦	bi6		(異讀)bai1,bei6,bei1
-篩	筛	sai1		sai1
+篦	篦	bi6		bei6
+籃	篮	laam4	(白)laam1	laam4
 篱	篱	li4		lei4
+籬	篱	li4		lei4
 篴	篴	dik6		dek6
 篷	篷	pung4		pung4
-篸	𥮾	(白)cem2「箕，垃圾～」	(文)caam2	caam2,zaam1
 篺	篺	paai4		paai4
 篼	篼	dau1		dau1
 篾	篾	(白)met6	(文)mit6	mit6
 簁	簁	sai1		sai1
 簇	簇	cuk1		cuk1
-簍	篓	lau5		lau5
-簕	簕	lak6		lak6,(異讀)laak6
-簞	箪	daan1		daan1
+簕	簕	lak6「植物的刺」		lak6
 簟	簟	dim6		tim5
-簡	简	gaan2	(白)gen2	gaan2
-簣	篑	gwai6		gwai6
 簧	簧	wong4		wong4
 簪	簪	zaam1		zaam1
-簫	箫	sliu1		siu1
 簰	簰	paai4「同箄字」,bi6「漁具」		paai4,bei6
+𥱼	簰	paai4「同箄字」		paai4
 簳	簳	gon2		gon2
 簷	簷	jim4	(白)jam4	sim4；(又)jim4
 簸	簸	bo3	(又)po3	bo3
-簽	签	cim1		cim1
-簾	帘	lim4		lim4
 簿	簿	bu6		bou6；(語)bou2
-籃	篮	laam4	(白)laam1	laam4
-籌	筹	cau4		cau4
-籍	籍	zik6		zik6
 籟	籁	laai6		laai6
-籠	笼	lung4「鳥籠」,lung5「籠箱」		lung4
-籤	签	cim1		cim1
-籬	篱	li4		lei4
-籮	箩	lo4	(白)lo1	lo4
+籍	籍	zik6		zik6
 籰	籰	waak6	(又)wok6	wok6
-籲	吁	jyu6		jyu6
 米	米	mai5「米粉」	(語)mai1「一米七」	mai5
+糴	籴	dik6		dek6
+類	类	lui6		leoi6
 粉	粉	fan2		fan2
 粒	粒	nap1		nap1
 粕	粕	paak3	(又)pok3	pok3；(又)paak3
 粗	粗	cu1		cou1
-粘	粘	nim1「粘貼；舊同黏字」	(又)zim1「粘米，秈米」	nim4,(異讀)zim1
+粘	粘	nim1「粘貼；舊同黏字」,zim1「粘米」		nim4,zim1
+糶	粜	tiu3		tiu3
 粟	粟	sluk1		suk1
+粵	粤	jyut6		jyut6
 粥	粥	zuk1		zuk1
 粧	粧	zong1		zong1
+糞	粪	fan3		fan3
 粮	粮	loeng4		loeng4
+糧	粮	loeng4		loeng4
 粱	粱	loeng4		loeng4
 粳	粳	gang1	(白)gaang1	gang1
-粵	粤	jyut6		jyut6
 粹	粹	cui3		seoi6
 粽	粽	zung3		zung3；(又)zung2
-精	精	zing1	(白)zeng1「機靈」	zing1
 糉	粽	zung3		zung2
+精	精	zing1	(白)zeng1「機靈」	zing1
+糝	糁	slam2「撒」	(又)slaam2	sam2
 糊	糊	wu4		wu4
+餬	糊	wu4		wu4
 糍	糍	ci4	(老派)cy4	ci4
 糕	糕	gu1		gou1
 糖	糖	tong4		tong4；(語)tong2
+醣	糖	tong4		tong4
 糙	糙	cu3「粗糙」	(又)zu6「早糙米，早稻」	cou3
 糜	糜	mi4		mei4
-糝	糁	slam2「撒」	(又)slaam2	saam2,(異讀)sam2,(異讀)sam3
-糞	粪	fan3		fan3
 糟	糟	zu1		zou1
 糠	糠	hong1		hong1
 糢	糢	mo1		mou4
-糧	粮	loeng4		loeng4
 糯	糯	no6		no6
-糰	团	tyun4		tyun4
-糴	籴	dik6		dek6
-糶	粜	tiu3		tiu3
+係	系	hai6「關係；是」		hai6
 系	系	hai6		hai6
-糾	纠	dau2	(書)gau2	gau2；(又)dau2
-紀	纪	gi2		1)gei3:紀事 2)gei2:紀元，姓紀
-紂	纣	zau6		zau6
-約	约	joek3		joek3
-紅	红	hung4「紅色」,gung1「女紅」		1)hung4:紅色 2)gung1:女紅
-紇	纥	hat6「回紇」,gat1「紇繨」	(語)gat6「紇𤶸，活結，引申為摳門」	1)hat6:回紇 2)gat1:紇繨
-紈	纨	jyun4	(又)waan4	jyun4
-紉	纫	jan6		jan6
+繫	系	hai6		hai6
 紊	紊	man6		man6
-紋	纹	man4		man4；同璺man6
-納	纳	naap6		naap6
-紐	纽	nau2		nau2
+素	素	slu3		sou3
+索	索	slok3		sok3；搜尋義又讀saak3
+緊	紧	gan2		gan2
+紫	紫	zi2	(老派)zy2	zi2
+累	累	lui6「勞累，連累」,lui5「積累」,lui4「果實累累」		1)leoi5:累積 2)leoi6:受累,累極了 3)leoi4:果實累累
+纍	累	lui4「果實纍纍」		leoi4
+絫	絫	lui5		leoi5
+絮	絮	slyu3	(又)syu3	seoi5；(又)seoi6
+縻	縻	mi4		mei4
+繁	繁	faan4		faan4
+纂	纂	zyun6		zyun2
+糾	纠	dau2	(書)gau2	gau2；(又)dau2
+紅	红	hung4「紅色」,gung1「女紅」		1)hung4:紅色 2)gung1:女紅
+紂	纣	zau6		zau6
+縴	纤	hin1		hin1
+纖	纤	cim1		cim1
+紇	纥	hat6「回紇」,gat1「紇繨」	(語)gat6「紇𤶸，活結，引申為摳門」	1)hat6:回紇 2)gat1:紇繨
+約	约	joek3		joek3
+級	级	kap1		kap1
+紈	纨	jyun4	(又)waan4	jyun4
+纊	纩	kong3	(語)kwang3「掛着，絆着」	kwong3
+紀	纪	gi2		1)gei3:紀事 2)gei2:紀元，姓紀
+紉	纫	jan6		jan6
+緯	纬	wai2		wai5
+紜	纭	wan4		wan4
 純	纯	san4	(老派)syun4,(又)slyun4,(又)slan4	seon4
 紕	纰	pi1「紕漏」,pi4「衣帽的緣邊；鑲邊」		1)pei1:紕繆 2)pei4:縞冠素紕
 紗	纱	saa1		saa1
-紙	纸	zi2		zi2
-級	级	kap1		kap1
+綱	纲	gong1		gong1
+納	纳	naap6		naap6
+紝	纴	jam6		jam6
+縱	纵	zung3「放縱」,zung1「縱橫」		1)zung3:縱虎歸山 2)zung1:縱橫
+綸	纶	lan4「滿腹經綸」,gwaan1「羽扇綸巾」	(老派)lyun4「滿腹經綸」	1)leon4:垂綸 2)gwaan1:綸巾
 紛	纷	fan1		fan1
-紜	纭	wan4		wan4
-紝	纴	jam6	(又)jam2	jam4,(異讀)jam6
-素	素	slu3		sou3
+紙	纸	zi2		zi2
+紋	纹	man4		man4；同璺man6
 紡	纺	fong2		fong2
-索	索	slok3		sok3；搜尋義又讀saak3
-紫	紫	zi2	(老派)zy2	zi2
-紮	扎	zaat3	(又)zaap3「紮馬步」	zaat3
-累	累	lui6「勞累，連累」,lui5「積累」,lui4「果實累累」		1)leoi5:累積 2)leoi6:受累,累極了 3)leoi4:果實累累
-細	细	slai3		sai3
+紐	纽	nau2		nau2
+綫	线	slin3		sin3
+線	线	slin3		sin3
+練	练	lin6		lin6
+組	组	zu2		zou2
 紳	绅	san1		san1
-紹	绍	siu6		siu6
+細	细	slai3		sai3
+織	织	zik1		zik1
+終	终	zung1		zung1
+縐	绉	zau3		zau3
+絆	绊	bun6		bun6
 紼	绋	fat1		fat1
 絀	绌	zyut3		zyut3
-終	终	zung1		zung1
-絃	弦	jin4		jin4
-組	组	zu2		zou2
-絆	绊	bun6		bun6
-絎	绗	hong4		hong4
+紹	绍	siu6		siu6
+繹	绎	jik6		jik6
+經	经	ging1		ging1
+綁	绑	bong2		bong2
+絨	绒	jung4	(白)jung2	jung4
 結	结	git3		git3
+繞	绕	jiu2		jiu2；(又)jiu5
+絎	绗	hong4		hong4
+繪	绘	wui6	(又)kui3	kui2；(又)kui3
+給	给	kap1		kap1
+絢	绚	hyun3		hyun3
+絡	络	lok3		lok3
 絕	绝	zyut6		zyut6
 絞	绞	(白)geu2	(文)gaau2	gaau2
-絡	络	lok3		lok3
-絢	绚	hyun3		hyun3
-給	给	kap1		kap1
-絨	绒	jung4	(白)jung2	jung4
-絫	絫	lui5		leoi5
-絮	絮	slyu3	(又)syu3	seoi5；(又)seoi6
 統	统	tung2		tung2
-絲	丝	si1	(老派)sy1	si1
 絹	绢	gyun3	(又)gyun1	gyun3
-綁	绑	bong2		bong2
-綏	绥	slyu1	(又)syu1	seoi1
-綑	捆	kwan2		kwan2
-經	经	ging1		ging1
-綜	综	zung1		zung1；(又)zung3
-綞	缍	do2		do2
-綠	绿	luk6		luk6
-綢	绸	cau4		cau4
-綫	线	slin3		sin3
-維	维	wai4		wai4
-綯	绹	tu4		tou4
-綰	绾	waan2		waan2
-綱	纲	gong1		gong1
-網	网	mong5		mong5
-綴	缀	zui3	(又)zui6	zeoi6
-綵	彩	coi2		coi2
-綸	纶	lan4「滿腹經綸」,gwaan1「羽扇綸巾」	(老派)lyun4「滿腹經綸」	1)leon4:垂綸 2)gwaan1:綸巾
-綺	绮	ji2		ji2
-綻	绽	zaan6		zaan6
-綽	绰	coek3		coek3
-綾	绫	ling4		ling4
-綿	绵	min4		min4
-緄	绲	(舊)kwan2	(又)gwan2	kwan2,gwan2
-緇	缁	zi1		zi1
-緊	紧	gan2		gan2
-緒	绪	syu5		seoi5
-緘	缄	gaam1		gaam1；緘札又讀zin1
-線	线	slin3		sin3
-緝	缉	cap1		cap1
-緞	缎	dyun6		dyun6
-締	缔	dai3	(又)tai3	dai3；(又)tai3
-緣	缘	jyun4		jyun4
-編	编	pin1		pin1
-緩	缓	wun5		wun6
-緬	缅	min5		min5
-緯	纬	wai2		wai5
-練	练	lin6		lin6
-緻	致	zi3		zi3
-緼	缊	wan1「絪緼」,wan3「亂麻；舊絮」		wan1,wan3
-縈	萦	jing4		jing4
-縊	缢	ai3		ai3
-縍	𫄰	bong1		bong1
-縐	绉	zau3		zau3
-縑	缣	gim1		gim1
-縕	缊	wan1「絪縕」,wan3「亂麻；舊絮」		wan1,wan2,(異讀)wan3
-縛	缚	fuk6	(又)bok3	bok3
-縣	县	jyun6		jyun6；(古)同懸jyun4
-縫	缝	fung4「縫補」,fung6「裂縫」		1)fung4:縫補 2)fung6:門縫
-縮	缩	suk1	(又)sluk1	suk1
-縱	纵	zung3「放縱」,zung1「縱橫」		1)zung3:縱虎歸山 2)zung1:縱橫
-縲	缧	lui4		leoi4
-縴	纤	hin1		hin1,(異讀)hin3
-縷	缕	lau5	(又)lyu5	lau5；(又)leoi5
-縻	縻	mi4		mei4
-總	总	zung2		zung2
-績	绩	zik1		zik1
-繁	繁	faan4		faan4
-繃	绷	bang1	(又)mang1「拉紧，又作掹字」	1)bang1:繃帶 2)mang2:繃著個臉
-繅	缫	slu1		sou1
-繆	缪	miu6「姓」,mau4「綢繆」,mau6「紕繆」		1)miu6:姓繆 2)mau4:綢繆 3)mau6:紕繆；通穆muk6肅繆
-繐	穗	slui6	(又)sui6	seoi6
-織	织	zik1		zik1
-繕	缮	sin6		sin6
-繚	缭	liu4	(白)leu2「繞」	liu4
-繞	绕	jiu2		jiu2；(又)jiu5
 繡	绣	slau3		sau3
-繩	绳	sing4		sing4
-繪	绘	wui6	(又)kui3	kui2；(又)kui3
-繫	系	hai6		hai6
-繭	茧	(白)gen2	(文)gaan2	gaan2
-繮	缰	goeng1	(常)koeng1	goeng1
-繰	缲	ciu1		ciu1,zou2,sou1
-繳	缴	giu2		giu2
-繹	绎	jik6		jik6
+綏	绥	slyu1	(又)syu1	seoi1
 繼	继	gai3		gai3
-繽	缤	ban1		ban1
-纂	纂	zyun6		zyun2
-纊	纩	kong3	(語)kwang3「掛着，絆着」	kwong3
+績	绩	zik1		zik1
+緒	绪	syu5		seoi5
+綾	绫	ling4		ling4
 續	续	zuk6		zuk6
-纍	累	lui5「積纍」,lui4「果實纍纍」	(又)lui6「牽連」	leoi4,leoi6,leoi5
-纏	缠	cin4	(又)zin6	cin4
-纓	缨	jing1		jing1
-纔	才	coi4		coi4
-纖	纤	cim1		cim1
+綺	绮	ji2		ji2
+綽	绰	coek3		coek3
+緄	绲	(舊)kwan2	(又)gwan2	kwan2,gwan2
+繩	绳	sing4		sing4
+維	维	wai4		wai4
+綿	绵	min4		min4
+繃	绷	bang1	(又)mang1「拉紧，又作掹字」	1)bang1:繃帶 2)mang2:繃著個臉
+綢	绸	cau4		cau4
+綯	绹	tu4		tou4
+綜	综	zung1		zung1；(又)zung3
+綻	绽	zaan6		zaan6
+綰	绾	waan2		waan2
+綠	绿	luk6		luk6
+綴	缀	zui3	(又)zui6	zeoi6
+緇	缁	zi1		zi1
+緘	缄	gaam1		gaam1；緘札又讀zin1
+緬	缅	min5		min5
 纜	缆	laam6		laam6
+緝	缉	cap1		cap1
+緼	缊	wan1「絪緼」,wan3「亂麻；舊絮」		wan1,wan3
+縕	缊	wan1「絪縕」,wan3「亂麻；舊絮」		wan1,wan3
+綞	缍	do2		do2
+緞	缎	dyun6		dyun6
+緩	缓	wun5		wun6
+締	缔	dai3	(又)tai3	dai3；(又)tai3
+縷	缕	lau5	(又)lyu5	lau5；(又)leoi5
+編	编	pin1		pin1
+緣	缘	jyun4		jyun4
+縛	缚	fuk6	(又)bok3	bok3
+縫	缝	fung4「縫補」,fung6「裂縫」		1)fung4:縫補 2)fung6:門縫
+纏	缠	cin4	(又)zin6	cin4
+縊	缢	ai3		ai3
+縑	缣	gim1		gim1
+繽	缤	ban1		ban1
+縲	缧	lui4		leoi4
+纓	缨	jing1		jing1
+縮	缩	suk1	(又)sluk1	suk1
+繆	缪	miu6「姓」,mau4「綢繆」,mau6「紕繆」		1)miu6:姓繆 2)mau4:綢繆 3)mau6:紕繆；通穆muk6肅繆
+繅	缫	slu1		sou1
+繚	缭	liu4	(白)leu2「繞」	liu4
+繕	缮	sin6		sin6
+繮	缰	goeng1	(常)koeng1	goeng1
+韁	缰	goeng1	(常)koeng1	goeng1
+繰	缲	ciu1「繰邊」,slu1「同繅字」,zu2「微帶紅的黑色帛」		ciu1,zou2,sou1
+繳	缴	giu2		giu2
 缶	缶	fau2		fau2
 缸	缸	gong1		gong1
 缺	缺	kyut3		kyut3
-缽	钵	but3		but3
 缾	缾	ping4		ping4
+罌	罂	aang1「罐子」		aang1
 罄	罄	hing3		hing3
-罅	罅	laa3	(白)le3	laa3
-罇	樽	zan1	(老派)zyun1	zeon1
-罈	坛	taam4		taam4
+罅	罅	laa3「縫隙」	(白)le3	laa3
 罉	罉	caang1「平底煎鍋，又作鐺字」		caang1
-罌	罂	aang1		aang1,(異讀)ngang1,(異讀)ang1,(異讀)ngaang1
 罐	罐	gun3		gun3
+網	网	mong5		mong5
 网	网	mong5		mong5
 罔	罔	mong5		mong5
 罕	罕	hon2		hon2
+羅	罗	lo4		lo4
+罰	罚	faat6		fat6
 罟	罟	gu2		gu2
 罡	罡	gong1		gong1
+罷	罢	baa6		baa6；(古)通疲 罷弊
+罨	罨	ap1「～汁，陰暗潮濕，又作浥字」,jim2「補魚、鳥的網；覆蓋，掩蓋」		ap1,jim2
 罩	罩	(白)zeu3	(文)zaau3	zaau3
 罪	罪	zui6		zeoi6
 置	置	zi3		zi3
-罯	罯	ap1「捂，敷，又作搕字」		ap1
-罰	罚	faat6		fat6
+罯	罯	ap1「捂、敷，又作搕字」		ap1
 署	署	syu5	(又)cyu5	cyu5；(又)syu5
-罵	骂	maa6		maa6
-罷	罢	baa6		baa6；(古)通疲 罷弊
 罹	罹	li4		lei4
-罾	罾	zang1		zang1,zang6
-羅	罗	lo4		lo4
+罾	罾	zang1		zang1
 羈	羁	gi1		gei1
 羊	羊	joeng4		joeng4；(古)通祥
 羌	羌	koeng1		goeng1
@@ -4009,14 +4098,12 @@
 羔	羔	gu1		gou1
 羚	羚	ling4		ling4
 羞	羞	slau1		sau1
-羡	羡	slin3	(又)sin3	jin4,sin6
+羡	羡	slin3	(又)sin3	sin6
+羨	羡	slin3	(又)sin3	sin6
 羣	群	kwan4		kwan4
 群	群	kwan4		kwan4
-羨	羡	slin3	(又)sin3	sin6
-義	义	ji6		ji6
 羯	羯	kit3		kit3
 羲	羲	hi1		hei1
-羶	膻	saan1		zin1
 羸	羸	lui4		leoi4
 羹	羹	gang1	(白)gaang1	gang1
 羽	羽	jyu5		jyu5
@@ -4025,9 +4112,9 @@
 翅	翅	ci3		ci3
 翌	翌	jik6		jik6
 翎	翎	ling4		ling4
-習	习	zap6		zaap6
 翔	翔	coeng4		coeng4
 翕	翕	jap1		jap1
+翹	翘	(白)heu1「翹腳，翹二郎腿」,(文)kiu4「銀翹，翹首」	(又)keu1「又作蹺字」,(白)keu4「翹keu4翹keu1，死亡」	kiu4
 翟	翟	zaak6「姓」,dik6「長尾野雞」		1)zaak6:姓翟 2)dik6:長尾
 翠	翠	cui3		ceoi3
 翡	翡	fi2		fei2
@@ -4035,7 +4122,6 @@
 翰	翰	hon6		hon6
 翱	翱	ngu4		ngou4
 翳	翳	ai3	(又)ngai3	ai3
-翹	翘	(白)heu1「翹腳，翹二郎腿」,(文)kiu4「銀翹，翹首」	(又)keu1「又作蹺字」,(白)keu4「翹keu4翹keu1，死亡」	kiu4
 翻	翻	faan1	(白)fen1,(語)pen1,(語)men1	faan1
 翼	翼	jik6		jik6
 耀	耀	jiu6		jiu6
@@ -4052,33 +4138,30 @@
 耘	耘	wan4		wan4
 耙	耙	paa4		paa4
 耜	耜	zi6	(老派)zy6	zi6
-耩	耩	gong2		gong2
 耬	耧	lau4		lau4
+耩	耩	gong2		gong2
 耳	耳	ji5		ji5
 耶	耶	je4		je4
-耷	耷	dap1		daap3,(異讀)dap1
+耷	耷	daap3	(語)dap1「垂下」	daap3
+聳	耸	slung2		sung2
+恥	耻	ci2		ci2
 耽	耽	daam1		daam1
 耾	耾	wang4		wang4
 耿	耿	gang2		gang2
+聶	聂	nip6		nip6
 聆	聆	ling4		ling4
 聊	聊	liu4		liu4
-聒	聒	gwaat3	(白)gwet3	kut3
-聖	圣	sing3		sing3
+聾	聋	lung4		lung4
+職	职	zik1		zik1
+聒	聒	gwaat3		kut3
+聯	联	(習)lin4	(書)lyun4,(又)lim4	lyun4
 聘	聘	ping3		ping3
 聚	聚	zyu6		zeoi6
-聞	闻	man4		man4
-聯	联	(習)lin4	(書)lyun4,(又)lim4	lyun4
 聰	聪	cung1		cung1
 聱	聱	ngu4		ngou4
-聲	声	(白)seng1	(文)sing1	sing1
-聳	耸	slung2		sung2
-聶	聂	nip6		nip6
-職	职	zik1		zik1
-聽	听	(白)teng1「聽見」,ting3「聽任，聽其自然」	(文)ting1	1)ting1:聽見 2)ting3:聽其自然
-聾	聋	lung4		lung4
 聿	聿	wat6	(又)lat6	wat6；(俗)leot6
-肄	肄	ji6		ji6
 肅	肃	sluk1		suk1
+肄	肄	ji6		ji6
 肆	肆	sli3「四字的大寫」,si3「放肆」		1)si3:肆無忌憚 2)sei3:四字的大寫
 肇	肇	siu6		siu6
 肉	肉	juk6		juk6
@@ -4091,136 +4174,144 @@
 肚	肚	tu5		tou5
 肛	肛	gong1		gong1
 肝	肝	gon1		gon1
+腸	肠	coeng4		coeng4
 股	股	gu2		gu2
 肢	肢	zi1		zi1
+膚	肤	fu1		fu1
 肥	肥	fi4		fei4
 肨	肨	pong3	(又)pun4,(又)pung4	pong3
 肩	肩	gin1		gin1
 肪	肪	fong1		fong1
 肫	肫	zan1	(訓)san5「訓讀爲腎」,(語)kan5「家禽、鳥類的胃，又作胗字」	zeon1
-肮	肮	ong1		ong1,hong4,(異讀)gong1
+肮	肮	ong1		ong1
+骯	肮	ong1		ong1
 肯	肯	hang2		hang2；中肯又讀hoi2
 肱	肱	gwang1		gwang1
 育	育	juk1		juk6
 肴	肴	ngaau4		ngaau4
+餚	肴	ngaau4		ngaau4
 肺	肺	fai3		fai3
-胂	胂	san6「一種有機化合物」	(語)can1「胂懶腰，又作伸/抻字」	(異讀)san1,san6
+腎	肾	san5		san6；(又)san5
+腫	肿	zung2		zung2
+脹	胀	zoeng3		zoeng3
+脅	胁	hip3		hip3
+胂	胂	san6「一種有機化合物」	(語)can1「～懶腰，又作伸/抻字」	san6
 胃	胃	wai6		wai6
+冑	胄	zau6		zau6
 胄	胄	zau6		zau6
+膽	胆	daam2		daam2
 背	背	bui6「背書」,bui3「背脊」		1)bui3:背後 2)bui6:背書
 胎	胎	toi1		toi1
 胐	胐	fat1	(白)wat1	fat1
 胑	胑	zi1		zi1
 胖	胖	pun5「肥胖」,pun4「心廣體胖」	(常)pong3「肥胖」	bun6；心廣體胖又讀pun4
-胗	胗	zan1	(訓)san5「訓讀爲腎」,(語)kan5「家禽、鳥類的胃，又作肫字」	zan1,zan2
+胗	胗	zan1	(訓)san5「訓讀爲腎」,(語)kan5「家禽、鳥類的胃，又作肫字」	zan1
 胚	胚	pui1	(又)pi1	pui1
 胛	胛	gaap3		gaap3
-胜	胜	sing3		saang1,sing3,sing1
-胞	胞	baau1	(白)beu1	baau1
+勝	胜	sing3		1)sing3:聖地 2)sing1:勝任
+胜	胜	sing3「同勝字」,sing1「同勝字」		sing3,sing1
+胞	胞	baau1「細胞」	(白)beu1「胞胎」	baau1
 胡	胡	wu4		wu4
+衚	胡	wu4		wu4
+鬍	胡	wu4		wu4
 胤	胤	jan6		jan6
 胥	胥	slyu1		seoi1
+朧	胧	lung4		lung4
+臚	胪	lu4		lou4
+脛	胫	ging3		ging3
 胭	胭	jin1		jin1
 胰	胰	ji4		ji4
 胱	胱	gong1		gwong1
 胳	胳	gaak3「胳肋，腋窩；胳臂」	(又)gok3「胳臂」	gaak3
 胴	胴	dung6 		dung6
+膠	胶	(白)geu1	(文)gaau1	gaau1
 胸	胸	hung1		hung1
-胺	胺	on1「化合物名稱」	(語)ngat1「屙胺尿，尿淋」	aat3,(異讀)ngaat3,(異讀)ngon1,(異讀)on3,on1
+胺	胺	on3「化合物名稱」	(語)ngat1「屙～尿，尿淋」	aat3,on3
 能	能	nang4		nang4
 脂	脂	zi1		zi1
-脅	胁	hip3		hip3
 脆	脆	cui3		ceoi3
 脈	脉	mak6		mak6
 脉	脉	mak6		mak6
 脊	脊	(白)zek3	(文)zik3,(又)zik1	zek3
+膾	脍	kui3	(又)kwai3,(又)kwaai3	kui2；(又)kui3
+臟	脏	zong6		zong6
+髒	脏	zong1		zong1
+臍	脐	ci4		ci4
+腦	脑	nu5		nou5
+膿	脓	nung4		nung4
 脖	脖	but6		but6
-脛	胫	ging3		(異讀)hing5,ging3
-脣	唇	san4	(老派)syun4	seon4
+腳	脚	goek3		goek3
 脤	脤	san5		san5
-脩	修	slau1		sau1
-脫	脱	tyut3		tyut3
-脬	脬	(白)peu1	(文)paau1	paau1
+脬	脬	paau1	(白)peu1	paau1
 脯	脯	pu2「杏脯；胸脯」,pu4「胸脯」		1)fu2:杏脯 2)pou2:胸脯
+脫	脱	tyut3		tyut3
 脱	脱	tyut3		tyut3
+腡	脶	lo4		lo4
 脷	脷	li6「舌頭」		lei6
-脹	胀	zoeng3		zoeng3
+臉	脸	lim5	(又)lin2	lim5
 脾	脾	pi4		pei4
 腆	腆	(習)dim2	(書)tin2	tin2
 腊	腊	laap6「同臘字」,slik1「乾肉」		laap6,sik1
+臘	腊	laap6		laap6
 腋	腋	jik6		jik6
 腌	腌	jip3	(書)jim1	jim1；(語)jip3
+醃	腌	jip3	(書)jim1	jim1；(語)jip3
 腍	腍	nam4「松軟，爛熟」		nam4
-腎	肾	san5		san6；(又)san5
 腏	腏	zyut3	(語)cot6「男陰」	zyut3
 腐	腐	fu6		fu6
 腑	腑	fu2		fu2
 腔	腔	hong1	(又)koeng1	hong1
 腕	腕	wun2		wun2
 腚	腚	ding6		ding6
-腡	脶	lo4		(異讀)gwaa1,lo4
 腥	腥	(白)sleng1	(文)sling1	sing1；(語)seng1
-腦	脑	nu5		nou5
-腩	腩	naam5	(又)naam2	naam5
-腫	肿	zung2		zung2
+腩	腩	naam5「腹部的肥肉」		naam5
 腬	腬	nau6「膩」		nau6
+齶	腭	ngok6		ngok6
 腮	腮	sloi1		soi1
-腯	腯	dyut1「肥腯腯，胖乎乎」,dat1「肥腯腯，胖乎乎」	(又)tan4「肥腯腯，胖乎乎」,(又)det6「矮腯腯，矮貌」	dat1,(異讀)dat6,(異讀)teon5
+腯	腯	dyut1「肥～～，胖乎乎」,dat1「肥～～，胖乎乎」	(又)tan4「肥～～，胖乎乎」,(又)det6「矮～～，矮貌」	dat1,teon5,dat6
 腰	腰	jiu1		jiu1
 腱	腱	gin3		gin3
-腳	脚	goek3		goek3
-腸	肠	coeng4		coeng4
 腹	腹	fuk1		fuk1
 腺	腺	slin3		sin3
+膩	腻	ni6	(語)nau6「又作腬字」	nei6
+靦	腼	dim2「靦顏」,min5「靦腆」	(書)tin2「靦顏」	1)tin2:靦顏 2)min5:靦腆
 腽	腽	wat1		wat1
+膃	腽	wat1		wat1
+騰	腾	tang4		tang4
 腿	腿	tui2		teoi2
 膀	膀	bong2「肩膀」,pong4「膀胱」		1)bong2:肩膀 2)pong4:膀胱
-膂	膂	lyu5		(異讀)leoi3,leoi5
-膃	腽	wat1		wat1
+膂	膂	lyu5		leoi5
 膆	膆	slui3「同嗉字」	(又)slyu3	sou3
 膈	膈	gaak3		gaak3
 膊	膊	bok3		bok3
 膏	膏	gu1		gou1
+臏	膑	ban3		ban3
 膘	膘	biu1		biu1
-膚	肤	fu1		fu1
 膛	膛	tong4		tong4
 膜	膜	mok6「薄膜」,mu4「膜拜」	(又)mok3「薄膜」	1)mok6:耳膜 2)mou4:膜拜
 膝	膝	slat1		sat1
-膞	䏝	zyun1		zyun1
-膠	胶	(白)geu1	(文)gaau1	gaau1
 膨	膨	paang4		paang4
-膩	腻	ni6	(語)nau6「又作腬字」	nei6
 膬	膬	cui3		ceoi3
 膳	膳	sin6		sin6
 膶	膶	jan6	(老派)jyun6,(白)jyun2「豬～，豬肝」,(白)jan2「豬～，豬肝」	jeon2
 膺	膺	jing1		jing1
-膻	膻	saan1		daan6,(異讀)sin1,(異讀)saan1,zin1
-膽	胆	daam2		daam2
-膾	脍	kui3	(又)kwai3,(又)kwaai3	kui2；(又)kui3
-膿	脓	nung4		nung4
+羶	膻	saan1		zin1
+膻	膻	saan1		zin1
 臀	臀	tan4		tyun4
 臂	臂	bi3		bei3
 臃	臃	jung1		jung2
 臆	臆	jik1		jik1
-臉	脸	lim5	(又)lin2	lim5
 臊	臊	slu1「臊味」,slu3「害臊」		sou1,sou3
-臍	脐	ci4		ci4
-臏	膑	ban3		ban3
 臕	臕	biu1		biu1
-臘	腊	laap6		laap6
-臚	胪	lu4		lou4
 臝	臝	lo2「同裸字」		lo2
-臟	脏	zong6		zong6
 臣	臣	can4		san4
 臤	臤	hin1「堅固」,jin4「同賢字」		hin1
-臥	卧	ngo6		ngo6
 臧	臧	zong1		zong1
-臨	临	lam4		lam4
 自	自	zi6	(老派)zy6	zi6
 臭	臭	cau3		cau3
 至	至	zi3		zi3
+緻	致	zi3		zi3
 致	致	zi3		zi3
-臺	台	toi4		toi4
 臻	臻	zan1		zeon1
 臼	臼	kau5		kau5
 臾	臾	jyu4		jyu4
@@ -4228,12 +4319,10 @@
 舁	舁	jyu4		jyu4
 舂	舂	cung1		zung1
 舅	舅	kau5		kau5
-與	与	jyu5		1)jyu5:贈與 2)jyu6:參與；同歟
-興	兴	hing3「高興」,hing1「興旺」		1)hing1:興奮 2)hing3:高興
-舉	举	gyu2		geoi2
-舊	旧	gau6		gau6
-舋	舋	jan3	(又)hang6	man6,jan3,(異讀)jan6
+輿	舆	jyu4		jyu4
+舋	舋	jan3「同釁字」	(又)han3,(又)hang6	jan3,jan6
 舌	舌	sit6		sit3；(又)sit6
+捨	舍	se2		se2
 舍	舍	se2「同捨字」,se3「宿舍」		se3；同捨
 舐	舐	saai2	(語)lem2	saai2
 舒	舒	syu1		syu1
@@ -4249,44 +4338,57 @@
 航	航	hong4		hong4
 舫	舫	fong2		fong2
 般	般	bun1		bun1；1)(古人名)baan1公輸般 2)(佛經語)bo1波若
+艦	舰	laam6		laam6
+艙	舱	cong1		cong1
 舵	舵	to5	(白)taai5「又作舦字」,(又)to4,(又)do6	to4
 舶	舶	bok6	(又)paak3	bok6；舶來品又讀paak3
 舷	舷	jin4		jin4
 船	船	syun4		syun4
 艇	艇	teng5		teng5
 艘	艘	sau1		sau2；本讀sau1
-艙	舱	cong1		cong1
-艦	舰	laam6		laam6
 艮	艮	gan3		gan3
 良	良	loeng4		loeng4
 艱	艰	gaan1	(白)gen1	gaan1
 色	色	sik1		sik1
 艷	艳	(習)jin6	(書)jim6	jim6
+豔	艳	(習)jin6	(書)jim6	jim6
 艸	艸	cu2「同草字」		cou2
+藝	艺	ngai6		ngai6
 艾	艾	ngaai6	(又)ngoi6	ngaai6
+節	节	zit3		zit3
 芋	芋	wu6		wu6
 芍	芍	zoek3	(又)soek6	zoek3
 芒	芒	mong4「芒種」,mong1「芒（杧）果」		1)mong4:光芒 2)mong1:芒（杧）果
 芙	芙	fu4		fu4
+蕪	芜	mu4		mou4
 芝	芝	zi1		zi1
 芟	芟	saam1		saan1；(又)saam1
 芥	芥	gaai3		gaai3
+蘆	芦	lu4		lou4
 芧	芧	zyu6「古書上指橡實」,cyu5「同苧字」		zeoi6,cyu5
-芫	芫	jim4	(書)jyun4	(異讀)jim4,jyun4
+芫	芫	jim4「芫茜，芫荽」	(書)jyun4	jyun4
 芬	芬	fan1		fan1
 芭	芭	baa1		baa1
 芮	芮	jui6		jeoi6
-芯	芯	slam1		sam1,(異讀)seon3
+芯	芯	slam1		sam1
 花	花	faa1	(白)waa1	faa1
 芳	芳	fong1		fong1
 芹	芹	kan4		kan4
-芻	刍	cyu1		co1
 芽	芽	ngaa4		ngaa4
+葦	苇	wai2	(又)wai4	wai5
+莧	苋	jin6	(白)hen6	jin6
+蒼	苍	cong1		cong1
+苧	苎	cyu5		cyu5
+囌	苏	slu1		sou1
+甦	苏	slu1		sou1
+蘇	苏	slu1		sou1
 苑	苑	jyun2		jyun2
 苒	苒	jim5		jim5
 苓	苓	ling4		ling4
 苔	苔	toi4「青苔」,toi1「舌苔」		1)toi4:青苔 2)toi1:舌苔
+薹	苔	toi4		toi4
 苗	苗	miu4		miu4
+檾	苘	king2	(又)gwing2	gwing2
 苘	苘	king2	(又)gwing2	gwing2
 苛	苛	ko1	(又)ho1	ho1
 苞	苞	(白)beu1	(文)baau1	baau1
@@ -4294,23 +4396,27 @@
 苣	苣	gyu6		geoi6
 若	若	joek6		joek6；(佛經語)般若je5
 苦	苦	fu2		fu2
-苧	苎	cyu5		cyu5
 英	英	jing1		jing1
-苴	苴	zaa2「土苴；劣質的，又作鮓字」,caa4「枯草」,zyu1「苴麻」		caa1,zaa2,(異讀)caa4,ceoi1,(異讀)zaa3,(異讀)zeoi2,zeoi1
+苴	苴	zaa2「土苴；劣質的，又作鮓字」,caa4「枯草」,zyu1「苴麻」		zaa2,caa4,zeoi1
+蘋	苹	ping4「蘋果」,pan4「蕨類植物」		ping4
 茁	茁	zyut3	(又)zaat3	zyut3
 茂	茂	mau6		mau6
+範	范	faan3「模範」	(又)faan6	faan6
 范	范	faan6「姓」		faan6
 茄	茄	ke4「茄子」,gaa1「雪茄」	(白)ke2「茄汁」	1)ke2 2)gaa1:雪茄；番茄(又)ke4
 茅	茅	(白)meu4	(文)maau4	maau4
 茉	茉	mut6		mut6
+莖	茎	ging3		hang1；(俗)ging3
+塋	茔	jing4		jing4
 茗	茗	ming5	(又)ming4	ming5；(又)ming4
+茜	茜	slai1「芫茜」	(書)sin6	sai1,sin6
 茠	茠	haau1「同薅字」,jau1「同休字」	(書)hu1「同薅字」	jau1,hou1
-茧	茧	(白)gen2,(白)zin2「同趼字」	(文)gaan2	gaan2,gin2
+繭	茧	(白)gen2	(文)gaan2	gaan2
+茧	茧	(白)gen2	(文)gaan2	gaan2,gin2
 茫	茫	mong4		mong4
-茬	茬	caa4		caa4,ci4
-茭	茭	(白)geu1	(文)gaau1	gaau1
+茬	茬	caa4		caa4
+茭	茭	gaau1	(白)geu1	gaau1
 茱	茱	zyu1		zyu1
-茲	兹	zi1	(老派)zy1	1)zi1:念茲在茲 2)ci4:龜茲
 茴	茴	wui4		wui4
 茵	茵	jan1		jan1
 茶	茶	caa4		caa4
@@ -4318,30 +4424,51 @@
 茹	茹	jyu4		jyu4
 荀	荀	slan4	(老派)slyun4	seon1
 荃	荃	cyun4		cyun4
-草	草	cu2		cou2
 荊	荆	ging1		ging1
+草	草	cu2		cou2
 荏	荏	jam5		jam5
 荐	荐	zin3		zin3
+薦	荐	zin3		zin3
 荒	荒	fong1		fong1
 荔	荔	lai6		lai6
+莢	荚	(白)gep3「豆莢」	(文)gaap3,(語)haap3「菜莢，老菜葉」	gaap3
+蕎	荞	kiu4		kiu4
+薺	荠	cai4「荸薺」,cai5「薺菜」		cai4,cai5
+盪	荡	dong6		dong6
+蕩	荡	dong6		dong6
+榮	荣	(習)jung4	(書)wing4	wing4
+葷	荤	(白)wan1	(文)fan1	fan1
+滎	荥	jing4		jing4
+犖	荦	lok3		lok3
+蓀	荪	slyun1		syun1
+廕	荫	jam3		jam3
+蔭	荫	jam3		jam3
+葯	药	joek6		joek3,joek6
+藥	药	joek6		joek6
 荷	荷	ho4「薄荷，荷花」,ho6「荷載」		1)ho4:荷花 2)ho6:負荷
 荸	荸	but6		but6
 荻	荻	dik6		dik6
 荼	荼	tu4		tou4；神荼（門神）讀syu1
-荽	荽	slai1	(書)slui1	seoi1
+荽	荽	slai1「芫荽」	(書)slui1	seoi1
+蒞	莅	li6		lei6
 莉	莉	li6		lei6
-莊	庄	zong1		zong1
 莎	莎	slo1「莎草」,saa1「莎士比亞」		1)so1:莎草 2)saa1:莎士比亞
 莒	莒	gyu2		geoi2
 莓	莓	mui4		mui4
-莖	茎	ging3		hang1；(俗)ging3
 莘	莘	san1		san1
 莝	莝	co3		co3
 莞	莞	gun2「東莞」,wun5「莞爾」		1)gun2:東莞縣 2)wun5:莞爾
 莠	莠	jau5	(又)jau3	jau5
-莢	荚	(白)gep3「豆莢」	(文)gaap3,(語)haap3「菜莢，老菜葉」	gaap3
-莧	苋	jin6	(白)hen6	jin6
 莫	莫	mok6		mok6
+萊	莱	loi4		loi4
+蓮	莲	lin4		lin4
+萵	莴	wo1		wo1
+獲	获	waak6	(又)wok6	wok6
+穫	获	waak6	(又)wok6	wok6
+瑩	莹	jing4		jing4
+鶯	莺	ang1	(又)jing1	ang1
+蒓	莼	san4	(老派)syun4	seon4
+蓴	莼	san4	(老派)syun4	seon4
 莽	莽	mong5	(又)maang5	mong5
 菁	菁	zing1		zing1
 菄	菄	dung1		dung1
@@ -4353,579 +4480,515 @@
 菜	菜	coi3		coi3
 菠	菠	bo1		bo1
 菢	菢	bu6「孵」		bou6
-菩	菩	po4	(又)pu4	pou4
-華	华	waa4		1)waa4:中華 2)waa6:華山，姓華；(古)同花
+菩	菩	po4	(書)pu4	pou4
 菰	菰	gu1		gu1
 菱	菱	ling4		ling4
 菲	菲	fi1「芳菲」,fi2「菲薄」		1)fei1:芳菲 2)fei2:菲薄
-菴	庵	am1		am1,(異讀)ngam1
-菸	烟	jin1		jin1
 菽	菽	suk6		suk6
 萁	萁	gi1「草名」,ki4「豆萁」		gei1,kei4
 萃	萃	cui3		seoi6
 萄	萄	tu4		tou4
-萊	莱	loi4		loi4
 萋	萋	cai1		cai1
 萌	萌	mang4		mang4
 萍	萍	ping4		ping4
 萎	萎	wai2		1)wai1:哲人其萎 2)wai2:枯萎
-萬	万	maan6		maan6
+蘿	萝	lo4		lo4
+螢	萤	jing4		jing4
+營	营	jing4		jing4
+縈	萦	jing4		jing4
+蕭	萧	sliu1		siu1
+薩	萨	slaat3		saat3
 萱	萱	hyun1		hyun1
-萵	莴	wo1		wo1
 萸	萸	jyu4		jyu4
 萼	萼	ngok6		ngok3
 落	落	lok6		lok6
-葉	叶	jip6		jip6
 著	著	zyu3「著作」,zoek3「著衫」,zoek6「睡著」		1)zyu3:著述 2)zoek3:衣著 3)zoek6:看著，著涼；另參考4145【着】字
-葚	葚	sam6		sam6,(異讀)zam1
+葚	葚	sam6		sam6
 葛	葛	got3		got3
 葡	葡	pu4		pou4
 董	董	dung2		dung2
-葦	苇	wai2	(又)wai4	wai5
 葩	葩	baa1	(又)paa1	baa1
 葫	葫	wu4		wu4
 葬	葬	zong3		zong3
-葯	药	joek6		joek3,joek6
 葱	葱	cung1		cung1
+蔥	葱	cung1		cung1
 葵	葵	kwai4		kwai4
-葷	荤	(白)wan1	(文)fan1	fan1
 蒀	蒀	wan1		wan1
-蒂	蒂	dai3		dai3
-蒍	𫇭	wai2		wai2
-蒐	搜	slau1「蒐集」		sau2；(又)sau1
-蒓	莼	san4	(老派)syun4,(又)slyun4,(又)slan4	seon4
 蒕	蒀	wan1		wan1
+蒂	蒂	dai3		dai3
+蔣	蒋	zoeng2		zoeng2
+懞	蒙	mung2「同懵字」,mung4「同蒙字，遮蓋」		mung5
+濛	蒙	mung4		mung4
+矇	蒙	mung4		mung4
 蒙	蒙	mung4		mung4
 蒜	蒜	slyun3		syun3
-蒞	莅	li6		lei6
-蒯	蒯	kwaai2	(又)gwaai2	gwaai2,(異讀)faai3
+蒯	蒯	kwaai2	(又)gwaai2	gwaai2
 蒲	蒲	pu4		pou4
 蒸	蒸	zing1		zing1
-蒺	蒺	zat6		(異讀)zaat6,zat6
-蒼	苍	cong1		cong1
+蒺	蒺	zat6		zat6
 蒿	蒿	hu1		hou1
-蓀	荪	slyun1		syun1
 蓄	蓄	cuk1		cuk1
-蓆	席	zek6「草蓆」	(又)zik6	zek6；(又)zik6
 蓉	蓉	jung4		jung4
-蓋	盖	goi3		1)goi3:瓶蓋 2)koi3:蓋世英雄；gap6:姓蓋
 蓑	蓑	slo1	(又)sloi1	so1
 蓓	蓓	pui5		pui4；(又)pui5
-蓖	蓖	bi1		(異讀)bai1,(異讀)bei1,bei6
+蓖	蓖	bi1		bei1
+藍	蓝	laam4		laam4
+驀	蓦	mak6		mak6
 蓬	蓬	pung4		pung4或fung4
-蓮	莲	lin4		lin4
 蓱	蓱	ping4		ping4
-蓴	莼	san4	(老派)syun4,(又)slyun4,(又)slan4	seon4
 蔃	蔃	goeng2「根，莖」	(又)koeng2	koeng2,goeng2
 蔆	蔆	ling4		ling4
 蔑	蔑	mit6		mit6
+衊	蔑	mit6		mit6
 蔓	蔓	maan6		maan6
-蔔	卜	baak6		baak6
 蔗	蔗	ze3		ze3
-蔘	参	sam1		saam1,saam2,sam1
 蔚	蔚	wai3「蔚然」，wat1「蔚縣，地名」		wai3；wat1蔚縣
 蔡	蔡	coi3		coi3
-蔣	蒋	zoeng2		zoeng2
-蔥	葱	cung1		cung1
-蔫	蔫	nin1	(又)jin1,(語)jyun1「食物不鮮，又作冤字」	jin1
+蔫	蔫	nin1	(語)jyun1「食物不鮮，又作冤字」	jin1
 蔬	蔬	so1		so1
-蔭	荫	jam3		jam3
+薔	蔷	coeng4		coeng4
 蔸	蔸	dau1「量詞，棵、叢、條」		dau1
+藺	蔺	lan6	(老派)lyun6	leon6
+藹	蔼	oi2		oi2
 蔽	蔽	(習)bi6	(書)bai3	bai3
-蔿	𫇭	wai2		wai2
 蕃	蕃	faan4「蕃衍」		faan4；同番，番茄
 蕅	蕅	ngau5		ngau5
-蕈	蕈	cam5		cam5,(異讀)seon3
+蕈	蕈	slan3「香蕈」	(書)cam5	seon3
 蕉	蕉	ziu1		ziu1
 蕊	蕊	jui5		jeoi5
-蕎	荞	kiu4		kiu4
+蘂	蕊	jui5「同蕊字」		jeoi5
 蕙	蕙	wai6		wai6
 蕨	蕨	kyut3	(又)gyut3	kyut3
-蕩	荡	dong6		dong6
-蕪	芜	mu4		mou4
-蕭	萧	sliu1		siu1
-蕹	蕹	ung3		ung3,(異讀)ngung3
+藴	蕴	wan5	(又)wan3	wan5；(又)wan3
+蘊	蕴	wan5	(又)wan3	wan5；(又)wan3
+蕹	蕹	ung3		ung3
 蕾	蕾	lui4「芭蕾舞」,lui5「花蕾」		leoi4；(又)leoi5
 薄	薄	bok6「厚薄」,bo6「薄荷」		bok6
 薅	薅	haau1	(書)hu1	hou1
 薇	薇	mi4		mei4
-薑	姜	goeng1		goeng1
-薔	蔷	coeng4		coeng4
 薛	薛	slyut3	(又)slit3	sit3
-薦	荐	zin3		zin3
-薩	萨	slaat3		saat3
 薪	薪	slan1		san1
+藪	薮	slau2		sau2
 薯	薯	syu4		syu4；(又)syu5
 薰	薰	(白)wan1	(文)fan1	fan1
-薸	薸	piu4	(又)piu1	piu1
-薹	苔	toi4		toi4
-薺	荠	cai4		cai4,cai5,ci4
+薸	薸	piu4		piu4
 藂	藂	cung4		cung4
 藉	藉	ze3「藉口」,zik6「狼藉」		zik6；藉口又讀ze3
-藍	蓝	laam4		laam4
 藏	藏	zong6「寶藏」,cong4「隱藏」		1)cong4:埋藏 2)zong6:寶藏
 藐	藐	miu5		miu5
+蘚	藓	slin2		sin2
 藕	藕	ngau5		ngau5
-藝	艺	ngai6		ngai6
 藠	藠	kiu5		kiu5
 藤	藤	tang4		tang4
-藥	药	joek6		joek6
 藩	藩	faan4		faan4
-藪	薮	slau2		sau2
-藴	蕴	wan5	(又)wan3	wan5；(又)wan3
-藷	𫉄	syu4「同薯字」,zyu1「藷蔗」		syu4,zyu1
-藹	蔼	oi2		oi2
-藺	蔺	lan6	(老派)lyun6	leon6
 藻	藻	zu2		zou2
 藿	藿	kok3		fok3
-蘂	蕊	jui5「同蕊字」		jeoi5
-蘆	芦	lu4		lou4
-蘇	苏	slu1		sou1
-蘊	蕴	wan5	(又)wan3	wan5；(又)wan3
-蘋	苹	ping4「蘋果」,pan4「蕨類植物」		ping4
 蘑	蘑	mo4		mo4
-蘚	藓	slin2		sin2
-蘭	兰	laan4		laan4
 蘸	蘸	(白)zem3	(文)zaam3	zaam3
-蘿	萝	lo4		lo4
 虎	虎	fu2		fu2
-虐	虐	noek6	(又)joek6	joek6
-虔	虔	kin4		kin4
-處	处	cyu5「相處」,cyu3「處所」		1)cyu3:住處 2)cyu2:處理
-虛	虚	hyu1		heoi1
 虜	虏	lu5		lou5
+虐	虐	noek6	(又)joek6	joek6
+慮	虑	lyu6		leoi6
+虔	虔	kin4		kin4
+虛	虚	hyu1		heoi1
 虞	虞	jyu4		jyu4
-號	号	hu6「號碼」,hu4「呼號，號叫，又作嚎字」		1)hou6:國號 2)hou4:呼號
-虢	虢	gok3	(補)gik1	gwik1
+虢	虢	gok3	(又)gik1	gwik1
 虣	虣	bu6		bou6
-虧	亏	kwai1		kwai1
 虫	虫	cung4「同蟲字」,wai2「虺的本字」		wai2；蟲的俗寫
+蟲	虫	cung4		cung4
+蟣	虮	gi2「虱子的卵」,ki4「水蛭」	(又)gi1	gei2,kei4
 虱	虱	sat1		sat1
+蝨	虱	sat1		sat1
 虹	虹	hung4	(白)gong3	hung4
 虺	虺	wai2「古書上說的一種毒蛇」,fui1「虺隤」		wai2,fui1
-虻	虻	mong4		(異讀)mang4,mong4
+虻	虻	mong4		mong4
+雖	虽	slui1		seoi1
+蝦	虾	haa1「蝦米」,haa4「蝦蟆，又作蛤蟆」		haa1
+蝕	蚀	sik6「腐蝕」,sit6「蝕本」		1)sik6:侵蝕 2)sit6:蝕本
+蟻	蚁	ngai5		ngai5
+螞	蚂	maa5「螞蟻」,maa1「螞螂，蜻蜓」,maa6「螞蚱」		1)maa5:螞蟻 2)maa1:螞螂 3)maa6:螞蚱
 蚊	蚊	man1		man1；本讀man4
 蚌	蚌	pong5		pong5
 蚓	蚓	jan5		jan5
 蚕	蚕	caam4		caam4
+蠶	蚕	caam4		caam4
 蚜	蚜	ngaa4		ngaa4
+蠔	蚝	hu4		hou4
 蚣	蚣	gung1		gung1
 蚤	蚤	zu2		zou2
 蚩	蚩	ci1		ci1
 蚪	蚪	dau2		dau2
+蜆	蚬	(白)hen2	(文)hin2	hin2
 蚯	蚯	jau1		jau1
 蚱	蚱	zaa3		zaa3
 蚶	蚶	ham1		ham1
 蛀	蛀	zyu3		zyu3
 蛆	蛆	cyu1		zeoi1
 蛇	蛇	se4		1)se4:杯弓蛇影 2)ji4:委蛇
+蠱	蛊	gu2		gu2
 蛋	蛋	daan6		daan6
+蠣	蛎	lai6		lai6
+蟶	蛏	cing1	(又)sing3	cing1
 蛔	蛔	wui4		wui4
 蛙	蛙	waa1		waa1
 蛛	蛛	zyu1		zyu1
-蛟	蛟	(白)geu1	(文)gaau1	gaau1
+蛟	蛟	gaau1	(白)geu1	gaau1
 蛤	蛤	gap3「蛤乸，蛙和蟾蜍的總稱」,haa4「蛤蟆，又作蝦蟆」		gap3；蛤蟆讀haa1
 蛭	蛭	zat6		zat6
+蠻	蛮	maan4		maan4
+蟄	蛰	zik6		zik6
+蟯	蛲	jiu4	(又)naau4	jiu4
+螄	蛳	si1		si1
 蛹	蛹	jung5		jung2
-蛻	蜕	tui3		teoi3
 蛾	蛾	ngo4		ngo4；(古)同蟻
 蜀	蜀	suk6	(常)zuk1	suk6
 蜂	蜂	fung1		fung1
 蜃	蜃	san5	(又)san6	san5
-蜆	蚬	(白)hen2	(文)hin2	hin2
 蜇	蜇	zit3		zit3
 蜈	蜈	ng4		ng4
 蜋	蜋	long4「同螂字」		loeng4,long4
 蜒	蜒	jin4		jin4
 蜓	蜓	ting4		ting4
+蛻	蜕	tui3		teoi3
 蜕	蜕	tui3		teoi3
+蝸	蜗	wo1		wo1
 蜘	蜘	zi1		zi1
 蜜	蜜	mat6		mat6
-蜡	蜡	laap6「同蠟字」,zaa3「年終祭名」	(又)caa3「年終祭名」	zaa3,(異讀)cai3,(異讀)zaa6,(異讀)caa3,laap6
+蜡	蜡	laap6「同蠟字」,zaa3「年終祭名」		zaa3,laap6
+蠟	蜡	laap6		laap6
 蜢	蜢	maang5		maang5
 蜥	蜥	slik1		sik1
 蜴	蜴	jik6		jik6
 蜷	蜷	kyun4		kyun4
 蜻	蜻	cing1		cing1
 蜿	蜿	jyun2	(又)jyun1	jyun2；(又)jyun1
+蠅	蝇	(白)jing1	(文)jing4	jing4
+蟈	蝈	gok3		gwok3
+蟬	蝉	sim4		sim4
 蝌	蝌	ko1	(又)fo1	fo1
-蝎	蝎	hit3	(又)kit3	hit3,(異讀)hot6,hot3,(異讀)kit3
-蝕	蚀	sik6「腐蝕」,sit6「蝕本」		1)sik6:侵蝕 2)sit6:蝕本
+蝎	蝎	hit3「同蠍字」,hot3「木中蠹蟲」	(又)kit3「同蠍字」	hit3,hot3,kit3
+蠍	蝎	hit3	(又)kit3	kit3；(又)hit3
 蝗	蝗	wong4		wong4
 蝙	蝙	pin1	(又)bin1	pin1；(又)bin1;bin2
-蝟	猬	wai6	(又)wai3	wai6
 蝠	蝠	fuk1		fuk1
-蝦	虾	haa1「蝦米」,haa4「蝦蟆，又作蛤蟆」		haa1
-蝨	虱	sat1		sat1
 蝴	蝴	wu4		wu4
 蝶	蝶	dip6		dip6
-蝸	蜗	wo1		wo1
+螻	蝼	lau4		lau4
 螂	螂	long4		long4
 螃	螃	paang4		pong4
-螄	蛳	si1		si1
 融	融	jung4		jung4
 螘	螘	ngai5「同蟻字」		ngai5
-螞	蚂	maa5「螞蟻」,maa1「螞螂，蜻蜓」,maa6「螞蚱」		1)maa5:螞蟻 2)maa1:螞螂 3)maa6:螞蚱
 螟	螟	ming4		ming4
-螢	萤	jing4		jing4
 螫	螫	sik1	(又)cik1	sik1；(又)cik1
 螳	螳	tong4		tong4
 螷	螷	pi4		pei4
 螺	螺	lo4		lo4
-螻	蝼	lau4		lau4
 蟀	蟀	slat1	(語)zat1「鬥～，鬥蟋蟀」,(語)zyut1「～～，蟋蟀」	seot1
-蟄	蛰	zik6		(異讀)zaap6,(異讀)zik6,zat6,(異讀)zit3
 蟆	蟆	maa4「蛤蟆，又作蝦蟆」		maa4
-蟈	蝈	gok3		gwok3
 蟋	蟋	slik1	(又)slat1	sik1
 蟑	蟑	zoeng1		zoeng1
 蟒	蟒	mong5	(又)maang5	mong5
 蟢	蟢	hi2		hei2
-蟣	虮	gi2「虱子的卵」,ki4「水蛭」	(又)gi1	gei2,kei4
 蟥	蟥	wong4		wong4
-蟬	蝉	sim4		sim4
-蟯	蛲	jiu4	(又)naau4	jiu4
-蟲	虫	cung4		cung4
-蟶	蛏	cing1	(又)sing3	cing1
 蟹	蟹	haai5		haai5
-蟻	蚁	ngai5		ngai5
 蟾	蟾	sim4	(白)kam4	sim4
-蠃	蠃	lo4		lo2,(異讀)lo5,lo4
-蠅	蝇	(白)jing1	(文)jing4	jing4
-蠍	蝎	hit3	(又)kit3	kit3；(又)hit3
-蠓	蠓	mung4	(又)mung2	(異讀)mung2,mung5
-蠔	蚝	hu4		hou4
+蠃	蠃	lo2		lo2
+蠓	蠓	mung4	(又)mung2	mung5
 蠕	蠕	jyu4		jyu4
 蠚	蠚	hok3		hok3
-蠟	蜡	laap6		laap6
 蠡	蠡	lai5		lai5
 蠢	蠢	can2	(老派)cyun2	ceon2
-蠣	蛎	lai6		lai6
 蠯	蠯	pi4		pei4
-蠱	蛊	gu2		gu2
-蠶	蚕	caam4		caam4
 蠹	蠹	du3		dou3
-蠻	蛮	maan4		maan4
 血	血	hyut3		hyut3
-衆	众	zung3		zung3
-衊	蔑	mit6		mit6
+釁	衅	jan3	(又)han3,(又)hang6	jan6；(又)jan3
 行	行	haang4「行路」,hong4「銀行」,hang4「行為」		1)hang4:步行 2)hang6:品行，道行 3)hong4:單行
 衍	衍	jin2	(又)jin5,(又)hin2	jin2；(又)jin5 (俗)hin2
-術	术	sat6	(老派)slyut6,(又)slat6	seot6
-衕	同	tung4「衚衕」,dung6「腹瀉」		dung6,tung4
+銜	衔	haam4		haam4
 衖	衖	hong2「同巷字，街巷」,lung6「里衖，又作里弄」	(書)hong6「同巷字」	lung6,hong6
 街	街	gaai1		gaai1
 衙	衙	ngaa4		ngaa4
-衚	胡	wu4		wu4
-衛	卫	wai6		wai6
-衝	冲	cung1		cung1
-衞	卫	wai6		wai6
 衡	衡	hang4		hang4；(古)通橫
 衢	衢	kyu4		keoi4
 衣	衣	ji1		1)ji1:衣服 2)ji3:衣錦還鄉
+補	补	bu2		bou2
 表	表	biu2「表面」		1)biu2:表面 2)biu1:手表
+錶	表	biu1		biu1
 衫	衫	saam1		saam1
+襯	衬	can3		can3
+袞	衮	(舊)kwan2	(又)gwan2	gwan2
 衰	衰	sui1		seoi1；(古)同縗ceoi1 等衰
 衲	衲	naap6		naap6
 衷	衷	zung1		zung1 或 cung1
 袁	袁	jyun4		jyun4
 袂	袂	mai6		mai6
+襖	袄	u3		ou3；(又)ou2
+嫋	袅	niu5		niu1,niu5
+裊	袅	niu5		niu5
 袈	袈	gaa1		gaa1
 袋	袋	doi6		doi6
 袌	袌	pu4「同袍字」,pu5「同抱字」		paau3,pou5
 袍	袍	pu4		pou4
 袒	袒	taan2		taan2
 袖	袖	zau6		zau6
-袞	衮	(舊)kwan2	(又)gwan2	gwan2
+襪	袜	mat6	(又)maat6	mat6
 被	被	bi6「被動」,pi5「棉被」		1)pei5:棉被 2)bei6:被動；(古)同披pei1
+襲	袭	zap6		zaap6
 袱	袱	fuk6		fuk6
-袷	袷	gaap3		gaap3,hap1,gip3
+袷	袷	gaap3		gaap3
 裁	裁	coi4		coi4
 裂	裂	lit6		lit6
-裊	袅	niu5		niu5
+裝	装	zong1		zong1
+襠	裆	dong1	(語)nong1「又作𧟘字」	dong1
 裌	裌	gaap3「同袷字」		gaap3
-裏	里	li5	(書)lyu5	1)leoi5:裏外 2)lei5:衣裏
 裔	裔	jui6		jeoi6
 裕	裕	jyu6		jyu6
 裘	裘	kau4		kau4
 裙	裙	kwan4		kwan4
-補	补	bu2		bou2
-裝	装	zong1		zong1
 裟	裟	saa1		saa1
-裡	里	li5	(書)lyu5	(異讀)lei5,leoi5
+褲	裤	fu3		fu3
+襉	裥	gaan2		gaan2
 裨	裨	bi1「裨益」,pi4「裨將」		1)bei1:裨益 2)pei4:裨將
 裱	裱	biu2		biu2
 裳	裳	soeng4		soeng4
 裴	裴	pui4		pui4
 裸	裸	lo2		lo2
 裹	裹	go2		gwo2
-製	制	zai3		zai3
 褂	褂	gwaa3		gwaa3
-複	复	fuk1		fuk1
 褐	褐	hot3		hot3
 褒	褒	baau1	(又)bu1	bou1
 褓	褓	bu2		bou2
 褚	褚	cyu5		cyu5；(又)cyu2
+褸	褛	lau1「大褸，大衣」,lyu5「襤褸」		lau5；(又)leoi5
 褥	褥	juk6		juk6
 褦	褦	le5「～襶de2」,nang3「連着，關係」	(語)naai3「帶，～球射門」,(書)naai6「～襶daai3」	naai6,nang3
 褪	褪	tan3「褪後，後退」,tui3「褪色」		1)tan3:把袖子褪下來 2)teoi3:褪色
 褫	褫	ci2		ci2
 褯	褯	zek6	(又)zik6	zik6
-褲	裤	fu3		fu3
-褶	褶	zip3		zip3或zaap6
-褸	褛	lau1「大褸，大衣」,lyu5「襤褸」		lau5；(又)leoi5
-褻	亵	slit3		sit3
-襄	襄	sloeng1		soeng1
-襉	裥	gaan2		gaan2
-襖	袄	u3		ou3；(又)ou2
-襟	襟	kam1		kam1
-襠	裆	dong1	(語)nong1「又作𧟘字」	dong1
 襤	褴	laam4		laam4
-襪	袜	mat6	(又)maat6	mat6
-襬	摆	baai2		baai2
-襯	衬	can3		can3
-襲	袭	zap6		zaap6
+褶	褶	zip3		zip3或zaap6
+襄	襄	sloeng1		soeng1
+襟	襟	kam1		kam1
 襶	襶	de2「褦le5～」	(書)daai3「褦naai6～」	daai3
 襻	襻	paan3		paan3
 西	西	slai1		sai1
 要	要	jiu3「重要」,jiu1「要求」		1)jiu3:重要 2)jiu1:要求
 覃	覃	taam4「覃思」,cam4「姓」		1)taam4:覃第 2)cam4:姓覃
 覆	覆	fuk1		fuk1
-覈	核	hat6		hat6
 見	见	jin6「同現字」,gin3「看見」		1)gin3:看見 2)jin6:同現
+觀	观	gun3「寺觀」,gun1「參觀」		1)gun1:參觀 2)gun3:寺觀
 規	规	kwai1		kwai1
 覓	觅	mik6		mik6
 視	视	si6		si6
-覘	觇	zim1		(異讀)cim1,zim1
-覛	𫌪	mak6「察看」,mik6「同覓字」		mak6,mik6
-覦	觎	jyu4		jyu4
-親	亲	can3「親家」,can1「親切」		1)can1:雙親 2)can3:親家
-覬	觊	gi3		gei3
-覲	觐	gan6		gan6；(又)gan2
-覺	觉	gok3「覺得」,koek3「感覺」,(白)geu3「睡覺」	(文)gaau3「睡覺」,(又)kok3「覺得」	1)gok3:感覺 2)gaau3:睡覺
+覘	觇	zim1		zim1
 覽	览	laam2		laam5
-觀	观	gun3「寺觀」,gun1「參觀」		1)gun1:參觀 2)gun3:寺觀
+覺	觉	gok3「覺得」,koek3「感覺」,(白)geu3「睡覺」	(文)gaau3「睡覺」,(又)kok3「覺得」	1)gok3:感覺 2)gaau3:睡覺
+覬	觊	gi3		gei3
+覦	觎	jyu4		jyu4
+覲	觐	gan6		gan6；(又)gan2
 角	角	gok3		gok3
 觕	觕	cu1「同粗字」		cou1
-觜	觜	zui2「同嘴字」,zi1「二十八宿之一」	(老派)zy1	zeoi2,zi1
+觜	觜	zui2「同嘴字」,zi1「二十八宿之一」	(老派)zy1「二十八宿之一」	zeoi2,zi1
+觴	觞	soeng1		soeng1
 解	解	gaai3「押解」,gaai2「解開」,haai6「姓」		1)gaai2:瓦解 2)gaai3:解款 3)haai6:姓解
 触	触	cuk1		zuk1
-觴	觞	soeng1		soeng1
 觸	触	cuk1		zuk1；(又)cuk1
 言	言	jin4		jin4
-訂	订	(白)deng6	(文)ding6	ding3
-訃	讣	fu6		fu6
-計	计	gai3「計算」,gi3「老夥計」	(白)gai2「諗計，想辦法」	1)gai3:計算 3)gei3:夥計
-訊	讯	slan3	(老派)slyun3	seon3
-訌	讧	hung4		hung4
-討	讨	tu2		tou2
-訐	讦	kit3		kit3
-訓	训	fan3	(白)wan3	fan3
-訕	讪	saan3		saan3
-訖	讫	ngat6	(又)gat1	ngat6；(又)gat1
-託	托	tok3		tok3
-記	记	gi3		gei3
-訛	讹	ngo4		ngo4
-訝	讶	ngaa6		ngaa6
-訟	讼	zung6		zung6
-訣	诀	kyut3		kyut3
-訥	讷	nat6		neot6；(又)nat6,naap6
-訪	访	fong2		fong2
-設	设	cit3		cit3
-許	许	hyu2		heoi2
-訴	诉	slu3		sou3
-診	诊	can2		can2
-註	注	zyu3		zyu3
-詁	诂	gu2		gu2
-詆	诋	dai2		dai2
-詐	诈	zaa3		zaa3
-詔	诏	ziu3		ziu3
-評	评	ping4		ping4
-詛	诅	zo3		zo3；(又)zo2
-詞	词	ci4	(老派)cy4	ci4
-詠	咏	wing5		wing6
-詢	询	slan4	(老派)slyun4	seon1
-詣	诣	ngai6		ngai6
-試	试	si3		si3
-詩	诗	si1	(老派)sy1	si1
-詫	诧	caa3		caa3
-詬	诟	gau3		gau3
-詭	诡	gwai2		gwai2
-詮	诠	cyun4		cyun4
-詰	诘	kit3「詰問」,gat1「詰屈聱牙」		kit3
-話	话	waa6		waa6
-該	该	goi1		goi1
-詳	详	coeng4		coeng4
 詹	詹	zim1		zim1
-詼	诙	fui1		fui1
-誅	诛	zyu1		zyu1
-誇	夸	kwaa1		kwaa1
-誌	志	zi3		zi3
-認	认	jing6		jing6
-誏	誏	long6「閑言；戲言」,long5「同朗字」		long6,long5
-誑	诳	kong4		kong4；(又)kwong4
-誓	誓	sai6		sai6
-誕	诞	daan3		daan3
-誘	诱	jau3		jau5
-語	语	jyu5		1)jyu5:語言 2)jyu6:不以語人
-誠	诚	sing4		sing4
-誡	诫	gaai3		gaai3
-誣	诬	mu1		mou4
-誤	误	ng6		ng6
-誥	诰	gu3		gou3
-誦	诵	zung6		zung6
-誨	诲	fui3		fui3
-說	说	syut3「說話」,sui3「說服」		1)syut3:說話 2)seoi3:游說；(古)同悅
-説	说	syut3「説話」,sui3「説服」		1)syut3:説話 2)seoi3:游説；(古)同悦
-誰	谁	sui4		seoi4
-課	课	ko3	(又)fo3	fo3
-誹	诽	fi2		fei2
-誼	谊	ji6	(又)ni6	ji4；(又)ji6
-調	调	diu6「音調」,tiu4「調和」		1)tiu4:調和 2)diu6:腔調
-諂	谄	cim2		cim2
-諄	谆	zan1		zeon1
-談	谈	taam4		taam4
-諉	诿	wai2		wai2
-請	请	cing2	(白)ceng2	cing2
-諍	诤	zaang3	(又)zang3	zang3
-諒	谅	loeng6		loeng6
-論	论	lan6	(老派)lyun6	leon6；論語又讀leon4
-諗	谂	nam2「思考，本字恁」,sam2「諗知」		nam2,sam2
-諜	谍	dip6		dip6
-諦	谛	dai3		dai3
-諧	谐	haai4	(又)haai5	haai4
-諫	谏	gaan3		gaan3
-諭	谕	jyu6		jyu6
-諮	咨	zi1	(老派)zy1	zi1
-諱	讳	wai3	(又)wai6	wai5
-諷	讽	fung2		fung3
-諸	诸	zyu1		zyu1
-諺	谚	jin3	(又)jin6	jin6
-諾	诺	nok6		nok6
-謀	谋	mau4		mau4
-謁	谒	jit3		jit3
-謂	谓	wai6		wai6
+譽	誉	jyu6		jyu6
 謄	誊	tang4		tang4
-謊	谎	fong1	(又)fong2	fong1
-謎	谜	(習)mi4	(書)mai4	mai4
-謖	谡	sluk1		suk1
-謗	谤	bong2	(又)bong6	pong3
-謙	谦	him1		him1
-講	讲	gong2		gong2
-謝	谢	ze6		ze6
-謠	谣	jiu4		jiu4
-謨	谟	mu4		mou4
-謫	谪	zaak6	(又)dik1	zaak6
-謬	谬	mau3	(又)mau6	mau6
-謹	谨	gan2		gan2
-譁	哗	waa1		waa1
-證	证	zing3		zing3
-譎	谲	kyut3		kyut3
-譏	讥	gi1		gei1
-識	识	sik1		sik1；(古)zi3博聞強識
-譚	谭	taam4		taam4
-譜	谱	pu2		pou2
+誏	誏	long6「閑言；戲言」,long5「同朗字」		long6,long5
+誓	誓	sai6		sai6
 警	警	ging2		ging2
 譬	譬	pi3	(又)bi2	pei3
-譭	毁	wai2		wai2
-譯	译	jik6		jik6
-議	议	ji5	(又)ji3	ji5
-譴	谴	hin2		hin2
-護	护	wu6		wu6
-譽	誉	jyu6		jyu6
-讀	读	duk6		duk6
-變	变	bin3		bin3
-讎	雠	cau4		cau4,(異讀)sau4
-讒	谗	caam4	(常)caan4	caam4
+計	计	gai3「計算」,gi3「老夥計」	(白)gai2「諗計，想辦法」	1)gai3:計算 3)gei3:夥計
+訂	订	(白)deng6	(文)ding6	ding3
+訃	讣	fu6		fu6
+認	认	jing6		jing6
+譏	讥	gi1		gei1
+訐	讦	kit3		kit3
+訌	讧	hung4		hung4
+討	讨	tu2		tou2
 讓	让	joeng6		joeng6
+訕	讪	saan3		saan3
+訖	讫	ngat6	(又)gat1	ngat6；(又)gat1
+訓	训	fan3	(白)wan3	fan3
+議	议	ji5	(又)ji3	ji5
+訊	讯	slan3	(老派)slyun3	seon3
+記	记	gi3		gei3
+講	讲	gong2		gong2
+諱	讳	wai3	(又)wai6	wai5
+訝	讶	ngaa6		ngaa6
+訥	讷	nat6		neot6；(又)nat6,naap6
+許	许	hyu2		heoi2
+訛	讹	ngo4		ngo4
+論	论	lan6	(老派)lyun6	leon6；論語又讀leon4
+訟	讼	zung6		zung6
+諷	讽	fung2		fung3
+設	设	cit3		cit3
+訪	访	fong2		fong2
+訣	诀	kyut3		kyut3
+證	证	zing3		zing3
+詁	诂	gu2		gu2
+評	评	ping4		ping4
+詛	诅	zo3		zo3；(又)zo2
+識	识	sik1		sik1；(古)zi3博聞強識
+詐	诈	zaa3		zaa3
+訴	诉	slu3		sou3
+診	诊	can2		can2
+詆	诋	dai2		dai2
+詞	词	ci4	(老派)cy4	ci4
+詔	诏	ziu3		ziu3
+譯	译	jik6		jik6
+試	试	si3		si3
+詩	诗	si1	(老派)sy1	si1
+詰	诘	kit3「詰問」,gat1「詰屈聱牙」		kit3
+詼	诙	fui1		fui1
+誠	诚	sing4		sing4
+誅	诛	zyu1		zyu1
+話	话	waa6		waa6
+誕	诞	daan3		daan3
+詬	诟	gau3		gau3
+詮	诠	cyun4		cyun4
+詭	诡	gwai2		gwai2
+詢	询	slan4	(老派)slyun4	seon1
+詣	诣	ngai6		ngai6
+諍	诤	zaang3	(又)zang3	zang3
+該	该	goi1		goi1
+詳	详	coeng4		coeng4
+詫	诧	caa3		caa3
+誡	诫	gaai3		gaai3
+誣	诬	mu1		mou4
+語	语	jyu5		1)jyu5:語言 2)jyu6:不以語人
+誤	误	ng6		ng6
+誥	诰	gu3		gou3
+誘	诱	jau3		jau5
+誨	诲	fui3		fui3
+誑	诳	kong4		kong4；(又)kwong4
+說	说	syut3「說話」,sui3「說服」		1)syut3:說話 2)seoi3:游說；(古)同悅
+説	说	syut3「説話」,sui3「説服」		1)syut3:説話 2)seoi3:游説；(古)同悦
+誦	诵	zung6		zung6
+請	请	cing2	(白)ceng2	cing2
+諸	诸	zyu1		zyu1
+諾	诺	nok6		nok6
+讀	读	duk6		duk6
+誹	诽	fi2		fei2
+課	课	ko3	(又)fo3	fo3
+諉	诿	wai2		wai2
+誰	谁	sui4		seoi4
+諗	谂	nam2「思考，本字恁」,sam2「諗知」		nam2,sam2
+調	调	diu6「音調」,tiu4「調和」		1)tiu4:調和 2)diu6:腔調
+諂	谄	cim2		cim2
+諒	谅	loeng6		loeng6
+諄	谆	zan1		zeon1
+談	谈	taam4		taam4
+誼	谊	ji6	(又)ni6	ji4；(又)ji6
+謀	谋	mau4		mau4
+諜	谍	dip6		dip6
+謊	谎	fong1	(又)fong2	fong1
+諫	谏	gaan3		gaan3
+諧	谐	haai4	(又)haai5	haai4
+謁	谒	jit3		jit3
+謂	谓	wai6		wai6
+諭	谕	jyu6		jyu6
+讒	谗	caam4	(常)caan4	caam4
+諺	谚	jin3	(又)jin6	jin6
+諦	谛	dai3		dai3
+謎	谜	(習)mi4	(書)mai4	mai4
+謨	谟	mu4		mou4
+謖	谡	suk1	(又)sluk1	suk1
+謝	谢	ze6		ze6
+謠	谣	jiu4		jiu4
+謗	谤	bong2	(又)bong6	pong3
+謙	谦	him1		him1
+謹	谨	gan2		gan2
+謫	谪	zaak6		zaak6
+謬	谬	mau3	(又)mau6	mau6
+譚	谭	taam4		taam4
+譜	谱	pu2		pou2
+譎	谲	kyut3		kyut3
+譴	谴	hin2		hin2
 讖	谶	cam3		cam3
-讚	赞	zaan3		zaan3
+穀	谷	guk1		guk1
 谷	谷	guk1		guk1；1)(古地名)juk6 吐谷渾 2)(古地名)luk6 谷蠡
 谿	谿	kai1		kai1；同豀hai4
 豁	豁	fut3		kut3
 豆	豆	dau6		dau6
 豇	豇	gong1		gong1
-豈	岂	hi2		hei2
 豉	豉	si6		si6
 豌	豌	wun2		wun2；(又)wun1
-豎	竖	syu6		syu6
-豐	丰	fung1		fung1
-豔	艳	(習)jin6	(書)jim6	jim6
 豕	豕	ci2	(又)si2	ci2
 豚	豚	tan4		tyun4
 象	象	zoeng6		zoeng6
 豢	豢	waan6		waan6
 豪	豪	hu4		hou4
 豫	豫	jyu6		jyu6
-豬	猪	zyu1		zyu1
 豶	豮	fan4		fan4
 豹	豹	baau3	(白)beu3,(又)peu3,(又)paau3	paau3
 豺	豺	caai4	(又)coi4	caai4
 貂	貂	diu1		diu1
 貉	貉	hok6「貉子」,mak6「同貊字」		hok6；(古)同貊mak6
-貊	貊	mak6		(異讀)maak6,mak6
+貊	貊	mak6		mak6
 貌	貌	maau6		maau6
 貍	貍	li4		lei4
-貓	猫	(白)meu1	(文)maau1	maau1
 貝	贝	bui3		bui3
 貞	贞	zing1		zing1
 負	负	fu6		fu6
-財	财	coi4		coi4
 貢	贡	gung3		gung3
-貧	贫	pan4		pan4
+財	财	coi4		coi4
+責	责	zaak3		zaak3；同債
+賢	贤	jin4		jin4
+敗	败	baai6		baai6
+賬	账	zoeng3		zoeng3
 貨	货	fo3		fo3
+質	质	zat1「質量」,zi3「人質」		1)zat1:物質 2)zi3:人質
 販	贩	faan3		faan3
 貪	贪	taam1		taam1
-貫	贯	gun3		gun3
-責	责	zaak3		zaak3；同債
-貯	贮	cyu5		cyu5；(又)cyu2
-貲	赀	zi1	(老派)zy1	zi1
-貳	贰	ji6		ji6
-貴	贵	gwai3		gwai3
+貧	贫	pan4		pan4
 貶	贬	(白)ben2	(文)bin2	bin2
-買	买	maai5		maai5
-貸	贷	taai3	(又)doi6	taai3
-費	费	fai3		fai3；(地名)bei3費縣
-貼	贴	tip3		tip3
-貽	贻	ji4		ji4
-貿	贸	mau6		mau6
-賀	贺	ho6		ho6
+購	购	kau3	(又)gau3	kau3；(又)gau3
+貯	贮	cyu5		cyu5；(又)cyu2
+貫	贯	gun3		gun3
+貳	贰	ji6		ji6
+賤	贱	zin6		zin6
 賁	贲	bi3「賁臨」,ban1「虎賁；姓」		1)bei3:賁臨 2)ban1:虎賁；fan4 宏大
-賂	赂	lu6		lou6
-賃	赁	jam6		jam6
-賄	贿	fui2		kui2；(又)fui2
-賅	赅	goi1		goi1
-資	资	zi1	(老派)zy1	zi1
-賈	贾	gaa2「姓」,gu2「商賈」		1)gaa2:姓賈 2)gu2:商賈；(古)通價
+貼	贴	tip3		tip3
+貴	贵	gwai3		gwai3
+貸	贷	taai3	(又)doi6	taai3
+貿	贸	mau6		mau6
+費	费	fai3		fai3；(地名)bei3費縣
+賀	贺	ho6		ho6
+貽	贻	ji4		ji4
 賊	贼	cak6	(白)caak6	caak6
+賈	贾	gaa2「姓」,gu2「商賈」		1)gaa2:姓賈 2)gu2:商賈；(古)通價
+賄	贿	fui2		kui2；(又)fui2
+貲	赀	zi1	(老派)zy1	zi1
+賃	赁	jam6		jam6
+賂	赂	lu6		lou6
+贓	赃	zong1		zong1
+資	资	zi1	(老派)zy1	zi1
+賅	赅	goi1		goi1
 賑	赈	zan3		zan3
 賒	赊	se1		se1
-賓	宾	ban1		ban1
-賙	赒	zau1		zau1
-賜	赐	ci3	(老派)cy3	ci3
-賞	赏	soeng2		soeng2
-賠	赔	pui4		pui4
-賡	赓	gang1		gang1,zuk6
-賢	贤	jin4		jin4
-賣	卖	maai6		maai6
-賤	贱	zin6		zin6
 賦	赋	fu3		fu3
-質	质	zat1「質量」,zi3「人質」		1)zat1:物質 2)zi3:人質
-賬	账	zoeng3		zoeng3
 賭	赌	du2		dou2
+贖	赎	suk6		suk6
+賞	赏	soeng2		soeng2
+賜	赐	ci3	(老派)cy3	ci3
+賙	赒	zau1		zau1
+賡	赓	gang1		gang1
+賠	赔	pui4		pui4
 賴	赖	laai6		laai6
-賺	赚	zaan6		zaan6
-購	购	kau3	(又)gau3	kau3；(又)gau3
-賽	赛	soi3		coi3
 贅	赘	zui6		zeoi3
-贈	赠	zang6		zang6
-贊	赞	zaan3		zaan3
+賺	赚	zaan6		zaan6
+賽	赛	soi3		coi3
 贋	赝	ngaan6		ngaan6
+贗	赝	ngaan6		ngaan6
+讚	赞	zaan3		zaan3
+贊	赞	zaan3		zaan3
+贈	赠	zang6		zang6
 贍	赡	sim6	(又)zim1	sin6；(又)sim6
 贏	赢	(白)jeng4	(文)jing4,(又)heng4	jing4；(語)jeng4
-贓	赃	zong1		zong1
-贖	赎	suk6		suk6
-贗	赝	ngaan6		ngaan6
 贛	赣	gam3		gam3；通貢
 赤	赤	cik1	(白)cek3	cek3；(又)cik3
 赦	赦	se3		se3
@@ -4935,27 +4998,29 @@
 走	走	zau2		zau2
 赳	赳	dau2	(書)gau2	gau2；(又)dau2
 赴	赴	fu6	(又)fu3	fu6
+趙	赵	ziu6		ziu6
 赶	赶	gon2		gon2
+趕	赶	gon2		gon2
 起	起	hi2		hei2
 趁	趁	can3		can3
 超	超	ciu1		ciu1
 越	越	jyut6		jyut6
+趨	趋	cyu1		ceoi1；(古)同促
 趌	趌	gat6「～路，滾蛋，又作趷/䞘字」		gat6
 趒	趒	tiu3		tiu3
-趕	赶	gon2		gon2
-趙	赵	ziu6		ziu6
 趟	趟	tong3		tong3
 趣	趣	cyu3		ceoi3；(古)同促
-趨	趋	cyu1		ceoi1；(古)同促
-趯	趯	dek3「跑」		tik1
+趯	趯	dek3「跑」,tik1「跳躍」		tik1,dek3
 足	足	zuk1		zuk1；(古)zeoi3足恭
 趴	趴	paa1		paa1
 趷	趷	gat6「～路，滾蛋，又作趌/䞘字」		gat6
-趼	趼	(白)zin2	(白)gen2,(文)gaan2	(異讀)gaan2,gin2
+躉	趸	dan2		dan2
+趼	趼	gaan2	(白)gen2,(白)zin2	gaan2,gin2
 趾	趾	zi2		zi2
-趿	趿	slap6「拖趿趿，拖着鞋走」	(白)slep6,(語)tet1「拖趿鞋，拖鞋」,(語)tep1「拖趿，拖鞋」	saap3,(異讀)taat3
+趿	趿	slap6「拖～～，拖着鞋走」,taat3「趿拉」	(白)slep6「拖～～，拖着鞋走」,(語)tet1「拖～，拖鞋」	saap3,taat3
+躍	跃	joek3		joek3；(又)joek6
 跆	跆	toi4		toi4
-跋	跋	(白)bet6	(文)baat6	bat6
+跋	跋	baat6	(白)bet6	bat6
 跌	跌	dit3		dit3
 跎	跎	to4		to4
 跑	跑	(白)peu2	(文)paau2	paau2
@@ -4964,29 +5029,33 @@
 跛	跛	bai1	(書)bo2	bo2；(語)bai1
 距	距	kyu5	(又)gyu6	keoi5
 跟	跟	gan1		gan1
-跡	迹	zik1		zik1
 跤	跤	(白)geu1	(文)gaau1	gaau1
 跨	跨	kwaa1		kwaa1；(又)kwaa3
 跪	跪	gwai6		gwai6
 路	路	lu6		lou6
 跳	跳	tiu3		tiu3
 跴	跴	caai2「同踩字」	(白)jaai2	caai2,jaai2
+踐	践	zin2		cin5；(又)zin6
+躂	跶	taat3		taat3
+蹺	跷	(白)keu1「蹺腳，翹二郎腿」,(文)kiu2「蹊蹺」	(又)heu1「蹺腳，又作翹字」,(又)hiu1「蹊蹺」	kiu2
 跺	跺	do2		do2
 跼	跼	guk6		guk6
-踊	踊	jung2		(異讀)jung5,jung2
+踊	踊	jung2		jung2
+踴	踊	jung2		jung2
+躊	踌	cau4		cau4
 踎	踎	mau1「蹲」		mau1
 踏	踏	daap6		daap6
-踐	践	zin2		cin5；(又)zin6
 踒	踒	wo1		wo1
 踝	踝	waa5		waa5
 踟	踟	ci4		ci4
 踡	踡	kyun4「同蜷字」		kyun4
 踢	踢	tek3		tek3
 踩	踩	caai2	(白)jaai2	caai2；(又)coi2
+蹤	踪	zung1		zung1
 踫	踫	pung3		pung3同碰
-踮	踮	dim1		dim2,(異讀)dim3
+踮	踮	dim1		dim3
+躑	踯	zaak6		zaak6
 踱	踱	dok6		dok6
-踴	踊	jung2		jung2
 踵	踵	zung2		zung2；(又)dung2
 踹	踹	caai2	(白)jaai2,(又)cyun2	caai2
 蹂	蹂	jau4		jau4
@@ -4995,132 +5064,135 @@
 蹉	蹉	co1		co1
 蹊	蹊	kai1「蹊蹺」,hai4「蹊徑」		1)hai4:蹊徑 2)kai1:蹊蹺
 蹋	蹋	daap6		daap6
-蹔	𫏐	zaam6		zaam6
-蹙	蹙	cuk1		cuk1
-蹟	迹	zik1		zik1
+躡	蹑	nip6		nip6
 蹣	蹒	pun4	(又)mun4	mun4；(又)pun4
-蹤	踪	zung1		zung1
+蹙	蹙	cuk1		cuk1
 蹦	蹦	bang1		bang1；(又)baang6
 蹩	蹩	bit3		bit6
 蹬	蹬	dang6		dang6
-蹭	蹭	cang3		(異讀)cang3,sang3
+蹭	蹭	cang3		sang3
 蹲	蹲	dan1		1)deon1:蹲坐 2)cyun4:蹲了腿
 蹶	蹶	kyut3		kyut3
-蹺	跷	(白)keu1「蹺腳，翹二郎腿」,(文)kiu2「蹊蹺」	(又)heu1「蹺腳，又作翹字」,(又)hiu1「蹊蹺」	kiu2
 蹼	蹼	buk6		buk6；(又)pok3
 蹾	蹾	dan3「猛地往下放，又作扽字」		dan3
+躥	蹿	cyun1		cyun1
 躁	躁	cu3		cou3
-躂	跶	taat3		taat3
 躅	躅	zuk6		zuk6
 躇	躇	cyu4		cyu4
-躉	趸	dan2		dan2
-躊	踌	cau4		cau4
-躍	跃	joek3		joek3；(又)joek6
-躑	踯	zaak6		zaak6
-躝	𨅬	laan1「爬行；滾開」		laan1
-躡	蹑	nip6		nip6
-躥	蹿	cyun1		cyun1
 躪	躏	lan6	(老派)lyun6	leon6
 身	身	san1		san1；(古地名)gyun1身毒
 躬	躬	gung1		gung1
+軀	躯	kyu1		keoi1
 躲	躲	do2		do2
 躺	躺	tong2		tong2
 躽	躽	(白)en2「～胸凸肚」	(文)jin2	jin2
-軀	躯	kyu1		keoi1
+軭	軭	waang1「搞砸了」		waang1
+軶	軶	aak3「同軛字」	(又)ak1	aak1
 車	车	ce1「車輛」,gyu1「車馬炮」		1)ce1:火車 2)geoi1:象棋棋子一種
 軋	轧	zaat3		zaat3
 軌	轨	gwai2		gwai2
-軍	军	gwan1		gwan1
 軒	轩	hyun1	(又)hin1	hin1
 軔	轫	jan6		jan6
+轉	转	zyun3「轉動」,zyun2「轉運」		1)zyun2:轉送 2)zyun3:轉得快
 軛	轭	aak3	(又)ak1	aak1
+輪	轮	lan4	(老派)lyun4	leon4
 軟	软	jyun5		jyun5
-軭	軭	waang1「搞砸了」		waang1
-軶	軶	aak3「同軛字」	(又)ak1	aak1
-軸	轴	zuk6		zuk6
+轟	轰	gwang1	(又)kwang1,(又)hung1	gwang1
 軻	轲	ko1		o1
+軸	轴	zuk6		zuk6
 軼	轶	jat6		jat6
+輕	轻	(白)heng1	(文)hing1	hing1
 軾	轼	sik1		sik1
-較	较	gaau3		gaau3
 載	载	zoi2「年載」,zoi3「載重」		1)zoi3:載貨 2)zoi2:一年半載
 輊	轾	zi3		zi3
+轎	轿	giu6		giu2；(語)kiu2
+較	较	gaau3		gaau3
 輒	辄	zip3		zip3
-輓	挽	waan5	(白)wen5	waan5
 輔	辅	pu2	(又)fu2	fu6
-輕	轻	(白)heng1	(文)hing1	hing1
 輛	辆	loeng2	(又)loeng5	loeng6
-輜	辎	zi1		zi1
+輦	辇	nen2		lin5
+輩	辈	bui3		bui3
 輝	辉	(白)wai1	(文)fai1	fai1
 輞	辋	mong5		mong5
 輟	辍	zyut3		zyut3
-輦	辇	nen2		lin5
-輩	辈	bui3		bui3
-輪	轮	lan4	(老派)lyun4	leon4
-輯	辑	cap1		cap1
-輷	𫐒	gwang1	(又)kwang1	gwang1
-輸	输	syu1		syu1
+輜	辎	zi1		zi1
 輻	辐	fuk1		fuk1
+輯	辑	cap1		cap1
 輼	辒	wan1		wan1
-輾	辗	zin2		zin2
-輿	舆	jyu4		jyu4
 轀	辒	wan1		wan1
-轂	毂	guk1		guk1
-轄	辖	hat6		hat6
-轅	辕	jyun4		jyun4
-轆	辘	luk1		luk1,(異讀)luk6
-轉	转	zyun3「轉動」,zyun2「轉運」		1)zyun2:轉送 2)zyun3:轉得快
-轍	辙	zit3		cit3
-轎	轿	giu6		giu2；(語)kiu2
-轔	辚	lan4	(老派)lyun4	leon4
-轟	轰	gwang1	(又)kwang1,(又)hung1	gwang1
+輸	输	syu1		syu1
 轡	辔	bi3	(又)bai3	bei3
+轅	辕	jyun4		jyun4
+轄	辖	hat6		hat6
+輾	辗	zin2		zin2
+轆	辘	luk1		luk1
+轍	辙	zit3		cit3
+轔	辚	lan4	(老派)lyun4	leon4
 辛	辛	slan1		san1
 辜	辜	gu1		gu1
-辟	辟	pik1		pik1；復辟又讀bik1
-辣	辣	laat6		laat6
-辦	办	baan6		baan6
-辨	辨	bin6		bin6
 辭	辞	ci4	(老派)cy4	ci4
-辮	辫	bin1		bin1
+辟	辟	pik1		pik1；復辟又讀bik1
+闢	辟	pik1		pik1
+辣	辣	laat6		laat6
+辨	辨	bin6		bin6
 辯	辩	bin6		bin6
+辮	辫	bin1		bin1
 辰	辰	san4		san4
 辱	辱	juk6		juk6
-農	农	nung4		nung4
+邊	边	bin1	(白)ben1「破邊，剖開兩半」	bin1
+遼	辽	liu4		liu4
+達	达	daat6		daat6
+遷	迁	(習)cim1	(書)cin1	cin1
 迂	迂	jyu1		jyu1
 迄	迄	ngat6	(又)hat1	ngat6
 迅	迅	slan3	(老派)slyun3	seon3
 迆	迆	ji5「同迤字，迆邐」,ji4「同迤字，逶迆」		ji5,ji4
+過	过	go3		gwo3
+邁	迈	maai6		maai6
 迎	迎	jing4		jing4
+運	运	wan6		wan6
 近	近	(白)kan5「行近」	(文)gan6「近視」	gan6；(語)kan5
 返	返	faan2「返回」	(語)faan1「返學，返工」	faan2
+還	还	(白)wen4「還錢」	(文)waan4「還有」	waan4；通旋
+這	这	ze5「又這又那，形容麻煩事多」	(又)ze3	ze3；(又)ze5
+進	进	zan3		zeon3
+遠	远	jyun5		jyun5；敬而遠之又讀jyun6
+違	违	wai4		wai4
+連	连	lin4		lin4
+遲	迟	ci4		ci4
 迢	迢	tiu4		siu4
 迤	迤	ji5「迤邐」,ji4「逶迤」		1)ji5:迤邐 2)ji4:逶迤
 迥	迥	gwing2		gwing2
 迦	迦	gaa1		gaa1
-迨	迨	doi6		doi6,(異讀)toi5
+迨	迨	doi6		doi6
+邇	迩	ji5		ji5
 迪	迪	dik6		dik6
 迫	迫	paak3	(訓)bik1「訓讀爲逼」	1)baak1:壓迫 2)bik1:迫擊炮
 迭	迭	dit6	(又)dip6	dit6
 述	述	sat6	(老派)slyut6,(又)slat6	seot6
-迴	回	wui4		wui4
+逕	迳	ging3		ging3
 迷	迷	(習)mi4	(書)mai4	mai4
 迸	迸	bing3		bing3
+跡	迹	zik1		zik1
+蹟	迹	zik1		zik1
 迺	迺	naai5		naai5
 追	追	zui1		zeoi1
 退	退	tui3		teoi3
 送	送	slung3		sung3
 适	适	sik1「同適字」		sik1,kut3
+適	适	sik1		sik1；(古)通嫡
 逃	逃	tu4		tou4
 逅	逅	hau6		hau6
 逆	逆	nik6	(又)ngik6,(語)ngaak6	jik6
+選	选	slyun2		syun2
+遜	逊	slan3	(老派)slyun3	seon3
 逍	逍	sliu1		siu1
 透	透	tau3		tau3
 逐	逐	zuk6		zuk6
+遞	递	dai6		dai6
 途	途	tu4		tou4
-逕	迳	ging3		ging3
 逖	逖	tik1	(又)dik6	dik6
 逗	逗	dau3	(又)dau6	dau6
-這	这	ze5「又這又那」	(又)ze3	ze3；(又)ze5
 通	通	tung1		tung1
 逛	逛	gwaang6	(常)gong6	kwaang3；(又)gwaang6
 逝	逝	sai6		sai6
@@ -5128,85 +5200,65 @@
 速	速	cuk1		cuk1
 造	造	zu6「製造」,cu3「造詣」		1)zou6:造船 2)cou3:造詣
 逢	逢	fung4		fung4
-連	连	lin4		lin4
+邐	逦	li5		lei5
 逩	逩	ban1		ban1
 逮	逮	dai6		dai6；(又)doi6
-週	周	zau1		zau1
-進	进	zan3		zeon3
 逳	逳	juk1「動，俗作喐字」		juk1
 逵	逵	kwai4		kwai4
 逸	逸	jat6		jat6
+邏	逻	lo4		lo4；巡邏又讀lo6
 逼	逼	bik1		bik1
 逾	逾	jyu4		jyu6；(又)jyu4
 遁	遁	dan6		deon6
 遂	遂	sui6		seoi6
 遇	遇	jyu6		jyu6
-遊	游	jau4		jau4
-運	运	wan6		wan6
 遍	遍	pin3		pin3；(又)bin3
-過	过	go3		gwo3
 遏	遏	aat3		aat3
 遐	遐	haa4		haa4
 遑	遑	wong4		wong4
 道	道	du6		dou6
-達	达	daat6		daat6
-違	违	wai4		wai4
+遺	遗	wai4		wai4；(古)wai6遺贈
 遘	遘	gau3		gau3
-遙	遥	jiu4		jiu4
-遜	逊	slan3	(老派)slyun3	seon3
-遞	递	dai6		dai6
-遠	远	jyun5		jyun5；敬而遠之又讀jyun6
-遢	遢	taat3		taap3,(異讀)taat3
+遢	遢	taat3「邋遢」		taap3,taat3
 遣	遣	hin2		hin2
+遙	遥	jiu4		jiu4
 遨	遨	ngu4		ngou4；(又)ngou6
-適	适	sik1		sik1；(古)通嫡
 遭	遭	zu1		zou1
 遮	遮	ze1		ze1
 遯	遯	dan6		deon6
-遲	迟	ci4		ci4
 遴	遴	lan4	(老派)lyun4	leon4；(古)通吝
 遵	遵	zyun1		zeon1
-遷	迁	(習)cim1	(書)cin1	cin1
-選	选	slyun2		syun2
-遺	遗	wai4		wai4；(古)wai6遺贈
-遼	辽	liu4		liu4
 遽	遽	gyu6		geoi6
 避	避	bi6		bei6
 邀	邀	jiu1		jiu1
-邁	迈	maai6		maai6
 邂	邂	haai5	(又)haai6	haai5；(又)haai6
-還	还	(白)wen4「還錢」	(文)waan4「還有」	waan4；通旋
-邇	迩	ji5		ji5
-邊	边	bin1	(白)ben1「破邊，剖開兩半」	bin1
-邋	邋	laat6		laap6,(異讀)laat6,lip6
-邏	逻	lo4		lo4；巡邏又讀lo6
-邐	逦	li5		lei5
+邋	邋	laat6「邋遢」		laap6,laat6
 邑	邑	jap1		jap1
+鄧	邓	dang6		dang6
 邕	邕	jung1		jung1
 邢	邢	jing4		jing4
 那	那	naa5		1)naa5:那裡 2)naa1:姓那
 邥	邥	sam2		sam2
 邦	邦	bong1		bong1
 邪	邪	ce4		ce4；(古)同耶
+郵	邮	jau4		jau4
 邱	邱	jau1		jau1
 邵	邵	siu6		siu6
 邸	邸	dai2		dai2
+鄒	邹	zau1		zau1
+鄰	邻	lan4		leon4
 郁	郁	juk1「姓；馥郁」		juk1
+鬱	郁	wat1「愁」		wat1
 郊	郊	gaau1「郊外」	(白)geu1「市郊」	gaau1
 郎	郎	long4		long4
-郝	郝	kok3	(又)hok3	(異讀)gok3,kok3
+鄭	郑	zing6		zeng6
+郝	郝	kok3	(又)hok3	kok3
 郡	郡	gwan6		gwan6
 部	部	bu6		bou6
 郭	郭	kok3		gwok3
-郵	邮	jau4		jau4
 都	都	du1		dou1
 鄂	鄂	ngok6		ngok6
-鄉	乡	hoeng1		hoeng1
-鄒	邹	zau1		zau1
 鄙	鄙	pi2		pei2
-鄧	邓	dang6		dang6
-鄭	郑	zing6		zeng6
-鄰	邻	lan4		leon4
 鄱	鄱	po4		po4；(又)bo3
 鄹	鄹	zau1		zau1
 酉	酉	jau5		jau5
@@ -5216,309 +5268,300 @@
 配	配	pui3		pui3
 酒	酒	zau2		zau2
 酗	酗	jyu3	(又)hyu3	jyu3
+醖	酝	wan5	(又)wan3	wan5；(又)wan3
+醞	酝	wan5	(又)wan3	wan5；(又)wan3
 酣	酣	haam3		ham4
 酥	酥	slu1		sou1
 酩	酩	ming5	(又)ming4	ming5；(又)ming4
 酪	酪	lok3		1)lok3:乳酪 2)lou6:杏仁酪
 酬	酬	cau4		cau4
+醬	酱	zoeng3		zoeng3
 酵	酵	haau1		haau1
 酷	酷	huk6	(又)kuk1,(又)kuk3	huk6
+痠	酸	slyun1		syun1
 酸	酸	slyun1		syun1
-酹	酹	lyut3	(語)laai6「酹酒」,(又)lui6	laai6,(異讀)lyut3,(異讀)leoi6,(異讀)loi6
-醃	腌	jip3	(書)jim1	jim1；(語)jip3
+酹	酹	lyut6	(語)laai6「酹酒」	laai6,lyut6
+釅	酽	jim6		jim6
+釀	酿	joeng6		joeng6
 醇	醇	san4	(老派)syun4,(又)slyun4,(又)slan4	seon4
 醉	醉	zui3		zeoi3
 醋	醋	cu3		cou3
 醒	醒	(白)sleng2	(文)sling2	sing2
-醖	酝	wan5	(又)wan3	wan5；(又)wan3
-醜	丑	cau2		cau2
-醞	酝	wan5	(又)wan3	wan5；(又)wan3
-醣	糖	tong4		tong4
-醫	医	ji1		ji1
-醬	酱	zoeng3		zoeng3
-醭	醭	puk1		pok3,(異讀)buk6
+醭	醭	puk1	(又)pok3	pok3
 醮	醮	ziu3		ziu3
 醺	醺	(白)wan1	(文)fan1	fan1
-釀	酿	joeng6		joeng6
-釁	衅	jan3	(又)han3,(又)hang6	jan6；(又)jan3
-釅	酽	jim6		jim6
+採	采	coi2		coi2
 采	采	coi2		coi2；(古)coi3菜邑
 釉	釉	jau6	(白)jau2	jau6
 釋	释	slik1	(又)sik1	sik1
+裏	里	li5	(書)lyu5	1)leoi5:裏外 2)lei5:衣裏
+裡	里	li5	(書)lyu5	lei5,leoi5
 里	里	li5		lei5
 重	重	zung6「重要」,cung5「輕重」,cung4「重複」		1)zung6:重要 2)cung4:重複 3)cung5:輕重
 野	野	je5		je5
 量	量	loeng4「測量」,loeng6「數量」		1)loeng4:量米 2)loeng6:膽量
-釐	厘	li4	(白)li1「一～子，一分錢」	1)lei4:釐定 2)hei1:恭賀新釐
 金	金	gam1		gam1
-釗	钊	ciu1		ciu1
-釘	钉	(白)deng1	(文)ding1	deng1；(又)ding1
 釜	釜	fu2		fu2
-針	针	zam1		zam1
-釣	钓	diu3		diu3
-釤	钐	saam1		saam1,sin3,(異讀)saam3
-釦	扣	kau3		kau3
-釧	钏	cyun3		cyun1；(又)cyun3
 釬	釬	hon6「同焊字」		hon6
-釵	钗	caai1		caai1
-鈀	钯	paa4		baa2,paa4
-鈆	𫓪	jyun4		jyun4
-鈉	钠	naap6		naap6
-鈍	钝	dan6		deon6
-鈎	钩	(白)ngau1	(文)gau1	ngau1
-鈐	钤	(白)kem4	(文)kim4	kim4
-鈔	钞	caau1		caau1
-鈕	钮	nau2	(又)nau5	nau2
-鈞	钧	(舊)kwan1	(又)gwan1	gwan1
-鈣	钙	koi3		koi3
 鈪	鈪	aak3「鐲子」		aak3,aak2
-鈴	铃	ling4	(又)ling1「鈴啷，模仿搖鈴聲」,(又)leng1「模擬鈴聲」	ling4
-鈷	钴	gu2		gu2
-鈸	钹	baat6		bat6
-鈾	铀	jau4		jau4
-鉀	钾	gaap3		gaap3
-鉅	巨	gyu6		geoi6
-鉋	铇	(白)peu4	(文)paau4	paau4
 鉎	鉎	(白)sleng3「鐵鏽，又作鍟字」	(文)sling3	sang1,seng3
-鉏	鉏	zyu2「鉏鋙，同齟齬」,co4「同鋤字」		ceoi4,co4,zeoi6
-鉑	铂	bok6		bok6
-鉗	钳	(白)kem4	(文)kim4	kim4
-鉛	铅	jyun4		jyun4
-鉢	钵	but3		but3
-鉤	钩	(白)ngau1	(文)gau1	ngau1
-鉸	铰	(白)geu3	(文)gaau3,(又)geu2,(又)gaau2	gaau2,(異讀)gaau3
-鉻	铬	lok3「剃髮」,gok3「金屬元素，符號Gr」		gok3,lok6
-銀	银	ngan4		ngan4
-銃	铳	cung3	(又)cung1	cung3
-銅	铜	tung4		tung4
-銓	铨	cyun4		cyun4
-銕	銕	tit3「同鐵字」		tit3
-銖	铢	zyu1		zyu1；(又)syu4
-銘	铭	ming4		ming4；(又)ming5
-銜	衔	haam4		haam4
-銬	铐	kaau3		kaau3
-銲	銲	hon6「同焊字」		hon6
-銳	锐	jui6	(又)jui5	jeoi6
-銷	销	sliu1		siu1
-銹	锈	slau3		sau3
-銻	锑	tai1		tai1
-銼	锉	co3		co3
-鋁	铝	lyu5		leoi5
-鋅	锌	slan1		san1
-鋒	锋	fung1		fung1
-鋤	锄	co4		co4
-鋥	锃	caang3	(又)saang3	caang3
-鋦	锔	guk1「鋦碗」,guk6「金屬元素」		geoi3,guk6
-鋪	铺	pu3「店鋪」,pu1「鋪設」		1)pou1:鋪張 2)pou3:店鋪
-鋭	锐	jui6	(又)jui5	jeoi6
-鋸	锯	gyu3		geoi3；(語)goe3
-鋼	钢	gong3	(又)gong1	gong3
-錄	录	luk6		luk6
-錐	锥	(白)jui1	(文)zui1	zeoi1
-錔	錔	taap3「名詞，器物錔頭」,tap1「動詞，套上，又作佮字」		daap6,taap3
-錘	锤	cui4		1)ceoi4:鐵錘 2)seoi4:稱錘
-錚	铮	zang1		zang1
-錛	锛	ban1		ban1
-錠	锭	ding6		ding6；(又)ding3
-錢	钱	cin4		cin4；(古)zin2田器
-錦	锦	gam2		gam2
-錨	锚	naau4	(又)maau4	naau4；(又)maau4
-錫	锡	slek3		sek3；(又)sik3
-錮	锢	gu3		gu3
-錯	错	co3		1)co3:錯誤 2)cok3:交錯
-錳	锰	maang5		maang5
-錶	表	biu1		biu1
-鍊	炼	lin6「同煉字，煉乳，修煉」,lin2「同鏈字，拉鏈，鏈條」		lin6；(語)lin2金鍊，亦作金鏈
-鍋	锅	go1		wo1
-鍍	镀	du6		dou6
-鍘	铡	(訓)zaap6「訓讀爲閘」	(又)zaat3「本讀」	zaap6,(異讀)zaat3
-鍛	锻	dyun6		dyun3；(又)dyun6
-鍟	鍟	(白)sleng3「鐵鏽，又作鉎字」	(文)sling3	seng3
-鍥	锲	kit3		kit3
-鍬	锹	ciu1		ciu1
-鍵	键	gin6		gin6
-鍼	针	zam1		zam1,kim4
-鍾	钟	zung1		zung1
-鎂	镁	mi5	(常)mai5	mei5
-鎊	镑	bong6		bong6
-鎌	镰	lim4		lim4
-鎔	镕	jung4		jung4
-鎖	锁	slo2		so2
-鎚	锤	cui4		ceoi4
-鎢	钨	wu1		wu1
-鎧	铠	hoi2	(又)koi2	hoi2,(異讀)koi3
-鎮	镇	zan3		zan3
-鎳	镍	nip6		nip1；(又)nip6
-鏃	镞	zuk6		zuk6
-鏇	镟	slyun4	(又)syun4	syun4,syun6
-鏈	链	lin2		lin6；(語)lin2
-鏊	鏊	ngu6		(異讀)ngou4,ngou6
-鏑	镝	dik6	(又)dik1	dik1
-鏖	鏖	u1	(又)ngu4	ngou4；(又)ou1
-鏗	铿	hang1	(又)kang1	hang1
-鏘	锵	coeng1		coeng1
-鏚	戚	cik1		cik1
-鏜	镗	tong1「象聲詞」,tong4「加工機械零件的一種方法」		tong1；同搪tong4
-鏟	铲	(白)cen2	(文)caan2	caan2
-鏡	镜	geng3		geng3
-鏢	镖	biu1		biu1
-鏨	錾	zaam6	(又)zaam2	zaam6
-鏵	铧	waa4		(異讀)waa1,waa4
-鏹	镪	koeng5	(又)koeng2	koeng5
-鏽	锈	slau3		sau3
-鐃	铙	naau4		naau4
-鐐	镣	liu4		liu4
-鐘	钟	zung1		zung1
-鐙	镫	dang3「鞍鐙」	(又)dang1「同燈字」	dang1,dang3
-鐧	锏	gaan2「殺手鐧」,gaan3「車鐧」	(白)gen2「殺手鐧」	gaan2,gaan3
-鐮	镰	lim4		lim4
-鐲	镯	zuk6	(白)zuk1	zuk1
-鐳	镭	lui4		leoi4
-鐵	铁	tit3		tit3
-鐸	铎	dok6		dok6
-鐺	铛	caang1「平底煎鍋，又作罉字」,dong1「鋃鐺」		1)dong1:象聲詞 2)caang1:平底淺鍋
-鐾	鐾	bai6		bai3
-鑄	铸	zyu3		zyu3
-鑊	镬	wok6		wok6
+鉏	鉏	zyu2「鉏鋙，同齟齬」,co4「同鋤字」		co4,zeoi2
 鑑	鉴	gaam3		gaam3
 鑒	鉴	gaam3		gaam3
-鑔	镲	caa2	(語)cem2「鈸」	caa2
-鑞	镴	laap6		laap6
-鑠	铄	soek3		soek3
-鑣	镳	biu1		biu1
+銕	銕	tit3「同鐵字」		tit3
+鑾	銮	lyun4		lyun4
+銲	銲	hon6「同焊字」		hon6
+錔	錔	taap3「名詞，器物錔頭」,tap1「動詞，套上，又作佮字」		daap6,taap3
+鏨	錾	zaam6	(又)zaam2	zaam6
+鍟	鍟	(白)sleng3「鐵鏽，又作鉎字」	(文)sling3	seng3
+鏊	鏊	ngu6		ngou6
+鏖	鏖	u1	(又)ngu4	ngou4；(又)ou1
+鐾	鐾	bai6		bai3
+鑵	鑵	gun3		gun3
+針	针	zam1		zam1
+鍼	针	zam1		zam1,kim4
+釘	钉	(白)deng1	(文)ding1	deng1；(又)ding1
+釗	钊	ciu1		ciu1
+釧	钏	cyun3		cyun1；(又)cyun3
+釤	钐	saam1		saam1
+釣	钓	diu3		diu3
+釵	钗	caai1		caai1
+鈣	钙	koi3		koi3
+鈍	钝	dan6		deon6
+鈔	钞	caau1		caau1
+鍾	钟	zung1		zung1
+鐘	钟	zung1		zung1
+鈉	钠	naap6		naap6
+鋼	钢	gong3	(又)gong1	gong3
+鈐	钤	(白)kem4	(文)kim4	kim4
 鑰	钥	joek6		joek6
+欽	钦	ham1		jam1
+鈞	钧	(舊)kwan1	(又)gwan1	gwan1
+鎢	钨	wu1		wu1
+鈎	钩	(白)ngau1	(文)gau1	ngau1
+鉤	钩	(白)ngau1	(文)gau1	ngau1
+鈕	钮	nau2	(又)nau5	nau2
+鈀	钯	paa4「同耙字」,baa2「金屬元素，符號Pd」		baa2,paa4
+錢	钱	cin4		cin4；(古)zin2田器
+鉗	钳	(白)kem4	(文)kim4	kim4
+鈷	钴	gu2		gu2
+缽	钵	but3		but3
+鉢	钵	but3		but3
+鈸	钹	baat6		bat6
+鑽	钻	zyun3「鑽子，名詞」,zyun1「鑽研，動詞」		zyun3
+鉀	钾	gaap3		gaap3
+鈾	铀	jau4		jau4
+鐵	铁	tit3		tit3
+鉑	铂	bok6		bok6
+鈴	铃	ling4	(又)ling1「鈴啷，模仿搖鈴聲」,(又)leng1「模擬鈴聲」	ling4
+鑠	铄	soek3		soek3
+鉛	铅	jyun4		jyun4
+鉋	铇	(白)peu4	(文)paau4	paau4
+鐸	铎	dok6		dok6
+銬	铐	kaau3		kaau3
+鐃	铙	naau4		naau4
+鐺	铛	caang1「平底煎鍋，又作罉字」,dong1「鋃鐺」		1)dong1:象聲詞 2)caang1:平底淺鍋
+銅	铜	tung4		tung4
+鋁	铝	lyu5		leoi5
+鎧	铠	hoi2	(又)koi2	hoi2
+鍘	铡	(訓)zaap6「訓讀爲閘」		zaap6
+銖	铢	zyu1		zyu1；(又)syu4
+鏵	铧	waa4		waa4
+銓	铨	cyun4		cyun4
+鉻	铬	lok3「剃髮」,gok3「金屬元素，符號Gr」		gok3,lok3
+銘	铭	ming4		ming4；(又)ming5
+錚	铮	zang1		zang1
+鉸	铰	(白)geu3	(文)gaau3,(又)geu2,(又)gaau2	gaau3
+剷	铲	(白)cen2	(文)caan2	caan2
+鏟	铲	(白)cen2	(文)caan2	caan2
+銃	铳	cung3		cung3
+銀	银	ngan4		ngan4
+鑄	铸	zyu3		zyu3
+鋪	铺	pu3「店鋪」,pu1「鋪設」		1)pou1:鋪張 2)pou3:店鋪
+鏈	链	lin2		lin6；(語)lin2
+鏗	铿	hang1	(又)kang1	hang1
+銷	销	sliu1		siu1
+鎖	锁	slo2		so2
+鋥	锃	caang3	(又)saang3	caang3
+鋤	锄	co4		co4
+鍋	锅	go1		wo1
+銹	锈	slau3		sau3
+鏽	锈	slau3		sau3
+銼	锉	co3		co3
+鋒	锋	fung1		fung1
+鋅	锌	slan1		san1
+鐧	锏	gaan2「殺手鐧」,gaan3「車鐧」	(白)gen2「殺手鐧」	gaan2,gaan3
+銳	锐	jui6	(又)jui5	jeoi6
+鋭	锐	jui6	(又)jui5	jeoi6
+銻	锑	tai1		tai1
+鋦	锔	guk1「鋦碗」,guk6「金屬元素，符號Cm」		guk1,guk6
+錯	错	co3		1)co3:錯誤 2)cok3:交錯
+錨	锚	naau4	(又)maau4	naau4；(又)maau4
+錛	锛	ban1		ban1
+錫	锡	slek3		sek3；(又)sik3
+錮	锢	gu3		gu3
+鑼	锣	lo4		lo4
+錘	锤	cui4		1)ceoi4:鐵錘 2)seoi4:稱錘
+鎚	锤	cui4		ceoi4
+錐	锥	(白)jui1	(文)zui1	zeoi1
+錦	锦	gam2		gam2
+錠	锭	ding6		ding6；(又)ding3
+鍵	键	gin6		gin6
+鋸	锯	gyu3		geoi3；(語)goe3
+錳	锰	maang5		maang5
+鍥	锲	kit3		kit3
+鏘	锵	coeng1		coeng1
+鍬	锹	ciu1		ciu1
+鍛	锻	dyun6		dyun3；(又)dyun6
+鍍	镀	du6		dou6
+鎂	镁	mi5	(常)mai5	mei5
+鎮	镇	zan3		zan3
+鑷	镊	(白)nep3「鑷子；夾」	(文)nip6	nip6
+鎳	镍	nip6		nip1；(又)nip6
+鎊	镑	bong6		bong6
+鎔	镕	jung4		jung4
+鏢	镖	biu1		biu1
+鏜	镗	tong1「象聲詞」,tong4「加工機械零件的一種方法」		tong1；同搪tong4
+鏡	镜	geng3		geng3
+鏑	镝	dik6	(又)dik1	dik1
+鏃	镞	zuk6		zuk6
+鏇	镟	slyun4	(又)syun4	syun4,syun6
+钁	镢	kyut3	(語)kwak1「鐝頭」,(又)kok3	fok3,kyut3
+鐐	镣	liu4		liu4
+鏹	镪	koeng5	(又)koeng2	koeng5
+鐙	镫	dang3「鞍鐙」,dang1「同燈字」		dang1,dang3
+鑊	镬	wok6		wok6
+鐳	镭	lui4		leoi4
+鐲	镯	zuk6	(白)zuk1	zuk1
+鎌	镰	lim4		lim4
+鐮	镰	lim4		lim4
+鑔	镲	caa2	(語)cem2「鈸」	caa2
+鑣	镳	biu1		biu1
+鑞	镴	laap6		laap6
 鑱	镵	(白)cem4「刺入，又作攙/劖字」	(文)caam4	caam4
 鑲	镶	sloeng1		soeng1
-鑵	鑵	gun3		gun3
-鑷	镊	(白)nep3「鑷子；夾」	(文)nip6	nip6
-鑼	锣	lo4		lo4
-鑽	钻	zyun3「鑽子，名詞」,zyun1「鑽研，動詞」		zyun3
-鑾	銮	lyun4		lyun4
-鑿	凿	zok6		zok6
-钁	镢	kyut3	(又)gyut3,(語)kwak1「鐝頭」,(又)kok3	(異讀)gwok3,kyut3
 長	长	zoeng2「生長」,coeng4「長短」		1)coeng4:長短＜長物又讀zoeng6＞ 2)zoeng2:長幼
+閪	閪	hai1「女陰，本字㞓」		hai1
+闚	闚	kwai1「同窺字」		kwai1
 門	门	mun4		mun4
 閂	闩	saan1		saan1
 閃	闪	sim2		sim2
 閉	闭	bai3	(又)bi3	bai3
-開	开	hoi1		hoi1
-閌	闶	kong3		kong3
+問	问	man6		man6
+闖	闯	cong2		cong2；闖蕩江湖又讀cong3
 閏	闰	jan6	(老派)jyun6	jeon6
+闈	闱	wai4		wai4
 閑	闲	(白)hen4	(文)haan4	haan4
 閒	闲	(白)hen4	(文)haan4	haan4；(古)通間
 間	间	(白)gen1「中間」,(文)gaan3「間隔，間斷」	(文)gaan1「中間」,(白)gen3「間隔，間斷」	1)gaan1:中間 2)gaan3:間隙，時間
 閔	闵	man5		man5
+閌	闶	kong3		kong3
+悶	闷	mun6		mun6
 閘	闸	zaap6		zaap6
-閡	阂	hat6「隔閡」,ngoi6「從門外關門；以木攔門」,goi「同垓字」		hat6
-閣	阁	gok3		gok3
-閤	合	hap6「同闔字」,gok3「同閣字」,gap3「大門旁的小門；姓」		hap6；通閣
-閥	阀	faat6		fat6
+鬧	闹	naau6		naau6
 閨	闺	gwai1		gwai1
+聞	闻	man4		man4
 閩	闽	man5		man5；(又)man4
-閪	閪	hai1「女陰，本字㞓」		hai1
 閭	闾	lyu4		leoi4
+閥	阀	faat6		fat6
+閣	阁	gok3		gok3
+閡	阂	hat6「隔閡」,ngoi6「從門外關門；以木攔門」,goi「同垓字」		hat6
+鬮	阄	gau1		gau1,kau1
 閱	阅	jyut6		jyut6
 閲	阅	jyut6		jyut6
 閹	阉	jim1		jim1
 閻	阎	jim4		jim4
-闆	板	baan2		baan2
-闇	暗	am3		am1,(異讀)am2,am3,(異讀)ngam2,(異讀)ngam3
-闈	闱	wai4		wai4
+闡	阐	cin2	(又)zin2,(又)caan2	zin2；(又)sin6,cin2
+闌	阑	laan4		laan4
 闊	阔	fut3		fut3
 闋	阕	kyut3		kyut3
-闌	阑	laan4		laan4
-闐	阗	tin4		tin4
 闔	阖	hap6		hap6
+闐	阗	tin4		tin4
 闕	阙	kyut3		kyut3
-闖	闯	cong2		cong2；闖蕩江湖又讀cong3
-闚	闚	kwai1「同窺字」		kwai1
-關	关	(白)gwen1「關門」	(文)gwaan1「關公」	gwaan1
-闡	阐	cin2	(又)zin2,(又)caan2	zin2；(又)sin6,cin2
-闢	辟	pik1		pik1
 阜	阜	fau6		fau6
+隊	队	dui6		deoi6
 阡	阡	cin1		cin1
 阪	阪	baan2		baan2
-阬	阬	haang1		haang1,kong3,gon1
+阬	阬	haang1		haang1
 阮	阮	jyun5	(又)jyun2	jyun2；(又)jyun5
 阱	阱	(白)zeng2	(文)zing6	zing6；(又)zeng2
 防	防	fong4		fong4
+陽	阳	joeng4		joeng4
+陰	阴	jam1		jam1
+陣	阵	zan6		zan6
+階	阶	gaai1		gaai1
 阻	阻	zo2		zo2
 阿	阿	aa3「阿哥」,o1「阿膠，阿彌陀佛」		1)aa3:阿姨 2)o1:阿諛奉承
 陀	陀	to4		to4
 附	附	fu6		fu6
+際	际	zai3		zai3
+陸	陆	luk6		luk6
+隴	陇	lung5		lung5
+陳	陈	can4		can4；(古)同陣
+陘	陉	jing4		jing4
 陋	陋	lau6		lau6
 陌	陌	mak6		mak6
 降	降	hong4「投降」,gong3「下降」		1)gong3:降雨 2)hong4:投降
 限	限	haan6		haan6
-陘	陉	jing4		jing4
+陝	陕	sim2		sim2
 陛	陛	bai6	(又)bi6	bai6
 陜	陜	haap3「同狹字」,haap6「同峽字」		haap6
-陝	陕	sim2		sim2
 陡	陡	dau2		dau2
 院	院	jyun2		jyun2；(又)jyun6
-陣	阵	zan6		zan6
 除	除	cyu4		ceoi4
+隕	陨	wan5		wan5
+險	险	him2		him2
 陪	陪	pui4		pui4
-陰	阴	jam1		jam1
 陲	陲	sui4	(又)cui4	seoi4
-陳	陈	can4		can4；(古)同陣
 陵	陵	ling4		ling4
 陶	陶	tu4		tou4；(古人名)jiu4皋陶
 陷	陷	haam6		haam6
-陸	陆	luk6		luk6
-陽	阳	joeng4		joeng4
 隅	隅	jyu4		jyu4
 隆	隆	lung4		lung4
-隊	队	dui6		deoi6
 隋	隋	cui4	(又)sui4	ceoi4
 隍	隍	wong4		wong4
-階	阶	gaai1		gaai1
+隨	随	cui4		ceoi4
+隱	隐	jan2	(又)jan5	jan2
 隔	隔	gaak3		gaak3
-隕	陨	wan5		wan5
 隘	隘	aai3	(又)oi3	aai3
 隙	隙	kik1	(又)gik1	gwik1
-際	际	zai3		zai3
 障	障	zoeng3		zoeng3
 隧	隧	sui6		seoi6
-隨	随	cui4		ceoi4
-險	险	him2		him2
-隱	隐	jan2	(又)jan5	jan2
-隴	陇	lung5		lung5
-隷	隷	dai6		dai6
 隸	隶	dai6		dai6；隸書又音lai6
-隻	只	zek3	(又)zik3	zek3
+隷	隷	dai6		dai6
+雋	隽	zan3「同俊字」,syun5「雋永」		zeon3；雋永又讀syun5
+難	难	naan4「難易」,naan6「患難」		1)naan4:難事 2)naan6:難民；(古)同儺no4
 雀	雀	coek3		zoek3
 雁	雁	ngaan6		ngaan6
 雄	雄	hung4		hung4
 雅	雅	ngaa5		ngaa5
 集	集	zap6		zaap6
+僱	雇	gu3		gu3
 雇	雇	gu3		gu3
 雉	雉	zi6		zi6
-雋	隽	zan3「同俊字」,syun5「雋永」		zeon3；雋永又讀syun5
 雌	雌	ci1	(老派)cy1	ci1
 雍	雍	jung1		jung1
-雕	雕	diu1	(又)tiu1「雕刻」	diu1；雕刻又讀tiu1
-雖	虽	slui1		seoi1
-雙	双	soeng1		soeng1
 雛	雏	cyu4	(又)cyu1	co1；(又)co4
-雜	杂	zaap6		zaap6
-雞	鸡	gai1		gai1
-離	离	li4「離開」	(語)le4「離氣he3，不修邊幅」	lei4；(古)lei6不可須臾離也
-難	难	naan4「難易」,naan6「患難」		1)naan4:難事 2)naan6:難民；(古)同儺no4
+彫	雕	diu1	(又)tiu1	diu1；(又)tiu1
+雕	雕	diu1	(又)tiu1「雕刻」	diu1；雕刻又讀tiu1
+鵰	雕	diu1		diu1
+讎	雠	cau4		cau4,sau4
 雨	雨	jyu5		jyu5；(古)jyu6夏雨雪
 雪	雪	slyut3		syut3
 雯	雯	man4		man4
-雲	云	wan4		wan4
+靂	雳	(白)lik1	(文)lik6	lik1；(又)lik6
 零	零	ling4	(語)leng4「千零文，一千多元」	ling4
 雷	雷	lui4		leoi4
 雹	雹	bok6	(又)paau1	bok6
-電	电	din6		din6
+霧	雾	mu6		mou6
 需	需	slyu1		seoi1
+霽	霁	zai3		zai3
 霄	霄	sliu1		siu1
-霅	霅	slap6	(白)slep6	saap3,(異讀)zaap6,zip3
+霅	霅	slap6「落雨～～，下雨貌」,zip3「霅溪，浙江水名」	(白)slep6「落雨～～，下雨貌」	saap3,zip3
 霆	霆	ting4		ting4
 震	震	zan3		zan3
 霉	霉	mui4	(又)mi4	mui4
+黴	霉	mui4	(又)mi4	mui4；(又)mei4
 霍	霍	kok3		fok3
 霎	霎	saap3		saap3
 霏	霏	fi1		fei1
@@ -5527,46 +5570,39 @@
 霖	霖	lam4		lam4
 霜	霜	soeng1	(又)sloeng1	soeng1
 霞	霞	haa4		haa4
-霧	雾	mu6		mou6
 霪	霪	jam4		jam4
+靄	霭	oi2		oi2
 露	露	lu6		lou6
 霸	霸	baa3		baa3
 霹	霹	pik1		pik1
-霽	霁	zai3		zai3
 霾	霾	maai4		mai4；(又)maai4
-靂	雳	(白)lik1	(文)lik6	lik1；(又)lik6
-靄	霭	oi2		oi2
-靈	灵	ling4	(白)leng4「靈驗」,(白)ling1「精靈，聰明」	ling4
 青	青	cing1「青年」	(白)ceng1「青色」	cing1
+靚	靓	(訓)leng3「漂亮，訓讀爲姈」,zing6「妝飾，打扮」		leng3,zing6
 靖	靖	zing6		zing6
-靚	靓	(訓)leng3「漂亮，訓讀爲姈」,zing6「妝飾，打扮」		(異讀)leng3,zing6
-靛	靛	din6		din6
 靜	静	zing6		zing6
+靛	靛	din6		din6
 非	非	fi1		fei1
 靠	靠	kaau3		kaau3
 靡	靡	mi5「靡靡之音」,mi4「奢靡」		mei5
 面	面	min6	(白)min2「畀面，給面子」,(白)min1「薯類很粉，形容詞」	min6
-靦	腼	dim2「靦顏」,min5「靦腆」	(書)tin2「靦顏」	1)tin2:靦顏 2)min5:靦腆
+麪	面	min6	(白)min1「薯類很粉，形容詞」	min6
+麵	面	min6	(白)min1「薯類很粉，形容詞」	min6
 靨	靥	jip3		jip3
 革	革	gaak3		gaak3；(古)gik1病革
 靪	靪	ding1		ding1
 靴	靴	hoe1		hoe1
 靶	靶	baa2		baa2
 靼	靼	daat3		daat3
-靽	靽	bun6		bun3,(異讀)bun6
-靿	靿	aau3		(異讀)aau2,aau3,(異讀)ngaau3
+靽	靽	bun3		bun3
+靿	靿	aau3		aau3
 鞅	鞅	joeng2	(又)joeng1	joeng2
 鞋	鞋	haai4		haai4
 鞍	鞍	on1		on1
-鞏	巩	gung2	(又)kung2	gung2
+韃	鞑	taat3		taat3
 鞘	鞘	ciu3		1)ciu3:刀鞘 2)saau1:鞭鞘
 鞠	鞠	guk1		guk1
 鞣	鞣	jau4		jau4
-鞦	秋	cau1		cau1
 鞭	鞭	bin1		bin1
-韁	缰	goeng1	(常)koeng1	goeng1
-韃	鞑	taat3		taat3
-韆	千	cin1		cin1
 韋	韦	wai4		wai5；(又)wai4
 韌	韧	jan6	(白)ngan6「煙煙韌韌，食物有勁道」,(語)jang3	jan6
 韓	韩	hon4		hon4
@@ -5574,292 +5610,250 @@
 韜	韬	tu1		tou1
 韭	韭	gau2		gau2
 音	音	jam1		jam1
-韶	韶	siu4		siu4
 韻	韵	wan6		wan6
-響	响	hoeng2		hoeng2
+韶	韶	siu4		siu4
 頁	页	jip6		jip6
 頂	顶	(白)deng2「屋頂」	(文)ding2「頂住」	ding2
 頃	顷	king2		king2
 項	项	hong6	(又)hong5「項鏈」	hong6
 順	顺	san6	(老派)syun6	seon6
 須	须	slyu1		seoi1；(古)通鬚
+鬚	须	slu1	(又)slyu1	sou1
+頑	顽	waan4	(又)ngaan4,(訓)maan4「訓讀爲蠻」	waan4
+顧	顾	gu3		gu3
+頓	顿	dan6「頓號」	(又)dan3「整頓」	deon6；(古人名)duk6冒頓
+頒	颁	baan1		baan1
 頌	颂	zung6		zung6
 預	预	jyu6		jyu6
-頑	顽	waan4	(又)ngaan4,(訓)maan4「訓讀爲蠻」	waan4
-頒	颁	baan1		baan1
-頓	顿	dan6「頓號」	(又)dan3「整頓」	deon6；(古人名)duk6冒頓
-頗	颇	po2	(又)po1	po2；po1偏頗,(古人名)廉頗
+顱	颅	lu4		lou4
 領	领	ling5「領取」	(白)leng5「衫領」	ling5
-頡	颉	kit3		kit3
-頤	颐	ji4		ji4
-頫	𫖯	fu2		tiu3,fu2
-頭	头	tau4		tau4
-頰	颊	gaap3		gaap3
-頷	颔	ham5		ham5
+頗	颇	po2	(又)po1	po2；po1偏頗,(古人名)廉頗
 頸	颈	geng2		geng2
-頹	颓	tui4		teoi4
+頡	颉	kit3		kit3
+頰	颊	gaap3		gaap3
+頤	颐	ji4		ji4
 頻	频	pan4		pan4
+頹	颓	tui4		teoi4
 頽	颓	tui4		teoi4
+頷	颔	ham5		ham5
+穎	颖	wing5		wing6
 顆	颗	ko2		fo2
 題	题	tai4		tai4
-額	额	ngak6	(白)ngaak6	ngaak6
 顎	颚	ngok6		ngok6
 顏	颜	ngaan4	(白)ngen4	ngaan4
-願	愿	jyun6		jyun6
+額	额	ngak6	(白)ngaak6	ngaak6
 顛	颠	din1		din1
-類	类	lui6		leoi6
-顧	顾	gu3		gu3
 顫	颤	zin3	(訓)zan3「訓讀爲震」,(又)caan3	zin3
-顯	显	hin2		hin2
 顰	颦	pan4		pan4
-顱	颅	lu4		lou4
 顴	颧	kyun4		kyun4
+飌	飌	fung1		fung1
 風	风	fung1		fung1；(古)又同諷fung3
-颯	飒	slaap3		saap3
-颱	台	toi4		toi4
-颳	刮	(白)gwet3	(文)gwaat3	gwaat3
-颶	飓	gyu6		geoi6
 颺	飏	joeng4		joeng4
+颯	飒	slaap3		saap3
+颶	飓	gyu6		geoi6
 颼	飕	slau1		sau1
 飄	飘	piu1		piu1
 飆	飙	biu1		biu1
-飌	飌	fung1		fung1
 飛	飞	fi1		fei1
 食	食	sik6		sik6；1)(古)zi6拿東西給人吃 2)(古人名)ji6食其
-飢	饥	gi1		gei1
 飤	飤	ci4「同飼字」	(老派)cy4,(又)cy6,(又)ci6	zi6
 飧	飧	slyun1		syun1
+餈	餈	ci4	(老派)cy4	ci4
+饜	餍	jim3		jim3
+餐	餐	caan1		caan1
+餽	餽	gwai6		gwai6
+飢	饥	gi1		gei1
+饑	饥	gi1		gei1
 飩	饨	tan1		tan1
 飪	饪	jam6	(又)jam5	jam6；(又)jam5
 飭	饬	cik1		cik1
 飯	饭	faan6		faan6
 飲	饮	jam2「飲酒」,jam3「飲馬」		1)jam2:飲水 2)jam3:飲馬，飲牛
-飴	饴	ji4		ji4
-飼	饲	ci4	(老派)cy4,(又)cy6,(又)ci6	zi6
-飽	饱	(白)beu2	(文)baau2	baau2
+餞	饯	zin3	(又)zin6	zin3
 飾	饰	sik1	(又)slik1	sik1
+飽	饱	(白)beu2	(文)baau2	baau2
+飼	饲	ci4	(老派)cy4,(又)cy6,(又)ci6	zi6
+飴	饴	ji4		ji4
+餌	饵	ji5		nei6
+饒	饶	jiu4		jiu4
+餉	饷	hoeng2		hoeng2
 餃	饺	gaau2	(白)geu2	gaau2
 餅	饼	beng2		beng2
-餈	餈	ci4	(老派)cy4	ci4
-餉	饷	hoeng2		hoeng2
-養	养	joeng5		joeng5；(古)joeng6奉養
-餌	饵	ji5		nei6
-餐	餐	caan1		caan1
 餑	饽	but6		but6
-餒	馁	nui5		neoi5；(又)noi5 (俗)leoi5
 餓	饿	ngo6		ngo6
-餘	余	jyu4		jyu4
-餚	肴	ngaau4		ngaau4
-餛	馄	wan4		wan4
+餒	馁	nui5		neoi5；(又)noi5 (俗)leoi5
 餜	馃	go2		gwo2
-餞	饯	zin3	(又)zin6	zin3
+餛	馄	wan4		wan4
 餡	馅	haam6	(白)haam2,(白)hem2	haam2；(又)haam6
-餧	𫗪	wai3「同餵字」		wai3
 館	馆	gun2		gun2
-餫	𫗥	wan4「餛飩」,wan6「運糧」		wan4,wan6
-餬	糊	wu4		wu4
-餵	喂	wai3		wai3
-餽	餽	gwai6		gwai6
-餾	馏	lau4		lau6
+饋	馈	gwai6		gwai6
 餿	馊	sluk1	(書)slau1	sau1；(語)suk1
-饃	馍	mo4	(又)mo1	mo4
-饅	馒	maan4	(又)maan6	maan6；(又)maan4
-饉	馑	gan2		gan2,(異讀)gan6
-饋	馈	gwai6		(異讀)gwai3,gwai6
-饑	饥	gi1		gei1
-饒	饶	jiu4		jiu4
-饜	餍	jim3		jim3
 饞	馋	caam4	(常)caan4	caam4
+饃	馍	mo4		mo4
+餾	馏	lau4		lau6
+饉	馑	gan2		gan2
+饅	馒	maan4	(又)maan6	maan6；(又)maan4
 首	首	sau2		sau2
 香	香	hoeng1		hoeng1
 馥	馥	fuk1		fuk1
 馨	馨	hing1		hing1
+騣	騣	zung1「同鬃字」		zung1
+騲	騲	cu2		cou2
+驣	驣	tang4		tang4
 馬	马	maa5		maa5
 馭	驭	jyu6		jyu6
-馮	冯	fung4		fung4；(古)通憑
 馱	驮	to4「馱東西」,do6「馱子」		to4
-馳	驰	ci4		ci4
 馴	驯	slan4	(又)slyun4,(又)can4,(習)fan3	seon4
-駁	驳	bok3		bok3
-駐	驻	zyu3		zyu3
-駑	驽	nu4		nou4
-駒	驹	kyu1	(又)gyu1	keoi1
-駕	驾	gaa3	(常)kaa3	gaa3
-駙	驸	fu6		fu6
-駛	驶	sai2		sai2
-駝	驼	to4		to4
-駟	驷	sli3		si3
-駢	骈	pin4	(又)ping4	pin4；(又)ping4
-駭	骇	hoi6	(又)haai5	haai5
-駱	骆	lok3		lok3
-駿	骏	zan3		zeon3
-騁	骋	cing2		cing2
-騎	骑	ke4		1)ke4:騎馬 2)kei4:車騎
-騖	骛	mu6		mou6
-騙	骗	pin3		pin3
-騣	騣	zung1「同鬃字」		zung1
-騫	骞	hin1		hin1
-騰	腾	tang4		tang4
-騲	騲	cu2		cou2
-騷	骚	slu1		sou1
-騾	骡	lo4		leoi4；(又)lo4
-驀	蓦	mak6		mak6
-驃	骠	biu1「黃白色的馬」,piu3「驃勇」		1)piu3:驃勇 2)biu1:黃驃馬
+馳	驰	ci4		ci4
 驅	驱	kyu1		keoi1
-驊	骅	waa4		waa4
-驕	骄	giu1		giu1
-驗	验	nim6		jim6
-驚	惊	ging1	(白)geng1	ging1
-驛	驿	jik6		jik6
-驟	骤	zau6		zaau6
+駁	驳	bok3		bok3
 驢	驴	lyu4	(又)lu4	lou4；(又)leoi4
-驣	驣	tang4		tang4
-驥	骥	gi3		kei3
+駛	驶	sai2		sai2
+駟	驷	sli3		si3
+駙	驸	fu6		fu6
+駒	驹	kyu1	(又)gyu1	keoi1
+駐	驻	zyu3		zyu3
+駝	驼	to4		to4
+駑	驽	nu4		nou4
+駕	驾	gaa3	(常)kaa3	gaa3
+驛	驿	jik6		jik6
+罵	骂	maa6		maa6
+驕	骄	giu1		giu1
+驊	骅	waa4		waa4
+駱	骆	lok3		lok3
+駭	骇	hoi6	(又)haai5	haai5
+駢	骈	pin4	(又)ping4	pin4；(又)ping4
 驪	骊	li4		lei4
+騁	骋	cing2		cing2
+驗	验	nim6		jim6
+駿	骏	zan3		zeon3
+騎	骑	ke4		1)ke4:騎馬 2)kei4:車騎
+騙	骗	pin3		pin3
+騷	骚	slu1		sou1
+騖	骛	mu6		mou6
+騫	骞	hin1		hin1
+驃	骠	biu1「黃白色的馬」,piu3「驃勇」		1)piu3:驃勇 2)biu1:黃驃馬
+騾	骡	lo4		leoi4；(又)lo4
+驟	骤	zau6		zaau6
+驥	骥	gi3		kei3
 骨	骨	gwat1		gwat1
-骯	肮	ong1		ong1
 骰	骰	sik1	(書)tau4	sik1；(又)tau4
 骲	骲	(白)beu6「用力擠」	(文)baau6	baau6
 骷	骷	ku1	(書)fu1	fu1
 骸	骸	haai4	(又)hoi4	haai4；(又)hoi4
 骼	骼	gaak3		gaak3
-骾	骾	kang2「骨～在喉，又作鯁/哽字」	(又)gang2	gang2
-髀	髀	bi2		bei2
+骾	骾	gang2「骨～在喉，又作鯁/哽字」	(習)kang2	gang2
+髀	髀	bi2「大腿」		bei2
 髏	髅	lu1	(書)lau4	lau4
-髒	脏	zong1		zong1
-髓	髓	sui2		seoi5
-體	体	tai2		tai2
 髕	髌	ban3	(又)ban1	ban3
+髓	髓	sui2		seoi5
 高	高	gu1		gou1
 髣	髣	fong2		fong2
 髦	髦	mu4	(外)mu1「時髦，源自英語smart」	mou4；(又)mou1
-髧	髧	dam3		(異讀)dam3,daam6
+髧	髧	dam3「髮垂」	(書)daam6	dam3,daam6
 髭	髭	zi1	(老派)zy1	zi1
-髮	发	faat3		faat3
 髯	髯	jim4		jim4
 髻	髻	gai3		gai3
-鬁	鬁	li6	(語)li1「鬎laat3鬁，頭癬，又作瘌laat3痢li1，又作癩laat3/laai3痢li1」	(異讀)lei1,lei6
+鬁	鬁	li6	(語)li1「鬎laat3鬁，頭癬，又作瘌laat3痢li1，又作癩laat3/laai3痢li1」	lei1
 鬃	鬃	zung1		zung1
-鬆	松	slung1		sung1
-鬍	胡	wu4		wu4
 鬎	鬎	laat3		laat6
 鬏	鬏	zau1		cau1
-鬚	须	slu1	(又)slyu1	sou1
-鬞	鬞	nung1「～鬤naang1，窩囊、不整潔」		nung4
 鬢	鬓	ban1	(書)ban3	ban3
+鬞	鬞	nung1「～鬤naang1，窩囊、不整潔」		nung4
 鬤	鬤	naang1「鬞nung1～，窩囊、不整潔」		joeng4
-鬥	斗	dau3		dau3
-鬧	闹	naau6		naau6
-鬨	哄	hung6「起鬨」		1)hung3:鬨騙 2)hung1:鬨堂大笑
-鬮	阄	gau1		gau1,(異讀)kau1
-鬱	郁	wat1「愁」		wat1
 鬼	鬼	gwai2		gwai2
 魁	魁	kwai4	(又)kwai1,(書)fui1	fui1
 魂	魂	wan4		wan4
-魃	魃	baat6	(白)bet6	baat6,(異讀)bat6
-魄	魄	paak3		paak3
+魃	魃	baat6	(白)bet6	bat6
+魄	魄	paak3「魂魄」	(又)tok3「落魄，又作落拓」,(又)bok6「落魄，又作落泊」	paak3
 魅	魅	mi6		mei6
+魘	魇	jim2		jim2
 魏	魏	ngai6		ngai6
 魔	魔	mo1		mo1
-魘	魇	jim2		jim2
 魚	鱼	jyu4		jyu4
-魯	鲁	lu5		lou5
 魷	鱿	jau4		jau4
-魽	𫠐	(白)kem5	(文)kim5	kim5
+魯	鲁	lu5		lou5
 鮎	鲇	nim4		nim4
+鱸	鲈	lu4		lou4
+鮓	鲊	zaa2「魚鮓；劣質的，又作苴字」		zaa2
 鮑	鲍	baau1		1)baau1:鮑魚，姓鮑 2)baau6:鮑魚之肆，姓鮑
-鮓	鲊	zaa2		zaa2,(異讀)zaa3
-鮝	鲞	sloeng2		soeng2
+鱟	鲎	hau6		hau6
+鰂	鲗	zak1「鰂魚」,caak6「烏鰂」		zak1,caak6
 鮫	鲛	gaau1	(白)geu1	gaau1
 鮮	鲜	slin2「鮮少」,slin1「新鮮」		1)sin1:鮮果 2)sin2:鮮見
-鯁	鲠	kang2「骨～在喉，又作哽/骾字」	(又)gang2	gang2
-鯇	鲩	(白)wen5	(文)waan5	waan5
-鯉	鲤	li5		lei5
-鯊	鲨	saa1		saa1
+鮝	鲞	sloeng2		soeng2
 鯗	鲞	sloeng2		soeng2
-鯨	鲸	king4		king4
-鯪	鲮	(白)leng4	(文)ling4	(異讀)leng4,ling4
-鯰	鲶	nim4		nim4
-鯽	鲫	zak1	(書)zik1	zik1
-鰂	鲗	zak1「鰂魚」,caak6「烏鰂」		zak1,caak6
-鰍	鳅	cau1		cau1
-鰓	鳃	sloi1		soi1
-鰛	鳁	wan1		wan1
-鰜	鳒	gim1		gim1
-鰣	鲥	si4		si4
-鰥	鳏	gwaan1		gwaan1
-鰭	鳍	ki4		kei4
-鰮	鳁	wan1		wan1
+鯁	鲠	gang2「骨～在喉，又作哽/骾字」	(習)kang2	gang2
 鰱	鲢	lin4		lin4
-鰻	鳗	maan4		maan4
+鯉	鲤	li5		lei5
+鰣	鲥	si4		si4
+鯊	鲨	saa1		saa1
+鯇	鲩	(白)wen5	(文)waan5	waan5
+鯽	鲫	zak1	(書)zik1	zik1
+鯪	鲮	(白)leng4	(文)ling4	ling4
+鯰	鲶	nim4		nim4
+鯨	鲸	king4		king4
+鰛	鳁	wan1		wan1
+鰮	鳁	wan1		wan1
+鰓	鳃	sloi1		soi1
+鱷	鳄	ngok6		ngok6
+鰍	鳅	cau1		cau1
+鰭	鳍	ki4		kei4
+鰥	鳏	gwaan1		gwaan1
+鰜	鳒	gim1		gim1
 鰾	鳔	piu5	(又)piu3	piu5
 鱉	鳖	bit3		bit3
-鱔	鳝	sin5		sin5
+鰻	鳗	maan4		maan4
 鱖	鳜	gwai3		gwai3；(又)kyut3
+鱔	鳝	sin5		sin5
 鱗	鳞	lan4	(老派)lyun4	leon4
-鱟	鲎	hau6		hau6
-鱷	鳄	ngok6		ngok6
-鱸	鲈	lu4		lou4
+鴈	鴈	ngaan6		ngaan6
+鶵	鶵	cyu4	(又)cyu1	co1,co4
+鷰	鷰	jin3「同燕字」		jin3
 鳥	鸟	niu5	(白)diu2「同屌字」,(白)deu1「男陰」	niu5
 鳩	鸠	gau1		kau1
-鳳	凤	fung6		fung6
-鳴	鸣	ming4		ming4
+雞	鸡	gai1		gai1
+鷄	鸡	gai1		gai1
 鳶	鸢	jyun1		jyun1
-鴆	鸩	zam6		zam6
-鴈	鴈	ngaan6		ngaan6
+鳴	鸣	ming4		ming4
+鷗	鸥	au1		au1
 鴉	鸦	aa1	(又)jaa1	aa1
-鴕	鸵	to4		to4
-鴛	鸳	jyun1		jyun1
+鴆	鸩	zam6		zam6
 鴣	鸪	gu1		gu1
-鴦	鸯	joeng1		joeng1
+鸕	鸬	lu4		lou4
 鴨	鸭	aap3		aap3
-鴻	鸿	hung4		hung4
+鴦	鸯	joeng1		joeng1
+鴛	鸳	jyun1		jyun1
+鴕	鸵	to4		to4
+鷥	鸶	si1	(老派)sy1	si1
 鴿	鸽	gap3		gap3
+鸞	鸾	lyun4		lyun4
+鴻	鸿	hung4		hung4
 鵑	鹃	gyun1		gyun1
-鵝	鹅	ngo4		ngo4
 鵠	鹄	guk1「鵠的」,huk6「鴻鵠」		1)guk1:鵠的 2)huk6:鴻鵠
+鵝	鹅	ngo4		ngo4
 鵡	鹉	mu5		mou5
+鵲	鹊	coek3		zoek3；(又)coek3
 鵪	鹌	am1		am1
 鵬	鹏	pang4	(又)paang4	paang4
 鵮	鹐	cem1「鳥啄物」,daam1「叼」	(白)dem1「叼」	daam1,zaam1
-鵰	雕	diu1		diu1
-鵲	鹊	coek3		zoek3；(又)coek3
 鶉	鹑	can1		ceon1；(又)seon4
-鶯	莺	ang1	(又)jing1	ang1
-鶴	鹤	hok6		hok6
-鶵	鶵	cyu4	(又)cyu1	(異讀)co1,co4
 鷂	鹞	jiu6		jiu2
-鷄	鸡	gai1		gai1
-鷓	鹧	ze3		ze3
-鷗	鸥	au1		au1
-鷥	鸶	si1	(老派)sy1	si1
-鷯	鹩	liu1	(白)leu1	liu4
-鷰	鷰	jin3「同燕字」		jin3
-鷹	鹰	jing1		jing1
-鷺	鹭	lu6		lou6
-鸕	鸬	lu4		lou4
+鶴	鹤	hok6		hok6
 鸚	鹦	jing1		jing1
-鸞	鸾	lyun4		lyun4
-鹵	卤	lu5		lou5
-鹹	咸	(白)hem4	(文)haam4	haam4
-鹼	硷	(白)gen2	(文)gaan2	gaan2
-鹽	盐	jim4		jim4
+鷓	鹧	ze3		ze3
+鷯	鹩	liu1	(白)leu1	liu4
+鷺	鹭	lu6		lou6
+鷹	鹰	jing1		jing1
 鹿	鹿	luk6		luk6
-麅	狍	paau4		paau4
 麋	麋	mi4		mei4
 麒	麒	ki4		kei4
 麓	麓	luk1		luk1
-麗	丽	lai6		lai6
 麝	麝	se6		se6
 麟	麟	lan4	(老派)lyun4	leon4
 麥	麦	mak6		mak6
 麩	麸	fu1		fu1
-麪	面	min6	(白)min1「薯類很粉，形容詞」	min6
-麯	曲	kuk1		kuk1
-麴	曲	kuk1		guk1；(又)同麯kuk1
-麵	面	min6	(白)min1「薯類很粉，形容詞」	min6
 麻	麻	maa4		maa4
-麼	么	mo1	(又)maa1「同嗎字」	mo1
 麾	麾	(白)wai1	(文)fai1	fai1
 黃	黄	wong4		wong4
 黍	黍	syu2		syu2
@@ -5872,19 +5866,15 @@
 黛	黛	doi6		doi6
 黜	黜	zat1	(又)zyut3	zyut3；(又)zeot1
 黝	黝	jau2		jau2
-點	点	dim2	(白)dem2「點鹽，蘸鹽」	dim2
 黠	黠	kit3	(又)hat6,(又)waat6	kit3
 黢	黢	cyut1		zeot1
-黨	党	dong2		dong2
-黯	黯	am2		am2
-黴	霉	mui4	(又)mi4	mui4；(又)mei4
 黷	黩	duk6		duk6
+黯	黯	am2		am2
 黹	黹	zi2		zi2
 鼇	鼇	ngu4		ngou4
 鼈	鼈	bit3		bit3
 鼎	鼎	ding2		ding2
 鼓	鼓	gu2		gu2
-鼕	冬	dung1	(又)tung4	dung1
 鼙	鼙	pi4		pei4
 鼠	鼠	syu2		syu2
 鼬	鼬	jau6		jau6
@@ -5892,26 +5882,23 @@
 鼻	鼻	bi6		bei6
 鼾	鼾	hon6		hon4
 齈	齈	nung4		nung4
-齉	齉	nung6		nong6
+齉	齉	nung6	(又)nong6	nong6
 齊	齐	cai4		1)cai4:整齊 2)zi1:齊衰；(古)通齋
-齋	斋	zaai1		zaai1
 齒	齿	ci2		ci2
-齙	龅	(白)beu6	(文)baau6	baau6,(異讀)paau4
 齟	龃	zyu2		zeoi2
 齡	龄	ling4		ling4
-齣	出	cyut1	(又)cat1	ceot1
+齙	龅	(白)beu6	(文)baau6	baau6
 齦	龈	ngan4	(又)hang2「同啃字」,(語)hen2「老鼠齦」	ngan4；同啃hang2
-齪	龊	cuk1		cuk1
 齬	龉	jyu5		jyu5
+齪	龊	cuk1		cuk1
 齲	龋	gyu2		geoi2
-齶	腭	ngok6		ngok6
 齷	龌	ak1	(舊)uk1	ak1
 龍	龙	lung4		lung4
-龐	庞	paang4		pong4
 龔	龚	gung1		gung1
 龕	龛	ham1		ham1
 龜	龟	gwai1		gwai1；1)(古)gwan1不龜手之藥 2)(古國名)kau1
 𠊎	𠊎	ngaai1「𠊎話，客家話」		ngaai1
+𠍲	𠍲	kyu5		keoi5
 𠜱	𠜱	pai1「削，又作㓟字」		pai1,pei1
 𠱂	𠱂	dat1「隨意放置」		dat1
 𠱓	𠱓	ngai1「哀求，又作𠼮字」		ngai1
@@ -5929,10 +5916,12 @@
 𡃀	𡃀	e4「語氣詞」,nge1「𡃀nge4～：提琴，二胡」,nge4「～𡃀nge1：提琴，二胡」		nge4,e4
 𡃈	𡃈	kwaak3「框，圈」		kwaak1,kwaak3
 𡋯	𡋯	but6		but6
+孻	𡥧	laai1「最後的」		laai1
 𡰪	𡰪	duk1「容器底部，又作㞘/䐁字」		duk1
 𡲢	𡲢	ke1「屎」		ke1
 𢇦	𢇦	nan1「肉～，肉麻」		jam4,jam6
 𢫦	𢫦	maak3「打」,paak3「同拍字」		paak3
+擫	𢬍	(白)jep3「～衫袖，捲起衣袖，又作擪字」	(文)jip3	jip3
 𢯎	𢯎	(白)ngeu1「抓撓，又作撓字」	(文)ngaau1	ngaau1
 𢰸	𢰸	wo5「～蛋，變質蛋」		wo5
 𢱕	𢱕	dap6「捶打」		dap6
@@ -5943,21 +5932,21 @@
 𢷒	𢷒	kit3	(語)gat6「抬，扛，本字揭，又作搩字」	kit3
 𢷕	𢷕	mok1「敲打」		mok6
 𢺋	𢺋	naan3「絎，粗縫」		naan3
-𢺳	𪮳	maan1「扳倒，又作扳字」		maan1
 𤖴	𤖴	saak3「量詞，邊、塊」		saak3
 𤗈	𤗈	(白)slep3「墊，用楔子嵌穩」	(文)slip3	sip3
+癐	𤶊	gui6「累，又作䠩/攰字」,wai1「象聲詞」		gui6,wai1
 𤶸	𤶸	naa1「補丁、傷疤，又作𤶸字」		naa1
 𤷪	𤷪	mang2「～𤺧，暴躁」		mang2
 𤸻	𤸻	naa1「補丁、傷疤，又作𤶸字」		naa1
 𤺧	𤺧	zang2「𤷪～，暴躁」		zang2
 𥄫	𥄫	gap6「盯住」		gap6
 𥕏	𥕏	kwak1「斫；劃」		kwak1
+䉲	𥮜	mi4	(又)ni4	nei4
 𥮜	𥮜	mi4	(又)ni4	nei4
-𥱼	簰	paai4「同箄字」		paai4
+篸	𥮾	(白)cem2「箕，垃圾～」	(文)caam2	caam2,zaam1
 𥹉	𥹉	nap6「黏糊；做事慢」		nap6
 𦢊	𦢊	bok1「水泡，皰，又作泡字」		pok1
 𦧲	𦧲	loe1「吐」,loe2「揩擦」		loe1,loe2
-𦧺	𫇘	laai2「舔」		laai2
 𦩻	𦩻	ziu1		ziu1
 𦳊	𦳊	si2		si2
 𧊅	𧊅	kwe2「小青蛙」	(書)gwaai2	gwaai2
@@ -5970,10 +5959,28 @@
 𨂽	𨂽	dam6「跺」		dam6
 𨂾	𨂾	naam3「跨；一庹；測長度」		naam3
 𨅝	𨅝	jaang3「蹬，又作撐/𨆪字」	(又)caang3	jaang3
-𨆪	𫏕	jaang3「蹬，又作𨅝/撐字」	(又)caang3	jaang3
+躝	𨅬	laan1「爬行；滾開」		laan1
 𨉣	𨉣	haa1		haa1
 𨭌	𨭌	paang1「金屬大碗」		paang1
 𩜠	𩜠	mam1「食～～，吃飯，童語」		mam1
 𪐀	𪐀	(白)ne1「粘貼」	(文)naa1	naa1
 𪒬	𪒬	nung1「焦，糊，又作燶字」		nung1
 𪙛	𪙛	nak1「～牙，結巴」		nak1
+廧	𪪞	coeng4		coeng4
+𢺳	𪮳	maan1「扳倒，又作扳字」		maan1
+灒	𪷽	zaan3	(語)daan6「濺水」	zaan3
+煇	𪸩	(白)wai1	(文)fai1	fai1
+縍	𫄰	bong1		bong1
+𦧺	𫇘	laai2「舔」		laai2
+蒍	𫇭	wai2		wai2
+蔿	𫇭	wai2		wai2
+藷	𫉄	syu4「同薯字」,zyu1「藷蔗」		syu4,zyu1
+覛	𫌪	mak6「察看」,mik6「同覓字」		mak6,mik6
+蹔	𫏐	zaam6		zaam6
+𨆪	𫏕	jaang3「蹬，又作𨅝/撐字」	(又)caang3	jaang3
+輷	𫐒	gwang1	(又)kwang1	gwang1
+鈆	𫓪	jyun4		jyun4
+頫	𫖯	fu2		fu2
+餫	𫗥	wan4「餛飩」,wan6「運糧」		wan4,wan6
+餧	𫗪	wai3「同餵字」		wai3
+魽	𫠐	(白)kem5	(文)kim5	kim5
