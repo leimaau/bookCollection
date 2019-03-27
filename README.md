@@ -2,11 +2,12 @@
 
 ## 說明
 
-目前已知共有六份正式資料可以查南寧白話字音：
+目前已知共有7份正式資料可以查南寧白話字音：
 
 - [x] 1994年謝建猷《南寧白話同音字彙》，數據來源：[中國知網](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD9495&filename=FYZA199404006&uid=WEEvREcwSlJHSldRa1FhdXNXa0d1RENHbHhkNnJGRUE3Skg4TzI2TXJDaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAwNDFyQ1VSTEtlWitabkZpdmhWcnZOSXpUUmI3S3hGOVhNcTQ5RllvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=) |  記音質量： ★★☆☆☆  两颗星
 - [x] 1997年楊煥典《南寧話音檔》，數據來源：[漢語多功能字庫網站](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)  |  記音質量： ★★★☆☆  三颗星
 - [x] 1998年廣西地方誌編纂委員會《廣西通誌（漢語方言誌）》，數據來源：[廣西地情資料庫](http://lib.gxdqw.com/file-a88-1.html)  | 記音質量： ★★★★☆  四颗星
+- [ ] 2002年楊煥典《現代漢語方言音庫字庫》，数据来源：[字音庫](http://vdisk.weibo.com/s/dE0JCW7hYq9zH)  | 記音質量： ★★★☆☆  三颗星
 - [x] 2007年謝建猷《廣西漢語方言研究》，數據來源：[小學堂網站](http://xiaoxue.iis.sinica.edu.tw/)  |  記音質量： ★★☆☆☆  两颗星
 - [x] 2008年林亦《廣西南寧白話研究》 | 記音質量： ★★★★☆  四颗星
 - [ ] 2009年陳海倫、林亦《粵語平話土話方音字彙》（未錄入）  |  記音質量： ★★★☆☆  三颗星
