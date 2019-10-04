@@ -445,6 +445,7 @@
 僞	伪	ngai6		ngai6
 僥	侥	hiu1		hiu1；(古)jiu4僬僥
 僧	僧	zang1		zang1
+僨	偾	fan5		fan5
 僭	僭	cim3		cim3
 僮	僮	tung4「書僮」,zong6「僮族」		1)tung4:書僮 2)zong6:僮族
 僰	僰	baak6		baak6
@@ -1256,7 +1257,7 @@
 坪	坪	ping4		ping4
 坫	坫	dim3		dim3
 坭	坭	nai4		nai4
-坯	坯	pui1	(又)pi1	pui1
+坯	坯	pui1		pui1
 坰	坰	gwing1		gwing1
 坳	坳	(白)eu3	(文)aau3	aau3
 坷	坷	ho2		ho2
@@ -1456,7 +1457,7 @@
 奩	奁	lim4		lim4
 奪	夺	dyut6		dyut6
 奭	奭	sik1		sik1
-奮	奋	fan5	(又)fan3	fan5
+奮	奋	fan5		fan5
 奰	奰	bi6		bei6
 女	女	nyu5		neoi5
 奴	奴	nu4		nou4
@@ -2567,7 +2568,7 @@
 掘	掘	gwat6		gwat6
 掙	挣	zaang1	(又)zang1	1)zang1:掙扎 2)zaang6:掙錢
 掛	挂	gwaa3		gwaa3
-掝	掝	waak6「裂開」,kwik1「破裂聲」	(語)wak6「揮動」	waak6,kwik1
+掝	掝	waak6「裂開」,(書)kwik1「破裂聲」	(語)wak6「揮動」,(習)kik1「破裂聲」	waak6,kwik1
 掞	掞	sim3「舒展；鋪張」,jim5「光照；美豔」		sim3,jim5
 掟	掟	deng3「擲，扔」		deng3
 掠	掠	loek6		loek6
@@ -2769,7 +2770,7 @@
 擱	搁	kok3		gok3
 擲	掷	zaak6	(又)zik1,(語)zaai6	zaak6
 擳	擳	zit1「擠；胳肢」	(白)zet1	zit3
-擴	扩	(書)kwong3	(習)kong3,(又)kwok3,(又)kok3	kwok3；(又)kong3
+擴	扩	(書)kwok3	(習)kok3,(又)kwong3,(又)kong3	kwok3；(又)kong3
 擸	擸	laap3「攬取」,lip6「理鬚髮」,laap6「擸𢶍，又作垃圾」		laap3
 擺	摆	baai2		baai2
 擻	擞	slau2		sau2
@@ -3791,7 +3792,7 @@
 湞	浈	zing1		zing1
 湟	湟	wong4		wong4
 湧	涌	jung2		jung2
-湨	湨	gwik1		gwik1
+湨	湨	(書)gwik1	(習)gik1	gwik1
 湮	湮	jan1	(又)jin1	jan1
 湯	汤	tong1		tong1；(古)soeng1浩浩湯湯
 湲	湲	jyun4	(又)wun4	wun4
@@ -5682,7 +5683,7 @@
 胖	胖	pun5「肥胖」,pun4「心廣體胖」	(常)pong3「肥胖」	bun6；心廣體胖又讀pun4
 胗	胗	zan1	(訓)san5「訓讀爲腎」,(語)kan5「禽類的胃，又作肫字」	zan1
 胙	胙	zu6		zou6
-胚	胚	pui1	(又)pi1	pui1
+胚	胚	pui1		pui1
 胛	胛	gaap3		gaap3
 胜	胜	sing3「同勝字」,sing1「同勝字」		sing3,sing1
 胞	胞	baau1「細胞」	(白)beu1「胞胎」	baau1
@@ -6259,7 +6260,7 @@
 虜	虏	lu5		lou5
 虞	虞	jyu4		jyu4
 號	号	hu6「號碼」		1)hou6:國號 2)hou4:呼號
-虢	虢	gwik1	(又)gwok3	gwik1
+虢	虢	(書)gwik1	(習)gik1	gwik1
 虣	虣	bu6		bou6
 虤	虤	ngaan4		ngaan4
 虥	虥	zaan6		zaan6
@@ -7674,7 +7675,7 @@
 閽	阍	(白)wan1	(文)fan1	fan1
 閾	阈	wik6		wik6
 閿	阌	man4		man4
-闃	阒	gwik1	(又)kwik1	gwik1
+闃	阒	(書)gwik1	(習)gik1	gwik1
 闆	板	baan2		baan2
 闇	暗	am3		am3
 闈	闱	wai4		wai4
@@ -7755,7 +7756,7 @@
 隔	隔	gaak3		gaak3
 隕	陨	wan5		wan5
 隘	隘	aai3	(又)oi3	aai3
-隙	隙	kwik1	(又)kik1	gwik1
+隙	隙	(書)kwik1	(習)kik1	gwik1
 際	际	zai3		zai3
 障	障	zoeng3		zoeng3
 隤	隤	tui4		teoi4
