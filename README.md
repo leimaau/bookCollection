@@ -1,4 +1,4 @@
-# Private bookCollection
+# bookCollection
 
 ## 說明
 
@@ -14,4 +14,4 @@
 - [ ] 2009年張菁雅《桂南平話語音比較研究》 |  記音質量： ★★★☆☆  三颗星
 
 
-
+[Leimaau‘s Webdict 2.0](https://leimaau.gitee.io/leimaau-webdict2/) 的文本檔。
