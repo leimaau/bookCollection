@@ -2,7 +2,7 @@
 
 ## 說明
 
-目前已知共有8份正式資料可以查南寧白話字音：
+目前已知共有8份正式資料可以查南寧話字音：
 
 - [x] 1994年謝建猷《南寧白話同音字彙》 |  記音質量： ★★☆☆☆  两颗星
 - [x] 1997年楊煥典《南寧話音檔》 |  記音質量： ★★★☆☆  三颗星
@@ -14,4 +14,4 @@
 - [ ] 2009年張菁雅《桂南平話語音比較研究》 |  記音質量： ★★★☆☆  三颗星
 
 
-[Leimaau‘s Webdict 2.0](https://leimaau.gitee.io/leimaau-webdict2/) 的文本檔。
+[Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) 的文本檔。
