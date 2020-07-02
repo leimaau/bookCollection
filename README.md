@@ -15,3 +15,10 @@
 
 
 [Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) 的文本檔。
+
+PDF： https://leimaau.lanzous.com/b00tntwwb 密碼:b9pm
+
+核心：https://leimaau.lanzous.com/b00tnxife 密碼: edm4
+相關：https://leimaau.lanzous.com/b00tnxigf 密碼: 6g39
+打包的zip：https://pan.baidu.com/s/1jGBkMIxROq2LMOXu0PuvCg 密碼：h7yp
+
