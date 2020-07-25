@@ -1160,7 +1160,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 嘲	嘲	zaau1		zaau1	zaau1	
 嘴	嘴	zui2		zeoi2	zui2	
 嘵	哓	hiu1		hiu1	hiu1	
-嘶	嘶	si1	(老派)sy1,(又)slai1	si1	(又)slai1	
+嘶	嘶	si1	(老派)sy1,(又)slai1	si1	sli1	(又)slai1
 嘸	呒	fu2「驚愕」,mu5「沒有」	(語)mo1「喃嘸（南無）佬，道士和尚」	m4,mou5,fu2	fu2「驚愕」,me5「否定詞」	(語)mo3「喃嘸（南無）佬，道士和尚」
 嘹	嘹	liu4		liu4	liu4	
 嘻	嘻	hi1	(語)he1「笑～～」	hei1	hi1	
@@ -3960,7 +3960,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 滮	滮	biu1		biu1	biu1	
 滯	滞	zai6		zai6	zai6	
 滰	滰	king4「澄清（水、液體）」		king4		
-滲	渗	sam3	(語)cam3「讀如參，七紺切」,(語)jam3,(語)jaam3	sam3	sam3	(語)cam3「从水參聲，七紺切」,(語)jam3,(語)jaam3
+滲	渗	sam3	(語)cam3「讀如參，七紺切」,(語)jam3,(語)jaam3	sam3	sam3	(語)cam3「讀如參，七紺切」,(語)jam3,(語)jaam3
 滴	滴	dik1		dik6；(又)dik1	dik2	
 滷	卤	lu5		lou5	lu5	
 滸	浒	fu2		wu2	hu2	
@@ -6832,7 +6832,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 誒	诶	e6		e6,ei6	e6	
 誓	誓	sai6		sai6	si3	
 誕	诞	daan3		daan3	daan3	
-誖	誖	bui6「同悖字」	(語)bui1「吹捧」	bui6		
+誖	誖	bui6「同悖字」	(語)bui1「吹捧」	bui6	bui6「同悖字」	(語)bui1「吹捧」
 誘	诱	jau5		jau5	jau5	
 誚	诮	ciu3		ciu3		
 語	语	jyu5		1)jyu5:語言 2)jyu6:不以語人	jyu5	
