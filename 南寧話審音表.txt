@@ -1163,7 +1163,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 嘶	嘶	si1	(老派)sy1,(又)slai1	si1	sli1	(又)slai1
 嘸	呒	fu2「驚愕」,mu5「沒有」	(語)mo1「喃嘸（南無）佬，道士和尚」	m4,mou5,fu2	fu2「驚愕」,me5「否定詞」	(語)mo3「喃嘸（南無）佬，道士和尚」
 嘹	嘹	liu4		liu4	liu4	
-嘻	嘻	hi1	(語)he1「笑～～」	hei1	hi1	
+嘻	嘻	hi1	(語)he1「笑～～」	hei1	hi1	(語)he4「笑～～」
 嘿	嘿	hi1「笑聲」,mak6「同默字」		hei1；默的本字	hi1「笑聲」,mak5「同默字」	
 噀	噀	slan3	(老派)slyun3	seon3		
 噁	恶	ok3「噁心」,wu3「喑噁」		ok3,wu3		
