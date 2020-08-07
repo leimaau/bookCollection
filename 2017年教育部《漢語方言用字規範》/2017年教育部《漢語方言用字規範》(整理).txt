@@ -37,7 +37,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 36	燶	㶶	nøŋ53	nœŋ53	noeng1	P277	①煳，烧焦了：飯煮～喇②衣服等經火變黃、變黑：亞件衫捱渠燙～喇	
 37	櫶	櫶	hyn55	hyn55	hyun3	P277	常綠喬木	
 38	𢺳	𪮳	man53	man53	maan1	P277	①扳，使固定的東西改變方向②攀爬	
-39	冇	冇	me24	me24	me5	P277	①不：你去～去！|冇錯（不錯）②別：渠講過喇，你～講啊！	
+39	冇	冇	me24	me24	me5	P277	①不：你去～去！|冇錯（不錯）②別：渠講過喇，你～講啊！	本字「靡」，參見余瑾《廣西平話研究》P263，來源民國二十六年《邕寧縣誌》
 40	刉	刉	kai55	kai55	gaai3	P277	①將圓木鋸成板；劈柴：～木板|～骨柴②裁	又作「刏」字
 41	刏	刏	kai55	kai55	gaai3	P277	①將圓木鋸成板；劈柴：～木板|～骨柴②裁	原文作「刉」字
 42	扤	扤	ŋet23	ŋɛt24	nget5	P277	用身體摩擦某物：牛～樹	
@@ -77,7 +77,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 76	羓	羓	pa53	pa53	baa1	P278	一種肉製食品	
 77	㞘	㞘	tøk3	tœk3	doek2	P278	物體底部	
 78	𥾝	𥾝	min21	min21	min4	P278	細：切～啲（點兒）	
-79	㨂	㨂	toŋ33	toŋ33	dong2	P278	用棍子捅、戳	
+79	㨂	㨂	toŋ33	toŋ33	dung2	P278	用棍子捅、戳	
 80	㧾	㧾	kʰuət3	kʷʰɐt3	kwat2	P278	（牛等）兩角左右擺動擊打或挑：渠捱牛～一角	
 81	菸	烟	y33	jy33	jyu2	P278	（青菜等）被長時間抓拿而不新鮮：亞啲菜捱渠揸～喇	
 82	紮	扎	tsat3	tʃat3	zaat2	P278	用於成捆的東西：兩～筷子	
@@ -105,8 +105,8 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 104	𡍩	𡍩	tsʰiɐk3	tʃʰiɐk3	ciak2	P279	裂開	
 105	坼	坼	tsʰiɐk3	tʃʰiɐk3	ciak2	P279	裂開	原文作「𡍩」字
 106	揞	揞	əm33	∅ɐm33	am2	P279	捂：～住耳朵	
-107	𧰵	𧰵	tok3	tok3	dok2	P279	戳；杵：～一棍	
-108	厾	厾	tok3	tok3	dok2	P279	戳；杵：～一棍	原文作「𧰵」字
+107	𧰵	𧰵	tok3	tok3	duk2	P279	戳；杵：～一棍	
+108	厾	厾	tok3	tok3	duk2	P279	戳；杵：～一棍	原文作「𧰵」字
 109	牚	牚	tsʰiɐŋ55	tʃʰiɐŋ55	ciang3	P279	①支撐；頂住：亞幅墻斜喇，要木～住②桌椅等腿中間的橫木：凳～	
 110	睄	睄	sau21	ʃau21	saau4	P279	瞥，很快地看	
 111	𥋘	𥋘	sau21	ʃau21	saau4	P279	瞥，很快地看	原文作「睄」字
@@ -163,8 +163,8 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 162	勥	犟	kʰiɐŋ53	kʰiɐŋ53	kiang1	P280	欺負	
 163	𣗺	𣗺	hu53	hu53	hu1	P280	植物種子榨油後，壓成的餅狀渣滓：花生～	
 164	綯	绹	tau21	tau21	daau4	P280	拴：亞隻牛～住木根腳（把這頭牛拴在樹根）	
-165	漦	漦	san21	ʃan21	saan4	P280	涎沫	
-166	涎	涎	san21	ʃan21	saan4	P280	涎沫	原文作「漦」字
+165	漦	漦	san21	ʃan21	saan4	P280	涎沫	參見余瑾《廣西平話研究》P221
+166	涎	涎	san21	ʃan21	saan4	P280	涎沫	原文作「漦」字，參見余瑾《廣西平話研究》P221
 167	擖	擖	kuet3	kʷɛt3	gwet2	P280	用刀等刮：～松油	
 168	撚	撚	nən33	nɐn33	nan2	P280	①用手指搓：～火媒（紙媒兒）②摁：亞隻煙頭～翳去（把那煙頭摁滅了）	
 169	撚	撚	nen33	nɛn33	nen2	P280	①用手指搓：～火媒（紙媒兒）②摁：亞隻煙頭～翳去（把那煙頭摁滅了）	
@@ -180,10 +180,10 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 179	劏	㓥	tʰaŋ53	tʰaŋ53	taang1	P280	宰殺：～豬	
 180	噍	噍	tsiu22	tʃiu22	ziu6	P280	嚼，上下牙齒磨碎食物	
 181	覣	覣	βəi53	wɐi53	wai1	P280	好看，漂亮	
-182	憧	憧	tsoŋ22	tʃoŋ22	zong6	P281	不聰明，含有不開竅的意思：亞隻人冇識幾～（不知有多笨）	
+182	憧	憧	tsoŋ22	tʃoŋ22	zung6	P281	不聰明，含有不開竅的意思：亞隻人冇識幾～（不知有多笨）	
 183	嫽	嫽	leu53	lɛu53	leu1	P281	挑逗；撩撥：冇～人哋打交（打架）	
 184	髶	髶	ɲøŋ55	ȵœŋ55	njoeng3	P281	（毛髪等）蓬鬆：～毛鷄	
-185	髶	髶	ɲoŋ55	ȵoŋ55	njong3	P281	（毛髪等）蓬鬆：～毛鷄	
+185	髶	髶	ɲoŋ55	ȵoŋ55	njung3	P281	（毛髪等）蓬鬆：～毛鷄	
 186	𦻐	𦻐	tsau55	tʃau55	zaau3	P281	用油煠：～魚	又作「㷹」字
 187	㷹	㷹	tsau55	tʃau55	zaau3	P281	用油煠：～魚	原文作「𦻐」字
 188	𣛒	𣛒	ləi33	lɐi33	lai2	P281	瞟，斜着眼睛看	
@@ -200,7 +200,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 199	燂	燂	tam21	tam21	daam4	P281	火薰：屋～灰	
 200	憸	𪫺	tsim53	tʃim53	zim1	P281	挑剔：㤿～	
 201	褸	褛	ləu53	lɐu53	lau1	P281	覆蓋或搭在肩背上；披：～住一件衫	
-202	𢷕	𢷕	mok5	mok5	mok3	P281	用棍打：渠捱老子～一棍	
+202	𢷕	𢷕	mok5	mok5	muk3	P281	用棍打：渠捱老子～一棍	
 203	薸	薸	piu21	piu21	biu4	P281	浮萍	
 204	瞫	瞫	səm55	ʃɐm55	sam3	P281	細看：你～哪門？——我䚕（找）針	
 205	㘆	㘆	tʰai33	tʰai33	taai2	P281	語言不純粹，不地道：渠講普通話～多（太不地道）	
@@ -235,8 +235,8 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 234	𪗛	𪗛	ŋen53	ŋɛn53	ngen1	P282	齜，露出牙齒	
 235	齴	𫜮	ŋen53	ŋɛn53	ngen1	P282	齜，露出牙齒	原文作「𪗛」字
 236	齞	齞	ŋen53	ŋɛn53	ngen1	P282	齜，露出牙齒	原文作「𪗛」字
-237	𦢊	𦢊	pok5	pok5	bok3	P282	包；大疙瘩：頭撞起一隻～	
-238	泡	泡	pok5	pok5	bok3	P282	包；大疙瘩：頭撞起一隻～	原文作「𦢊」字
+237	𦢊	𦢊	pok5	pok5	buk3	P282	包；大疙瘩：頭撞起一隻～	
+238	泡	泡	pok5	pok5	buk3	P282	包；大疙瘩：頭撞起一隻～	原文作「𦢊」字
 239	劖	劖	tsam21	tʃam21	zaam4	P282	①尖的東西進入或穿過物體②刺激：亞盞燈～眼多（太刺眼）	
 240	鑱	镵	tsam21	tʃam21	zaam4	P282	①尖的東西進入或穿過物體②刺激：亞盞燈～眼多（太刺眼）	原文作「劖」字
 241	攙	搀	tsam21	tʃam21	zaam4	P282	①尖的東西進入或穿過物體②刺激：亞盞燈～眼多（太刺眼）	原文作「劖」字
@@ -255,7 +255,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 254	圝	𪢮	lon21	lon21	lon4	P282	圓：～臺（桌）	
 255	灒	𪷽	tsan22	tʃan22	zaan6	P282	（水）受沖激向四外射出；濺	
 256	㜺	㜺	tsan33	tʃan33	zaan2	P282	好看；漂亮：亞隻女崽～啝	
-257	鬞	鬞	noŋ55	noŋ55	nong3	P282	～鬤：穿着辦事不利索；講話不簡潔，語無倫次	
+257	鬞	鬞	noŋ55	noŋ55	nung3	P282	～鬤：穿着辦事不利索；講話不簡潔，語無倫次	
 258	轤	轳	lu55	lu55	lu3	P282	滾～～：物體滾動狀態	
 259	䉴	䉴	ŋiɐŋ33	ŋiɐŋ33	ngiang2	P282	篾織的捕魚籠子：魚～｜蝦～	
 260	笭	笭	ŋiɐŋ33	ŋiɐŋ33	ngiang2	P282	篾織的捕魚籠子：魚～｜蝦～	原文作「䉴」字
@@ -291,7 +291,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 290	劫	劫	kip3	kip3	gip2	P283	澀口：亞啲柿子 熟～一世（澀得很）	一般作「澀」字
 291	澀	涩	kip3	kip3	gip2	P283	澀口：亞啲柿子 熟～一世（澀得很）	原文作「劫」字
 292	芡	芡	kem24	kɛm24	gem5	P283	舔：～碗～碟	同音替代
-293	𬜐	𬜐	kem24	kɛm24	gem5	P283	舔：～碗～碟	原文作「芡」字
+293	䭑	𫗱	kem24	kɛm24	gem5	P283	舔：～碗～碟	原文作「芡」字，參見余瑾《廣西平話研究》P235
 294	𠯔	𠯔	pʰət5	pʰɐt5	pat3	P283	呸：～，一啲本事冇有	
 295	迎	迎	ŋeŋ21	ŋeŋ21	nging4	P283	舉：～手｜～頭	
 296	坳	坳	au55	∅au55	aau3	P283	～蠻（同音字）：①勉強②將就；湊和	又作「拗/詏」字
@@ -301,7 +301,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 300	誖	誖	pui53	pui53	bui1	P283	用言語使人高興；哄騙	原文作「杯」字
 301	東	东	tøŋ53	tœŋ53	doeng1	P283	專用於祠堂：一～祠堂	同音替代，見「棟」字
 302	棟	栋	tøŋ53	tœŋ53	doeng1	P283	專用於祠堂：一～祠堂	原文作「東」字
-303	旺	旺	hoŋ22	hoŋ22	hong6	P283	捧場：渠娶老婆我哋去～哈下（捧捧場）	同音替代
+303	旺	旺	hoŋ22	hoŋ22	hung6	P283	捧場：渠娶老婆我哋去～哈下（捧捧場）	同音替代
 304	念	念	nim22	nim22	nim6	P283	數量小：亞籃～一啲	同音替代
 305	戾	戾	ləi24	lɐi24	lai5	P283	⿰足歪，（腳）扭傷：～腳	
 306	捩	捩	ləi24	lɐi24	lai5	P283	⿰足歪，（腳）扭傷：～腳	原文作「戾」字
