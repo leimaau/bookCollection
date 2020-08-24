@@ -844,7 +844,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 叵	叵	po2		po2	po2	
 叶	叶	hip3「叶韻，同協字」		hip3；(又)hip6	hip6「叶韻，同協字」	
 司	司	si1	(老派)sy1	si1	sli1	
-叻	叻	lek1「能幹」,lik1「叻埠」	(又)lak6「叻埠」	lak6,lek1,lik1	liak3「能幹」,lik3「叻埠」	(又)lak5「叻埠」
+叻	叻	lek1「能幹」,lik1「叻埠，石叻」	(又)lak6「叻埠，石叻」	lak6,lek1,lik1	liak3「能幹」,lik3「叻埠，石叻」	(又)lak5「叻埠，石叻」
 叼	叼	diu1		diu1	diu1	
 吁	吁	hyu1「長吁短嘆」		heoi1	hyu1「長吁短嘆」	
 吃	吃	hek3「吃飯」,gat1「口吃」	(白)jaak3,(又)hat1,(又)hik1	hek3	hik2「吃飯」,gat2「口吃」	
