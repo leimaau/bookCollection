@@ -312,7 +312,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 佣	佣	jung6	(白)jung2「佣金」	jung2；(又)jung6；同傭	joeng6	
 佤	佤	ngaa5		ngaa5		
 佩	佩	pui3		pui3	pui3	
-佬	佬	lu2		lou2	laau5	
+佬	佬	lu2「詞綴賤稱，本字獠」		lou2	laau5「詞綴賤稱，本字獠」	
 佮	佮	gap3「合夥，又作敆/㪉/合字」	(語)tap1「套，本字錔」	gap3	gaap2「合夥，又作敆/㪉/合字」	(語)tap2「套，本字錔」
 佯	佯	joeng4		joeng4	jiang4	
 佰	佰	baak3		baak3	biak2	
@@ -506,7 +506,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 儓	儓	toi4		toi4		
 儔	俦	cau4		cau4	zau4	
 儕	侪	caai4		caai4	zai4「儕家，人家」	
-儘	尽	zan6		1)zeon6:儘量 2)zeon2:儘管	zan2	
+儘	尽	zan2「儘管」	(又)zan6	1)zeon6:儘量 2)zeon2:儘管	zan2「儘管」	
 償	偿	coeng4	(又)soeng4	soeng4	siang4	
 儡	儡	lui5		leoi5	lui5	
 儦	儦	biu1		biu1		
@@ -1528,6 +1528,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 奧	奥	u3		ou3	aau3	
 奩	奁	lim4		lim4	lim4	
 奪	夺	dyut6		dyut6	dut6	
+奬	奖	zoeng2		zoeng2	ziang2	
 奭	奭	sik1		sik1		
 奮	奋	fan5	(常)fan6	fan5	fan5	
 奰	奰	bi6		bei6		
@@ -2281,7 +2282,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 悊	悊	zit3		zit3		
 悌	悌	dai6		1)tai5:愷悌 2)dai6:同弟	dai6	
 悍	悍	hon6		hon5；(又)hon6	haan6	
-悒	悒	jap1	(語)jaap1「心悒，心煩」	jap1	jap2	(語)njaap3「心悒，心煩」
+悒	悒	jap1	(語)jaap1「心～，心煩；刺癢」	jap1	jap2	(語)njaap3「心～，心煩；刺癢」
 悔	悔	fui2		fui3	hui2	
 悖	悖	bui6		bui6	bui6	
 悚	悚	slung2		sung2	sloeng2	
@@ -2502,7 +2503,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 扰	扰	jiu2		jiu2；(又)jiu5		
 扱	扱	kap1「蓋」,caap3「插；挹取」		caap3,kap1	kap2「蓋」,caap2「插；挹取」	(又)kap3「扱斗，倒閉」
 扲	扲	gam6「同撳字」,ngam4「掏，又作撢字」	(又)jam4「探取，又作撢字」	gam6,ngam4	gam6「同撳字」,ngam4「掏，又作撢字」	(又)jam4「探取，又作撢字」
-扳	扳	baan2「扳手」,paan1「同攀字」	(白)maan1「又作𢺳字」	baan2；通攀	baan2「扳手」,paan1「同攀字」	(白)maan1「又作𢺳字」
+扳	扳	baan2「扳手」,paan1「同攀字」	(白)maan1「扳倒；攀爬」	baan2；通攀	baan2「扳手」,paan1「同攀字」	(白)maan1「扳倒；攀爬」
 扶	扶	fu4		fu4	fu4	
 扷	扷	u3		ou3		
 批	批	pai1		pai1	pai1	
@@ -2853,7 +2854,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 擘	擘	maak3「掰」	(又)mik1	maak3	maak2「掰」	(又)mak2「用指甲擇菜」
 擙	擙	u1「夠到」		ou1	aau1「夠到」	
 據	据	gyu3		geoi3	gyu3	
-擛	擛	jip6		jip6		
+擛	擛	jip6		jip6	jip5	
 擝	擝	mang1「同掹字」		mang1	mang1「同掹字」	
 擠	挤	zai1「擠迫；放置」	(語)zi1「擁擠，官話借詞」	zai1	zai2	
 擡	抬	toi4		toi4	daai4	
@@ -2863,7 +2864,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 擦	擦	caat3		caat3	caat2	
 擩	擩	jyu5		jyu5	jyu5	
 擪	擪	(白)jep3「～衫袖，捲起衣袖，又作擫字」	(文)jip3	jip3		
-擫	𢬍	(白)jep3「～衫袖，捲起衣袖，又作擪字」	(文)jip3	jip3		
+擫	𢬍	(白)jep3「同擪字」	(文)jip3	jip3		
 擬	拟	ni5		ji5	ni5	
 擯	摈	ban3		ban3		
 擰	拧	ning1「拿」,ning6「擰轉；倔強」		ning6；(又)ning4	ning1「拿」,ning6「擰轉；倔強」	
@@ -2878,7 +2879,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 擼	撸	lu5		lou5		
 擾	扰	jiu2		jiu2；(又)jiu5	jiu5	
 擿	擿	zaak6「同擲字」,tik1「挑出；揭露」		zaak6,tik1		
-攀	攀	paan1		paan1	paan1	
+攀	攀	paan1	(白)maan1「攀爬，本字扳」	paan1	paan1	(白)maan1「攀爬，本字扳」
 攃	攃	caat3「摩擦」,saat3「同撒字」		caat3,saat3		
 攄	摅	syu1		syu1		
 攆	撵	(白)nen2	(文)nin2,(書)lin5	lin5	(白)nen2	(文)nin2,(書)lin5
@@ -4245,7 +4246,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 熛	熛	biu1		biu1	biu1	
 熝	熝	u1「煨熟，同𤏶字」,luk6「提煉」	(語)luk1「燙，又作淥字」,(又)ngaau4「同熬字」	luk6	aau1「煨熟，同𤏶字」,loek5「提煉；燙，又作淥字」	(又)ngaau4「同熬字」
 熟	熟	suk6		suk6	soek6	
-熠	熠	jap1	(語)jaap6「閃爍」	jap1		
+熠	熠	jap1	(語)jaap6「閃爍」	jap1	jap2	
 熤	熤	jik6		jik6		
 熥	熥	tung1		tung1	toeng1	
 熨	熨	wan6「熨斗」,wat1「熨貼」	(語)tong3「熨斗，又作燙斗」	tong3；通燙；熨斗又讀wan6；熨貼又讀wat1	wan3「熨斗」,wat2「熨貼」	(語)taang3「熨斗，又作燙斗」
@@ -4423,7 +4424,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 獐	獐	zoeng1		zoeng1	ziang1	
 獒	獒	ngu4		ngou4		
 獗	獗	kyut3		kyut3	kyut2	
-獠	獠	liu4「獠牙」,lu5「蠻族」		liu4,lou5		
+獠	獠	liu4「獠牙」,lu5「蠻族」		liu4,lou5	liu4「獠牙」,laau5「蠻族」	
 獨	独	duk6		duk6	doek6	
 獪	狯	kwai3	(又)kui3	kui2		
 獫	猃	him2		him2		
@@ -4828,7 +4829,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 盜	盗	du6		dou6	daau6	
 盞	盏	zaan2	(白)zen2	zaan2	zaan2	
 盟	盟	mang4		mang4	mang4	
-盡	尽	zan6		zeon6	zan6	
+盡	尽	zan6「盡頭」		zeon6	zan6「盡頭」	
 監	监	gaam3「太監」,gaam1「監視」		1)gaam1:監視 2)gaam3:太監	gaam3「太監」,gaam1「監視」	
 盤	盘	pun4		pun4	bun4	
 盥	盥	gun3		gun3；(又)fun2	gun3	
@@ -6279,7 +6280,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 蓀	荪	slyun1		syun1	slun1	
 蓁	蓁	zan1		zeon1		
 蓄	蓄	cuk1		cuk1	coek2	
-蓆	席	zek6「草蓆」	(又)zik6	zek6；(又)zik6	zik6	
+蓆	席	zek6「草蓆」		zek6；(又)zik6	zik6「草蓆」	
 蓇	蓇	gwat1		gwat1		
 蓉	蓉	jung4		jung4	joeng4	
 蓊	蓊	jung2		jung2		
@@ -8729,7 +8730,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 𢷒	𢷒	kit3	(語)gat6「擡、扛，本字揭，又作搩字」	kit3	kyut2	(又)kit2,(語)gat6「擡、扛，本字揭，又作搩字」
 𢷕	𢷕	mok1「敲打」		mok6	muk3「敲打」	
 𢺋	𢺋	naan3「絎，粗縫」		naan3		
-𢺳	𪮳	maan1「扳；攀爬；扣」		maan1	maan1「扳；攀爬；扣」	
+𢺳	𪮳	maan1「扳；扣；攀爬；本字扳」		maan1	maan1「扳；扣；攀爬；本字扳」	
 𢻹	𢻹	pi1「布類表面有毛刺，又作紕字」		pei1	pi1「布類表面有毛刺，又作紕字」	
 𣔙	𣔙	hin1		hin1		
 𣖕	𣖕	peng1「椅靠背，又作屏字」		peng1		
