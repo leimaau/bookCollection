@@ -129,11 +129,11 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 128	詩	诗	ʃi55	ʃi55	si1	P108		
 129	匙	匙	ʃi21	ʃi21	si4	P108		
 130	是	是	ʃi22	ʃi22	si6	P108		原文誤作[ʃi21]
-131	豉	豉	ʃi21	ʃi21	si4	P108		原文誤作[ʃi21]
-132	示	示	ʃi21	ʃi21	si4	P108		原文誤作[ʃi21]
-133	視	视	ʃi21	ʃi21	si4	P108		原文誤作[ʃi21]
-134	士	士	ʃi21	ʃi21	si4	P108		原文誤作[ʃi21]
-135	事	事	ʃi21	ʃi21	si4	P108		原文誤作[ʃi21]
+131	豉	豉	ʃi22	ʃi22	si6	P108		原文誤作[ʃi21]
+132	示	示	ʃi22	ʃi22	si6	P108		原文誤作[ʃi21]
+133	視	视	ʃi22	ʃi22	si6	P108		原文誤作[ʃi21]
+134	士	士	ʃi22	ʃi22	si6	P108		原文誤作[ʃi21]
+135	事	事	ʃi22	ʃi22	si6	P108		原文誤作[ʃi21]
 136	時	时	ʃi21	ʃi21	si4	P108		
 137	屎	屎	ʃi35	ʃi35	si2	P108		
 138	史	史	ʃi35	ʃi35	si2	P108		
@@ -2234,7 +2234,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2233	容	容	∅iuŋ21	jʊŋ21	jung4	P115		
 2234	用	用	∅iuŋ22	jʊŋ22	jung6	P115		原文誤作[∅iuŋ21]
 2235	擁	拥	∅iuŋ35	jʊŋ35	jung2	P115		
-2236	勇	勇	∅iuŋ35	jʊŋ35	jung2	P115		原文誤作[∅iuŋ35]
+2236	勇	勇	∅iuŋ24	jʊŋ24	jung5	P115		原文誤作[∅iuŋ35]
 2237	答	答	tap3	tap3	daap3	P115		原文誤作[tap2]
 2238	踏	踏	tap2	tap2	daap6	P115		
 2239	沓	沓	tap2	tap2	daap6	P115		
