@@ -79,7 +79,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 78	𥾝	𥾝	min21	min21	min4	P278	細：切～啲（點兒）	
 79	㨂	㨂	toŋ33	toŋ33	dung2	P278	用棍子捅、戳	
 80	㧾	㧾	kʰuət3	kʷʰɐt3	kwat2	P278	（牛等）兩角左右擺動擊打或挑：渠捱牛～一角	
-81	菸	菸	y33	jy33	jyu2	P278	（青菜等）被長時間抓拿而不新鮮：亞啲菜捱渠揸～喇	
+81	菸	菸	y33	jy33	jyu2	P278	（青菜等）被長時間抓拿而不新鮮：亞啲菜捱渠揸～喇	又作「瘀」字。
 82	紮	扎	tsat3	tʃat3	zaat2	P278	用於成捆的東西：兩～筷子	
 83	啖	啖	tam22	tam22	daam6	P278	一口的數量：飲一～湯	
 84	笪	笪	tat3	tat3	daat2	P278	①躺下②摔倒	一般作「撻/𢴈」字
@@ -372,3 +372,4 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 371	攀	攀	man53	man53	maan1	P277	①扳，使固定的東西改變方向②攀爬	原文作「𢺳」字
 372	扳	扳	man53	man53	maan1	P277	①扳，使固定的東西改變方向②攀爬	原文作「𢺳」字
 373	嚿	嚿	kəu21	kɐu21	gau4	P279	用於成團狀的泥土、米飯等：一～泥	原文作「䊆」字
+374	瘀	瘀	y33	jy33	jyu2	P278	（青菜等）被長時間抓拿而不新鮮：亞啲菜捱渠揸～喇	原文作「菸」字。
