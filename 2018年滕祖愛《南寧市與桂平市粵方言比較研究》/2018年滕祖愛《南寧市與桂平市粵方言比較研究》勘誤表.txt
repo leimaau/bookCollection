@@ -2307,7 +2307,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2306	客	客	hak3	hak3	haak3	P115		
 2307	笠	笠	lɐp5	lɐp5	lap1	P115		
 2308	立	立	lɐp2	lɐp2	lap6	P115		
-2309	執	执	tʃɐp5	tʃɐp5	zap1	P115		原文「～起來」作「拾」字
+2309	執	执	tʃɐp5	tʃɐp5	zap1	P115	～起來	原文作「拾」字
 2310	縶	絷	tʃɐp5	tʃɐp5	zap1	P115	縷	原文有音無字
 2311	汁	汁	tʃɐp5	tʃɐp5	zap1	P115		
 2312	集	集	tʃɐp2	tʃɐp2	zap6	P115		
