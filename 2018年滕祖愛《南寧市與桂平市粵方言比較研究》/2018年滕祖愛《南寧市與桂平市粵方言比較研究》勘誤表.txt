@@ -363,7 +363,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 362	惡	恶	∅u33	wu33	wu3	P108	可～	
 363	懊	懊	ʔu33	∅u33	u3	P108	懊悔	原文誤作[∅u33]
 364	護	护	∅u22	wu22	wu6	P108		
-365	女	女	ny24	ny24	nyu5	P108		原文誤作[ny35]
+365	女	女	ny35	ny35	nyu2	P108		
 366	呂	吕	ly24	ly24	lyu5	P108		
 367	旅	旅	ly24	ly24	lyu5	P108		
 368	慮	虑	ly22	ly22	lyu6	P108		
@@ -1491,7 +1491,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1490	饞	馋	tʃʰan21	tʃʰan21	caan4	P112		原文誤作[tʃan21]
 1491	殘	残	tʃʰan21	tʃʰan21	caan4	P112		原文誤作[tʃan21]
 1492	纏	缠	tʃʰin21	tʃʰin21	cin4	P112		原文誤作[tʃan21]
-1493	禪	禅	ʃim21	ʃim21	sim4	P112		原文誤作[tʃan21]
+1493	禪	禅	ʃin21	ʃin21	sin4	P112		原文誤作[tʃan21]
 1494	盞	盏	tʃan35	tʃan35	zaan2	P112		
 1495	棧	栈	tʃan35	tʃan35	zaan2	P112		
 1496	贊	赞	tʃan33	tʃan33	zaan3	P112		
@@ -2254,7 +2254,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2253	甲	甲	kap3	kap3	gaap3	P115		
 2254	佮	佮	kɐp3	kɐp3	gap3	P115	作伴	原文有音無字，誤作[kap3]
 2255	裌	裌	kap3	kap3	gaap3	P115		原文誤作[kap2]
-2256	𧪞	𧪞	hɐp5	hɐp5	hap1	P115	欺負	原文有音無字，誤作[hap5]
+2256	𧬈	𧬈	hɐp5	hɐp5	hap1	P115	欺負	原文有音無字，誤作[hap5]
 2257	狹	狭	hap3	hap3	haap3	P115		
 2258	合	合	hɐp2	hɐp2	hap6	P115		原文誤作[hap2]
 2259	峽	峡	hap2	hap2	haap6	P115		
@@ -2477,7 +2477,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2476	割	割	kɔt3	kɔt3	got3	P116		
 2477	喝	喝	hɔt3	hɔt3	hot3	P116	喝酒	
 2478	渴	渴	hɔt3	hɔt3	hot3	P116		
-2479	豁	豁	hɔk3	hɔk3	hok3	P116	豁然	原文誤作[hɔt2]
+2479	豁	豁	hɔt2	hɔt2	hot6	P116	豁然	
 2480	劇	剧	kʰɛk2	kʰɛk2	kek6	P116	戲劇	原文誤作[khek2]
 2481	博	博	pɔk3	pɔk3	bok3	P116		
 2482	縛	缚	pɔk3	pɔk3	bok3	P116		
@@ -2676,7 +2676,9 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2675	滑	滑	∅uɛt2	wɛt2	wet6	P117		
 2676	挖	挖	∅uɛt3	wɛt3	wet3	P117		原文誤作[∅uɛt2]
 2677	鑊	镬	∅uɔk2	wɔk2	wok6	P118	鍋	原文誤作[∅uɔk5]
-2678	沃	沃	∅iuk5	jʊk5	juk1	P118		原文誤作[∅uɔk3]
+2678	沃	沃	∅uɔk3	wɔk3	wok3	P118		
 2679	銳	锐	∅iui24	jui24	jui5	P118		
 2680	瑞	瑞	ʃui22	ʃui22	sui6	P118		原文誤作[∅iui22]
 2681	揈	揈	huŋ55	hʊŋ55	hung1	P115		同「轟」字
+2682	拾	拾	tʃɐp5	tʃɐp5	zap1	P115	～起來	
+2683	痲	痲	ma21	ma21	maa4	P109		原文作「麻」字
