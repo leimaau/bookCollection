@@ -1720,7 +1720,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1719	肝	肝	kɔn55	kɔn55	gon1	P113		
 1720	干	干	kɔn55	kɔn55	gon1	P113		
 1721	乾	干	kɔn55	kɔn55	gon1	P113	～溼	
-1722	杆	杆	kɔn35	kɔn35	gon2	P113		
+1722	桿	杆	kɔn35	kɔn35	gon2	P113		
 1723	趕	赶	kɔn35	kɔn35	gon2	P113		
 1724	幹	干	kɔn33	kɔn33	gon3	P113	～部	
 1725	岸	岸	ŋɔn22	ŋɔn22	ngon6	P113		
