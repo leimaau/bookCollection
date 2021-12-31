@@ -2662,8 +2662,8 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2661	骨	骨	kuɐt5	kʷɐt5	gwat1	P117	筋～；～頭	
 2662	掘	掘	kuɐt2	kʷɐt2	gwat6	P117		
 2663	屈	屈	∅uɐt5	wɐt5	wat1	P117		
-2664	薰	熏	∅uɐn55	wɐn55	wan1	P117		原文誤作[∅uɐt5]
-2665	燻	熏	∅uɐn55	wɐn55	wan1	P117		原文誤作[∅uɐt5]
+2664	爩	爩	∅uɐt5	wɐt5	wat1	P117	燻	原文作「熏」字
+2665	煀	煀	∅uɐt5	wɐt5	wat1	P117	燻	原文作「熏」字
 2666	核	核	∅uɐt2	wɐt2	wat6	P117	果子～	
 2667	憶	忆	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
 2668	億	亿	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
@@ -2682,3 +2682,4 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2681	揈	揈	huŋ55	hʊŋ55	hung1	P115		同「轟」字
 2682	拾	拾	tʃɐp5	tʃɐp5	zap1	P115	～起來	
 2683	痲	痲	ma21	ma21	maa4	P109		原文作「麻」字
+2684	畬	畬	ʃɛ55	ʃɛ55	se1	P109		原文作「畲」字

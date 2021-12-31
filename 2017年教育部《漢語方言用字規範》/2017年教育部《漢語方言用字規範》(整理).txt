@@ -377,3 +377,4 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 376	吟	吟	ŋəm21	ŋɐm21	ngam4	P279	①喃喃自語②沒完沒了地低聲責備	原文作「啽」字
 377	捅	捅	toŋ33	toŋ33	dung2	P278	用棍子捅、戳	原文作「㨂」字
 378	㶰	㶰	kem21	kɛm21	gem4	P284	燒、燎	原文作「鉗」字，古壯字作「㶰」，音gemz[kɛːm2]
+379	畲	畲	si53	ʃi53	si1	P279	山上的農業用地：～地	原文作「畬」字
