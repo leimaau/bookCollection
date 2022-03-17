@@ -1,0 +1,3767 @@
+多,,,,,
+拖 th ɔ 55 thɔ55 None
+他,,,,,
+駝 th ɔ 21 thɔ21 None
+馱 th ɔ 21 thɔ21 None
+舵 th ɔ 21 thɔ21 None
+大 t ai 21 tai21 None
+挪 n a 21 na21 None
+哪,,,,,
+那,,,,,
+羅 l ɔ 21 lɔ21 None
+鑼 l ɔ 21 lɔ21 None
+籮 l ɔ 21 lɔ21 None
+左 ts ɔ 35 tsɔ35 None
+佐,,,,,
+搓,,,,,
+捼,,,,,
+挼,,,,,
+歌 k ɔ 55 kɔ55 None
+哥 k ɔ 55 kɔ55 None
+個 k ɔ 33 kɔ33 None
+可 kh ɔ 35 khɔ35 None
+蛾 ŋ ɔ 21 ŋɔ21 None
+鵝 ŋ ɔ 21 ŋɔ21 None
+俄,,,,,
+我 ŋ ɔ 13 ŋɔ13 None
+餓 ŋ ɔ 21 ŋɔ21 None
+荷 h ɔ 21 hɔ21 None
+何 h ɔ 21 hɔ21 None
+河 h ɔ 21 hɔ21 None
+賀 h ɔ 21 hɔ21 None
+阿 None a 55 a55 None
+茄 kh ɛ 21 khɛ21 None
+波 p ɔ 55 pɔ55 None
+菠 p ɔ 55 pɔ55 None
+跛,,,,,
+簸 p ɔ 33 pɔ33 None
+頗,,,,,
+坡 ph ɔ 55 phɔ55 None
+玻 p ɔ 55 pɔ55 None
+破 ph ɔ 33 phɔ33 None
+婆 ph ɔ 21 phɔ21 None
+薄 p ɔk 2 pɔk2 None
+魔 m ɔ 55 mɔ55 None
+磨 m ɔ 21 mɔ21 None
+摩,,,,,
+饃,,,,,
+朵 t œy 35 tœy35 None
+躲,,,,,
+剁,,,,,
+妥 th ɔ 35 thɔ35 None
+橢,,,,,
+唾,,,,,
+惰,,,,,
+垛,,,,,
+糯 n ɔ 21 nɔ21 None
+騾,,,,,
+螺 l ɔ 21 lɔ21 None
+腡 l ɔ 21 lɔ21 None
+囉,,,,,
+裸,,,,,
+瘰,,,,,
+摞,,,,,
+銼 tsh ɔ 33 tshɔ33 None
+莝,,,,,
+矬,,,,,
+坐 tsh ɔ 13 tshɔ13 None
+座 ts ɔ 21 tsɔ21 None
+蓑,,,,,
+梭,,,,,
+唆 ɬ ou 55 ɬou55 None
+莎,,,,,
+鎖 ɬ ɔ 35 ɬɔ35 None
+瑣,,,,,
+鍋 k ɔ 55 kɔ55 None
+戈,,,,,
+果 k ɔ 35 kɔ35 None
+裹,,,,,
+餜,,,,,
+過 k ɔ 33 kɔ33 None
+科 None ɔ 55 ɔ55 None
+窠,,,,,
+棵,,,,,
+顆,,,,,
+課 f ɔ 33 fɔ33 None
+訛,,,,,
+臥 m ɔ 21 mɔ21 None
+火 f ɔ 35 fɔ35 None
+夥,,,,,
+伙 f ɔ 35 fɔ35 None
+貨 f ɔ 33 fɔ33 None
+禾 None ɔ 21 ɔ21 None
+禍 None ɔ 13 ɔ13 None
+和 None ɔ 21 ɔ21 None
+倭,,,,,
+踒,,,,,
+窩 None ɔ 55 ɔ55 None
+涴,,,,,
+瘸,,,,,
+靴,,,,,
+巴 p a 55 pa55 None
+芭,,,,,
+疤 p a 55 pa55 None
+把 p a 35 pa35 None
+霸 p a 33 pa33 None
+欛,,,,,
+垻,,,,,
+壩 p a 33 pa33 None
+爸 p a 55 pa55 None
+爸 p a 21 pa21 None
+怕 ph a 33 pha33 None
+帕,,,,,
+爬 ph a 21 pha21 None
+琶,,,,,
+杷 ph a 21 pha21 None
+鈀,,,,,
+耙 ph a 21 pha21 None
+麻 m a 21 ma21 None
+蟆,,,,,
+媽,,,,,
+痲,,,,,
+馬 m a 13 ma13 None
+碼 m a 13 ma13 None
+罵,,,,,
+駡,,,,,
+拿 n a 21 na21 None
+茶 tsh a 21 tsha21 None
+搽,,,,,
+查 tsh a 21 tsha21 None
+楂 ts a 55 tsa55 None
+渣 ts a 55 tsa55 None
+詐 ts a 33 tsa33 None
+榨 ts a 33 tsa33 None
+炸 ts a 33 tsa33 None
+叉 tsh a 55 tsha55 None
+杈 tsh a 55 tsha55 None
+差 tsh a 55 tsha55 None
+差 tsh ai 55 tshai55 None
+岔 tsh a 33 tsha33 None
+茬,,,,,
+乍,,,,,
+沙 s a 55 sa55 None
+紗 s a 55 sa55 None
+灑 s a 35 sa35 None
+家 k a 55 ka55 None
+加 k a 55 ka55 None
+痂,,,,,
+嘉 k a 55 ka55 None
+傢,,,,,
+假 k a 35 ka35 None
+賈 k a 35 ka35 None
+架 k a 33 ka33 None
+駕 k a 33 ka33 None
+嫁 k a 33 ka33 None
+稼 k a 33 ka33 None
+價 k a 33 ka33 None
+牙 ŋ a 21 ŋa21 None
+芽 ŋ a 21 ŋa21 None
+衙 ŋ a 21 ŋa21 None
+伢,,,,,
+雅,,,,,
+蝦 h a 55 ha55 None
+𨉣,,,,,
+嚇 h ak 3 hak3 None
+霞,,,,,
+瑕,,,,,
+遐,,,,,
+下 h a 21 ha21 None
+廈,,,,,
+夏 h a 21 ha21 None
+暇,,,,,
+鴉 None a 55 a55 None
+丫 None a 55 a55 None
+椏 None a 55 a55 None
+啞 None a 35 a35 None
+亞 None a 33 a33 None
+姐,,,,,
+借 ts ɛ 33 tsɛ33 None
+且 tsh ɛ 35 tshɛ35 None
+笡,,,,,
+藉,,,,,
+褯,,,,,
+些,,,,,
+寫 ɬ ɛ 35 ɬɛ35 None
+瀉 ɬ ɛ 33 ɬɛ33 None
+卸 ɬ ɛ 33 ɬɛ33 None
+邪,,,,,
+斜 tsh ɛ 21 tshɛ21 None
+謝 ts ɛ 21 tsɛ21 None
+爹,,,,,
+遮 ts ɛ 55 tsɛ55 None
+者 ts ɛ 35 tsɛ35 None
+蔗 ts ɛ 33 tsɛ33 None
+車 tsh ɛ 55 tshɛ55 None
+車 k œy 55 kœy55 None
+扯 tsh ɛ 35 tshɛ35 None
+蛇 s ɛ 21 sɛ21 None
+射 s ɛ 21 sɛ21 None
+麝 s ɛ 21 sɛ21 None
+賒 s ɛ 55 sɛ55 None
+奢,,,,,
+捨 s ɛ 35 sɛ35 None
+舍 s ɛ 21 sɛ21 None
+赦,,,,,
+佘,,,,,
+社 s ɛ 13 sɛ13 None
+惹 j ɛ 13 jɛ13 None
+耶,,,,,
+爺 j ɛ 55 jɛ55 None
+也 j ɛ 13 jɛ13 None
+野 j ɛ 13 jɛ13 None
+夜,,,,,
+傻,,,,,
+耍 s a 35 sa35 None
+瓜 ｋｗ a 55 kʷa55 None
+蝸,,,,,
+寡 ｋｗ a 35 kʷa35 None
+剮,,,,,
+誇,,,,,
+侉,,,,,
+垮 ｋｈｗ a 55 kʰʷa55 None
+跨 ｋｈｗ a 55 kʰʷa55 None
+瓦 ŋ a 13 ŋa13 None
+花 f a 55 fa55 None
+化 f a 33 fa33 None
+鏵,,,,,
+划,,,,,
+華 w a 21 wa21 None
+樺,,,,,
+蛙,,,,,
+窪,,,,,
+補 p ou 35 pou35 None
+譜,,,,,
+布 p ou 33 pou33 None
+佈,,,,,
+鋪 ph ou 55 phou55 None
+鋪 ph ou 33 phou33 None
+普 ph ou 35 phou35 None
+浦 ph ou 35 phou35 None
+怖,,,,,
+蒲,,,,,
+菩 ph ɔ 21 phɔ21 None
+脯 ph ou 35 phou35 None
+部 p ou 21 pou21 None
+簿 p ou 21 pou21 None
+步 p ou 21 pou21 None
+捕 ph ou 35 phou35 None
+埠 f ou 21 fou21 None
+模 m ou 55 mou55 None
+摹,,,,,
+暮,,,,,
+慕,,,,,
+墓 m ou 21 mou21 None
+募,,,,,
+都 t ou 55 tou55 None
+堵 t ɔ 35 tɔ35 None
+賭 t ou 35 tou35 None
+肚 th ou 13 thou13 None
+妬,,,,,
+妒,,,,,
+土 th ou 35 thou35 None
+吐 th ou 33 thou33 None
+兔 th ou 33 thou33 None
+途 th ou 21 thou21 None
+屠,,,,,
+徒 th ou 21 thou21 None
+塗 th ou 21 thou21 None
+圖 th ou 21 thou21 None
+杜 t ou 21 tou21 None
+度 t ou 21 tou21 None
+渡 t ou 21 tou21 None
+鍍 t ou 21 tou21 None
+奴 n ou 21 nou21 None
+努 n ou 13 nou13 None
+怒,,,,,
+盧,,,,,
+爐 l ou 21 lou21 None
+蘆 l ou 21 lou21 None
+鸕 l ou 21 lou21 None
+魯 l ou 13 lou13 None
+櫓 n ou 13 nou13 None
+虜 l ou 13 lou13 None
+滷,,,,,
+路 l ou 21 lou21 None
+賂 l ɔk 3 lɔk3 None
+露 l ou 21 lou21 None
+鷺,,,,,
+租 ts ou 55 tsou55 None
+祖 ts ou 35 tsou35 None
+組 ts ou 35 tsou35 None
+做 ts ou 33 tsou33 None
+粗 tsh ou 55 tshou55 None
+醋 tsh ou 33 tshou33 None
+措 tsh ou 33 tshou33 None
+錯 tsh ɔ 33 tshɔ33 None
+蘇 ɬ ou 55 ɬou55 None
+酥 ɬ ou 55 ɬou55 None
+素 ɬ ou 33 ɬou33 None
+訴 ɬ ou 33 ɬou33 None
+塑 s ɔk 3 sɔk3 None
+嗉 ɬ ou 33 ɬou33 None
+姑 k u 55 ku55 None
+孤 k u 55 ku55 None
+箍 kh u 55 khu55 None
+古 k u 35 ku35 None
+估 k u 55 ku55 None
+䀇,,,,,
+牯,,,,,
+股 k u 35 ku35 None
+鼓 k u 35 ku35 None
+故 k u 33 ku33 None
+固 k u 33 ku33 None
+錮,,,,,
+雇 k u 33 ku33 None
+顧 k u 33 ku33 None
+枯 k u 55 ku55 None
+苦 f u 35 fu35 None
+庫 f u 33 fu33 None
+褲 f u 33 fu33 None
+吳 None  21 ŋ̇21 None
+蜈 None  21 ŋ̇21 None
+吾,,,,,
+梧 None  21 ŋ̇21 None
+五 None  13 ŋ̇13 None
+伍 None  13 ŋ̇13 None
+午 None  13 ŋ̇13 None
+誤 None  21 ŋ̇21 None
+悟 None  21 ŋ̇21 None
+呼 None u 55 u55 None
+虎 f u 35 fu35 None
+滸 f u 35 fu35 None
+戽 f u 33 fu33 None
+胡 None u 21 u21 None
+衚,,,,,
+湖 None u 21 u21 None
+狐 None u 21 u21 None
+壺 None u 21 u21 None
+乎,,,,,
+葫 None u 21 u21 None
+瓠,,,,,
+鬍,,,,,
+戶,,,,,
+滬,,,,,
+互 None u 21 u21 None
+護 None u 21 u21 None
+烏 None u 55 u55 None
+污 None u 55 u55 None
+汙,,,,,
+塢,,,,,
+惡 None ɔk 3 ɔk3 None
+女 n œy 13 nœy13 None
+廬,,,,,
+驢,,,,,
+呂 l œy 13 lœy13 None
+穭,,,,,
+稆,,,,,
+旅 l œy 13 lœy13 None
+慮 l œy 21 lœy21 None
+濾 l œy 21 lœy21 None
+蛆 tsh œy 55 tshœy55 None
+絮,,,,,
+徐 tsh œy 21 tshœy21 None
+序,,,,,
+敘,,,,,
+敍,,,,,
+緒,,,,,
+豬 ts y 55 tsy55 None
+著 ts œk 3 tsœk3 None
+褚,,,,,
+除 tsh y 21 tshy21 None
+儲,,,,,
+苧,,,,,
+箸,,,,,
+阻 ts ɔ 35 tsɔ35 None
+初 tsh ɔ 55 tshɔ55 None
+楚 tsh ɔ 35 tshɔ35 None
+礎 tsh ɔ 35 tshɔ35 None
+鋤,,,,,
+助,,,,,
+梳 s ɔ 55 sɔ55 None
+疏 s ɔ 55 sɔ55 None
+蔬 s ɔ 55 sɔ55 None
+所 ɬ ɔ 35 ɬɔ35 None
+諸 ts y 55 tsy55 None
+煮 ts y 35 tsy35 None
+煑,,,,,
+處 tsh y 33 tshy33 None
+杵,,,,,
+書 s y 55 sy55 None
+舒 s y 55 sy55 None
+鼠 s y 35 sy35 None
+暑,,,,,
+黍,,,,,
+庶,,,,,
+恕,,,,,
+署 s y 35 sy35 None
+薯 s y 21 sy21 None
+如,,,,,
+汝,,,,,
+居 k œy 55 kœy55 None
+舉 k œy 35 kœy35 None
+據 k œy 33 kœy33 None
+鋸 k œy 33 kœy33 None
+圩,,,,,
+墟 h œy 55 hœy55 None
+去 h œy 33 hœy33 None
+渠,,,,,
+𠍲,,,,,
+佢 kh œy 13 khœy13 None
+巨,,,,,
+拒,,,,,
+距 kh œy 35 khœy35 None
+魚 None y 21 y21 None
+漁,,,,,
+語 None y 13 y13 None
+御,,,,,
+禦,,,,,
+虛,,,,,
+噓,,,,,
+許 h œy 35 hœy35 None
+於,,,,,
+淤,,,,,
+余 None y 21 y21 None
+餘 None y 21 y21 None
+舁,,,,,
+與,,,,,
+譽 None y 21 y21 None
+預,,,,,
+豫,,,,,
+夫 f u 55 fu55 None
+膚 f u 55 fu55 None
+跗,,,,,
+府 f u 35 fu35 None
+腑 f u 35 fu35 None
+俯,,,,,
+甫,,,,,
+斧 f u 35 fu35 None
+付 f u 21 fu21 None
+賦,,,,,
+傅 f u 21 fu21 None
+敷,,,,,
+俘 f u 55 fu55 None
+孵,,,,,
+麩 f u 55 fu55 None
+撫,,,,,
+殕,,,,,
+赴,,,,,
+訃,,,,,
+符 f u 21 fu21 None
+扶 f u 21 fu21 None
+芙,,,,,
+父 f u 21 fu21 None
+釜,,,,,
+腐 f u 21 fu21 None
+輔 ph ou 35 phou35 None
+附 f u 21 fu21 None
+無,,,,,
+巫,,,,,
+誣 m ou 55 mou55 None
+武 m ou 13 mou13 None
+舞 m ou 13 mou13 None
+侮 m ou 13 mou13 None
+鵡,,,,,
+務 m ou 21 mou21 None
+霧 m ou 21 mou21 None
+縷,,,,,
+屢,,,,,
+趨,,,,,
+取 tsh œy 35 tshœy35 None
+娶 tsh œy 35 tshœy35 None
+趣 tsh œy 33 tshœy33 None
+聚 tsh y 13 tshy13 None
+須 ɬ ou 55 ɬou55 None
+鬚,,,,,
+需,,,,,
+誅,,,,,
+蛛,,,,,
+株 ts y 55 tsy55 None
+株 t ɐu 55 tɐu55 None
+拄,,,,,
+駐,,,,,
+註,,,,,
+廚,,,,,
+柱 tsh y 13 tshy13 None
+住 ts y 21 tsy21 None
+雛,,,,,
+數 s ou 35 sou35 None
+數 s ou 33 sou33 None
+朱 ts y 55 tsy55 None
+硃,,,,,
+珠 ts y 55 tsy55 None
+主 ts y 35 tsy35 None
+注 ts y 33 tsy33 None
+蛀,,,,,
+鑄 ts y 33 tsy33 None
+樞,,,,,
+戍,,,,,
+輸 s y 55 sy55 None
+殊 s y 21 sy21 None
+豎 s y 21 sy21 None
+樹 s y 21 sy21 None
+儒,,,,,
+乳,,,,,
+擩,,,,,
+拘 kh œy 55 khœy55 None
+駒,,,,,
+俱,,,,,
+矩 kh œy 35 khœy35 None
+句 k œy 33 kœy33 None
+區 kh œy 55 khœy55 None
+驅 kh œy 55 khœy55 None
+瞿,,,,,
+具,,,,,
+懼,,,,,
+愚,,,,,
+虞,,,,,
+娛 None y 21 y21 None
+遇 None y 21 y21 None
+寓,,,,,
+吁,,,,,
+迂,,,,,
+于 None y 55 y55 None
+盂,,,,,
+雨 None y 13 y13 None
+宇,,,,,
+禹,,,,,
+羽 None y 13 y13 None
+芋 None u 21 u21 None
+榆,,,,,
+逾,,,,,
+愉,,,,,
+愈,,,,,
+喻,,,,,
+裕 None y 21 y21 None
+獃,,,,,
+戴 t ai 33 tai33 None
+胎 th ɔi 55 thɔi55 None
+台 th ɔi 21 thɔi21 None
+颱,,,,,
+檯,,,,,
+枱,,,,,
+態 th ai 33 thai33 None
+貸 t ɔi 21 tɔi21 None
+臺,,,,,
+苔 th ɔi 21 thɔi21 None
+抬 th ɔi 21 thɔi21 None
+擡,,,,,
+待 t ɔi 21 tɔi21 None
+怠 th ɔi 21 thɔi21 None
+殆,,,,,
+代 t ɔi 21 tɔi21 None
+袋 t ɔi 21 tɔi21 None
+乃,,,,,
+耐 n ɔi 21 nɔi21 None
+來 l ɐi 21 lɐi21 None
+災 ts ɔi 55 tsɔi55 None
+栽,,,,,
+宰 ts ɔi 35 tsɔi35 None
+再 ts ɔi 33 tsɔi33 None
+載 ts ɔi 35 tsɔi35 None
+載 ts ɔi 33 tsɔi33 None
+猜 tsh ai 55 tshai55 None
+彩 tsh ɔi 35 tshɔi35 None
+採 tsh ai 35 tshai35 None
+采,,,,,
+睬 tsh ɔi 35 tshɔi35 None
+菜 tsh ɔi 33 tshɔi33 None
+棌,,,,,
+纔,,,,,
+才 tsh ɔi 21 tshɔi21 None
+材 tsh ɔi 21 tshɔi21 None
+財 tsh ɔi 21 tshɔi21 None
+裁 tsh ɔi 21 tshɔi21 None
+在 tsh ɔi 13 tshɔi13 None
+腮 ɬ ɔi 55 ɬɔi55 None
+鰓,,,,,
+賽 s ai 33 sai33 None
+該 k ɔi 55 kɔi55 None
+改 k ɔi 35 kɔi35 None
+概,,,,,
+溉,,,,,
+開 h ɔi 55 hɔi55 None
+凱,,,,,
+慨,,,,,
+咳 kh ɐt 5 khɐt5 None
+呆,,,,,
+磑,,,,,
+礙 ŋ ɔi 21 ŋɔi21 None
+海 h ɔi 35 hɔi35 None
+孩,,,,,
+亥 h ɔi 21 hɔi21 None
+哀 None ɔi 55 ɔi55 None
+埃,,,,,
+愛 None ɔi 33 ɔi33 None
+貝 p ui 33 pui33 None
+沛,,,,,
+帶 t ai 33 tai33 None
+太 th ai 33 thai33 None
+泰 th ai 33 thai33 None
+奈 n ɔi 21 nɔi21 None
+賴 l ai 21 lai21 None
+癩 l ai 33 lai33 None
+蔡 tsh ɔi 33 tshɔi33 None
+蓋 k ɔi 33 kɔi33 None
+丐,,,,,
+艾 ŋ ai 21 ŋai21 None
+害 h ɔi 21 hɔi21 None
+藹,,,,,
+拜 p ai 33 pai33 None
+排 ph ai 21 phai21 None
+埋 m ai 21 mai21 None
+齋 ts ai 55 tsai55 None
+豺 tsh ai 21 tshai21 None
+皆,,,,,
+階 k ai 55 kai55 None
+稭,,,,,
+秸,,,,,
+介 k ai 33 kai33 None
+界 k ai 33 kai33 None
+芥 k ai 33 kai33 None
+尬,,,,,
+疥 k ai 33 kai33 None
+屆,,,,,
+戒 k ai 33 kai33 None
+揩,,,,,
+楷,,,,,
+諧,,,,,
+駭,,,,,
+械 h ai 13 hai13 None
+挨 ŋ ai 55 ŋai55 None
+擺 p ai 35 pai35 None
+派 ph ai 33 phai33 None
+簰 ph ai 21 phai21 None
+𥱼,,,,,
+牌 ph ai 21 phai21 None
+罷 p a 21 pa21 None
+稗,,,,,
+買 m ai 13 mai13 None
+賣 m ai 21 mai21 None
+奶 n ai 13 nai13 None
+債 ts ai 33 tsai33 None
+釵 tsh ai 55 tshai55 None
+柴 tsh ai 21 tshai21 None
+篩 s ei 55 sei55 None
+洒,,,,,
+晒,,,,,
+曬 s ai 33 sai33 None
+佳 k a 55 ka55 None
+街 k ai 55 kai55 None
+懈,,,,,
+涯,,,,,
+崖 ŋ ai 21 ŋai21 None
+捱 ŋ ai 21 ŋai21 None
+鞋 h ai 21 hai21 None
+解 k ai 35 kai35 None
+蟹 h ai 13 hai13 None
+矮 None ɐi 35 ɐi35 None
+隘,,,,,
+敗 p ai 21 pai21 None
+邁,,,,,
+寨 tsh ai 21 tshai21 None
+蔽,,,,,
+敝,,,,,
+弊,,,,,
+幣,,,,,
+斃 p ɐi 21 pɐi21 None
+例,,,,,
+厲 l ɐi 21 lɐi21 None
+勵,,,,,
+祭,,,,,
+際 ts ɐi 33 tsɐi33 None
+穄,,,,,
+滯,,,,,
+制 ts ɐi 33 tsɐi33 None
+製,,,,,
+世 s ɐi 33 sɐi33 None
+勢 s ɐi 33 sɐi33 None
+誓,,,,,
+逝,,,,,
+藝 ŋ ɐi 21 ŋɐi21 None
+刈,,,,,
+蓖 p ei 55 pei55 None
+閉,,,,,
+箅,,,,,
+批 ph ɐi 55 phɐi55 None
+陛,,,,,
+鐾,,,,,
+迷 m ɐi 21 mɐi21 None
+米 m ɐi 13 mɐi13 None
+謎 m ɐi 21 mɐi21 None
+低 t ɐi 55 tɐi55 None
+堤,,,,,
+底 t ɐi 35 tɐi35 None
+抵 t ɐi 35 tɐi35 None
+帝 t ɐi 33 tɐi33 None
+梯 th ɐi 55 thɐi55 None
+體 th ɐi 35 thɐi35 None
+替 th ɐi 33 thɐi33 None
+涕 th ɐi 33 thɐi33 None
+剃 th ɐi 33 thɐi33 None
+屜,,,,,
+題 th ɐi 21 thɐi21 None
+提 th ɐi 21 thɐi21 None
+蹄 th ɐi 21 thɐi21 None
+啼,,,,,
+弟 t ɐi 21 tɐi21 None
+第 t ɐi 21 tɐi21 None
+遞 t ɐi 21 tɐi21 None
+泥 n ɐi 21 nɐi21 None
+犁 l ɐi 21 lɐi21 None
+黎 l ɐi 21 lɐi21 None
+禮 l ɐi 13 lɐi13 None
+麗 l ɐi 21 lɐi21 None
+隷,,,,,
+擠,,,,,
+濟 ts ɐi 33 tsɐi33 None
+妻 tsh ɐi 55 tshɐi55 None
+砌 tsh ɐi 33 tshɐi33 None
+齊 tsh ɐi 21 tshɐi21 None
+臍 tsh i 21 tshi21 None
+薺,,,,,
+劑,,,,,
+西 ɬ ɐi 55 ɬɐi55 None
+棲,,,,,
+犀,,,,,
+洗 ɬ ɐi 35 ɬɐi35 None
+細 ɬ ɐi 33 ɬɐi33 None
+婿 ɬ ɐi 33 ɬɐi33 None
+壻,,,,,
+鷄,,,,,
+雞 k ɐi 55 kɐi55 None
+稽,,,,,
+計 k ɐi 33 kɐi33 None
+繼 k ɐi 33 kɐi33 None
+髻,,,,,
+溪,,,,,
+啓,,,,,
+啟,,,,,
+契 kh ɐi 33 khɐi33 None
+倪,,,,,
+奚,,,,,
+兮,,,,,
+系,,,,,
+繫,,,,,
+係,,,,,
+縊,,,,,
+瞖,,,,,
+杯 p ui 55 pui55 None
+輩 p ui 33 pui33 None
+背 p ui 33 pui33 None
+胚 ph ui 55 phui55 None
+坯 ph ui 55 phui55 None
+配 ph ui 33 phui33 None
+培 ph ui 21 phui21 None
+陪 ph ui 21 phui21 None
+賠 ph ui 21 phui21 None
+裴,,,,,
+倍 ph ui 13 phui13 None
+佩 ph ui 33 phui33 None
+焙,,,,,
+梅 m ui 21 mui21 None
+枚 m ui 21 mui21 None
+媒 m ui 21 mui21 None
+煤 m ui 21 mui21 None
+每 m ui 13 mui13 None
+妹 m ui 35 mui35 None
+昧,,,,,
+堆 t øy 55 tøy55 None
+對 t øy 33 tøy33 None
+碓 t øy 33 tøy33 None
+推 th øy 55 thøy55 None
+腿,,,,,
+退 th øy 33 thøy33 None
+隊 t øy 21 tøy21 None
+內,,,,,
+雷 l øy 21 løy21 None
+儡,,,,,
+累,,,,,
+催 tsh øy 55 tshøy55 None
+崔 tsh øy 55 tshøy55 None
+罪 ts øy 21 tsøy21 None
+碎 ɬ øy 33 ɬøy33 None
+盔,,,,,
+魁,,,,,
+恢 f ui 55 fui55 None
+傀,,,,,
+塊 f ai 33 fai33 None
+桅 w ɐi 21 wɐi21 None
+灰 f ui 55 fui55 None
+賄,,,,,
+悔 f ui 13 fui13 None
+晦,,,,,
+回 None ui 21 ui21 None
+茴,,,,,
+匯 None ui 21 ui21 None
+潰,,,,,
+煨,,,,,
+蛻,,,,,
+兌,,,,,
+最 ts øy 33 tsøy33 None
+劊,,,,,
+檜,,,,,
+外 ŋ ɔi 21 ŋɔi21 None
+會 None ui 21 ui21 None
+繪 None ui 21 ui21 None
+乖 ｋｗ ai 55 kʷai55 None
+怪 ｋｗ ai 33 kʷai33 None
+蒯,,,,,
+懷 w ai 21 wai21 None
+槐 w ai 21 wai21 None
+淮 w ai 21 wai21 None
+壞 w ai 21 wai21 None
+柺,,,,,
+枴,,,,,
+拐 ｋｗ ai 35 kʷai35 None
+掛 ｋｗ a 33 kʷa33 None
+卦 ｋｗ a 33 kʷa33 None
+歪 w ai 55 wai55 None
+畫 w ak 2 wak2 None
+快 f ai 33 fai33 None
+筷 f ai 33 fai33 None
+話 w a 21 wa21 None
+脆,,,,,
+歲 ɬ øy 33 ɬøy33 None
+綴,,,,,
+贅,,,,,
+稅,,,,,
+芮,,,,,
+鱖,,,,,
+衛 w ɐi 21 wɐi21 None
+銳,,,,,
+廢,,,,,
+肺,,,,,
+吠,,,,,
+穢,,,,,
+圭,,,,,
+閨,,,,,
+桂 ｋｗ ɐi 33 kʷɐi33 None
+奎,,,,,
+攜,,,,,
+畦,,,,,
+惠 w ɐi 21 wɐi21 None
+慧 w ɐi 21 wɐi21 None
+碑 p ei 55 pei55 None
+卑 p ei 55 pei55 None
+彼,,,,,
+俾,,,,,
+臂 p ei 33 pei33 None
+披,,,,,
+譬,,,,,
+皮 ph ei 21 phei21 None
+疲 ph ei 21 phei21 None
+脾 ph ei 21 phei21 None
+被 ph ei 13 phei13 None
+婢,,,,,
+避 p ei 21 pei21 None
+縻,,,,,
+糜,,,,,
+彌 m ɛ 21 mɛ21 None
+䉲,,,,,
+𥮜,,,,,
+靡,,,,,
+離 l ei 21 lei21 None
+籬 l ei 21 lei21 None
+璃,,,,,
+荔 l ɐi 21 lɐi21 None
+紫 ts ɿ 35 tsɿ35 None
+雌,,,,,
+此 tsh i 35 tshi35 None
+刺 tsh i 33 tshi33 None
+疵,,,,,
+斯,,,,,
+廝,,,,,
+撕 ɬ ɿ 55 ɬɿ55 None
+璽,,,,,
+徙,,,,,
+賜,,,,,
+知 ts i 55 tsi55 None
+蜘,,,,,
+智 ts i 55 tsi55 None
+池 tsh i 21 tshi21 None
+馳,,,,,
+支 ts i 55 tsi55 None
+枝 ts i 55 tsi55 None
+肢,,,,,
+梔,,,,,
+紙 ts i 35 tsi35 None
+只 ts i 35 tsi35 None
+眵,,,,,
+侈,,,,,
+舐,,,,,
+施 s i 55 si55 None
+豕,,,,,
+翅,,,,,
+匙 s i 21 si21 None
+是 s i 21 si21 None
+氏,,,,,
+豉 s i 21 si21 None
+兒 None i 21 i21 None
+爾,,,,,
+寄 k ei 33 kei33 None
+企 kh ei 13 khei13 None
+奇 kh ei 21 khei21 None
+騎 kh ɛ 21 khɛ21 None
+岐,,,,,
+徛,,,,,
+技 kh ei 21 khei21 None
+妓 kh ei 21 khei21 None
+宜 None i 21 i21 None
+儀 None i 21 i21 None
+蟻 ŋ ei 13 ŋei13 None
+誼,,,,,
+義 None i 21 i21 None
+議 None i 21 i21 None
+犧 h ei 55 hei55 None
+戲 h ei 33 hei33 None
+椅 None i 35 i35 None
+倚,,,,,
+移 None i 21 i21 None
+易 None ik 2 ik2 None
+悲 p ei 55 pei55 None
+鄙,,,,,
+比 p ei 35 pei35 None
+秕,,,,,
+秘,,,,,
+祕,,,,,
+泌,,,,,
+轡,,,,,
+庇 p ei 33 pei33 None
+痹 p ei 33 pei33 None
+丕,,,,,
+屁 ph ei 33 phei33 None
+琵,,,,,
+枇 ph ei 21 phei21 None
+備 p ei 21 pei21 None
+鼻 p ei 21 pei21 None
+篦 p ei 21 pei21 None
+眉 m ei 21 mei21 None
+楣,,,,,
+黴,,,,,
+霉 m ui 21 mui21 None
+美 m ei 13 mei13 None
+媚,,,,,
+寐,,,,,
+地 t ei 21 tei21 None
+尼 n ɐi 21 nɐi21 None
+膩 n ei 21 nei21 None
+梨 l ei 21 lei21 None
+履,,,,,
+利 l ei 21 lei21 None
+痢 l ei 21 lei21 None
+資 ts ɿ 55 tsɿ55 None
+姿,,,,,
+咨,,,,,
+姊 ɬ ɿ 35 ɬɿ35 None
+次 tsh i 33 tshi33 None
+瓷 tsh i 21 tshi21 None
+餈,,,,,
+糍 tsh i 21 tshi21 None
+自 ɬ ɿ 21 ɬɿ21 None
+私 ɬ ɿ 55 ɬɿ55 None
+死 ɬ ei 35 ɬei35 None
+四 ɬ ei 33 ɬei33 None
+肆 ɬ ei 33 ɬei33 None
+致 ts i 33 tsi33 None
+遲 tsh i 21 tshi21 None
+雉,,,,,
+緻,,,,,
+稚,,,,,
+師 ɬ ɿ 55 ɬɿ55 None
+獅 ɬ ɿ 55 ɬɿ55 None
+脂 ts i 55 tsi55 None
+指 ts i 35 tsi35 None
+旨 ts i 35 tsi35 None
+至 ts i 33 tsi33 None
+示 s i 21 si21 None
+尸 s i 55 si55 None
+屍,,,,,
+屎 s i 35 si35 None
+矢,,,,,
+視 tsh i 21 tshi21 None
+視 s i 21 si21 None
+嗜,,,,,
+二 None i 21 i21 None
+貳,,,,,
+飢,,,,,
+肌,,,,,
+几,,,,,
+冀,,,,,
+器 h ei 33 hei33 None
+棄,,,,,
+祁,,,,,
+鰭,,,,,
+伊,,,,,
+姨 None i 21 i21 None
+夷,,,,,
+肄,,,,,
+你 n ei 13 nei13 None
+釐,,,,,
+狸 l ei 21 lei21 None
+李 l ei 13 lei13 None
+里 l ei 13 lei13 None
+理 l ei 13 lei13 None
+裏,,,,,
+裡,,,,,
+鯉 l ei 13 lei13 None
+吏,,,,,
+茲,,,,,
+滋,,,,,
+子 ɬ ɿ 35 ɬɿ35 None
+子 ts i 35 tsi35 None
+梓,,,,,
+慈 tsh i 21 tshi21 None
+磁,,,,,
+字 ɬ ɿ 21 ɬɿ21 None
+牸,,,,,
+絲 ɬ ɿ 55 ɬɿ55 None
+司 ɬ ɿ 55 ɬɿ55 None
+伺,,,,,
+思 ɬ ɿ 55 ɬɿ55 None
+辭 tsh ɿ 21 tshɿ21 None
+祠 ɬ ɿ 21 ɬɿ21 None
+詞 tsh i 21 tshi21 None
+似 ts i 13 tsi13 None
+祀,,,,,
+巳,,,,,
+寺,,,,,
+飼 tsh i 21 tshi21 None
+嗣,,,,,
+置 ts i 33 tsi33 None
+癡,,,,,
+痴,,,,,
+恥,,,,,
+持 tsh i 21 tshi21 None
+痔 tsh i 21 tshi21 None
+治 ts i 33 tsi33 None
+輜,,,,,
+滓,,,,,
+廁,,,,,
+士,,,,,
+仕,,,,,
+柿 s ei 21 sei21 None
+俟,,,,,
+事 ɬ ɿ 21 ɬɿ21 None
+史 s ei 35 sei35 None
+使 s ei 35 sei35 None
+駛 s ei 35 sei35 None
+之 ts i 55 tsi55 None
+芝 ts i 55 tsi55 None
+止 ts i 35 tsi35 None
+址 ts i 35 tsi35 None
+趾,,,,,
+志 ts i 33 tsi33 None
+痣 ts i 33 tsi33 None
+誌,,,,,
+嗤,,,,,
+齒 ts i 35 tsi35 None
+詩 s i 55 si55 None
+始 tsh i 35 tshi35 None
+試 s i 33 si33 None
+時 s i 21 si21 None
+鰣,,,,,
+市 s i 13 si13 None
+恃,,,,,
+侍 ɬ ɿ 21 ɬɿ21 None
+而,,,,,
+耳 None i 13 i13 None
+餌,,,,,
+基 k ei 55 kei55 None
+己 k i 35 ki35 None
+紀,,,,,
+記 k ei 33 kei33 None
+欺 h ei 55 hei55 None
+起 h ei 35 hei35 None
+杞,,,,,
+棋 kh ei 21 khei21 None
+旗 kh ei 21 khei21 None
+其 kh ei 21 khei21 None
+期 kh ei 21 khei21 None
+忌,,,,,
+疑 None i 21 i21 None
+擬,,,,,
+嬉,,,,,
+熙 h ei 55 hei55 None
+喜 h ei 35 hei35 None
+蟢,,,,,
+醫 None i 55 i55 None
+意 None i 33 i33 None
+矣,,,,,
+飴,,,,,
+以,,,,,
+已,,,,,
+異,,,,,
+機 k ei 55 kei55 None
+譏,,,,,
+饑,,,,,
+幾 k i 35 ki35 None
+既,,,,,
+豈 h ei 35 hei35 None
+氣 h ei 33 hei33 None
+汽 h ei 33 hei33 None
+祈 kh ei 21 khei21 None
+沂,,,,,
+毅,,,,,
+希 h ei 55 hei55 None
+稀 h ei 55 hei55 None
+衣 None i 55 i55 None
+依 None i 55 i55 None
+嘴 ts øy 35 tsøy35 None
+髓,,,,,
+隨 tsh øy 21 tshøy21 None
+揣,,,,,
+吹 tsh øy 55 tshøy55 None
+炊 tsh øy 55 tshøy55 None
+垂 s øy 21 søy21 None
+睡 s øy 21 søy21 None
+瑞,,,,,
+蕊,,,,,
+蘂,,,,,
+規 ｋｈｗ ɐi 55 kʰʷɐi55 None
+詭 ｋｗ ɐi 35 kʷɐi35 None
+虧 ｋｈｗ ɐi 55 kʰʷɐi55 None
+窺,,,,,
+跪 ｋｗ ɐi 21 kʷɐi21 None
+危 ŋ ɐi 21 ŋɐi21 None
+僞,,,,,
+偽 ŋ ɐi 33 ŋɐi33 None
+麾,,,,,
+毀,,,,,
+萎,,,,,
+委 w ɐi 35 wɐi35 None
+餵,,,,,
+喂 w ei 33 wei33 None
+爲,,,,,
+為 w ɐi 21 wɐi21 None
+壘 l øy 55 løy55 None
+類 l øy 13 løy13 None
+淚 l øy 21 løy21 None
+醉 ts øy 33 tsøy33 None
+翠,,,,,
+雖,,,,,
+綏,,,,,
+粹,,,,,
+遂,,,,,
+隧,,,,,
+穗,,,,,
+追 ts øy 55 tsøy55 None
+錘 tsh øy 21 tshøy21 None
+槌 tsh øy 21 tshøy21 None
+墜 ts øy 21 tsøy21 None
+衰 s øy 55 søy55 None
+摔,,,,,
+帥 s øy 33 søy33 None
+錐,,,,,
+水 s øy 35 søy35 None
+誰,,,,,
+龜 ｋｗ ɐi 55 kʷɐi55 None
+癸 ｋｈｗ ɐi 21 kʰʷɐi21 None
+軌 ｋｗ ɐi 35 kʷɐi35 None
+愧,,,,,
+季 ｋｗ ɐi 33 kʷɐi33 None
+逵,,,,,
+葵 ｋｈｗ ɐi 21 kʰʷɐi21 None
+櫃 ｋｗ ɐi 21 kʷɐi21 None
+位 w ɐi 21 wɐi21 None
+維,,,,,
+遺,,,,,
+惟,,,,,
+唯,,,,,
+非 f ei 55 fei55 None
+飛 f ei 55 fei55 None
+匪 f ei 35 fei35 None
+榧,,,,,
+疿,,,,,
+痱,,,,,
+妃 f ei 55 fei55 None
+費,,,,,
+肥 f ei 21 fei21 None
+翡,,,,,
+微 m ei 21 mei21 None
+尾 m ei 13 mei13 None
+未 m ei 21 mei21 None
+味 m ei 21 mei21 None
+歸 ｋｗ ɐi 55 kʷɐi55 None
+鬼 ｋｗ ɐi 35 kʷɐi35 None
+貴 ｋｗ ɐi 33 kʷɐi33 None
+魏 ŋ ɐi 21 ŋɐi21 None
+揮 w ɐi 55 wɐi55 None
+輝 w ɐi 55 wɐi55 None
+徽 w ɐi 55 wɐi55 None
+諱,,,,,
+威 w ɐi 55 wɐi55 None
+畏,,,,,
+慰,,,,,
+圍 w ɐi 21 wɐi21 None
+違 w ɐi 21 wɐi21 None
+偉 w ɐi 35 wɐi35 None
+葦 w ɐi 21 wɐi21 None
+緯,,,,,
+胃 w ɐi 21 wɐi21 None
+謂 w ɐi 21 wɐi21 None
+蝟,,,,,
+彙,,,,,
+褒,,,,,
+保 p ou 35 pou35 None
+寶 p ou 35 pou35 None
+堡 p ou 35 pou35 None
+報 p ou 33 pou33 None
+袍 ph ou 21 phou21 None
+抱 ph ou 13 phou13 None
+暴 p ou 21 pou21 None
+菢,,,,,
+毛 m ou 21 mou21 None
+冒 m ou 21 mou21 None
+帽 m ou 21 mou21 None
+刀 t ou 55 tou55 None
+叨,,,,,
+倒 t ou 35 tou35 None
+島 t ou 35 tou35 None
+禱,,,,,
+到 t ou 33 tou33 None
+滔,,,,,
+掏,,,,,
+討,,,,,
+套 th ou 33 thou33 None
+桃 th ou 21 thou21 None
+逃 th ou 21 thou21 None
+淘 th ou 21 thou21 None
+陶,,,,,
+萄,,,,,
+濤,,,,,
+稻 th ou 13 thou13 None
+道 t ou 21 tou21 None
+導 t ou 21 tou21 None
+盜,,,,,
+腦 n ou 13 nou13 None
+惱 n ou 13 nou13 None
+勞 l ou 21 lou21 None
+撈 l ɛu 55 lɛu55 None
+牢 l ou 21 lou21 None
+嘮,,,,,
+老 l ou 13 lou13 None
+澇,,,,,
+糟 ts ou 55 tsou55 None
+遭,,,,,
+早 ts ou 35 tsou35 None
+棗 ts ou 35 tsou35 None
+蚤,,,,,
+澡,,,,,
+竈,,,,,
+灶 ts ou 33 tsou33 None
+躁 tsh ou 33 tshou33 None
+操 tsh ou 55 tshou55 None
+草 tsh ou 35 tshou35 None
+騲,,,,,
+糙,,,,,
+曹 tsh ou 21 tshou21 None
+槽 tsh ou 21 tshou21 None
+造 tsh ou 13 tshou13 None
+皂,,,,,
+皁,,,,,
+騷 ɬ ou 55 ɬou55 None
+臊 ɬ ou 55 ɬou55 None
+嫂 ɬ ou 35 ɬou35 None
+掃 ɬ ou 33 ɬou33 None
+高 k ou 55 kou55 None
+膏 k ou 55 kou55 None
+篙,,,,,
+糕 k ou 55 kou55 None
+羔 k ou 55 kou55 None
+稿 k ou 35 kou35 None
+告 k ou 33 kou33 None
+考,,,,,
+攷,,,,,
+烤,,,,,
+靠 kh ou 33 khou33 None
+犒,,,,,
+熬 ŋ ou 21 ŋou21 None
+傲 ŋ ou 21 ŋou21 None
+鏊,,,,,
+蒿 h ou 55 hou55 None
+薅,,,,,
+好 h ou 35 hou35 None
+好 h ou 33 hou33 None
+耗 h ou 33 hou33 None
+毫 h ou 21 hou21 None
+豪 h ou 21 hou21 None
+壕,,,,,
+號 h ou 21 hou21 None
+浩,,,,,
+爊,,,,,
+熝,,,,,
+襖,,,,,
+奧,,,,,
+懊,,,,,
+包 p ɛu 55 pɛu55 None
+胞 p au 55 pau55 None
+飽 p ɛu 35 pɛu35 None
+豹 ph ɛu 33 phɛu33 None
+爆,,,,,
+泡 ph ou 55 phou55 None
+拋,,,,,
+炮 ph ɛu 33 phɛu33 None
+跑,,,,,
+刨 ph ɛu 21 phɛu21 None
+麅,,,,,
+狍,,,,,
+鮑,,,,,
+鉋,,,,,
+茅 m ɛu 21 mɛu21 None
+錨 n au 21 nau21 None
+卯 m au 13 mau13 None
+貌 m au 21 mau21 None
+鐃,,,,,
+撓 ŋ ɛu 55 ŋɛu55 None
+鬧 n au 21 nau21 None
+罩,,,,,
+櫂,,,,,
+棹,,,,,
+抓 ts a 55 tsa55 None
+爪 j au 35 jau35 None
+找,,,,,
+笊,,,,,
+抄 tsh ɛu 55 tshɛu55 None
+鈔,,,,,
+炒 tsh ɛu 35 tshɛu35 None
+吵,,,,,
+巢,,,,,
+梢,,,,,
+捎,,,,,
+稍,,,,,
+潲,,,,,
+交 k ɛu 55 kɛu55 None
+膠 k ɛu 55 kɛu55 None
+郊 k au 55 kau55 None
+絞 k iu 35 kiu35 None
+狡 k au 35 kau35 None
+鉸,,,,,
+搞,,,,,
+攪 k ɛu 35 kɛu35 None
+教 k ɛu 33 kɛu33 None
+較,,,,,
+酵,,,,,
+校 k au 13 kau13 None
+覺 k ɛu 33 kɛu33 None
+覺 k ɔk 3 kɔk3 None
+窖,,,,,
+敲 h au 55 hau55 None
+巧 h ou 35 hou35 None
+咬 ŋ ɛu 13 ŋɛu13 None
+孝 h au 33 hau33 None
+淆,,,,,
+肴,,,,,
+餚,,,,,
+效,,,,,
+坳 None ɛu 33 ɛu33 None
+靿,,,,,
+膘,,,,,
+臕,,,,,
+標 p iu 55 piu55 None
+表 p iu 35 piu35 None
+錶 p iu 55 piu55 None
+飄 ph iu 55 phiu55 None
+票 ph iu 33 phiu33 None
+漂 ph iu 55 phiu55 None
+漂 ph iu 33 phiu33 None
+瓢 ph iu 21 phiu21 None
+嫖 ph iu 21 phiu21 None
+鰾,,,,,
+貓 m ɛu 55 mɛu55 None
+苗 m iu 21 miu21 None
+描 m iu 21 miu21 None
+秒 m iu 13 miu13 None
+渺,,,,,
+藐 m ɛu 13 mɛu13 None
+廟 m iu 21 miu21 None
+妙 m iu 21 miu21 None
+燎 l iu 21 liu21 None
+療 l iu 21 liu21 None
+焦 ts iu 55 tsiu55 None
+蕉 ts iu 55 tsiu55 None
+椒 ts iu 55 tsiu55 None
+剿,,,,,
+醮,,,,,
+鍬,,,,,
+繰,,,,,
+悄,,,,,
+俏,,,,,
+樵,,,,,
+瞧,,,,,
+噍,,,,,
+消 ɬ iu 55 ɬiu55 None
+宵 ɬ iu 55 ɬiu55 None
+霄,,,,,
+硝 ɬ iu 55 ɬiu55 None
+銷 ɬ iu 55 ɬiu55 None
+小 ɬ iu 35 ɬiu35 None
+笑 ɬ iu 33 ɬiu33 None
+鞘,,,,,
+朝 ts iu 55 tsiu55 None
+朝 tsh iu 21 tshiu21 None
+超 tsh iu 55 tshiu55 None
+潮 tsh iu 21 tshiu21 None
+趙 tsh iu 21 tshiu21 None
+兆 s iu 21 siu21 None
+召 ts iu 55 tsiu55 None
+昭 ts iu 55 tsiu55 None
+招 ts iu 55 tsiu55 None
+沼,,,,,
+照 ts iu 33 tsiu33 None
+詔,,,,,
+燒 s iu 55 siu55 None
+少 s iu 35 siu35 None
+少 s iu 33 siu33 None
+韶 s iu 21 siu21 None
+紹 s iu 21 siu21 None
+邵,,,,,
+饒,,,,,
+橈,,,,,
+擾 None iu 35 iu35 None
+繞 None iu 35 iu35 None
+驕 k iu 55 kiu55 None
+嬌 k iu 55 kiu55 None
+矯,,,,,
+蕎,,,,,
+僑 kh iu 21 khiu21 None
+橋 kh iu 21 khiu21 None
+喬 kh iu 21 khiu21 None
+轎 kh iu 21 khiu21 None
+枵,,,,,
+囂 h iu 55 hiu55 None
+妖 None iu 55 iu55 None
+邀 None iu 55 iu55 None
+腰 None iu 55 iu55 None
+要 None iu 55 iu55 None
+要 None iu 33 iu33 None
+搖,,,,,
+謠,,,,,
+姚 None iu 21 iu21 None
+窯,,,,,
+舀,,,,,
+耀,,,,,
+鷂,,,,,
+刁 t iu 55 tiu55 None
+雕 t iu 55 tiu55 None
+貂 t iu 55 tiu55 None
+鳥 n iu 13 niu13 None
+吊 t iu 33 tiu33 None
+弔,,,,,
+釣 t iu 33 tiu33 None
+挑 th iu 55 thiu55 None
+跳 th iu 33 thiu33 None
+糶,,,,,
+條 th iu 21 thiu21 None
+調 t iu 21 tiu21 None
+調 th iu 21 thiu21 None
+掉,,,,,
+尿 n iu 21 niu21 None
+遼 l iu 21 liu21 None
+聊 l iu 21 liu21 None
+寥,,,,,
+撩 l iu 21 liu21 None
+了 l iu 13 liu13 None
+瞭,,,,,
+料 l iu 21 liu21 None
+尥,,,,,
+蕭,,,,,
+簫,,,,,
+澆,,,,,
+繳 k iu 35 kiu35 None
+僥,,,,,
+叫 None ɛu 55 ɛu55 None
+竅 kh iu 35 khiu35 None
+堯,,,,,
+曉,,,,,
+幺 None iu 55 iu55 None
+吆,,,,,
+杳,,,,,
+剖,,,,,
+某 m ɐu 35 mɐu35 None
+畝 m ɐu 35 mɐu35 None
+牡 m ɐu 35 mɐu35 None
+母 m ou 13 mou13 None
+拇 m ou 13 mou13 None
+戊 m ou 21 mou21 None
+戊 None u 21 u21 None
+茂 m ou 21 mou21 None
+貿 m ɐu 21 mɐu21 None
+兜 t ɐu 55 tɐu55 None
+斗 t ɐu 35 tɐu35 None
+抖 t ɐu 35 tɐu35 None
+陡,,,,,
+鬥 t ɐu 33 tɐu33 None
+偷 th ɐu 55 thɐu55 None
+㪗,,,,,
+敨 th ɐu 35 thɐu35 None
+透 th ɐu 33 thɐu33 None
+頭 th ɐu 21 thɐu21 None
+投 th ɐu 21 thɐu21 None
+豆 t ɐu 21 tɐu21 None
+逗 t ɐu 21 tɐu21 None
+樓 l ɐu 21 lɐu21 None
+摟 l ɐu 13 lɐu13 None
+耬,,,,,
+簍 l ɐu 13 lɐu13 None
+漏 l ɐu 21 lɐu21 None
+陋,,,,,
+走,,,,,
+奏,,,,,
+湊,,,,,
+叟,,,,,
+嗽,,,,,
+勾 ŋ ɐu 55 ŋɐu55 None
+鈎,,,,,
+鉤 ŋ ɐu 55 ŋɐu55 None
+溝 k ɐu 55 kɐu55 None
+狗 k ɐu 35 kɐu35 None
+苟,,,,,
+夠,,,,,
+彀,,,,,
+構 k ɐu 33 kɐu33 None
+購 k ɐu 33 kɐu33 None
+摳 kh ou 55 khou55 None
+瞘,,,,,
+口 h ɐu 35 hɐu35 None
+叩,,,,,
+扣 kh ɐu 33 khɐu33 None
+釦,,,,,
+寇,,,,,
+藕 ŋ ɐu 13 ŋɐu13 None
+偶 ŋ ɐu 13 ŋɐu13 None
+吼,,,,,
+侯 h ɐu 21 hɐu21 None
+喉 h ɐu 21 hɐu21 None
+猴,,,,,
+瘊,,,,,
+后,,,,,
+厚 h ɐu 13 hɐu13 None
+後 h ɐu 21 hɐu21 None
+候,,,,,
+歐 None ɐu 55 ɐu55 None
+甌,,,,,
+嘔 None ɐu 35 ɐu35 None
+毆,,,,,
+漚 None ɐu 33 ɐu33 None
+慪 None ɐu 33 ɐu33 None
+否,,,,,
+富 f u 33 fu33 None
+副,,,,,
+浮 f ou 21 fou21 None
+負 f u 21 fu21 None
+婦 ph ou 13 phou13 None
+阜,,,,,
+復 f ok 5 fok5 None
+謀 m ɐu 21 mɐu21 None
+矛 m ɛu 21 mɛu21 None
+紐 n ɐu 13 nɐu13 None
+扭 n ɐu 13 nɐu13 None
+流 l ɐu 21 lɐu21 None
+留 l ɐu 21 lɐu21 None
+劉 l ɐu 21 lɐu21 None
+榴 l ɐu 21 lɐu21 None
+硫 l ɐu 21 lɐu21 None
+琉 l ɐu 21 lɐu21 None
+柳 l ɐu 13 lɐu13 None
+溜,,,,,
+餾,,,,,
+廖 l iu 21 liu21 None
+揪,,,,,
+揫,,,,,
+鬏,,,,,
+酒 ts ɐu 35 tsɐu35 None
+秋 tsh ɐu 55 tshɐu55 None
+鞦,,,,,
+就 ts ɐu 21 tsɐu21 None
+修 ɬ ɐu 55 ɬɐu55 None
+羞,,,,,
+秀 ɬ ɐu 33 ɬɐu33 None
+繡 ɬ ɐu 33 ɬɐu33 None
+銹,,,,,
+鏽,,,,,
+宿 ɬ ok 5 ɬok5 None
+囚,,,,,
+泅,,,,,
+袖 ts ɐu 21 tsɐu21 None
+肘,,,,,
+晝 ts ɐu 33 tsɐu33 None
+抽 tsh ɐu 55 tshɐu55 None
+丑 tsh ɐu 35 tshɐu35 None
+綢 tsh ɐu 21 tshɐu21 None
+稠,,,,,
+籌 tsh ɐu 21 tshɐu21 None
+紂,,,,,
+宙,,,,,
+鄒,,,,,
+皺 ts ɐu 33 tsɐu33 None
+縐,,,,,
+搊,,,,,
+愁,,,,,
+驟,,,,,
+搜 ɬ ou 35 ɬou35 None
+颼,,,,,
+餿,,,,,
+蒐,,,,,
+瘦 s ɐu 33 sɐu33 None
+漱,,,,,
+周 ts ɐu 55 tsɐu55 None
+舟,,,,,
+州 ts ɐu 55 tsɐu55 None
+洲 ts ɐu 55 tsɐu55 None
+週,,,,,
+帚,,,,,
+咒 ts ɐu 33 tsɐu33 None
+醜,,,,,
+臭 tsh ɐu 33 tshɐu33 None
+收 s ɐu 55 sɐu55 None
+手 s ɐu 35 sɐu35 None
+首 s ɐu 35 sɐu35 None
+守 s ɐu 35 sɐu35 None
+獸 s ɐu 33 sɐu33 None
+酬 s ɐu 21 sɐu21 None
+仇,,,,,
+受 s ɐu 21 sɐu21 None
+壽 s ɐu 21 sɐu21 None
+授 s ɐu 21 sɐu21 None
+售,,,,,
+柔,,,,,
+揉,,,,,
+鳩 k ɐu 55 kɐu55 None
+鬮,,,,,
+糾,,,,,
+九 k ɐu 35 kɐu35 None
+久 k ɐu 35 kɐu35 None
+韭,,,,,
+灸 k ɐu 35 kɐu35 None
+救 k ɐu 33 kɐu33 None
+究 k ɐu 33 kɐu33 None
+丘 j ɐu 55 jɐu55 None
+求 kh ɐu 21 khɐu21 None
+球 kh ɐu 21 khɐu21 None
+臼 k au 33 kau33 None
+舅 kh ɐu 13 khɐu13 None
+咎,,,,,
+舊 k ɐu 21 kɐu21 None
+柩,,,,,
+牛 ŋ ɐu 21 ŋɐu21 None
+休 j ɐu 55 jɐu55 None
+朽,,,,,
+嗅,,,,,
+優 j ɐu 55 jɐu55 None
+憂 j ɐu 55 jɐu55 None
+尤 j ɐu 55 jɐu55 None
+郵 j ɐu 21 jɐu21 None
+有 j ɐu 13 jɐu13 None
+友 j ɐu 13 jɐu13 None
+又 j ɐu 21 jɐu21 None
+右 j ɐu 21 jɐu21 None
+祐,,,,,
+由 j ɐu 21 jɐu21 None
+油 j ɐu 21 jɐu21 None
+游 j ɐu 21 jɐu21 None
+猶,,,,,
+悠 j ɐu 55 jɐu55 None
+酉 j ɐu 13 jɐu13 None
+莠,,,,,
+誘,,,,,
+柚 j ɐu 13 jɐu13 None
+鼬,,,,,
+釉,,,,,
+彪 p iu 55 piu55 None
+謬,,,,,
+丟,,,,,
+幽 j ɐu 55 jɐu55 None
+幼,,,,,
+耽 t am 55 tam55 None
+搭 t ap 3 tap3 None
+答 t ap 3 tap3 None
+貪 th am 55 tham55 None
+探 th am 33 tham33 None
+踏 t ap 2 tap2 None
+搨,,,,,
+潭 th am 21 tham21 None
+譚 th am 21 tham21 None
+沓 t ap 2 tap2 None
+南 n am 21 nam21 None
+男 n am 21 nam21 None
+納 n ap 2 nap2 None
+漤,,,,,
+灠,,,,,
+拉 l ai 55 lai55 None
+簪,,,,,
+參 tsh am 55 tsham55 None
+參 s ɐm 55 sɐm55 None
+慘 tsh am 35 tsham35 None
+蠶 tsh am 21 tsham21 None
+雜 ts ap 2 tsap2 None
+感,,,,,
+蛤 k ɐp 5 kɐp5 None
+鴿 k op 3 kop3 None
+堪,,,,,
+龕,,,,,
+坎,,,,,
+砍,,,,,
+勘,,,,,
+喝,,,,,
+含 h ɐm 21 hɐm21 None
+函,,,,,
+撼,,,,,
+憾,,,,,
+合 h ap 2 hap2 None
+盒 h ap 2 hap2 None
+庵,,,,,
+揞,,,,,
+暗 None əm 33 əm33 None
+擔 t am 55 tam55 None
+擔 t am 33 tam33 None
+膽 t am 35 tam35 None
+坍,,,,,
+毯 th an 35 than35 None
+塔 th ap 3 thap3 None
+榻,,,,,
+溻,,,,,
+塌,,,,,
+談 th am 21 tham21 None
+痰 th am 21 tham21 None
+淡 th am 13 tham13 None
+藍 l am 21 lam21 None
+籃 l am 55 lam55 None
+籃 l am 21 lam21 None
+覽 l am 13 lam13 None
+攬,,,,,
+欖 l am 13 lam13 None
+濫,,,,,
+纜 l am 21 lam21 None
+臘 l ap 2 lap2 None
+蠟 l ap 2 lap2 None
+鑞,,,,,
+慚,,,,,
+暫 ts am 21 tsam21 None
+鏨,,,,,
+三 ɬ am 55 ɬam55 None
+甘 k əm 55 kəm55 None
+柑 k əm 55 kəm55 None
+泔,,,,,
+敢 k ɐm 35 kɐm35 None
+橄,,,,,
+磕 kh ɔk 3 khɔk3 None
+蚶,,,,,
+憨,,,,,
+喊 h ɛn 33 hɛn33 None
+酣,,,,,
+埯,,,,,
+垵,,,,,
+站 ts am 21 tsam21 None
+劄,,,,,
+賺,,,,,
+斬 ts am 35 tsam35 None
+蘸,,,,,
+眨,,,,,
+插 tsh ap 3 tshap3 None
+饞,,,,,
+讒,,,,,
+閘 ts ap 2 tsap2 None
+杉 tsh am 33 tsham33 None
+尷,,,,,
+減 k ɛm 35 kɛm35 None
+鹼,,,,,
+碱 k ɛn 35 kɛn35 None
+夾 k ɛp 3 kɛp3 None
+裌,,,,,
+鵮,,,,,
+掐,,,,,
+恰,,,,,
+鹹,,,,,
+咸 h ɛm 21 hɛm21 None
+陷,,,,,
+餡,,,,,
+狹,,,,,
+峽,,,,,
+洽,,,,,
+攙 tsh am 55 tsham55 None
+衫 s am 55 sam55 None
+釤,,,,,
+監 k am 33 kam33 None
+鑑,,,,,
+甲 k ap 3 kap3 None
+胛,,,,,
+嵌,,,,,
+岩 ŋ am 21 ŋam21 None
+巖,,,,,
+銜 h ɐm 21 hɐm21 None
+艦,,,,,
+匣,,,,,
+鴨 None ap 3 ap3 None
+押 None ap 3 ap3 None
+壓 None at 3 at3 None
+貶,,,,,
+黏,,,,,
+聶 n ɛp 2 nɛp2 None
+鑷 n ɛp 2 nɛp2 None
+躡,,,,,
+廉,,,,,
+鐮,,,,,
+簾 l im 21 lim21 None
+斂,,,,,
+殮 l im 13 lim13 None
+獵 l ip 2 lip2 None
+尖,,,,,
+殲,,,,,
+接 ts ip 3 tsip3 None
+籤,,,,,
+簽 tsh im 55 tshim55 None
+妾,,,,,
+潛,,,,,
+漸,,,,,
+捷,,,,,
+沾,,,,,
+粘,,,,,
+瞻,,,,,
+占,,,,,
+佔 ts im 33 tsim33 None
+摺 ts ip 3 tsip3 None
+褶,,,,,
+陝,,,,,
+閃 s im 35 sim35 None
+攝 s ip 3 sip3 None
+蟾,,,,,
+涉 s ip 3 sip3 None
+染 None im 13 im13 None
+冉,,,,,
+檢 kh im 35 khim35 None
+臉,,,,,
+鉗 kh ɛm 21 khɛm21 None
+儉 k im 21 kim21 None
+驗 n im 21 nim21 None
+險 h im 35 him35 None
+淹,,,,,
+閹 None im 55 im55 None
+掩,,,,,
+魘,,,,,
+厭 None im 33 im33 None
+靨,,,,,
+炎 None im 21 im21 None
+鹽 None im 21 im21 None
+閻 None yn 21 yn21 None
+簷,,,,,
+檐 None im 21 im21 None
+豔,,,,,
+艷,,,,,
+焰,,,,,
+葉 None ip 2 ip2 None
+頁 None ip 2 ip2 None
+劍 k im 33 kim33 None
+劫 k ip 3 kip3 None
+欠 h im 33 him33 None
+怯,,,,,
+嚴 None im 21 im21 None
+儼,,,,,
+釅,,,,,
+業 n ip 2 nip2 None
+脅 h ip 2 hip2 None
+醃,,,,,
+腌 None ip 2 ip2 None
+掂,,,,,
+點 t im 35 tim35 None
+店 t im 33 tim33 None
+跌 t it 3 tit3 None
+添 th im 55 thim55 None
+舔 th in 55 thin55 None
+㮇,,,,,
+掭,,,,,
+帖 th ip 3 thip3 None
+貼 th ip 3 thip3 None
+甜 th im 21 thim21 None
+簟,,,,,
+疊,,,,,
+碟 t ip 2 tip2 None
+牒 t ip 2 tip2 None
+蝶 t ip 2 tip2 None
+諜,,,,,
+鮎 n im 21 nim21 None
+鯰,,,,,
+拈 n im 55 nim55 None
+念 n im 21 nim21 None
+兼,,,,,
+搛,,,,,
+挾,,,,,
+謙 h im 55 him55 None
+歉 h im 33 him33 None
+嫌 None im 21 im21 None
+協 h ip 2 hip2 None
+法 f at 3 fat3 None
+泛 f an 33 fan33 None
+凡 f an 21 fan21 None
+帆 f an 21 fan21 None
+範 f an 21 fan21 None
+范,,,,,
+犯 f an 21 fan21 None
+乏 f at 3 fat3 None
+稟,,,,,
+品 ph ən 35 phən35 None
+賃,,,,,
+林 l ɐm 21 lɐm21 None
+淋 l ɐm 21 lɐm21 None
+臨 l ən 21 lən21 None
+檁,,,,,
+立,,,,,
+笠,,,,,
+粒,,,,,
+浸 ts ɐm 33 tsɐm33 None
+侵 tsh ɐm 55 tshɐm55 None
+寢,,,,,
+唚,,,,,
+緝,,,,,
+集 ts ɐp 3 tsɐp3 None
+輯,,,,,
+心 ɬ ɐm 55 ɬɐm55 None
+尋,,,,,
+習 ts ɐp 3 tsɐp3 None
+襲,,,,,
+沉 tsh ɐm 21 tshɐm21 None
+蟄 ts ik 2 tsik2 None
+岑,,,,,
+森 s ɐm 55 sɐm55 None
+滲,,,,,
+澀,,,,,
+針 ts ɐm 55 tsɐm55 None
+斟 ts ɐm 55 tsɐm55 None
+枕 ts ɐm 35 tsɐm35 None
+執 ts ɐp 5 tsɐp5 None
+汁 ts ɐp 5 tsɐp5 None
+葚,,,,,
+深 s ɐm 55 sɐm55 None
+沈 s ɐm 35 sɐm35 None
+嬸 s ɐm 35 sɐm35 None
+審 s ɐm 35 sɐm35 None
+濕 s ɐp 5 sɐp5 None
+溼,,,,,
+甚,,,,,
+十 s ɐp 2 sɐp2 None
+什,,,,,
+拾 s ɐp 2 sɐp2 None
+壬 j ɐm 21 jɐm21 None
+任 j ɐm 21 jɐm21 None
+紝,,,,,
+入 j ɐp 2 jɐp2 None
+今 k əm 55 kəm55 None
+金 k əm 55 kəm55 None
+禁 kh ɐm 55 khɐm55 None
+禁 k əm 33 kəm33 None
+襟 kh ɐm 55 khɐm55 None
+錦,,,,,
+急 k ɐp 5 kɐp5 None
+級 kh ɐp 5 khɐp5 None
+給,,,,,
+欽 h ɐm 55 hɐm55 None
+撳 k ɐm 21 kɐm21 None
+泣,,,,,
+㬤,,,,,
+琴 kh ɐm 21 khɐm21 None
+禽,,,,,
+擒,,,,,
+妗 kh ɐm 13 khɐm13 None
+及 k ɐp 2 kɐp2 None
+吟,,,,,
+吸 kh ɐp 5 khɐp5 None
+音 j ɐm 55 jɐm55 None
+陰 j ɐm 55 jɐm55 None
+飲 j ɐm 13 jɐm13 None
+蔭,,,,,
+窨,,,,,
+揖,,,,,
+淫,,,,,
+丹 t an 55 tan55 None
+單 t an 55 tan55 None
+撣,,,,,
+旦,,,,,
+灘 th an 55 than55 None
+攤 th an 55 than55 None
+坦 th an 35 than35 None
+嘆 th an 33 than33 None
+歎,,,,,
+炭 th an 33 than33 None
+獺 tsh at 3 tshat3 None
+檀 th an 21 than21 None
+壇 th an 21 than21 None
+彈 t an 21 tan21 None
+彈 th an 21 than21 None
+誕,,,,,
+但 t an 21 tan21 None
+蛋 t an 21 tan21 None
+達 t at 2 tat2 None
+難 n an 21 nan21 None
+捺,,,,,
+蘭 l an 21 lan21 None
+攔 l an 21 lan21 None
+欄 l an 21 lan21 None
+懶 l an 13 lan13 None
+爛 l an 21 lan21 None
+辣 l at 2 lat2 None
+瘌,,,,,
+贊,,,,,
+灒,,,,,
+讚,,,,,
+餐 tsh an 55 tshan55 None
+燦,,,,,
+擦 tsh at 3 tshat3 None
+殘 tsh an 21 tshan21 None
+珊,,,,,
+散 ɬ an 35 ɬan35 None
+傘,,,,,
+撒,,,,,
+薩 ɬ at 3 ɬat3 None
+干 k ɔn 55 kɔn55 None
+乾 kh yn 21 khyn21 None
+肝 k ɔn 55 kɔn55 None
+竿 k ɔn 55 kɔn55 None
+桿 k ɔn 35 kɔn35 None
+稈 k ɔn 35 kɔn35 None
+擀,,,,,
+趕 k ɔn 35 kɔn35 None
+幹,,,,,
+割 k ɔt 3 kɔt3 None
+葛 k ɔt 3 kɔt3 None
+看,,,,,
+刊,,,,,
+渴 h ɔt 3 hɔt3 None
+岸 ŋ ɔn 21 ŋɔn21 None
+鼾 h ɔn 21 hɔn21 None
+罕,,,,,
+漢 h ɔn 33 hɔn33 None
+寒 h ɔn 21 hɔn21 None
+韓,,,,,
+旱 h ɔn 13 hɔn13 None
+汗 h ɔn 21 hɔn21 None
+銲,,,,,
+焊 h ɔn 33 hɔn33 None
+翰,,,,,
+安 None ɔn 55 ɔn55 None
+鞍 None ɔn 55 ɔn55 None
+按 None ɔn 33 ɔn33 None
+案 None ɔn 33 ɔn33 None
+扮,,,,,
+八 p ɛt 3 pɛt3 None
+盼,,,,,
+辦 p an 21 pan21 None
+瓣,,,,,
+拔 p ɛt 2 pɛt2 None
+抹,,,,,
+綻,,,,,
+盞 ts an 35 tsan35 None
+札,,,,,
+紮,,,,,
+鏟 tsh an 35 tshan35 None
+察 tsh at 3 tshat3 None
+山 s an 55 san55 None
+產,,,,,
+殺 s at 3 sat3 None
+艱 k an 55 kan55 None
+間 k an 55 kan55 None
+間 k an 33 kan33 None
+間 k ɛn 55 kɛn55 None
+襉,,,,,
+簡,,,,,
+柬,,,,,
+揀 k ɛn 35 kɛn35 None
+眼 ŋ ɛn 13 ŋɛn13 None
+閑 h ɛn 21 hɛn21 None
+限,,,,,
+莧 None im 21 im21 None
+軋,,,,,
+班,,,,,
+斑,,,,,
+扳 p an 35 pan35 None
+頒,,,,,
+板,,,,,
+版,,,,,
+攀,,,,,
+襻,,,,,
+爿,,,,,
+蠻 m an 21 man21 None
+慢 m an 21 man21 None
+棧 ts an 35 tsan35 None
+鍘 ts ap 2 tsap2 None
+刪,,,,,
+疝,,,,,
+奸 k an 55 kan55 None
+姦,,,,,
+諫,,,,,
+澗,,,,,
+鐧,,,,,
+顏,,,,,
+雁 ŋ an 21 ŋan21 None
+瞎,,,,,
+轄,,,,,
+晏 None an 33 an33 None
+鞭 p in 55 pin55 None
+編 ph in 55 phin55 None
+變 p in 33 pin33 None
+別,,,,,
+鼈,,,,,
+鱉 p it 3 pit3 None
+篇 ph in 55 phin55 None
+偏,,,,,
+騙 ph in 33 phin33 None
+便 p in 21 pin21 None
+辯,,,,,
+辨,,,,,
+汴,,,,,
+綿 m in 21 min21 None
+棉 m in 21 min21 None
+免 m in 13 min13 None
+勉 m in 13 min13 None
+緬,,,,,
+澠,,,,,
+娩,,,,,
+面 m in 21 min21 None
+滅 m it 2 mit2 None
+碾,,,,,
+連 l in 21 lin21 None
+聯 l in 21 lin21 None
+輦,,,,,
+列 l it 2 lit2 None
+烈 l it 2 lit2 None
+裂 l it 2 lit2 None
+煎 ts in 55 tsin55 None
+剪 ts in 35 tsin35 None
+箭 ts in 33 tsin33 None
+濺,,,,,
+遷 tsh im 55 tshim55 None
+淺 tsh in 35 tshin35 None
+錢 tsh in 21 tshin21 None
+踐 ts in 35 tsin35 None
+賤 ts in 21 tsin21 None
+餞,,,,,
+仙 ɬ in 55 ɬin55 None
+鮮 ɬ in 55 ɬin55 None
+癬 ɬ in 35 ɬin35 None
+線,,,,,
+綫 ɬ in 33 ɬin33 None
+薛 ɬ yt 3 ɬyt3 None
+泄,,,,,
+洩,,,,,
+涎,,,,,
+羨,,,,,
+羡,,,,,
+展 ts in 35 tsin35 None
+哲,,,,,
+蜇 tsh ip 3 tship3 None
+撤,,,,,
+徹 tsh it 3 tshit3 None
+纏,,,,,
+轍,,,,,
+氈 ts in 55 tsin55 None
+戰 ts in 33 tsin33 None
+顫,,,,,
+折,,,,,
+浙 ts it 3 tsit3 None
+舌,,,,,
+膻,,,,,
+羶,,,,,
+搧,,,,,
+扇 s in 33 sin33 None
+設 tsh it 3 tshit3 None
+蟬,,,,,
+禪,,,,,
+善 s in 21 sin21 None
+膳,,,,,
+然 None in 21 in21 None
+燃 None in 21 in21 None
+熱 None it 2 it2 None
+遣,,,,,
+虔,,,,,
+犍,,,,,
+掮,,,,,
+件 k in 21 kin21 None
+傑,,,,,
+杰 k it 2 kit2 None
+諺,,,,,
+孽,,,,,
+蔫,,,,,
+焉,,,,,
+延 None in 21 in21 None
+筵,,,,,
+演,,,,,
+拽,,,,,
+建 k in 33 kin33 None
+揭 kh it 3 khit3 None
+鍵 k in 21 kin21 None
+健 k in 21 kin21 None
+腱,,,,,
+言 None in 21 in21 None
+掀,,,,,
+軒,,,,,
+憲,,,,,
+獻 None in 33 in33 None
+歇,,,,,
+蠍,,,,,
+堰,,,,,
+邊 p in 55 pin55 None
+蝙,,,,,
+扁,,,,,
+匾,,,,,
+遍 ph in 33 phin33 None
+憋,,,,,
+片 ph ɛn 35 phɛn35 None
+撇,,,,,
+辮 p in 55 pin55 None
+眠 m in 21 min21 None
+麵,,,,,
+麪,,,,,
+篾 m it 2 mit2 None
+顛 t in 55 tin55 None
+典 t im 35 tim35 None
+天 th in 55 thin55 None
+腆,,,,,
+鐵 th it 3 thit3 None
+田 th in 21 thin21 None
+填 th in 21 thin21 None
+電 t in 21 tin21 None
+殿 t in 21 tin21 None
+奠,,,,,
+佃,,,,,
+墊 t im 21 tim21 None
+年 n in 21 nin21 None
+捻,,,,,
+撚,,,,,
+攆,,,,,
+捏,,,,,
+憐 l in 21 lin21 None
+蓮 l in 21 lin21 None
+練 l in 21 lin21 None
+煉 l in 21 lin21 None
+楝 l in 33 lin33 None
+箋,,,,,
+薦,,,,,
+節 ts it 3 tsit3 None
+千 tsh in 55 tshin55 None
+切 tsh it 3 tshit3 None
+前 tsh in 21 tshin21 None
+截,,,,,
+先 ɬ in 55 ɬin55 None
+屑 ɬ iu 55 ɬiu55 None
+楔,,,,,
+肩,,,,,
+堅 k in 55 kin55 None
+繭,,,,,
+趼,,,,,
+筧,,,,,
+見 k in 33 kin33 None
+結 k it 3 kit3 None
+䥛,,,,,
+潔 k it 3 kit3 None
+牽 h in 55 hin55 None
+研 n in 21 nin21 None
+硯,,,,,
+顯 None in 35 in35 None
+賢,,,,,
+弦,,,,,
+絃,,,,,
+現 None in 21 in21 None
+煙 None in 55 in55 None
+菸,,,,,
+燕 None in 33 in33 None
+宴,,,,,
+嚥,,,,,
+咽,,,,,
+噎,,,,,
+搬 p un 55 pun55 None
+般 p un 55 pun55 None
+半 p un 33 pun33 None
+絆,,,,,
+鉢,,,,,
+缽 p ut 3 put3 None
+撥 p ut 3 put3 None
+潘 ph un 55 phun55 None
+拚,,,,,
+判 ph un 33 phun33 None
+潑 ph ut 3 phut3 None
+盤 ph un 21 phun21 None
+伴 ph un 13 phun13 None
+拌 p an 21 pan21 None
+叛 ph un 33 phun33 None
+鈸,,,,,
+瞞 m un 21 mun21 None
+饅,,,,,
+滿 m un 13 mun13 None
+漫 m an 21 man21 None
+幔,,,,,
+末,,,,,
+沫,,,,,
+端,,,,,
+短 t œn 35 tœn35 None
+斷 th œn 35 thœn35 None
+鍛 t œn 21 tœn21 None
+掇,,,,,
+脫,,,,,
+團 th œn 21 thœn21 None
+糰,,,,,
+段 t œn 21 tœn21 None
+緞 t œn 21 tœn21 None
+椴,,,,,
+奪 t yt 3 tyt3 None
+暖 n œn 35 nœn35 None
+鸞,,,,,
+卵,,,,,
+亂 l œn 21 lœn21 None
+捋 l yt 3 lyt3 None
+鑽 ts yn 33 tsyn33 None
+纂,,,,,
+攢,,,,,
+汆,,,,,
+竄,,,,,
+撮,,,,,
+酸 ɬ yn 55 ɬyn55 None
+算 ɬ yn 33 ɬyn33 None
+蒜 ɬ yn 33 ɬyn33 None
+官 k un 55 kun55 None
+棺,,,,,
+觀 k un 55 kun55 None
+冠 k un 55 kun55 None
+冠 k un 33 kun33 None
+管 k un 35 kun35 None
+館 k un 35 kun35 None
+貫 k un 33 kun33 None
+灌 k un 33 kun33 None
+罐 k un 33 kun33 None
+括 ｋｗ ɛt 3 kʷɛt3 None
+聒,,,,,
+寬,,,,,
+款 f un 35 fun35 None
+闊 f ut 3 fut3 None
+玩,,,,,
+歡 f un 55 fun55 None
+喚 None un 21 un21 None
+煥 None un 21 un21 None
+豁,,,,,
+桓,,,,,
+完 None yn 21 yn21 None
+丸,,,,,
+緩,,,,,
+皖,,,,,
+換 None un 21 un21 None
+活 None ut 2 ut2 None
+豌,,,,,
+剜,,,,,
+碗 None un 35 un35 None
+腕,,,,,
+鰥,,,,,
+頑,,,,,
+幻,,,,,
+滑 w ɛt 2 wɛt2 None
+猾 w ɛt 2 wɛt2 None
+挖 w ɛt 3 wɛt3 None
+篡,,,,,
+撰,,,,,
+閂,,,,,
+拴,,,,,
+涮,,,,,
+刷 tsh at 3 tshat3 None
+關 ｋｗ an 55 kʷan55 None
+慣,,,,,
+刮 ｋｗ ɛt 3 kʷɛt3 None
+還 w ɛn 21 wɛn21 None
+環,,,,,
+患,,,,,
+宦,,,,,
+彎 w ɛn 55 wɛn55 None
+灣 w ɛn 55 wɛn55 None
+戀 l œn 13 lœn13 None
+⿰米戀,,,,,
+劣 l yt 5 lyt5 None
+全 tsh yn 21 tshyn21 None
+泉 tsh yn 21 tshyn21 None
+絕 ts yt 2 tsyt2 None
+宣 ɬ yn 55 ɬyn55 None
+選 ɬ yn 35 ɬyn35 None
+雪 ɬ yt 3 ɬyt3 None
+旋 ts yn 21 tsyn21 None
+旋 s yn 21 syn21 None
+鏇,,,,,
+轉 ts yn 33 tsyn33 None
+傳 tsh yn 21 tshyn21 None
+椽,,,,,
+篆,,,,,
+專 ts yn 55 tsyn55 None
+磚 ts yn 55 tsyn55 None
+膞,,,,,
+拙,,,,,
+川 tsh yn 55 tshyn55 None
+穿 tsh yn 55 tshyn55 None
+喘 ts yn 35 tsyn35 None
+串 tsh yn 33 tshyn33 None
+船 s yn 21 syn21 None
+說,,,,,
+軟 None yn 13 yn13 None
+捲,,,,,
+卷 k yn 35 kyn35 None
+眷,,,,,
+絹,,,,,
+圈 h yn 55 hyn55 None
+權 kh yn 21 khyn21 None
+拳 kh yn 21 khyn21 None
+顴,,,,,
+倦,,,,,
+圓 None yn 21 yn21 None
+員 None yn 21 yn21 None
+院 None yn 35 yn35 None
+緣 None yn 21 yn21 None
+沿,,,,,
+鉛 None yn 21 yn21 None
+捐 k yn 55 kyn55 None
+兗,,,,,
+悅,,,,,
+閱,,,,,
+藩,,,,,
+反 f an 35 fan35 None
+販 f an 33 fan33 None
+髮,,,,,
+發 f at 3 fat3 None
+翻 f an 55 fan55 None
+番 f an 55 fan55 None
+嬔,,,,,
+煩 f an 21 fan21 None
+礬 f an 21 fan21 None
+繁 f an 21 fan21 None
+飯 f an 21 fan21 None
+伐,,,,,
+筏,,,,,
+罰 f at 2 fat2 None
+晚 m an 13 man13 None
+挽,,,,,
+輓,,,,,
+萬 m an 21 man21 None
+蔓,,,,,
+襪 m at 2 mat2 None
+厥,,,,,
+憠,,,,,
+勸,,,,,
+券 k yn 21 kyn21 None
+掘,,,,,
+橛,,,,,
+元 None yn 21 yn21 None
+原 None yn 21 yn21 None
+源 None yn 21 yn21 None
+阮,,,,,
+願 None yn 21 yn21 None
+月 None yt 2 yt2 None
+喧,,,,,
+楦 h in 55 hin55 None
+冤 None yn 55 yn55 None
+宛,,,,,
+怨 None yn 33 yn33 None
+噦,,,,,
+袁,,,,,
+轅,,,,,
+園 None yn 21 yn21 None
+援 None yn 21 yn21 None
+遠 None yn 13 yn13 None
+曰,,,,,
+越 None yt 2 yt2 None
+粵 None yt 2 yt2 None
+決,,,,,
+訣,,,,,
+犬,,,,,
+缺 kh yt 5 khyt5 None
+血 h yt 3 hyt3 None
+玄,,,,,
+懸,,,,,
+縣 None yn 21 yn21 None
+眩,,,,,
+穴,,,,,
+淵,,,,,
+吞 th ən 55 thən55 None
+跟 k ən 55 kən55 None
+根 k ən 55 kən55 None
+懇 h ɐŋ 35 hɐŋ35 None
+墾 h ɐŋ 35 hɐŋ35 None
+齦,,,,,
+痕,,,,,
+很 h ən 13 hən13 None
+恨 h ən 21 hən21 None
+恩 None ən 55 ən55 None
+彬,,,,,
+賓 p ən 55 pən55 None
+檳 p ən 55 pən55 None
+殯 p ən 55 pən55 None
+鬢,,,,,
+筆 p ɐt 5 pɐt5 None
+畢,,,,,
+必 p it 3 pit3 None
+匹 ph ɐt 5 phɐt5 None
+貧 ph ən 21 phən21 None
+頻,,,,,
+弼 p ei 21 pei21 None
+閩,,,,,
+民 m ən 21 mən21 None
+憫,,,,,
+敏,,,,,
+抿,,,,,
+密 m ɐt 2 mɐt2 None
+蜜 m ɐt 2 mɐt2 None
+鱗 l ən 21 lən21 None
+磷 l ən 21 lən21 None
+鄰,,,,,
+吝,,,,,
+栗 l ɐt 2 lɐt2 None
+津,,,,,
+儘,,,,,
+進 ts ən 33 tsən33 None
+晉,,,,,
+親 tsh ən 55 tshən55 None
+七 tsh ɐt 5 tshɐt5 None
+漆 tsh ɐt 5 tshɐt5 None
+秦,,,,,
+盡 tsh ən 13 tshən13 None
+疾,,,,,
+辛 ɬ ən 55 ɬən55 None
+薪,,,,,
+新 ɬ ən 55 ɬən55 None
+信 ɬ ən 33 ɬən33 None
+訊 ɬ ən 33 ɬən33 None
+悉,,,,,
+膝 ɬ ɐt 5 ɬɐt5 None
+珍 ts ən 55 tsən55 None
+鎮 ts ən 33 tsən33 None
+趁 tsh ən 33 tshən33 None
+陳 tsh ən 21 tshən21 None
+塵 tsh ən 21 tshən21 None
+陣 ts ən 21 tsən21 None
+姪,,,,,
+侄,,,,,
+秩,,,,,
+榛,,,,,
+臻,,,,,
+襯 tsh ən 33 tshən33 None
+瑟,,,,,
+蝨,,,,,
+真 ts ən 55 tsən55 None
+診 tsh ən 35 tshən35 None
+疹,,,,,
+振 ts ən 33 tsən33 None
+震 ts ən 33 tsən33 None
+質 ts ɐt 5 tsɐt5 None
+神 s ən 21 sən21 None
+實 s ɐt 2 sɐt2 None
+身 s ən 55 sən55 None
+申 s ən 55 sən55 None
+伸 s ən 55 sən55 None
+娠,,,,,
+失 s ɐt 5 sɐt5 None
+室 s ɐt 5 sɐt5 None
+辰 s ən 21 sən21 None
+晨 s ən 21 sən21 None
+臣,,,,,
+腎 s ən 13 sən13 None
+慎 s ən 21 sən21 None
+人 j ən 21 jən21 None
+仁 j ən 21 jən21 None
+忍 j ən 13 jən13 None
+認,,,,,
+刃,,,,,
+韌,,,,,
+日 j ɐt 2 jɐt2 None
+巾,,,,,
+緊 k ən 35 kən35 None
+吉 k ɐt 5 kɐt5 None
+僅,,,,,
+銀 ŋ ən 21 ŋən21 None
+釁,,,,,
+因 None ən 55 ən55 None
+姻 None ən 55 ən55 None
+洇,,,,,
+印 j ən 33 jən33 None
+乙 None it 3 it3 None
+一 j ɐt 5 jɐt5 None
+壹,,,,,
+寅 j ən 21 jən21 None
+引 j ən 35 jən35 None
+逸,,,,,
+斤 k ən 55 kən55 None
+筋 k ən 55 kən55 None
+謹,,,,,
+訖,,,,,
+乞 h ɐt 5 hɐt5 None
+勤 kh ən 21 khən21 None
+芹 kh ən 21 khən21 None
+近 kh ən 13 khən13 None
+欣,,,,,
+殷,,,,,
+隱 j ən 35 jən35 None
+奔 p ən 55 pən55 None
+錛,,,,,
+本 p un 35 pun35 None
+逩,,,,,
+不,,,,,
+噴 ph ən 33 phən33 None
+盆 ph un 21 phun21 None
+笨 p ən 21 pən21 None
+勃,,,,,
+𡋯,,,,,
+餑,,,,,
+門 m un 21 mun21 None
+悶 m un 21 mun21 None
+沒,,,,,
+敦,,,,,
+墩 t ən 55 tən55 None
+頓,,,,,
+扽,,,,,
+褪,,,,,
+屯,,,,,
+豚,,,,,
+飩 th ən 55 thən55 None
+臀,,,,,
+囤,,,,,
+盾 t ən 21 tən21 None
+沌,,,,,
+鈍,,,,,
+遁,,,,,
+突,,,,,
+嫩 n œn 21 nœn21 None
+論 l ən 21 lən21 None
+崙,,,,,
+侖,,,,,
+尊 ts yn 55 tsyn55 None
+撙,,,,,
+卒 ts ɐt 5 tsɐt5 None
+村 tsh yn 55 tshyn55 None
+忖,,,,,
+寸 tsh yn 33 tshyn33 None
+猝,,,,,
+存 tsh yn 21 tshyn21 None
+蹲,,,,,
+孫 ɬ yn 55 ɬyn55 None
+損 s im 35 sim35 None
+遜,,,,,
+昆 ｋｈｗ ən 55 kʰʷən55 None
+崑,,,,,
+滾,,,,,
+棍 ｋｗ ən 33 kʷən33 None
+骨 ｋｗ ɐt 5 kʷɐt5 None
+坤,,,,,
+綑,,,,,
+捆 ｋｈｗ ən 35 kʰʷən35 None
+困 ｋｈｗ ən 33 kʰʷən33 None
+窟,,,,,
+杌,,,,,
+昏 w ən 55 wən55 None
+婚 w ən 55 wən55 None
+忽,,,,,
+魂 w ən 21 wən21 None
+餛 w ən 21 wən21 None
+渾 w ən 21 wən21 None
+混 ｋｈｗ ən 35 kʰʷən35 None
+核 w ɐt 2 wɐt2 None
+核 h ɐk 2 hɐk2 None
+溫,,,,,
+瘟 w ən 55 wən55 None
+穩 w ən 35 wən35 None
+倫 l ən 21 lən21 None
+淪,,,,,
+輪 l ən 21 lən21 None
+律 l ɐt 2 lɐt2 None
+率 s at 5 sat5 None
+率 l ɐt 2 lɐt2 None
+遵 ts yn 55 tsyn55 None
+俊,,,,,
+皴,,,,,
+黢,,,,,
+荀,,,,,
+筍 ɬ ən 35 ɬən35 None
+榫 ɬ ən 35 ɬən35 None
+迅,,,,,
+濬,,,,,
+浚,,,,,
+戌 s ɐt 5 sɐt5 None
+恤,,,,,
+旬 tsh ən 21 tshən21 None
+循,,,,,
+巡 tsh ən 21 tshən21 None
+殉,,,,,
+椿 tsh ən 55 tshən55 None
+朮,,,,,
+蟀,,,,,
+肫,,,,,
+準 ts ən 35 tsən35 None
+准,,,,,
+春 tsh ən 55 tshən55 None
+蠢 tsh ən 35 tshən35 None
+出 tsh ɐt 5 tshɐt5 None
+唇 s ən 21 sən21 None
+脣,,,,,
+順 s ən 21 sən21 None
+述,,,,,
+術 s ɐt 2 sɐt2 None
+秫,,,,,
+舜,,,,,
+純 s ən 21 sən21 None
+醇,,,,,
+蓴,,,,,
+蒓,,,,,
+閏 j ən 21 jən21 None
+潤 j ən 13 jən13 None
+鈞,,,,,
+均 ｋｗ ən 55 kʷən55 None
+橘 k ɐt 5 kɐt5 None
+窘,,,,,
+菌 ｋｈｗ ən 35 kʰʷən35 None
+勻,,,,,
+允 w ən 35 wən35 None
+尹,,,,,
+分 f ən 55 fən55 None
+粉 f ən 35 fən35 None
+糞 f ən 33 fən33 None
+奮 f ən 13 fən13 None
+芬 f ən 55 fən55 None
+紛 f ən 55 fən55 None
+彿,,,,,
+焚,,,,,
+墳 f ən 21 fən21 None
+豶,,,,,
+憤 f ən 13 fən13 None
+忿,,,,,
+份 f ən 21 fən21 None
+佛 f ɐt 2 fɐt2 None
+文 m ən 21 mən21 None
+紋 m ən 21 mən21 None
+蚊 m ən 55 mən55 None
+聞,,,,,
+吻,,,,,
+刎,,,,,
+問 m ən 21 mən21 None
+璺,,,,,
+勿,,,,,
+物 m ɐt 2 mɐt2 None
+君 ｋｗ ən 55 kʷən55 None
+軍 ｋｗ ən 55 kʷən55 None
+屈,,,,,
+羣,,,,,
+群 ｋｈｗ ən 21 kʰʷən21 None
+裙 ｋｈｗ ən 21 kʰʷən21 None
+郡,,,,,
+倔,,,,,
+熏,,,,,
+勳,,,,,
+勛,,,,,
+葷 w ən 55 wən55 None
+薰,,,,,
+燻,,,,,
+訓 w ən 33 wən33 None
+熨,,,,,
+云,,,,,
+雲 w ən 21 wən21 None
+韻,,,,,
+運 w ən 21 wən21 None
+暈,,,,,
+幫 p ɔŋ 55 pɔŋ55 None
+榜,,,,,
+謗,,,,,
+博 p ɔk 3 pɔk3 None
+滂,,,,,
+泊,,,,,
+旁 ph ɔŋ 21 phɔŋ21 None
+螃,,,,,
+傍 ph ɔŋ 21 phɔŋ21 None
+忙 m ɔŋ 21 mɔŋ21 None
+芒 m ɔŋ 21 mɔŋ21 None
+茫,,,,,
+莽,,,,,
+蟒,,,,,
+莫 m ɔk 2 mɔk2 None
+膜 m ɔk 2 mɔk2 None
+幕 m ɔk 2 mɔk2 None
+寞,,,,,
+摸 m ɔ 55 mɔ55 None
+當 t ɔŋ 55 tɔŋ55 None
+當 t ɔŋ 33 tɔŋ33 None
+黨 t ɔŋ 35 tɔŋ35 None
+擋 t ɔŋ 35 tɔŋ35 None
+湯 th ɔŋ 55 thɔŋ55 None
+倘,,,,,
+躺,,,,,
+燙 th ɔŋ 33 thɔŋ33 None
+趟,,,,,
+托 th ɔk 3 thɔk3 None
+託,,,,,
+堂 th ɔŋ 21 thɔŋ21 None
+棠 th ɔŋ 21 thɔŋ21 None
+螳,,,,,
+唐 th ɔŋ 21 thɔŋ21 None
+糖 th ɔŋ 21 thɔŋ21 None
+塘 th ɔŋ 21 thɔŋ21 None
+盪,,,,,
+蕩 t ɔŋ 21 tɔŋ21 None
+宕,,,,,
+踱,,,,,
+鐸,,,,,
+囊 n ɔŋ 21 nɔŋ21 None
+曩,,,,,
+諾,,,,,
+郎 l ɔŋ 21 lɔŋ21 None
+廊 l ɔŋ 21 lɔŋ21 None
+狼 l ɔŋ 21 lɔŋ21 None
+螂,,,,,
+朗 l ɔŋ 35 lɔŋ35 None
+浪 l ɔŋ 21 lɔŋ21 None
+落 l ɔk 2 lɔk2 None
+烙 l ɔk 3 lɔk3 None
+酪,,,,,
+洛 l ɔk 3 lɔk3 None
+駱,,,,,
+樂 l ɔk 2 lɔk2 None
+絡 l ɔk 3 lɔk3 None
+贓,,,,,
+髒,,,,,
+葬 ts ɔŋ 33 tsɔŋ33 None
+作 ts ɔk 3 tsɔk3 None
+倉 tsh ɔŋ 55 tshɔŋ55 None
+蒼,,,,,
+藏 tsh ɔŋ 21 tshɔŋ21 None
+臟,,,,,
+鑿 ts ɔk 2 tsɔk2 None
+昨,,,,,
+柞,,,,,
+桑 s ɔŋ 55 sɔŋ55 None
+喪 s ɔŋ 33 sɔŋ33 None
+磉,,,,,
+嗓 s ɔŋ 35 sɔŋ35 None
+搡,,,,,
+索 ɬ ɔk 3 ɬɔk3 None
+岡 k ɔŋ 55 kɔŋ55 None
+剛,,,,,
+崗,,,,,
+綱 k ɔŋ 55 kɔŋ55 None
+鋼 k ɔŋ 33 kɔŋ33 None
+缸 k ɔŋ 55 kɔŋ55 None
+槓,,,,,
+杠,,,,,
+胳,,,,,
+各 k ɔk 3 kɔk3 None
+閣,,,,,
+擱,,,,,
+康 kh ɔŋ 55 khɔŋ55 None
+糠 h ɔŋ 55 hɔŋ55 None
+慷,,,,,
+抗 kh ɔŋ 33 khɔŋ33 None
+炕 h ɔŋ 33 hɔŋ33 None
+閌,,,,,
+昂,,,,,
+鄂,,,,,
+郝,,,,,
+蠚,,,,,
+行 h ɔŋ 21 hɔŋ21 None
+行 h aŋ 21 haŋ21 None
+航 h ɔŋ 21 hɔŋ21 None
+杭 h ɔŋ 21 hɔŋ21 None
+鶴 h ɔk 2 hɔk2 None
+骯,,,,,
+肮,,,,,
+娘 n œŋ 55 nœŋ55 None
+釀,,,,,
+良 l œŋ 21 lœŋ21 None
+涼,,,,,
+量 l œŋ 21 lœŋ21 None
+糧 l œŋ 21 lœŋ21 None
+粮,,,,,
+梁 l œŋ 21 lœŋ21 None
+粱 l œŋ 21 lœŋ21 None
+兩 l œŋ 13 lœŋ13 None
+亮 l œŋ 21 lœŋ21 None
+諒 l œŋ 21 lœŋ21 None
+輛,,,,,
+略 l ɔk 2 lɔk2 None
+掠,,,,,
+將 ts œŋ 55 tsœŋ55 None
+將 ts œŋ 33 tsœŋ33 None
+漿 ts œŋ 55 tsœŋ55 None
+蔣 ts œŋ 35 tsœŋ35 None
+獎 ts œŋ 35 tsœŋ35 None
+槳,,,,,
+醬,,,,,
+爵,,,,,
+雀 tsh œk 3 tshœk3 None
+槍 tsh œŋ 55 tshœŋ55 None
+搶 tsh œŋ 35 tshœŋ35 None
+鵲,,,,,
+牆 tsh œŋ 21 tshœŋ21 None
+匠 ts œŋ 21 tsœŋ21 None
+嚼,,,,,
+相 ɬ œŋ 55 ɬœŋ55 None
+相 ɬ œŋ 33 ɬœŋ33 None
+箱 ɬ œŋ 55 ɬœŋ55 None
+廂,,,,,
+湘,,,,,
+襄,,,,,
+鑲,,,,,
+想 ɬ œŋ 35 ɬœŋ35 None
+鮝,,,,,
+鯗,,,,,
+削 ɬ œk 3 ɬœk3 None
+詳 tsh œŋ 21 tshœŋ21 None
+祥 tsh œŋ 21 tshœŋ21 None
+象 tsh œŋ 21 tshœŋ21 None
+像 ts œŋ 21 tsœŋ21 None
+橡 ts œŋ 21 tsœŋ21 None
+橡 tsh œŋ 21 tshœŋ21 None
+張 ts œŋ 55 tsœŋ55 None
+長 ts œŋ 35 tsœŋ35 None
+長 tsh œŋ 21 tshœŋ21 None
+漲,,,,,
+帳 ts œŋ 33 tsœŋ33 None
+脹 ts œŋ 33 tsœŋ33 None
+賬 ts œŋ 33 tsœŋ33 None
+着,,,,,
+暢,,,,,
+腸 tsh œŋ 21 tshœŋ21 None
+場 tsh œŋ 21 tshœŋ21 None
+丈 ts œŋ 13 tsœŋ13 None
+仗 ts œŋ 33 tsœŋ33 None
+杖,,,,,
+莊 ts ɔŋ 55 tsɔŋ55 None
+裝 ts ɔŋ 55 tsɔŋ55 None
+壯 ts ɔŋ 33 tsɔŋ33 None
+瘡 tsh ɔŋ 55 tshɔŋ55 None
+闖,,,,,
+創,,,,,
+牀,,,,,
+床 tsh ɔŋ 21 tshɔŋ21 None
+狀 ts ɔŋ 21 tsɔŋ21 None
+霜 s œŋ 55 sœŋ55 None
+孀,,,,,
+爽 s ɔŋ 35 sɔŋ35 None
+章 ts œŋ 55 tsœŋ55 None
+樟,,,,,
+掌 ts œŋ 35 tsœŋ35 None
+障 ts œŋ 33 tsœŋ33 None
+瘴,,,,,
+酌,,,,,
+昌 tsh œŋ 55 tshœŋ55 None
+菖,,,,,
+廠,,,,,
+唱 tsh œŋ 33 tshœŋ33 None
+倡,,,,,
+綽,,,,,
+㪕,,,,,
+焯,,,,,
+商 s œŋ 55 sœŋ55 None
+傷 s œŋ 55 sœŋ55 None
+賞,,,,,
+晌,,,,,
+餉,,,,,
+常 tsh œŋ 21 tshœŋ21 None
+嘗 s œŋ 21 sœŋ21 None
+裳,,,,,
+償 s œŋ 21 sœŋ21 None
+上 s œŋ 13 sœŋ13 None
+尚 s œŋ 13 sœŋ13 None
+勺,,,,,
+芍,,,,,
+瓤 n ɔŋ 21 nɔŋ21 None
+穰,,,,,
+壤,,,,,
+攘,,,,,
+嚷,,,,,
+讓 j œŋ 21 jœŋ21 None
+若,,,,,
+弱,,,,,
+疆 kh œŋ 55 khœŋ55 None
+僵,,,,,
+薑,,,,,
+礓,,,,,
+繮,,,,,
+韁,,,,,
+姜 k œŋ 55 kœŋ55 None
+腳,,,,,
+羌,,,,,
+卻,,,,,
+強,,,,,
+仰 ŋ ɔŋ 13 ŋɔŋ13 None
+虐,,,,,
+瘧,,,,,
+香 h œŋ 55 hœŋ55 None
+鄉 h œŋ 55 hœŋ55 None
+享 h œŋ 35 hœŋ35 None
+響 h œŋ 35 hœŋ35 None
+向 h œŋ 33 hœŋ33 None
+央 j œŋ 55 jœŋ55 None
+秧 j œŋ 55 jœŋ55 None
+殃 j œŋ 55 jœŋ55 None
+約 None œk 3 œk3 None
+羊 j œŋ 21 jœŋ21 None
+洋 j œŋ 21 jœŋ21 None
+烊,,,,,
+楊 j œŋ 21 jœŋ21 None
+陽 j œŋ 21 jœŋ21 None
+揚 j œŋ 21 jœŋ21 None
+瘍,,,,,
+養,,,,,
+癢,,,,,
+樣 j œŋ 21 jœŋ21 None
+藥 None œk 2 œk2 None
+鑰,,,,,
+躍 None œk 3 œk3 None
+光 k ɔŋ 55 kɔŋ55 None
+廣 k ɔŋ 35 kɔŋ35 None
+郭 k ɔk 3 kɔk3 None
+桄,,,,,
+曠 kh ɔŋ 33 khɔŋ33 None
+廓 k ɔk 3 kɔk3 None
+擴 kh ɔŋ 33 khɔŋ33 None
+荒,,,,,
+慌,,,,,
+謊,,,,,
+霍 kh ɔk 3 khɔk3 None
+藿 kh ɔk 3 khɔk3 None
+劐,,,,,
+黃,,,,,
+簧 w ɔŋ 21 wɔŋ21 None
+皇 w ɔŋ 21 wɔŋ21 None
+蝗 w ɔŋ 21 wɔŋ21 None
+晃,,,,,
+鑊 w ɔk 2 wɔk2 None
+汪,,,,,
+方 f ɔŋ 55 fɔŋ55 None
+肪,,,,,
+倣,,,,,
+放 f ɔŋ 33 fɔŋ33 None
+芳 f ɔŋ 55 fɔŋ55 None
+妨 f ɔŋ 21 fɔŋ21 None
+紡 f ɔŋ 35 fɔŋ35 None
+仿 f ɔŋ 35 fɔŋ35 None
+彷,,,,,
+訪 f ɔŋ 35 fɔŋ35 None
+房 f ɔŋ 21 fɔŋ21 None
+防 f ɔŋ 21 fɔŋ21 None
+縛,,,,,
+亡 m ɔŋ 21 mɔŋ21 None
+網 m ɔŋ 13 mɔŋ13 None
+輞,,,,,
+望 m ɔŋ 21 mɔŋ21 None
+妄,,,,,
+忘 m ɔŋ 21 mɔŋ21 None
+逛,,,,,
+钁,,,,,
+筐 ｋｈｗ aŋ 55 kʰʷaŋ55 None
+匡,,,,,
+眶,,,,,
+狂,,,,,
+況,,,,,
+枉 w ɔŋ 35 wɔŋ35 None
+王 w ɔŋ 21 wɔŋ21 None
+往 w ɔŋ 13 wɔŋ13 None
+旺,,,,,
+邦,,,,,
+綁 p ɔŋ 35 pɔŋ35 None
+剝,,,,,
+駁 p ɔk 3 pɔk3 None
+肨,,,,,
+胖,,,,,
+樸,,,,,
+朴,,,,,
+龐 p ɔŋ 21 pɔŋ21 None
+棒,,,,,
+蚌 ph ɔŋ 13 phɔŋ13 None
+雹 p ɔk 2 pɔk2 None
+攮,,,,,
+樁 ts ɔŋ 55 tsɔŋ55 None
+卓 tsh ɔk 3 tshɔk3 None
+桌 tsh ɔk 3 tshɔk3 None
+啄,,,,,
+琢,,,,,
+涿,,,,,
+戳,,,,,
+噇,,,,,
+撞 ts ɔŋ 21 tsɔŋ21 None
+濁 ts ok 2 tsok2 None
+捉 ts ok 3 tsok3 None
+窗 tsh ɔŋ 55 tshɔŋ55 None
+鐲,,,,,
+浞,,,,,
+雙 s œŋ 55 sœŋ55 None
+朔 s ɔk 3 sɔk3 None
+江 k ɔŋ 55 kɔŋ55 None
+扛,,,,,
+豇,,,,,
+講 k ɔŋ 35 kɔŋ35 None
+港 k ɔŋ 35 kɔŋ35 None
+耩,,,,,
+降 k ɔŋ 33 kɔŋ33 None
+虹,,,,,
+角 k ɔk 3 kɔk3 None
+餃,,,,,
+腔 h oŋ 55 hoŋ55 None
+確 kh ɔk 3 khɔk3 None
+榷,,,,,
+殼 h ɔk 3 hɔk3 None
+嶽,,,,,
+岳 ŋ ɔk 2 ŋɔk2 None
+夯,,,,,
+項 h ɔŋ 13 hɔŋ13 None
+巷 h ɔŋ 13 hɔŋ13 None
+學 h ɔk 2 hɔk2 None
+握,,,,,
+崩 p ɐŋ 55 pɐŋ55 None
+北 p ɐk 5 pɐk5 None
+朋 ph ɐŋ 21 phɐŋ21 None
+墨 m ɐk 2 mɐk2 None
+默 m ɐk 2 mɐk2 None
+登 t ɐŋ 55 tɐŋ55 None
+燈 t ɐŋ 55 tɐŋ55 None
+等 t ɐŋ 35 tɐŋ35 None
+凳 t ɐŋ 33 tɐŋ33 None
+鐙,,,,,
+得 t ɐk 5 tɐk5 None
+德 t ɐk 5 tɐk5 None
+忒,,,,,
+藤 th ɐŋ 21 thɐŋ21 None
+騰 th ɐŋ 21 thɐŋ21 None
+謄,,,,,
+疼,,,,,
+鄧 t ɐŋ 21 tɐŋ21 None
+澄,,,,,
+特 t ɐk 2 tɐk2 None
+能 n ɐŋ 21 nɐŋ21 None
+楞,,,,,
+勒 l ɐk 2 lɐk2 None
+肋 l ɐk 2 lɐk2 None
+增 ts ɐŋ 55 tsɐŋ55 None
+曾 ts ɐŋ 55 tsɐŋ55 None
+曾 tsh ɐŋ 21 tshɐŋ21 None
+憎,,,,,
+則 ts ak 5 tsak5 None
+蹭,,,,,
+層 tsh ɐŋ 21 tshɐŋ21 None
+贈,,,,,
+賊 tsh ɐk 3 tshɐk3 None
+僧 ts ɐŋ 55 tsɐŋ55 None
+塞 ɬ ɐk 5 ɬɐk5 None
+肯 h ɐŋ 35 hɐŋ35 None
+克 kh ɐk 5 khɐk5 None
+刻 h ak 5 hak5 None
+黑 h ɐk 5 hɐk5 None
+恒,,,,,
+恆,,,,,
+冰 p iŋ 55 piŋ55 None
+逼 p ik 5 pik5 None
+憑,,,,,
+匿,,,,,
+凌,,,,,
+陵,,,,,
+菱 l iŋ 21 liŋ21 None
+力 l ik 2 lik2 None
+即,,,,,
+鯽 ts ɛk 3 tsɛk3 None
+息 ɬ ik 5 ɬik5 None
+熄,,,,,
+媳,,,,,
+徵,,,,,
+稙,,,,,
+飭,,,,,
+懲,,,,,
+橙,,,,,
+瞪,,,,,
+直 ts ik 2 tsik2 None
+值 ts ik 2 tsik2 None
+側 ts ɐk 5 tsɐk5 None
+測 tsh ɐk 5 tshɐk5 None
+色 s ik 5 sik5 None
+嗇,,,,,
+蒸 ts iŋ 55 tsiŋ55 None
+拯,,,,,
+證 ts iŋ 33 tsiŋ33 None
+症 ts iŋ 33 tsiŋ33 None
+織 ts ik 5 tsik5 None
+職 ts ik 5 tsik5 None
+稱 tsh iŋ 55 tshiŋ55 None
+秤 tsh iŋ 33 tshiŋ33 None
+乘 s iŋ 21 siŋ21 None
+繩,,,,,
+塍,,,,,
+剩 s iŋ 21 siŋ21 None
+食 s ik 2 sik2 None
+蝕 s ik 2 sik2 None
+升 s ɛŋ 55 sɛŋ55 None
+勝 s iŋ 33 siŋ33 None
+式,,,,,
+識 s ik 5 sik5 None
+飾,,,,,
+承 s iŋ 21 siŋ21 None
+丞,,,,,
+植,,,,,
+殖,,,,,
+仍,,,,,
+扔,,,,,
+極,,,,,
+凝,,,,,
+興 h iŋ 55 hiŋ55 None
+興 h iŋ 33 hiŋ33 None
+應 None iŋ 55 iŋ55 None
+應 None iŋ 33 iŋ33 None
+鷹 None iŋ 55 iŋ55 None
+憶 None ik 5 ik5 None
+抑,,,,,
+億 None ik 5 ik5 None
+蠅,,,,,
+孕 j ən 21 jən21 None
+翼 None ik 2 ik2 None
+國 k ɔk 3 kɔk3 None
+弘,,,,,
+或,,,,,
+惑,,,,,
+域,,,,,
+百 p ak 3 pak3 None
+柏 ph ak 3 phak3 None
+伯 p ak 3 pak3 None
+迫,,,,,
+烹,,,,,
+拍 ph ak 3 phak3 None
+魄 ph ak 3 phak3 None
+彭 ph aŋ 21 phaŋ21 None
+膨 ph aŋ 21 phaŋ21 None
+白 p ak 2 pak2 None
+帛,,,,,
+盲 m aŋ 21 maŋ21 None
+虻,,,,,
+猛 m aŋ 13 maŋ13 None
+孟 m aŋ 13 maŋ13 None
+𢫦,,,,,
+陌,,,,,
+打,,,,,
+冷 l aŋ 13 laŋ13 None
+撐,,,,,
+牚,,,,,
+拆 tsh ak 3 tshak3 None
+㿭,,,,,
+鋥,,,,,
+䂻,,,,,
+宅,,,,,
+擇 ts ak 2 tsak2 None
+澤,,,,,
+窄 ts ak 3 tsak3 None
+鐺,,,,,
+生 s aŋ 55 saŋ55 None
+牲 s aŋ 55 saŋ55 None
+甥 s aŋ 55 saŋ55 None
+笙,,,,,
+省 s aŋ 35 saŋ35 None
+更 k aŋ 55 kaŋ55 None
+庚 k aŋ 55 kaŋ55 None
+羹 k ɐŋ 55 kɐŋ55 None
+粳,,,,,
+哽,,,,,
+鯁,,,,,
+骾,,,,,
+梗,,,,,
+埂,,,,,
+格 k ak 3 kak3 None
+坑 h aŋ 55 haŋ55 None
+客 h ak 3 hak3 None
+硬 ŋ aŋ 21 ŋaŋ21 None
+額 ŋ ak 2 ŋak2 None
+亨,,,,,
+赫,,,,,
+衡 h ɐŋ 21 hɐŋ21 None
+杏,,,,,
+浜,,,,,
+迸,,,,,
+擘,,,,,
+掰,,,,,
+檗,,,,,
+棚 ph aŋ 21 phaŋ21 None
+萌,,,,,
+脈 m ak 2 mak2 None
+麥 m ak 2 mak2 None
+摘 ts ak 2 tsak2 None
+爭,,,,,
+箏,,,,,
+睜,,,,,
+責 ts ak 3 tsak3 None
+冊,,,,,
+策 tsh ak 3 tshak3 None
+柵,,,,,
+耕 k aŋ 55 kaŋ55 None
+耿,,,,,
+革 k ak 3 kak3 None
+隔 k ak 3 kak3 None
+莖,,,,,
+幸 h aŋ 21 haŋ21 None
+覈,,,,,
+鶯,,,,,
+櫻 None iŋ 55 iŋ55 None
+鸚,,,,,
+扼,,,,,
+軛 None ak 3 ak3 None
+兵 p iŋ 55 piŋ55 None
+丙 p iŋ 35 piŋ35 None
+秉 p iŋ 35 piŋ35 None
+柄 p ɛŋ 33 pɛŋ33 None
+碧,,,,,
+平 ph iŋ 21 phiŋ21 None
+評 ph iŋ 21 phiŋ21 None
+坪 ph iŋ 21 phiŋ21 None
+病 p ɛŋ 21 pɛŋ21 None
+鳴 m iŋ 21 miŋ21 None
+明 m iŋ 21 miŋ21 None
+盟,,,,,
+皿,,,,,
+命 m ɛŋ 21 mɛŋ21 None
+京 k iŋ 55 kiŋ55 None
+荊,,,,,
+驚 k iŋ 55 kiŋ55 None
+境 k iŋ 35 kiŋ35 None
+景 k iŋ 35 kiŋ35 None
+警 k iŋ 35 kiŋ35 None
+敬 k iŋ 33 kiŋ33 None
+竟 k iŋ 33 kiŋ33 None
+鏡 k ɛŋ 33 kɛŋ33 None
+戟,,,,,
+卿,,,,,
+慶 h iŋ 33 hiŋ33 None
+擎,,,,,
+鯨,,,,,
+競,,,,,
+劇 k ɛk 2 kɛk2 None
+屐 k ɛk 5 kɛk5 None
+迎 ŋ iŋ 21 ŋiŋ21 None
+逆,,,,,
+英 None iŋ 55 iŋ55 None
+影 None iŋ 35 iŋ35 None
+映 None iŋ 35 iŋ35 None
+餅 p ɛŋ 35 pɛŋ35 None
+併,,,,,
+并,,,,,
+璧,,,,,
+聘,,,,,
+僻,,,,,
+闢,,,,,
+辟,,,,,
+名 m ɛŋ 21 mɛŋ21 None
+領 l ɛŋ 13 lɛŋ13 None
+嶺 l ɛŋ 13 lɛŋ13 None
+令 l iŋ 21 liŋ21 None
+精 ts iŋ 55 tsiŋ55 None
+晶 ts iŋ 55 tsiŋ55 None
+睛,,,,,
+井 ts ɛŋ 35 tsɛŋ35 None
+脊 ts ɛk 3 tsɛk3 None
+跡,,,,,
+積 ts ik 5 tsik5 None
+清 tsh ɛŋ 55 tshɛŋ55 None
+請 tsh ɛŋ 35 tshɛŋ35 None
+情 tsh iŋ 21 tshiŋ21 None
+晴 tsh iŋ 21 tshiŋ21 None
+䝼,,,,,
+靜,,,,,
+靖,,,,,
+凈,,,,,
+淨,,,,,
+籍 ts ik 2 tsik2 None
+性 ɬ iŋ 33 ɬiŋ33 None
+姓 ɬ iŋ 33 ɬiŋ33 None
+昔,,,,,
+惜 ɬ ik 5 ɬik5 None
+夕,,,,,
+席 ts ɛk 2 tsɛk2 None
+蓆,,,,,
+貞,,,,,
+偵 ts iŋ 55 tsiŋ55 None
+逞,,,,,
+呈 tsh iŋ 21 tshiŋ21 None
+程 tsh iŋ 21 tshiŋ21 None
+鄭 ts iŋ 21 tsiŋ21 None
+擲,,,,,
+正 ts iŋ 55 tsiŋ55 None
+正 ts iŋ 33 tsiŋ33 None
+征 ts iŋ 55 tsiŋ55 None
+整 ts iŋ 33 tsiŋ33 None
+政 ts iŋ 33 tsiŋ33 None
+隻 ts ik 3 tsik3 None
+炙,,,,,
+尺 tsh ɛk 3 tshɛk3 None
+斥,,,,,
+赤,,,,,
+聲 s ɛŋ 55 sɛŋ55 None
+聖 s iŋ 33 siŋ33 None
+適,,,,,
+釋 s ik 5 sik5 None
+成 s iŋ 21 siŋ21 None
+城 s iŋ 21 siŋ21 None
+誠,,,,,
+盛 s iŋ 21 siŋ21 None
+石 s ɛk 2 sɛk2 None
+頸 k ɛŋ 35 kɛŋ35 None
+勁 k iŋ 21 kiŋ21 None
+輕 h iŋ 55 hiŋ55 None
+嬰,,,,,
+纓,,,,,
+益 None ik 5 ik5 None
+盈 None iŋ 21 iŋ21 None
+贏 None iŋ 21 iŋ21 None
+液,,,,,
+腋,,,,,
+亦,,,,,
+譯 None ik 2 ik2 None
+壁 p ik 5 pik5 None
+姘,,,,,
+拼,,,,,
+劈 ph ɛk 3 phɛk3 None
+瓶 ph iŋ 21 phiŋ21 None
+屏 ph iŋ 21 phiŋ21 None
+萍 ph iŋ 21 phiŋ21 None
+並,,,,,
+銘,,,,,
+覓,,,,,
+丁,,,,,
+釘 t ɛŋ 55 tɛŋ55 None
+靪,,,,,
+疔,,,,,
+頂 t ɛŋ 35 tɛŋ35 None
+鼎 t iŋ 55 tiŋ55 None
+訂,,,,,
+的 t ik 5 tik5 None
+滴 t ik 5 tik5 None
+嫡,,,,,
+聽 th ɛŋ 55 thɛŋ55 None
+廳 th ɛŋ 55 thɛŋ55 None
+汀,,,,,
+剔,,,,,
+踢 th ɛk 5 thɛk5 None
+亭 th iŋ 21 thiŋ21 None
+停 th iŋ 21 thiŋ21 None
+庭 th iŋ 21 thiŋ21 None
+廷 th iŋ 21 thiŋ21 None
+蜓,,,,,
+挺,,,,,
+艇 th ɛŋ 13 thɛŋ13 None
+錠,,,,,
+定 t iŋ 21 tiŋ21 None
+狄,,,,,
+笛 t ik 2 tik2 None
+敵 t ik 2 tik2 None
+糴,,,,,
+寧,,,,,
+佞,,,,,
+溺,,,,,
+靈 l ɛŋ 21 lɛŋ21 None
+零 l ɛŋ 21 lɛŋ21 None
+零 l iŋ 21 liŋ21 None
+鈴 l iŋ 21 liŋ21 None
+拎 n iŋ 55 niŋ55 None
+伶,,,,,
+翎,,,,,
+另 l iŋ 21 liŋ21 None
+歷 l ik 2 lik2 None
+曆,,,,,
+績 ts ik 5 tsik5 None
+青 tsh ɛŋ 55 tshɛŋ55 None
+蜻,,,,,
+戚 tsh ik 5 tshik5 None
+寂,,,,,
+星 ɬ ɛŋ 55 ɬɛŋ55 None
+腥 ɬ ɛŋ 55 ɬɛŋ55 None
+醒 ɬ ɛŋ 35 ɬɛŋ35 None
+析 s ik 5 sik5 None
+錫 ɬ ɛk 3 ɬɛk3 None
+經 k iŋ 55 kiŋ55 None
+徑,,,,,
+激 k ik 5 kik5 None
+擊,,,,,
+磬,,,,,
+吃,,,,,
+馨,,,,,
+形 None iŋ 21 iŋ21 None
+刑 None iŋ 21 iŋ21 None
+型 None iŋ 21 iŋ21 None
+陘,,,,,
+礦,,,,,
+虢,,,,,
+橫,,,,,
+轟,,,,,
+揈,,,,,
+宏 h oŋ 21 hoŋ21 None
+獲,,,,,
+穫,,,,,
+劃 w ak 2 wak2 None
+兄,,,,,
+榮 w iŋ 21 wiŋ21 None
+永 w iŋ 13 wiŋ13 None
+泳,,,,,
+詠,,,,,
+傾 kh iŋ 55 khiŋ55 None
+頃,,,,,
+苘,,,,,
+檾,,,,,
+瓊,,,,,
+營 w iŋ 21 wiŋ21 None
+塋,,,,,
+穎,,,,,
+役 None ik 2 ik2 None
+疫,,,,,
+螢,,,,,
+滎,,,,,
+迥,,,,,
+卜,,,,,
+撲,,,,,
+醭,,,,,
+仆,,,,,
+篷 ph oŋ 21 phoŋ21 None
+蓬 f oŋ 21 foŋ21 None
+瀑,,,,,
+曝,,,,,
+僕 p ok 3 pok3 None
+蒙 m oŋ 21 moŋ21 None
+懵 m oŋ 13 moŋ13 None
+蠓,,,,,
+木 m ok 2 mok2 None
+東 t oŋ 55 toŋ55 None
+董 t oŋ 35 toŋ35 None
+懂 t oŋ 35 toŋ35 None
+凍 t oŋ 33 toŋ33 None
+棟 t oŋ 21 toŋ21 None
+通 th oŋ 55 thoŋ55 None
+熥,,,,,
+捅,,,,,
+桶 th oŋ 35 thoŋ35 None
+痛 th oŋ 33 thoŋ33 None
+禿,,,,,
+同 th oŋ 21 thoŋ21 None
+銅 th oŋ 21 thoŋ21 None
+桐 th oŋ 21 thoŋ21 None
+筒 th oŋ 21 thoŋ21 None
+童 th oŋ 21 thoŋ21 None
+瞳,,,,,
+動 th oŋ 13 thoŋ13 None
+洞 t oŋ 21 toŋ21 None
+獨 t ok 2 tok2 None
+讀 t ok 2 tok2 None
+牘,,,,,
+犢,,,,,
+齈,,,,,
+籠 l oŋ 21 loŋ21 None
+聾 l oŋ 55 loŋ55 None
+攏 l oŋ 13 loŋ13 None
+弄,,,,,
+鹿 l ok 2 lok2 None
+祿,,,,,
+鬃 ts oŋ 55 tsoŋ55 None
+棕 ts oŋ 55 tsoŋ55 None
+椶,,,,,
+總 ts oŋ 35 tsoŋ35 None
+粽 ts oŋ 33 tsoŋ33 None
+糉,,,,,
+聰,,,,,
+葱 tsh oŋ 55 tshoŋ55 None
+蔥,,,,,
+怱,,,,,
+匆,,,,,
+囱,,,,,
+囪,,,,,
+叢,,,,,
+族 ts ok 2 tsok2 None
+送 ɬ oŋ 33 ɬoŋ33 None
+速 tsh ok 5 tshok5 None
+公 k oŋ 55 koŋ55 None
+工 k oŋ 55 koŋ55 None
+功 k oŋ 55 koŋ55 None
+攻 k oŋ 55 koŋ55 None
+蚣,,,,,
+貢,,,,,
+谷 k ok 5 kok5 None
+穀,,,,,
+空 h oŋ 55 hoŋ55 None
+孔 h oŋ 35 hoŋ35 None
+控,,,,,
+哭 h ok 5 hok5 None
+烘,,,,,
+哄 h oŋ 35 hoŋ35 None
+紅 h oŋ 21 hoŋ21 None
+洪 h oŋ 21 hoŋ21 None
+鴻 h oŋ 21 hoŋ21 None
+汞,,,,,
+鬨,,,,,
+斛,,,,,
+翁,,,,,
+瓮,,,,,
+甕,,,,,
+屋 None ok 5 ok5 None
+冬 t oŋ 55 toŋ55 None
+督 t ok 5 tok5 None
+篤,,,,,
+統 th oŋ 35 thoŋ35 None
+毒 t ok 2 tok2 None
+農 n oŋ 21 noŋ21 None
+膿 n oŋ 21 noŋ21 None
+儂,,,,,
+宗 ts oŋ 55 tsoŋ55 None
+綜,,,,,
+䝋,,,,,
+鬆 ɬ oŋ 55 ɬoŋ55 None
+宋 ɬ oŋ 33 ɬoŋ33 None
+酷,,,,,
+沃,,,,,
+風 f oŋ 55 foŋ55 None
+瘋 f oŋ 55 foŋ55 None
+楓 f oŋ 55 foŋ55 None
+諷,,,,,
+幅,,,,,
+福 f ok 5 fok5 None
+蝠,,,,,
+腹 f ok 5 fok5 None
+複,,,,,
+豐 f oŋ 55 foŋ55 None
+覆 f ok 5 fok5 None
+馮 f oŋ 21 foŋ21 None
+鳳 f oŋ 21 foŋ21 None
+伏 f ok 2 fok2 None
+服 f ok 2 fok2 None
+栿,,,,,
+夢 m oŋ 21 moŋ21 None
+目 m ok 2 mok2 None
+穆 m ok 2 mok2 None
+牧,,,,,
+隆 l oŋ 21 loŋ21 None
+六 l ok 2 lok2 None
+陸 l ok 2 lok2 None
+嵩,,,,,
+肅 ɬ ok 5 ɬok5 None
+中 ts oŋ 55 tsoŋ55 None
+忠 ts oŋ 55 tsoŋ55 None
+竹 ts ok 5 tsok5 None
+築 tsh ok 5 tshok5 None
+畜 tsh ok 5 tshok5 None
+蟲 tsh oŋ 21 tshoŋ21 None
+仲,,,,,
+逐,,,,,
+軸,,,,,
+崇,,,,,
+縮 s ok 5 sok5 None
+終,,,,,
+衆,,,,,
+眾,,,,,
+粥 ts ok 5 tsok5 None
+祝 ts ok 5 tsok5 None
+充 tsh oŋ 55 tshoŋ55 None
+銃,,,,,
+叔 s ok 5 sok5 None
+淑,,,,,
+熟 s ok 2 sok2 None
+絨 j oŋ 21 joŋ21 None
+戎,,,,,
+肉 j ok 2 jok2 None
+弓 k oŋ 55 koŋ55 None
+躬 k oŋ 55 koŋ55 None
+宮 k oŋ 55 koŋ55 None
+菊 k ok 5 kok5 None
+掬,,,,,
+麯,,,,,
+麴,,,,,
+窮 kh oŋ 21 khoŋ21 None
+蓄 j ok 5 jok5 None
+郁 j ok 5 jok5 None
+鬱,,,,,
+熊,,,,,
+雄 h oŋ 21 hoŋ21 None
+融 j oŋ 21 joŋ21 None
+育 j ok 5 jok5 None
+封 f oŋ 55 foŋ55 None
+蜂 f oŋ 55 foŋ55 None
+峰 f oŋ 55 foŋ55 None
+峯,,,,,
+鋒 f oŋ 55 foŋ55 None
+捧 p oŋ 35 poŋ35 None
+逢,,,,,
+縫 f oŋ 21 foŋ21 None
+縫 f oŋ 21 foŋ21 None
+奉,,,,,
+俸,,,,,
+濃 n oŋ 21 noŋ21 None
+龍 l oŋ 21 loŋ21 None
+隴,,,,,
+壟,,,,,
+壠,,,,,
+錄,,,,,
+綠,,,,,
+縱,,,,,
+蹤,,,,,
+足 ts ok 5 tsok5 None
+從 tsh oŋ 21 tshoŋ21 None
+促 ts ok 5 tsok5 None
+慫,,,,,
+粟 ɬ ok 5 ɬok5 None
+松 tsh oŋ 21 tshoŋ21 None
+誦,,,,,
+頌,,,,,
+訟,,,,,
+俗 tsh ok 5 tshok5 None
+續 ts ok 2 tsok2 None
+冢,,,,,
+塚,,,,,
+寵,,,,,
+重 tsh oŋ 21 tshoŋ21 None
+重 tsh oŋ 13 tshoŋ13 None
+鐘 ts oŋ 55 tsoŋ55 None
+鍾,,,,,
+盅,,,,,
+種 ts oŋ 35 tsoŋ35 None
+種 ts oŋ 33 tsoŋ33 None
+腫 ts oŋ 35 tsoŋ35 None
+燭 ts ok 5 tsok5 None
+囑,,,,,
+衝,,,,,
+觸 tsh ok 5 tshok5 None
+贖 s ok 2 sok2 None
+舂 ts oŋ 55 tsoŋ55 None
+束 tsh ok 5 tshok5 None
+蜀,,,,,
+屬 s ok 2 sok2 None
+茸 j oŋ 21 joŋ21 None
+宂,,,,,
+冗,,,,,
+辱 j ok 2 jok2 None
+褥,,,,,
+恭 k oŋ 55 koŋ55 None
+供,,,,,
+拱 k oŋ 35 koŋ35 None
+鞏,,,,,
+鋦,,,,,
+恐,,,,,
+曲 kh ok 5 khok5 None
+共,,,,,
+局 k ok 2 kok2 None
+玉 j ok 2 jok2 None
+獄 j ok 2 jok2 None
+胸 h oŋ 55 hoŋ55 None
+兇,,,,,
+凶 h oŋ 55 hoŋ55 None
+雍,,,,,
+癰,,,,,
+擁 j oŋ 13 joŋ13 None
+壅 None oŋ 55 oŋ55 None
+容 j oŋ 21 joŋ21 None
+蓉,,,,,
+庸,,,,,
+熔 j oŋ 21 joŋ21 None
+勇 j oŋ 13 joŋ13 None
+涌 j oŋ 13 joŋ13 None
+湧,,,,,
+甬,,,,,
+用 j oŋ 21 joŋ21 None
+浴,,,,,
+欲,,,,,
+慾,,,,,
+隙,,,,,
+啃,,,,,
+擃,,,,,
+擰,,,,,
+哈 h a 55 ha55 None
+复,,,,,
+孃,,,,,
+扎,,,,,
+衕,,,,,
+矇,,,,,
+濛,,,,,
+喫,,,,,
+鍊,,,,,
+㷹,,,,,
+擸,,,,,
