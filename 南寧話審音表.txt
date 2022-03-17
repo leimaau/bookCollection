@@ -4487,7 +4487,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 滯	滞	zai6		zai6	zai6	
 滰	滰	koeng5	(語)king4「澄清（水、液體）」	king4	kiang2	(語)ging4「澄清（水、液體）」
 滲	渗	sam3	(語)cam3「洇」,(又)cam5,(語)jaam3「滲漏，本字蘸」,(又)jam3	sam3	sam3	(語)cam3「洇」,(語)njaam3「滲漏，本字蘸」,(又)jaam3,(又)jam3
-滴	滴	dik1「滴水；<語>個或少量，與丁對轉，單～，獨眼」		dik6；(又)dik1	dik2	
+滴	滴	dik1「滴水；<語>個或少量，與丁對轉，單～，獨眼」		dik6；(又)dik1	dik2「滴水；<語>個或少量，與丁對轉」	
 滷	卤	lu5		lou5	lu5	
 滸	浒	fu2		wu2	hu2	
 滹	滹	fu1		fu1	hu1	
