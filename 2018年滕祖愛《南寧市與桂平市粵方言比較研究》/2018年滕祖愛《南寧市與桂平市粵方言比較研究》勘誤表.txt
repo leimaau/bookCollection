@@ -1239,7 +1239,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1238	蓮	莲	lin21	lin21	lin4	P111		原文誤作[lin22]
 1239	練	练	lin22	lin22	lin6	P111		
 1240	楝	楝	lin22	lin22	lin6	P111		
-1241	⿰令袞	⿰令袞	lin33	lin33	lin3	P111	打滾	原文有音無字
+1241	轥	轥	lin33	lin33	lin3	P111	打滾	原文有音無字
 1242	仙	仙	ɬin55	ɬin55	slin1	P111		
 1243	鮮	鲜	ɬin55	ɬin55	slin1	P111	新～	
 1244	軒	轩	hin55	hin55	hin1	P111		原文誤作[ɬin55]
