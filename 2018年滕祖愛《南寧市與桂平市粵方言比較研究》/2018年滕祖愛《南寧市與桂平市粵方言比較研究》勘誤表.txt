@@ -1410,7 +1410,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1409	壇	坛	tʰam21	tʰam21	taam4	P112		
 1410	淡	淡	tʰam24	tʰam24	taam5	P112		原文誤作[tham35]
 1411	探	探	tʰam33	tʰam33	taam3	P112		
-1412	囗(nam1)	囗(nam1)	nɐm55	nɐm55	nam1	P112	～佬：鄉下人	原文有音無字，誤作[nam55]
+1412	𦛚	𦛚	nɐm55	nɐm55	nam1	P112	～佬：鄉下人	原文有音無字，誤作[nam55]
 1413	南	南	nam21	nam21	naam4	P112		
 1414	藍	蓝	lam21	lam21	laam4	P112		
 1415	覽	览	lam35	lam35	laam2	P112		
@@ -2209,7 +2209,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2208	貢	贡	kuŋ33	kʊŋ33	gung3	P115		
 2209	汞	汞	kuŋ33	kʊŋ33	gung3	P115		
 2210	共	共	kuŋ22	kʊŋ22	gung6	P115		原文誤作[kuŋ33]
-2211	𫋐	𬠈	kuŋ33	kʊŋ33	gung3	P115	爬的意思	原文有音無字
+2211	𫋐	𫋐	kuŋ33	kʊŋ33	gung3	P115	爬的意思	原文有音無字
 2212	窮	穷	kʰuŋ21	kʰʊŋ21	kung4	P115		
 2213	孔	孔	kʰuŋ35	kʰʊŋ35	kung2	P115		
 2214	恐	恐	kʰuŋ35	kʰʊŋ35	kung2	P115		
