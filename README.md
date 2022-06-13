@@ -18,4 +18,3 @@
 
 審音表的規範csv檔參見[這裏](https://github.com/leimaau/Nanning-Dialect-Manual)
 
-[Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) 的文本檔。

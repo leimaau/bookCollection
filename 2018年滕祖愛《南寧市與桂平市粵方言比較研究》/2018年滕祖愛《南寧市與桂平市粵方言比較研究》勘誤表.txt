@@ -589,7 +589,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 588	和	和	∅uɔ21	wɔ21	wo4	P109	～氣	
 589	禾	禾	∅uɔ21	wɔ21	wo4	P109		
 590	禍	祸	∅uɔ22	wɔ22	wo6	P109		原文誤作[∅uɔ21]
-591	坺	坺	pɛt2	pɛt2	bet6	P109	喃[nam55]～～：嘟囔	原文有音無字，誤作[nɐm55 pɛ21 pɛ21]
+591	癟	瘪	pɛt2	pɛt2	bet6	P109	喃[nam55]～～：嘟囔	原文有音無字，誤作[nɐm55 pɛ21 pɛ21]
 592	寫	写	ɬɛ35	ɬɛ35	sle2	P109		
 593	瀉	泻	ɬɛ33	ɬɛ33	sle3	P109		
 594	遮	遮	tʃɛ55	tʃɛ55	ze1	P109		
@@ -1532,7 +1532,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1531	宦	宦	∅uan22	wan22	waan6	P112		原文誤作[∅uan21]
 1532	玩	玩	∅uan35	wan35	waan2	P112	1古玩；2遊玩	
 1533	幻	幻	∅uan22	wan22	waan6	P112		
-1534	喃	喃	nam55	nam55	naam1	P112	～坺[pɛt2]坺[pɛt2]：嘮叨	原文有音無字，誤作[nɐm55 pɛ21 pɛ21]
+1534	喃	喃	nam55	nam55	naam1	P112	～癟[pɛt2]癟[pɛt2]：嘮叨	原文有音無字，誤作[nɐm55 pɛ21 pɛ21]
 1535	林	林	lɐm21	lɐm21	lam4	P112		
 1536	臨	临	lɐm21	lɐm21	lam4	P112		
 1537	心	心	ɬɐm55	ɬɐm55	slam1	P112		
