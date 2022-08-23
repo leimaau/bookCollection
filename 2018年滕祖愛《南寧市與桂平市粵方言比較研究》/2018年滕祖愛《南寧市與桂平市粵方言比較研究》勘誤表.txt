@@ -359,7 +359,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 358	衚	胡	∅u21	wu21	wu4	P108		
 359	鬍	胡	∅u21	wu21	wu4	P108		
 360	戶	户	∅u22	wu22	wu6	P108		原文誤作[∅u21]
-361	芋	芋	∅u22	wu22	wu6	P108		原文誤作[∅u21]
+361	芋	芋	∅u21	wu21	wu4	P108		
 362	惡	恶	∅u33	wu33	wu3	P108	可～	
 363	懊	懊	ʔu33	∅u33	u3	P108	懊悔	原文誤作[∅u33]
 364	護	护	∅u22	wu22	wu6	P108		
@@ -1496,7 +1496,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1495	棧	栈	tʃan35	tʃan35	zaan2	P112		
 1496	贊	赞	tʃan33	tʃan33	zaan3	P112		
 1497	讚	赞	tʃan33	tʃan33	zaan3	P112		
-1498	灒	灒	tʃan33	tʃan33	zaan3	P112		
+1498	灒	𪷽	tʃan33	tʃan33	zaan3	P112		
 1499	賺	赚	tʃan22	tʃan22	zaan6	P112		
 1500	餐	餐	tʃʰan55	tʃʰan55	caan1	P112		
 1501	蠶	蚕	tʃʰan21	tʃʰan21	caan4	P112		

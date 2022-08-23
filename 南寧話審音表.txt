@@ -1,6 +1,5 @@
 TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 ⿰口罈	⿰口罈	bam6「古壯字，罈子」		bam6	bam6「古壯字，罈子」	
-⿰平刂	⿰平刂	man5「古壯字，刀鈍，又作暋字」		man5	man5「古壯字，刀鈍，又作暋字」	
 ⿰弄動	⿰弄動	nguk6「古壯字，用力搖動」		nguk6	nguk6「古壯字，用力搖動」	
 ⿰弄迷	⿰弄迷	lung1「古壯字，～路，迷路，又作𢙱字」		lung1	loeng1「古壯字，差錯，又作𢙱字」	
 ⿰忄夹	⿰忄夹	jaap1「古壯字，心～，心煩，俗字悒/唈」		jaap1	njaap3「古壯字，心～，心煩，俗字悒/唈」	
@@ -55,7 +54,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 㛃	㛃	git3		git3	gyut2	(又)git2
 㛚	㛚	tung2		tung2	toeng2	
 㛹	㛹	pin4		pin4	bin4	
-㜇	㜇	wai3	(語)ai3「心情煩悶，又作翳/悘字」	wai3,ai3	wai3	
+㜇	㜇	wai3	(語)ai3「心情煩悶，又作翳/曀/悘字」	wai3,ai3	wai3	
 㜝	㜝	ngam5「含怒貌」,jim2「美」		ngam5,jim2	ngaam5「含怒貌」,jim2「美」	(語)njaam6「妒忌」
 㜷	𡝠	mi4	(白)me1「母，屌那（你阿）～，詈語」	mei4	mi4	
 㜺	㜺	zaan2「漂亮」		zaan2	zaan2「漂亮」	
@@ -106,8 +105,8 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 㩮	㩮	hin1「同攑字」		hin1	hyun1「同攑字」	(又)hin1
 㩳	㧐	slung2		sung2	sloeng2	
 㩺	㩺	pi1「器物邊緣破損，又作𤿎字」		pei1	pi1「器物邊緣破損，又作𤿎字」	
-㩿	㩿	(訓)kak1「㪐～，路不平或說話結巴，本字犖確/犖硞/犖埆/犖嶨/碌硞，與哽/鯁/骾對轉」		kak1	(訓)kak3「㪐～，路不平或說話結巴，本字犖確/犖硞/犖埆/犖嶨/碌硞，與哽/鯁/骾對轉」	
-㪐	㪐	(訓)lak1「～㩿，路不平或說話結巴，本字犖確/犖硞/犖埆/犖嶨/碌硞，與掕對轉」		lak1	(訓)lak3「～㩿，路不平或說話結巴，本字犖確/犖硞/犖埆/犖嶨/碌硞，與掕對轉」	
+㩿	㩿	fat1「不穩，本讀」,(訓)kak1「㪐～，路不平或說話結巴，本字犖確/犖硞/犖埆/犖嶨/碌硞，與哽/鯁/骾對轉」		kak1	wat2「不穩，本讀」,(訓)kak3「㪐～，路不平或說話結巴，本字犖確/犖硞/犖埆/犖嶨/碌硞，與哽/鯁/骾對轉」	
+㪐	㪐	lat6「不穩，本讀」,(訓)lak1「～㩿，路不平或說話結巴，本字犖確/犖硞/犖埆/犖嶨/碌硞，與掕對轉」		lak1	lat5「不穩，本讀」,(訓)lak3「～㩿，路不平或說話結巴，本字犖確/犖硞/犖埆/犖嶨/碌硞，與掕對轉」	
 㪒	㪒	ngai4	(又)ni4	ngai4	ngai4	(又)nai4
 㪕	㪕	coek3		coek3	ciak2	
 㪗	㪗	tau2「休息，又作敨字」		tau2	tau2「休息，又作敨字」	
@@ -222,7 +221,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 䟴	䟴	ngan3「搖晃，與扤對轉」		ngan3	ngan3「搖晃，與扤對轉」	
 䠋	䠋	bi2「同髀字」,baai1「蹟䠋」		bei2,pe5	bi2「同髀字」,baai1「蹟䠋」	
 䠩	䠩	gui6「累，又作癐/攰字」		gui6	gui6「累，又作癐/攰字」	
-䡵	𫟦	sui6		seoi6	sui6	
+䡵	𫟦	sui6		seoi6	sui6	(又)slui6
 䢅	䢅	san4		san4	san4	
 䢺	䢺	cyut1		ceot1	cat2	
 䢼	䢼	gung1		gung1	goeng1	
@@ -256,14 +255,14 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 丁	丁	ding1「男丁，肉丁；<語>小粒狀物、個或少量，與滴對轉」	(白)deng1「人丁，豆丁」	ding1；(古)zang1伐木丁丁	ding1「男丁，肉丁；<語>小粒狀物、個或少量，與滴對轉」	
 七	七	cat1		cat1	cat2	
 万	万	maan6「同萬字」,mak6「万俟，複姓」		maan6,mak6	maan6「同萬字」,mak5「万俟，複姓」	
-丈	丈	zoeng6「丈夫」	(白)zoeng2「姨丈」	zoeng6	ziang6	
+丈	丈	zoeng6「丈夫，丈量」	(白)zoeng2「姨丈，姑丈」	zoeng6	ziang6	
 三	三	slaam1		saam1；三思又讀saam3	slaam1	
 上	上	soeng6「上面」,soeng5「上山」		1)soeng6:上面 2)soeng5:上山	sang6「上面」,sang5「上山」	
 下	下	haa6「底下，下山」,haa5「一下，等下」		1)haa6:山下 2)haa5:打十下	jaa6「底下，下山」,jaa5「一下，等下」	
-不	不	bat1「否定」,fau2「同否字」		bat1	bat2「否定」,fau5「同否字」	
+不	不	bat1「不能」,fau2「同否字」		bat1	bat2「不能」,fau5「同否字」	
 与	与	jyu5「同與字」,jyu6「同與字」		1)jyu5:贈與 2)jyu6:參與；同歟	jyu5「同與字」,jyu6「同與字」	
 丏	丏	min5		min5	min5	
-丐	丐	koi3		koi3	kaai3	
+丐	丐	koi3	(又)goi3	koi3	kaai3	(又)gaai3
 丑	丑	cau2		cau2	cau2	
 且	且	ce2		ce2；(古)zeoi1	ce2	
 丕	丕	pi1		pei1	pi1	
@@ -280,7 +279,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 丸	丸	jyun4		jyun4；(語)jyun2	jyun4	
 丹	丹	daan1		daan1	daan1	
 主	主	zyu2		zyu2	zyu2	
-丼	丼	(白)zeng2「同井字」,dam2「落水聲；姓」	(文)zing2	dam2,zing2	zing2「同井字」,dam2「落水聲；姓」	
+丼	丼	(白)zeng2「同井字」,dam2「投物井中聲；姓」	(文)zing2	dam2,zing2	zing2「同井字」,dam2「投物井中聲；姓」	
 丽	丽	lai6		lai6	lai6	
 乂	乂	ngaai6		ngaai6	ngaai6	
 乃	乃	naai5		naai5	naai5	
@@ -399,7 +398,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 伸	伸	san1	(語)can1「伸懶腰，又作抻/胂字」	san1	san1	(語)can1「伸懶腰，又作抻/胂字」
 伺	伺	ci3「伺候，伺機」	(老派)cy3	zi6	ci3「伺候，伺機」	
 伻	伻	ping1	(又)pang1,(又)ping4	ping1	ping1	(又)pang1,(又)bing4
-似	似	ci5	(老派)cy5	ci5	ci5	(又)zi5
+似	似	ci5	(老派)cy5	ci5	zi3	(又)ci3
 伽	伽	gaa1「伽利略」,ke4「伽藍」		gaa1；伽藍又讀ke4	gaa1「伽利略」,ge4「伽藍」	
 伾	伾	pi1		pei1	pi1	
 伿	伿	ji6	(又)zi3	ji6,zi3	ji6	(又)zi3
@@ -430,7 +429,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 佞	佞	ning6		ning6	ning6	
 佟	佟	tung4		tung4	doeng4	
 你	你	ni5		nei5	ni5	
-佢	佢	kyu5「他，本字渠，代詞（你我）調感染，語流會變齊齒陰去」		keoi5	gyu4「他，本字渠」	
+佢	佢	kyu5「他，本字渠，代詞（你我）調感染，語流中易讀齊齒陰去」		keoi5	gyu4「他，本字渠」	
 佣	佣	jung6	(白)jung2「佣金」	jung2；(又)jung6；同傭	joeng6	
 佤	佤	ngaa5		ngaa5	waa5	
 佩	佩	pui3		pui3	pui3	
@@ -458,7 +457,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 侈	侈	ci2		ci2	ci2	
 侉	侉	kwaa1		kwaa2,kwaa1	kwaa1	
 例	例	lai6		lai6	lai6	
-侍	侍	si6		si6	si6	
+侍	侍	si6		si6	si6	(又)sai6
 侏	侏	zyu1		zyu1	zyu1	
 侑	侑	jau6		jau6	jau6	
 侔	侔	mau4		mau4	mau4	
@@ -490,7 +489,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 俑	俑	jung2		jung2	joeng5	
 俔	伣	jin5		jin5,jin6	jyun5	(又)jin5
 俗	俗	zuk6	(又)suk6,(又)sluk6	zuk6	sloek6	
-俘	俘	fu1		fu1	fu1	
+俘	俘	fu1		fu1	fu1	(又)fu4
 俙	俙	hi1		hei1	hi1	
 俚	俚	li5		lei5	li5	
 俜	俜	ping1		ping1	ping1	
@@ -530,7 +529,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 倚	倚	ji2		ji2	ji2	
 倜	倜	tik1		tik1	tik2	
 倞	倞	loeng6「求；索取」,ging6「強勁」		loeng6,ging6	liang6「求；索取」,ging6「強勁」	
-借	借	ze3		ze3	ze3	(又)zi3
+借	借	ze3		ze3	ze3	(白)zi3
 倡	倡	coeng1「倡優；提倡，倡議」	(又)coeng3「提倡，倡議」	coeng1；提倡又讀coeng3	ciang3「提倡，倡議」,ciang1「倡優」	
 倣	仿	fong2		fong2	fung2	
 倥	倥	hung1「倥侗」,hung2「倥傯」		1)hung1:倥侗 2)hung2:倥傯	hoeng1「倥侗」,hoeng2「倥傯」	
@@ -636,7 +635,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 價	价	gaa3		gaa3	gaa3	
 僻	僻	pik1		pik1	pik2	
 僿	僿	si3		si1	si3	
-儀	仪	ji4		ji4	nji4	
+儀	仪	ji4	(又)ji6	ji4	nji4	
 儁	俊	zan3		zan3	zan3	
 儂	侬	nung4		nung4	noeng4	
 億	亿	jik1		jik1	ik2	
@@ -645,14 +644,14 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 儈	侩	kwai3	(又)kui3	kui2；(又)kui3	kwai3	
 儉	俭	gim6		gim6	gim6	
 儋	儋	daam1		daam1,daam3	daam1	
-儐	傧	ban3		ban3	ban3	
+儐	傧	ban3「儐相」,ban1「尊敬」		ban3	ban3「儐相」,ban1「尊敬」	
 儒	儒	jyu4		jyu4	jyu4	
 儓	儓	toi4		toi4	daai4	
 儔	俦	cau4		cau4	zau4	
 儕	侪	caai4「同儕」		caai4	zaai4「同儕」	(語)zai4「儕家、大儕，大家」
 儗	儗	ni5「僭越」,ni6「佁儗」		ji5,ji6	ni5「僭越」,ni6「佁儗」	
 儘	尽	zan6「儘管」		1)zeon6:儘量 2)zeon2:儘管	zan6「儘管」	(又)zan2
-償	偿	coeng4	(又)soeng4	soeng4	siang4	
+償	偿	coeng4		soeng4	siang4	
 儡	儡	lui5		leoi5	lui5	
 儤	儤	bu3	(語)bok1「～佬，土包子，俗字嚗」	bou3	baau3	
 儦	儦	biu1		biu1	biu1	
@@ -682,10 +681,10 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 先	先	slin1		sin1	slin1	
 光	光	gong1		gwong1	gung1	
 克	克	(白)kak1	(文)hak1	hak1	kak2	
-兌	兑	dui3		deoi3	dui3	
+兌	兑	dui3		deoi3	dui6	
 免	免	min5		min5	min5	
-兑	兑	dui3		dui3	dui3	
-兒	儿	ji4	(白)ji1「乞兒」	ji4	nji4	(白)nji3「乞兒」
+兑	兑	dui3		dui3	dui6	
+兒	儿	ji4「兒童」	(白)ji1「乞兒（乞丐），老派可作名詞後綴（相當於崽），貓兒、雀兒，又可作小稱，手指頭兒大」	ji4	nji4「兒童」	(白)nji3「乞兒（乞丐），鬼兒（小孩）」
 兔	兔	tu3		tou3	tu3	
 兕	兕	zi6	(老派)zy6	zi6	zi6	
 兗	兖	jin5		jin5	jin5	
@@ -707,7 +706,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 典	典	(習)dim2	(書)din2	din2	(習)dim2	(書)din2
 兼	兼	gim1	(外)gem1「遊戲淘汰，英語game over」	gim1	gim1	
 冀	冀	gi3		kei3	gi3	
-冇	冇	mu5「不、別，無有的合音，多用於句中，語流中會讀陰去」	(又)mau5「多用於句末，郊區多讀」	mou5	me5「不、別，本字靡」	
+冇	冇	mu5「不、別，無有的合音，多用於句中，語流中易讀陰去」	(又)mau5「多用於句末，郊區多讀」	mou5	me5「不、別，本字靡」	
 冉	冉	jim5		jim5	njim5	
 冊	册	caak3		caak3	ciak2	
 再	再	zoi3		zoi3	zaai3	
@@ -920,12 +919,12 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 區	区	kyu1「區域」,au1「姓」		1)keoi1:區別 2)au1:姓區	kyu1「區域」,au1「姓」	
 十	十	sap6		sap6	sap6	
 千	千	cin1		cin1	cin1	
-卅	卅	slaa1		saa1	slaa1	
+卅	卅	slaa1「實際讀[ɬa55 a22]」		saa1	slaa1「實際讀[ɬa53 a22]」	
 升	升	sing1		sing1	sing1	
 午	午	ng5		ng5	ng5	(老派)ngu5
 卉	卉	wai2		wai2	wai2	
 半	半	bun3		bun3	bun3	
-卌	卌	sle3		se3	sle3	
+卌	卌	sle3「實際讀[ɬi33 a22]」		se3	sle3「實際讀[ɬi55 a22]」	
 卑	卑	bi1		bei1	bai1	
 卒	卒	zat1	(老派)zyut1	zeot1；(古)同猝cyut3	zat2	
 卓	卓	zoek3	(又)zok3	coek3	zoek2	(又)zuk2
@@ -999,7 +998,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 叩	叩	kau3		kau3	kau3	
 只	只	zi2		zi2	zi2	
 叫	叫	giu3		giu3	giu3	
-召	召	ziu1「召喚/召集，又作招喚/招集」,ziu6「號召」,siu6「姓，同邵字；召公」		ziu6；(古人名)siu6召公	ziu1「召喚/召集，又作招喚/招集」,ziu6「號召」,siu6「姓，同邵字；召公」	
+召	召	ziu1「召喚、召集，又作招喚、招集」,ziu6「號召」,siu6「姓；同邵字」		ziu6；(古人名)siu6召公	ziu1「召喚、召集，又作招喚、招集」,ziu6「號召」,siu6「姓；同邵字」	
 叭	叭	baa1「象聲詞；喇叭；唵嘛呢叭咪吽」		baa1	baa1「象聲詞」,baa2「喇叭」,baa3「象聲詞；唵嘛呢叭咪吽」	
 叮	叮	ding1		ding1	ding1	
 可	可	ho2		ho2；(古)hak1可汗	ko2	
@@ -1012,7 +1011,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 司	司	si1	(老派)sy1	si1	sli1	
 叻	叻	lek1「能幹，與靈/靚對轉，一說本字𥌮/𦘊/㔹」,lik1「叻埠，石叻」	(又)lak6「叻埠，石叻」	lak6,lek1,lik1	liak3「能幹，與靈/靚對轉，一說本字𥌮/𦘊/㔹」,lik3「叻埠，石叻」	(又)lak5「叻埠，石叻」
 叼	叼	diu1		diu1	diu1	
-吁	吁	hyu1「長吁短嘆」		heoi1	hyu1「長吁短嘆」	
+吁	吁	hyu1「長吁短嘆」	(又)jyu1	heoi1	hyu1「長吁短嘆」	(又)jyu1
 吃	吃	hek3「吃飯」,gat1「口吃」	(白)jaak3,(又)hat1,(又)hik1	hek3	hik2「吃飯」,gat2「口吃」	
 各	各	gok3		gok3	gaak2	
 吆	吆	jiu1「吆喝」	(白)eu1「叫，喊」	jiu1	jiu1「吆喝」	(白)eu1「叫，喊」
@@ -1091,13 +1090,13 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 呻	呻	san1「呻吟」	(語)san3「訴苦」	san1	san1「呻吟」	(語)san3「訴苦」
 呼	呼	fu1		fu1	hu1	
 命	命	ming6「命令」	(白)meng6「性命」	ming6	ming6	
-咀	咀	zyu2		zeoi2	zyu2	
+咀	咀	zyu2「咀嚼」		zeoi2	zyu2「咀嚼」	
 咁	咁	gam3「粵字，表程度，這麼/那麼，箇物的合音，本地統用噉，未分化出咁」		gam3	gaam3「粵字，表程度，這麼/那麼，箇物的合音，本地用梗/耿[kiɐŋ55]」	
 咂	咂	zaap3		zaap3	zaap2	
 咄	咄	dat1「頂撞；咄咄逼人」	(語)dyut1「吻」,(語)doet1「吻」	deot1；(又)zyut3	dat2「咄咄逼人」	(又)dut2,(語)dot3「～嘴，嘬嘴」
 咅	咅	tau3		tau3	tau3	
 咆	咆	paau4		paau4	baau4	
-咇	咇	bit1	(又)bat6	bit1	bit2	(語)bat6「～～嚊[py24]嚊[py24]，囉嗦、嘮叨」
+咇	咇	bit1	(又)bat6	bit1	bit2	(語)bat6「～～嚊[py24]嚊[py24]，囉嗦、嘮叨」,(語)bet6「嚊[pi22]嚊[pi22]～～，囉嗦、嘮叨」
 咈	咈	fat6	(白)fet6「㨘鼻涕聲，鼻涕～～，吸鼻涕貌，哭～～，抽泣貌」,(語)fet1「風～，時髦；～～，哨子」	fat6	fat6	(語)fet3「揈[fɐŋ21]～～，輕浮；～～，哨子」
 咉	咉	joeng1		joeng1	jiang1	
 咋	咋	zaa3		zaa3	zaa3	
@@ -1110,14 +1109,14 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 咔	咔	kaa1「擬聲詞」	(語)kaa4「阻塞，～頸，古壯字作拤/咔/𣕧等」	kaa4,kaa1	kaa1「擬聲詞」	(語)gaa4「阻塞，～頸，古壯字作拤/咔/𣕧等」
 咕	咕	gu1		gu1	gu1	(語)gu4「死～～，死板」
 咖	咖	kaa1「咖啡」,gaa3「咖喱」		gaa3	kaa1「咖啡」,gaa3「咖喱」	
-咗	咗	zo2「粵字，助词，表完成；本地用嗮，極其老派用[tʃœ35/tʃɛ35]->[hœ35/hɛ35]，相當於嗮，或與咗同源」	(老派)zoe2,(又)ze2,(又)hoe2,(又)he2	zo2	zo2「粵字，助词，表完成，本地用了」	
+咗	咗	zo2「粵字，助词，表完成；本地用嗮，極其老派用[tʃœ35/tʃɛ35]->[hœ35/hɛ35]，相當於嗮，或與咗同源」	(老派)zoe2,(老派)ze2,(又)hoe2,(又)he2	zo2	zo2「粵字，助词，表完成，本地用了」	
 咚	咚	dung1	(語)dung4「擬聲詞」	dung1	doeng1	
 咠	咠	cap1		cap1	cap2	
 咡	咡	ji6		ji6	nji6	
 咣	咣	gong1		gwong1	gung1	
 咥	咥	hi3「大笑貌」,dit6「咬」		hei3,dit6	hi3「大笑貌」,dit6「咬」	
 咦	咦	ji4	(又)ji2	ji2；本讀ji4	ji4	(又)ji5
-咧	咧	lit6「咧嘴」,le1「大大咧咧；唓咧，話多，本字啁嘐（嘐啁）」	(語)le4「語氣詞；𠯔斜～，嘆詞，呸」	lit6	lit6「咧嘴」,le3「大大咧咧；唓[tʃʰe55]咧，話多，本字啁嘐（嘐啁）」	(又)lyut5「咧嘴」,(語)le4「語氣詞；𠯔斜～，嘆詞，呸」,(語)le2「嗲[te33]嗲[te33]～～，撒嬌聲或態度」
+咧	咧	lit6「咧嘴」,le1「大大咧咧；唓咧、愛表現，話多，本字啁嘐（嘐啁）」	(語)le4「語氣詞；𠯔斜～，嘆詞，呸」	lit6	lit6「咧嘴」,le3「大大咧咧；唓[tʃʰe55]咧，話多、愛表現，本字啁嘐（嘐啁）」	(又)lyut5「咧嘴」,(語)le4「語氣詞；𠯔斜～，嘆詞，呸」,(語)le2「嗲[te33]嗲[te33]～～，撒嬌聲或態度」
 咨	咨	zi1	(老派)zy1	zi1	zi1	
 咩	咩	me1「羊叫聲；什麼，乜嘢的合音」		me1	me1「羊叫聲」	
 咪	咪	mi1「貓咪；唵嘛呢叭咪吽」,mai1「麥克風」	(語)mai6「否定詞，冇係的合音」	mei1；(又)mai1	mi3「貓咪；唵嘛呢叭咪吽」,mai3「麥克風」	(語)mai3「不要，冇係的合音」
@@ -1156,7 +1155,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 員	员	jyun4		jyun4；1)(古人名)wan4 2)wan6姓員	jyun4	
 哢	哢	lung6		lung6	loeng6	
 哣	哣	dau6「吽哣，呆滯，一說本字怐愗」		dau6	dau6「吽哣，呆滯，一說本字怐愗」	
-哥	哥	go1「表哥」	(語)ge1「老[lau55]～，父親的口語敘稱，古壯字⿰老吉，本字或爲哥」	go1	go1	
+哥	哥	go1「表哥」	(語)ge1「老[lau55]～，父親的口語敘稱，古壯字⿰老吉，疑本字哥」	go1	go1	
 哦	哦	o4「表應允或醒悟」,o2「表驚奇或懷疑」,ngo4「吟哦」	(語)u2「表驚奇」,(語)u3「～呵，表無奈或嘲諷」	1)ngo4:吟哦 2)o2:嘆詞 3)o6:嘆詞	o4「表應允或醒悟」,o5「表驚奇或懷疑」,ngo4「吟哦」	
 哧	哧	ci1	(又)cik1	ci1,cik1	ci1	(又)cik2
 哨	哨	(白)seu3「哨牙，齙牙」	(文)saau3「牙哨哨，齙牙貌」	saau3	saau3「哨牙，齙牙」	
@@ -1185,7 +1184,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 唏	唏	hi1		hei1	hi1	(語)hi4「～哩[li21]㗾[he21]咧[le21]，喘氣聲」
 唐	唐	tong4		tong4	daang4	
 唑	唑	zo6		zo6	zo6	(又)zu6
-唓	唓	ce1「唓咧[lɛ55]，話多，本字啁嘐（嘐啁）」		ce1	ce3「唓咧[le55]，話多，本字啁嘐（嘐啁）」	
+唓	唓	ce1「唓咧[lɛ55]，話多、愛表現，本字啁嘐（嘐啁）」		ce1	ce3「唓咧[le55]，話多、愛表現，本字啁嘐（嘐啁）」	
 唔	唔	m4「否定詞，本字毋/無」,ng4「語氣詞，思忖聲」		ng4；(語)m4否定義	ng4「語氣詞，思忖聲」	
 唕	唕	zu6		zou6	zaau6	
 唗	唗	dau1		dau1	dau1	
@@ -1195,7 +1194,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 唥	唥	lang6「冚𠾴（唪、巴）～（咸不論），全部」,laang1「擬鈴聲；<語>毛線，～衫，又作𦀬字」		laang6,laang1	lang6「冚𠾴（唪、巴）～（咸不論），全部」,laang1「擬鈴聲；<語>毛線，～衫，又作𦀬字」	
 唦	唦	saa1「象聲詞；語氣詞，啊」	(語)saa4「～～滾，輕率亂來；～哩[li55]躘[lʊŋ21]蹱[tʃʰʊŋ33]，莽撞」	saa1	saa1「象聲詞；語氣詞，啊」	
 唧	唧	zik1		zik1	zik2	
-唨	唨	zo2「粵字，咗的舊寫；本地用嗮，極其老派用[tʃœ35/tʃɛ35]->[hœ35/hɛ35]，相當於嗮，或與咗/唨同源」	(老派)zoe2,(又)ze2,(又)hoe2,(又)he2	zo2	zo2「粵字，咗的舊寫，本地用了」	
+唨	唨	zo2「粵字，咗的舊寫；本地用嗮，極其老派用[tʃœ35/tʃɛ35]->[hœ35/hɛ35]，相當於嗮，或與咗/唨同源」	(老派)zoe2,(老派)ze2,(又)hoe2,(又)he2	zo2	zo2「粵字，咗的舊寫，本地用了」	
 唪	唪	fung2「唪經」	(語)bang6「冚～唥（咸不論），全部，又作𠾴字」	fung2	foeng2「唪經」	(語)bang6「冚～唥（咸不論），全部，又作𠾴字」
 唬	唬	fu2		fu2；同嚇	hu2	
 售	售	sau6		sau6	sau6	
@@ -1221,14 +1220,14 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 啋	啋	coi1		coi1	caai1	
 問	问	man6		man6	man6	
 啐	啐	cui3		ceoi3	cui3	
-啓	启	kai2		kai2	kai2	(又)hi2
+啓	启	kai2		kai2	kai2	(又)hi2,(又)hai2
 啕	啕	tu4		tou4	daau4	
 啖	啖	(量)daam6「口」		daam6	(量)daam6「口」	
 啜	啜	zyut3	(又)zoet1	zyut3	zyut2	(又)zot3
 啝	啝	wo6「語氣詞」		wo6	wo6「語氣詞」	
 啞	哑	aa2「啞巴」,ak1「啞然失笑」		1)aa2:聾啞 2)aa1:咿啞	aa2「啞巴」,iak2「啞然失笑」	
-啟	启	kai2		kai2	kai2	(又)hi2
-啡	啡	fi1「咖啡；擬風聲；屙啡[fɛ21]～，拉稀」	(語)fe4「擬風聲；屙～啡[fɛ55]，拉稀」,(外)fe1「茄哩啡，龍套，英語carefree」	fe1；(又)fei1	fi1「咖啡」	(外)fe3「茄哩啡，龍套，英語carefree」
+啟	启	kai2		kai2	kai2	(又)hi2,(又)hai2
+啡	啡	fi1「咖啡」	(語)fe4「擬風聲；屙～啡[fɛ55]，拉稀」,(語)fe1「擬風聲；屙啡[fɛ21]～，拉稀；<外>茄哩啡，龍套，英語carefree」	fe1；(又)fei1	fi1「咖啡」	(外)fe3「茄哩啡，龍套，英語carefree」
 啢	唡	loeng2		loeng2	liang5	
 啣	啣	haam4		haam4	haam4	
 啤	啤	be1「啤酒」	(語)bi1「詞綴，青～～」,(語)be4「詞綴，腍～～，（肉類）鬆軟爛熟，引申指人軟弱」	be1	be1「啤酒」	(語)bi4「～哩[li21]嘣[pɛm21]咧[le21]，鞭炮聲」,(語)be4「詞綴，腍～～，（肉類）鬆軟爛熟，引申指人軟弱」
@@ -1250,7 +1249,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 喀	喀	haak3「喀斯特，喀秋莎」,kaa1「喀嚓」	(語)kaak1「～痰，吐痰，又作咯字」,(語)kak1「瘦嚜[mɐk5]～，很瘦，與躿對轉」,(語)kek1「瘦嚜[mɛk5]～，很瘦，與躿對轉」	haak3	hiak2「喀斯特，喀秋莎」,kaa1「喀嚓」	(語)kaak3「～痰，吐痰，又作咯字；瘦嚜[mak5]～，很瘦，與躿對轉」
 喁	喁	jung4「魚口向上」,jyu4「應和聲」		jung4,jyu4	joeng4「魚口向上」,jyu4「應和聲」	
 喂	喂	wai3	(語)wai2「句首表引起注意、句末表祈使」	wai3	wai3	(又)wui3,(語)wai5「句首表引起注意、句末表祈使」
-喃	喃	(白)naam1「喃經；嘮叨」	(文)naam4「呢喃」	naam4	(白)naam1「喃經；嘮叨」	(文)naam4「呢喃」,(語)naa3「喃嘸（南無）佬，道士和尚」
+喃	喃	(白)naam1「喃經；嘮叨；喃嘸（南無）佬，道士和尚」	(文)naam4「呢喃」	naam4	(白)naam1「喃經；嘮叨」	(文)naam4「呢喃」,(語)naa3「喃嘸（南無）佬，道士和尚」
 善	善	sin6		sin6	syun6	(又)sin6
 喆	喆	zit3		zit3	zyut2	(又)zit2
 喇	喇	laa1「喇叭；喇嘛」,laat3「哈喇」		1)laa3:喇叭 2)laa1:喇嘛	laa2「喇叭」,laa1「喇嘛」,laat5「哈喇」	
@@ -1272,14 +1271,14 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 喜	喜	hi2		hei2	hi2	
 喝	喝	hot3		hot3	haat2「喝酒」	(白)het2「嚇唬地叫喊，～兩聲，渠停住喇」
 喟	喟	wai6		wai2	wai6	
-喢	喢	slaap3「多言」		saap3	slaap2「多言」	
+喢	喢	slaap3「多言；<語>猛咬（一口），又作歃/𠿓字」		saap3	slaap2「多言；<語>猛咬（一口），又作歃/𠿓字」	(語)slaap6「～得，食欲好、能吃，又作歃/𠿓字」
 喣	喣	hyu2		heoi2,jyu3	hyu2	
 喤	喤	wong4		wong4	hung4	
 喧	喧	hyun1		hyun1	hyun1	
 喪	丧	slong3「喪失」,slong1「喪事」		1)song3:喪失 2)song1:喪事	slaang3「喪失」,slaang1「喪事」	
 喫	吃	(白)jaak3	(文)hek3,(又)hat1,(又)hik1	jaak3,hek3	hik2	
 喬	乔	kiu4		kiu4	giu4	(語)geu4「（木板）彎曲變形」
-單	单	daan1「單獨」,sin6「姓」		1)daan1:單純 2)sin6:姓單；(古人名)sim4單于	daan1「單獨」,sin6「姓」	(又)syun6
+單	单	daan1「單獨」,sin6「姓」		1)daan1:單純 2)sin6:姓單；(古人名)sim4單于	daan1「單獨」,sin6「姓」	
 喰	喰	caan1	(又)sik6	caan1,sik6	caan1	(又)sik6
 喱	喱	li1「咖喱」	(外)li4「格令，英語grain」	lei1	li1「咖喱」	(外)li4「格令，英語grain」
 喲	哟	jo1		jo1	jo1	
@@ -1294,7 +1293,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 嗆	呛	coeng3「油煙嗆人」,coeng1「吃飯嗆着」		1)coeng1:吃嗆 2)coeng3:煙嗆嗓子	ciang3「油煙嗆人」,ciang1「吃飯嗆着」	
 嗇	啬	sik1		sik1	sik2	
 嗈	嗈	jung1		jung1	oeng1	
-嗉	嗉	slu3「嗉囊」	(語)slyu3「雞嗉」,(又)slui3「雞嗉」	sou3	slu3「嗉囊」	(語)slyu3「雞嗉」
+嗉	嗉	slu3「嗉囊」	(語)slui3「雞嗉」,(又)slyu3「雞嗉」	sou3	slu3「嗉囊」	(語)slyu3「雞嗉」
 嗊	唝	gung3「嗊吥」,hung2「羅嗊」		gung3,hung2	goeng3「嗊吥」,hoeng2「羅嗊」	
 嗌	嗌	aai3「罵；喊叫」,jik1「咽喉」		aai3,jik1	aai3「罵；喊叫」,ik2「咽喉」	
 嗍	嗍	sok3「吮吸，本字欶」		sok3	sok2「吮吸，本字欶」	
@@ -1307,7 +1306,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 嗖	嗖	sau1		sau1	sau1	
 嗗	嗗	gut6「～茶，喝茶」	(語)got6「～～聲，吞咽聲，引申作喝，又作𣢯字」	gut6	gut6	(語)got6「飲水聲，引申作喝，又作𣢯字」,(又)got3「飲水聲」
 嗚	呜	wu1		wu1	wu1	
-嗜	嗜	si3		si3	si3	
+嗜	嗜	si3		si3	si6	(又)si3
 嗝	嗝	gaak3		gaak3	giak2	
 嗞	嗞	zi1	(老派)zy1	zi1	zi1	
 嗟	嗟	ze1		ze1	ze1	
@@ -1374,7 +1373,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 嘽	啴	taan1「嘽嘽」,cin2「寬舒」		taan1,cin2	taan1「嘽嘽」,cin2「寬舒」	
 嘿	嘿	hi1「笑聲」,mak6「同默字」		hei1；默的本字	hi1「笑聲」,mak5「同默字」	
 噀	噀	slan3	(老派)slyun3	seon3	slun3	
-噁	𫫇	ok3「噁心」,wu3「喑噁」		ok3,wu3	aak2「噁心」,wu3「喑噁」	
+噁	𫫇	ok3「噁心；二噁英」,wu3「喑噁」		ok3,wu3	aak2「噁心；二噁英」,wu3「喑噁」	
 噂	噂	zyun2		zyun2	zun2	
 噃	噃	bo3「語氣詞」		bo3	bo3「語氣詞」	
 噅	𠯠	(白)wai1	(文)fai1	fai1	wai1	
@@ -1421,7 +1420,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 嚅	嚅	jyu4		jyu4	jyu4	
 嚆	嚆	haau1		haau1,hou1	haau1	
 嚇	吓	haak3		haak3	hiak2	
-嚊	嚊	bi6		bei6	bi6	(又)bat6,(語)byu5「咇[pɐt2]咇[pɐt2]～～，囉嗦、嘮叨」
+嚊	嚊	bi6「喘息聲」		bei6	bi6「喘息聲；<語>～～咇[pɛt2]咇[pɛt2]，囉嗦、嘮叨」	(又)bat6,(語)byu5「咇[pɐt2]咇[pɐt2]～～，囉嗦、嘮叨」
 嚌	哜	zai6「嚐；<語>罷～，罷了」,gaai1「嚌嚌」		zai6	zai6「嚐」,gaai1「嚌嚌」	
 嚎	嚎	hu4		hou4	haau4	
 嚏	嚏	tai3		tai3	tai3	
@@ -1747,6 +1746,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 夔	夔	kwai4		kwai4	gwai4	
 夕	夕	zik6		zik6	zik6	
 外	外	ngoi6		ngoi6	waai6	
+夗	夗	jyun2		jyun3,jyun2	jyun2	
 夙	夙	sluk1		suk1	sloek2	
 多	多	do1		do1	do1	
 夜	夜	je6		je6	(白)jaa6「半夜」	(文)je6「夜來香」
@@ -1884,7 +1884,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 婁	娄	lau4		lau4	lau4	
 婄	婄	pau3「鬆軟，又作䋨字」		pau3	pau3「鬆軟，又作䋨字」	
 婆	婆	po4		po4	bu4	
-婉	婉	wun2	(又)jyun2	jyun2	wun2	(又)jyun2
+婉	婉	(習)wun2	(書)jyun2	jyun2	wun2	(又)jyun2
 婊	婊	biu2		biu2	biu2	
 婌	婌	suk6		suk6	soek6	
 婍	婍	ji2	(又)ki2	kei2,ji2	ji2	(又)ki2
@@ -1973,7 +1973,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 嬡	嫒	oi3		oi3	aai3	
 嬤	嬷	maa1	(又)mo1	maa1,mo1	maa3	(又)mo1
 嬥	嬥	tiu4「身材修長而美好」,diu6「嬥嬈」		tiu4,tiu5	diu4「身材修長而美好」,diu6「嬥嬈」	
-嬪	嫔	ban3	(又)pan4	ban3	ban3	(又)ban4
+嬪	嫔	pan4	(常)ban1	ban3	ban4	(常)ban1
 嬬	嬬	jyu4		jyu4	jyu4	
 嬭	嬭	naai5		naai5	naai5	
 嬰	婴	jing1		jing1	ing1	
@@ -2000,7 +2000,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 孝	孝	haau3		haau3	haau3	
 孟	孟	maang6		maang6	maang5	(老派)miang6
 孢	孢	baau1		baau1	baau1	
-季	季	gwai3		gwai3	gi3	
+季	季	gwai3		gwai3	gwai3	
 孤	孤	gu1		gu1	gu1	
 孥	孥	nu4		nou4	nu4	
 孩	孩	haai4		haai4	haai4	
@@ -2010,7 +2010,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 孰	孰	suk6		suk6	soek6	
 孱	孱	saan4「孱弱」,caan3「孱頭」		saan4；caan3孱頭	saan4「孱弱」,caan3「孱頭」	
 孳	孳	zi1	(老派)zy1	zi1	zi1	
-孵	孵	fu1		fu1	fu1	
+孵	孵	fu1		fu1	fu1	(又)fu4
 學	学	hok6		hok6	haak6	
 孺	孺	jyu4		jyu4	jyu4	
 孻	𡥧	laai1「粵字，最後的」		laai1	laai1「粵字，最後的」	
@@ -2033,7 +2033,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 官	官	gun1		gun1	gun1	
 宙	宙	zau6		zau6	zau6	
 定	定	ding6「穩定」	(白)deng6「鎮靜；地方，俗字埞」	ding6	ding6「穩定」	
-宛	宛	wun2	(又)jyun2	jyun2；(古地名)jyun1大宛	wun2	(又)jyun2
+宛	宛	(習)wun2	(書)jyun2	jyun2；(古地名)jyun1大宛	wun2	(又)jyun2
 宜	宜	ni4	(又)ji4	ji4	ni4	
 客	客	haak3		haak3	hiak2	
 宣	宣	slyun1		syun1	slyun1	
@@ -2071,7 +2071,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 寢	寝	cam2		cam2	cam2	
 寤	寤	ng6		ng6	ng6	(老派)ngu6
 寥	寥	liu4「寂寥」	(白)leu1「空～～，空蕩蕩」	liu4	liu4「寂寥」	(白)leu3「空～～，空蕩蕩」
-實	实	sat6		sat6	sat6	
+實	实	sat6	(語)set6「白～～」	sat6	sat6	
 寧	宁	ning4		ning4	ning4	
 寨	寨	zaai6		zaai6	zaai6	
 審	审	sam2		sam2	sam2	
@@ -2296,7 +2296,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 巰	巯	kau4		kau4	gau4	
 己	己	gi2	(白)gi1「自己」	gei2	gi2	
 已	已	ji5		ji5	ji5	
-巳	巳	zi6	(老派)zy6	zi6	zi6	
+巳	巳	si6	(老派)sy6	zi6	zi6	
 巴	巴	baa1「巴結」	(語)paa4「下巴，又作下扒」,(語)maa1「～望[mʊŋ35]，原讀的逆同化」,(語)baa6「冚～唥，同冚𠾴（唪）唥，全部，又進而弱讀[pɐ22]」	baa1	baa1「巴結」	(語)baa4「下巴，又作下扒」,(語)maa1「～望[moŋ22]，原讀的逆同化」,(語)baa6「冚～唥，同冚𠾴（唪）唥，全部，又進而弱讀[pɐ22]」
 巵	巵	zi1		zi1	zi1	
 巷	巷	(白)hong2「街巷」	(文)hong6「石巷口，地名」	hong6	haang6	
@@ -2442,7 +2442,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 弓	弓	gung1		gung1	goeng1	
 弔	吊	diu3		diu3	diu3	
 引	引	jan5		jan5	jan5	
-弗	弗	fat1	(又)fat6	fat1	fat2	(又)fat6
+弗	弗	fat1	(常)fat6	fat1	fat2	(又)fat6
 弘	弘	hung4		wang4	hoeng4	
 弛	弛	ci4		ci4	zi4	
 弟	弟	dai6「徒弟，兄弟」	(白)di2「弟[ti21]～；鋤大～」	dai6；(古)同悌tai5	dai6「徒弟，兄弟」	(又)dai5「老弟」
@@ -2480,7 +2480,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 彧	彧	juk1		juk1	joek2	
 彩	彩	coi2		coi2	caai2	
 彪	彪	biu1		biu1	biu1	
-彫	雕	diu1	(又)tiu1	diu1；(又)tiu1	diu1	
+彫	雕	diu1「彫刻；同凋字」	(又)tiu1「彫刻，罕讀」	diu1；(又)tiu1	diu1「彫刻；同凋字」	
 彬	彬	ban1		ban1	ban1	
 彭	彭	paang4		paang4	bang4	
 彰	彰	zoeng1		zoeng1	ziang1	
@@ -2514,11 +2514,11 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 御	御	jyu6		jyu6；ngaa6百輛御之	jyu6	
 徥	徥	si6	(又)zi6	si6,zi6	si6	(又)zi6
 徨	徨	wong4		wong4	hung4	
-復	复	fuk1	(又)fuk6	1)fuk6:復仇 2)fuk1:回復 3)fau6:不復回	foek2	(又)foek6
+復	复	fuk1「恢復；往復」		1)fuk6:復仇 2)fuk1:回復 3)fau6:不復回	foek2「恢復；往復」	
 循	循	can4	(老派)slyun4,(又)slan4	ceon4	slan4	
 徬	徬	pong4		pong4	baang4	
 徭	徭	jiu4		jiu4	jiu4	
-微	微	mi4		mei4	mi4	
+微	微	mi4「細微，微波爐，稍微（口語用稍爲[wɐi˨˩]）」		mei4	mi4「細微，微波爐，稍微（口語用稍爲[wɐi˨˩]）」	
 徵	征	zing1「徵求」		zing1:徵求	zing1「徵求」	
 徵	徵	zi2「五音之一」		zi2:宮商角徵羽	zi2「五音之一」	
 德	德	dak1		dak1	dak2	
@@ -2537,7 +2537,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 忔	忔	ngat6「心不欲」,hat1「喜」	(語)nget1「～失[ʃɛt5]，吝嗇，與齞對轉」,(語)ngat1「～失[ʃɐt5]，吝嗇，與齦對轉」	ngat6	ngat6「心不欲」,hat2「喜」	(語)nget2「～失[ʃɛt3]，吝嗇，與齞對轉」
 忖	忖	cyun2		cyun2	cun2	
 志	志	zi3		zi3	zi3	
-忘	忘	mong6	(又)mong4	mong4	mung6	(又)hung6
+忘	忘	mong6	(又)mong4	mong4	mung6	
 忙	忙	mong4		mong4	maang4	
 忝	忝	tim2		tim2	tim2	
 忞	忞	man4		man4	man4	(老派)fan4
@@ -2546,7 +2546,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 忣	忣	gap1		gap1	gap2	
 忤	忤	ng5		ng5	ng5	(老派)ngu5
 忪	忪	slung1「惺忪」,zung1「怔忪」		sung1,zung1	sloeng1「惺忪」,zoeng1「怔忪」	
-快	快	faai3	(白)waai3「郊區多讀」	faai3	waai3	
+快	快	faai3	(白)waai3「郊區多讀」	faai3	waai3	(又)kwaai3
 忭	忭	bin6		bin6	bin6	
 忮	忮	zi3		zi3	zi3	
 忯	忯	ki4「忯忯；敬也」,si6「恃也」		kei4,si6	gi4「忯忯；敬也」,si6「恃也」	
@@ -2627,7 +2627,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 悒	悒	jap1	(語)jaap1「心～，心煩，古壯字⿰忄夹」	jap1	jap2	(語)njaap3「心～，心煩，古壯字⿰忄夹」
 悔	悔	fui2		fui3	hui2	
 悖	悖	bui6		bui6	bui6	
-悘	悘	ji1「審」,ai3「恭敬；安靜；<語>心情煩悶，又作翳/㜇字」		ji1,ai3	ji1「審」,ai3「恭敬；安靜」	
+悘	悘	ji1「審」,ai3「恭敬；安靜；<語>心情煩悶，又作翳/曀/㜇字」		ji1,ai3	ji1「審」,ai3「恭敬；安靜」	
 悚	悚	slung2		sung2	sloeng2	
 悛	悛	slyun1		syun1	slyun1	
 悝	悝	li5「憂傷」,fui1「嘲笑；詼諧」		lei5,fui1	li5「憂傷」,hui1「嘲笑；詼諧」	
@@ -2684,7 +2684,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 愃	愃	slyun1		syun2,hyun1	slyun1	
 愆	愆	hin1		hin1	hyun1	(又)hin1
 愈	愈	jyu6		jyu6	jyu6	
-愉	愉	jyu4		jyu4	jyu4	
+愉	愉	jyu4	(又)jyu6	jyu4	jyu4	
 愊	愊	bik1		bik1	bik2	
 愍	愍	man5		man5	man5	
 愎	愎	bik1		bik1	bik2	
@@ -2803,7 +2803,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 戈	戈	go1		gwo1	gu1	
 戊	戊	mu6		mou6	mu6	
 戌	戌	slat1	(老派)slyut1	seot1	slat2	
-戍	戍	syu3		syu3	syu3	
+戍	戍	syu3	(又)slyu1,(語)sloe1「～住，纏住」	syu3	syu3	
 戎	戎	jung4		jung4	joeng4	
 成	成	sing4「成功」	(白)seng4「成日，冇成」,(又)cing4「成數，幾成」	sing4	sing4	
 我	我	ngo5		ngo5	ngo5	
@@ -2913,8 +2913,8 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 押	押	aap3		aat3；畫押又讀aap3	aap2	
 抽	抽	cau1		cau1	cau1	
 抿	抿	man5「抿酒」	(語)man2「擦拭，又作抆字」,(語)men2「稍稍合攏，～嘴」	man5	man5「抿酒」	(語)man2「擦拭，又作抆字」,(語)men2「稍稍合攏，～嘴」
-拂	拂	fat1「拭；甩；<語>摔，又作𧿳字」	(白)pat1「撣、拂去」,(又)fat6,(語)faat6「用鞭抽」	fat1；(古)同弼	fat2「拭；甩；<語>摔，又作𧿳字」	(白)pat2「撣、拂去」,(又)fat6
-拃	拃	zaa6「掗拃，佔地、霸道，本字或爲槎」,zaa3「測長度；量詞」		zaa6,zaa3	zaa6「掗拃，佔地、霸道，本字或爲槎」,zaa3「測長度；量詞」	
+拂	拂	fat1「拭；甩；<語>摔，又作𧿳字」	(白)pat1「撣、拂去」,(常)fat6,(語)faat6「用鞭抽」	fat1；(古)同弼	fat2「拭；甩；<語>摔，又作𧿳字」	(白)pat2「撣、拂去」,(又)fat6
+拃	拃	zaa6「掗拃，佔地、霸道，疑本字槎」,zaa3「測長度；量詞」		zaa6,zaa3	zaa6「掗拃，佔地、霸道，疑本字槎」,zaa3「測長度；量詞」	
 拄	拄	zyu2	(又)cyu5	zyu2	zyu2	(又)zyu5
 拆	拆	caak3		caak3	ciak2	
 拇	拇	mu5		mou5	mu5	
@@ -3007,7 +3007,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 捷	捷	zit6		zit6	zit6	(又)zyut6
 捹	捹	ban3「手亂貌；<語>旋轉，～囉囉，團團轉，又作逩字，古壯字⿰車奔」,fing3「甩，與𠱥對轉」		fing6,ban3	ban3「手亂貌；<語>旋轉，～囉囉，團團轉，又作逩字，古壯字⿰車奔」,fing3「甩，與𠱥對轉」	
 捺	捺	naat6	(常)naat3「撇捺，前字調感染」	naat6	naat5	(又)naat2,(語)not3「搓，～老泥」
-捻	捻	(白)nen2「摁，與捏對轉」,nip6「捏」,nim1「同拈字；同棯字」	(文)nin2,(語)nan2「擺弄」	nin2；(又)nim2 (語)nan2	(白)nen2「摁，與捏對轉」,nip5「捏」,nim1「同拈字；同棯字」	(文)nin2,(語)nan2「擺弄」,(又)nen5
+捻	捻	(白)nen2「同撚字，摁，與捏對轉」,nip6「捏」,nim1「同拈字；同棯字」	(文)nin2,(語)nan2「同撚字，擺弄」	nin2；(又)nim2 (語)nan2	(白)nen2「同撚字，摁，與捏對轉」,nip5「捏」,nim1「同拈字；同棯字」	(文)nin2,(語)nan2「同撚字，擺弄」,(又)nen5
 捼	捼	no1「搓，又作挼字」		no4	nu1「搓，又作挼字」	
 捽	捽	zat1「拭，同揤字」,zyut6「揪」		zeot1,zyut6	zat2「拭，同揤字」,zat6「揪」	
 掀	掀	hin1「掀起，與揭對轉」		hin1	hyun1「掀起，與揭對轉」	(又)hin1
@@ -3024,7 +3024,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 掌	掌	zoeng2		zoeng2	ziang2	
 掎	掎	gi2	(又)ji2	gei2	gi2	(又)ji2
 掏	掏	tu4		tou4	daau4	
-掐	掐	haap3	(語)kaa1「掐，又作拤/揢/抲字」,(語)caa1「掐，又作揢字」	haap3	haap2	(語)kaa1「掐，又作拤/揢/抲字」
+掐	掐	haap3	(語)kaa1「掐，又作拤/揢/抲字」,(語)caa1「掐，又作叉/扠/揢字」	haap3	haap2	(語)kaa1「掐，又作拤/揢/抲字」
 排	排	paai4		paai4	baai4	
 掔	掔	haan1	(又)hin1	haan1,hin1	haan1	(又)hin1,(又)hyun1
 掕	掕	ling4	(語)lang4「攔截，與㪐/勒對轉」	ling4,lang3	ling4	(語)lang4「攔截，與㪐/勒對轉」
@@ -3033,7 +3033,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 掘	掘	gwat6		gwat6	gwat6	
 掙	挣	zaang1	(又)zang1	1)zang1:掙扎 2)zaang6:掙錢	ziang1	
 掛	挂	gwaa3		gwaa3	gwaa3	
-掝	掝	waak6「裂開」,kwik1「破裂聲」	(語)wak6「揮動，疑本字劃」,(語)jak6「～手，擺手，疑本字劃；移～，不穩重」	waak6,kwik1	waak6「裂開」,kwik2「破裂聲」	(語)waak5「招手，疑本字劃」,(語)jak6「浮[pɐu21˩]游踣～，工作不穩定，無工做而游逛」
+掝	掝	waak6「裂開」,kwik1「破裂聲」	(語)wak6「揮動，疑本字劃」,(語)jak6「～手，擺手，疑本字劃；移～，不穩重」	waak6,kwik1	waak6「裂開」,kwik2「破裂聲」	(語)waak5「招手，疑本字劃」,(語)jak6「浮[pɐu21]游踣～，工作不穩定，無工做而游逛」
 掞	掞	sim3「舒展」,jim6「照耀」		sim3,jim5	sim3「舒展」,jim6「照耀」	
 掟	掟	deng3「擲、扔，與扚對轉」		deng3	ding6	(語)diang3「擲、扔，與扚對轉」
 掠	掠	loek6		loek6	liak5	
@@ -3077,7 +3077,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 揞	揞	am2「用手捂，與搕對轉」		am2	am2「用手捂，與搕對轉」	(又)aam2
 揠	揠	aat3		aat3	aat2	
 握	握	ak1		ak1	oek2	
-揢	揢	haak3「以手把着」,kik1「阻礙、絆，本字棘」,kaa1「掐，又作拤/抲字」	(語)kak1「卡，與哽/鯁/骾對轉；坎、階；<量>塊」,(又)caa1「掐」	kik1,kaa1	hiak2「以手把着」,kik2「阻礙、絆，本字棘」,kaa1「掐，又作拤/抲字」	(語)kak2「卡，與哽/鯁/骾對轉；坎、階；<量>塊」
+揢	揢	haak3「以手把着」,kik1「阻礙、絆，本字棘」,kaa1「掐，又作拤/抲字」	(語)kak1「卡，與哽/鯁/骾對轉；坎、階」,(又)caa1「掐，又作叉/扠/掐字」,(語)kek1「白讀，樓梯一～一～，樓梯一階一階」	kik1,kaa1	hiak2「以手把着」,kik2「阻礙、絆，本字棘」,kaa1「掐，又作拤/抲字」	(語)kak2「卡，與哽/鯁/骾對轉；坎、階」
 揣	揣	cui2	(又)cyun2	cyun2；(又)ceoi2	cui2	(又)cyun2
 揤	揤	zat1「捽；拭」		zat1,zeot1	zat2「捽；拭」	
 揦	揦	laa2「抓、攬，與擸/拉對轉」,laat3「塗抹」		laa2	laa5「聚斂，與擸/拉對轉；挽起」,lat2「摘取，～辣椒」	
@@ -3145,7 +3145,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 摏	摏	cung1		zung1	coeng1	
 摑	掴	gwaak3		gwaak3	gwaak2	
 摒	摒	bing3		bing3	bing3	
-摔	摔	slat1	(老派)slyut1,(又)soi1	seot1	slat2	(又)sui1
+摔	摔	slat1「摔手」	(老派)slyut1,(又)soi1「摔倒」,(又)saai6「摔跤」	seot1	slat2	(又)sui1
 摘	摘	zaak6		zaak6	ziak2	
 摙	摙	lin5「擔；運」,lin6「按」		lin5	lin5「擔；運」,lin6「按」	
 摛	摛	ci1		ci1	ci1	
@@ -3176,7 +3176,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 撂	撂	liu1「放下」,loek6「掠取，本字㨼」		liu1,loek6	liu1「放下」,liak5「掠取，本字㨼」	
 撅	撅	kyut3	(語)goe1「～屎窟，撅屁股，又作啹字」	kyut3	kyut2	
 撇	撇	pit3		pit3	pit2	
-撈	捞	(白)lu1「攪拌；～世界，闖江湖」,(白)laau1「～籬[li55]；～佬，北方人的俗稱，本字老」,(白)leu1「探取」,(白)leu4「～起」	(文)laau4「打～；～籬[li21]」	1)laau4:打撈 2)lou1:撈本兒	(白)laau1「攪拌；摻合」	(文)laau4「打～；～籬[li21]」
+撈	捞	(白)lu1「攪拌；～世界，闖江湖」,(白)laau1「～籬[li55]；～佬，北方人的俗稱，本字老」,(白)leu1「探取」,(白)leu4「攪拌」	(文)laau4「打～；～籬[li21]」	1)laau4:打撈 2)lou1:撈本兒	(白)laau1「攪拌；摻合」	(文)laau4「打～；～籬[li21]」
 撉	撉	dan1	(又)dan3	dan3,deon1	dan1	(又)dan3
 撍	撍	cim4「拔、抽，又作撏字」		cim4	zim4「拔、抽，又作撏字」	
 撏	挦	cam4「撏扯」,cim4「拔、抽，又作撍字」		cam4,cim4	zam4「撏扯」,zim4「拔、抽，又作撍字」	
@@ -3265,7 +3265,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 攄	摅	syu1		syu1	syu1	
 攆	撵	(白)nen2	(文)nin2,(書)lin5	lin5	(白)nen2	(文)nin2,(書)lin5
 攉	攉	kok3		fok3	kuk2	(白)kaak2
-攋	𪮶	laai6	(語)laai5「～尿，又作瀨/落字」	laai6	laai6	(語)laai5「～尿，又作瀨/落字」
+攋	𪮶	laai6「毀壞」	(語)laai5「～尿，又作瀨/落字」	laai6	laai6「毀壞」	(語)laai5「～尿，又作瀨/落字」
 攏	拢	lung5	(又)lung2	lung5	loeng5	(又)loeng2
 攐	攐	hin1	(語)kin1「掀開，又作褰字，或掀字白讀」	hin1	hyun1	(又)hin1
 攑	攑	hin1		hin1	hyun1	(又)hin1
@@ -3292,7 +3292,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 攲	攲	ki1		kei1	ki1	
 攴	攴	pok3		pok3	puk2	
 收	收	sau1		sau1	sau1	
-攷	考	haau2「同考字」		haau2	kaau2「同考字」	
+攷	考	haau2		haau2	kaau2	
 攸	攸	jau4		jau4	jau4	
 改	改	goi2		goi2	gaai2	
 攻	攻	gung1		gung1	goeng1	
@@ -3337,7 +3337,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 斃	毙	(習)bi6	(書)bai6	bai6	bi6	
 斅	斅	haau6「教導」,hok6「學」		haau6,hok6	haau3「教導」,haak6「學」	
 斆	敩	haau6「教導」,hok6「學」		haau6,hok6	haau3「教導」,haak6「學」	
-文	文	man4「文化」	(語)man1「一文銀」	man4；文過飾非又讀man6	fan4「文化」	(又)man4,(語)man1「一文銀」
+文	文	man4「文化」	(語)man1「一文銀，一元錢」	man4；文過飾非又讀man6	fan4「文化」	(又)man4,(語)man1「一文錢，一元錢」
 斌	斌	ban1		ban1	ban1	
 斐	斐	fi2		fei2	fi2	
 斑	斑	baan1		baan1	baan1	
@@ -3362,7 +3362,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 斶	斶	cuk1		cuk1	coek2	
 斷	断	(白)tyun5「折斷」,dyun3「斷估」	(文)dyun6	1)dyun6:斷絕 2)dyun3:判斷；(語)tyun5折斷	dun5	
 方	方	fong1		fong1	fung1	
-於	于	jyu1「於是」		jyu1；(古)wu1於戲	jyu1「於是」	
+於	于	jyu1「於是，終於」,wu1「於戲，於菟」		jyu1；(古)wu1於戲	jyu1「於是，終於」,wu1「於戲，於菟」	
 施	施	si1		si1；(古)ji6義於子孫	si1	
 旁	旁	pong4		pong4；(古)同傍bong6	baang4	
 旂	旗	ki4		kei4	gi4	
@@ -3378,9 +3378,10 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 旒	旒	lau4		lau4	lau4	
 旖	旖	ji2		ji2	ji2	
 旗	旗	ki4		kei4	gi4	
-旞	旞	sui6		seoi6	sui6	
+旞	旞	sui6		seoi6	sui6	(又)slui6
 旟	旟	jyu4		jyu4	jyu4	
 既	既	gi3		gei3	gi3	
+旣	既	gi3		gei3	gi3	
 日	日	jat6	(語)mat6「今日，前字順同化」	jat6	njat5	(語)mat6「今日，前字順同化」
 旦	旦	daan3		1)daan3:元旦 2)daan2:花旦	daan3	
 旨	旨	zi2		zi2	zi2	
@@ -3401,7 +3402,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 昃	昃	zak1		zak1	zak2	
 昄	昄	baan2		baan2,baan6	baan2	
 昆	昆	kwan1		kwan1；(又)gwan1	kwan1	
-昇	升	sing1		sing1	sing1	
+昇	昇	sing1		sing1	sing1	
 昈	昈	wu6		wu6	hu6	
 昉	昉	fong2		fong2	fung2	
 昊	昊	hu6		hou6	haau6	
@@ -3452,7 +3453,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 晡	晡	bu1		bou1	bu1	
 晢	晢	zit3	(又)zai3	zai3,zit3	zyut2	(又)zai3,(又)zit2
 晤	晤	ng6		ng6	ng6	(老派)ngu6
-晦	晦	fui3		fui3	hui3	
+晦	晦	fui3	(常)fui2	fui3	hui3	
 晨	晨	san4		san4	san4	
 晪	晪	tin2	(又)dim2	tin2	tin2	(又)dim2
 晫	晫	zoek3	(又)zok3	zoek3	zoek2	(又)zuk2
@@ -3472,7 +3473,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 暇	暇	haa6		haa6	jaa6	
 暈	晕	wan4「頭暈」,wan1「暈車」,wan6「日暈」		1)wan6:日暈 2)wan4:頭暈	wan4「頭暈」,wan1「暈車」,wan6「日暈」	
 暉	晖	(白)wai1	(文)fai1	fai1	wai1	(又)kwai1
-暋	暋	man5「強橫；勉強；<語>刀鈍，古壯字⿰平刂，疑本字歾」		man5	man5「強橫；勉強；<語>刀鈍，古壯字⿰平刂，疑本字歾」	
+暋	暋	man5		man5	man5	
 暌	暌	kwai4		kwai4	gwai4	
 暐	𬀩	wai2		wai5	wai2	
 暑	暑	syu2		syu2	syu2	
@@ -3526,7 +3527,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 替	替	tai3		tai3	tai3	
 最	最	zui3		zeoi3	zui3	
 朁	朁	caam2		caam2	caam2	
-會	会	wui6「開會；會計」,wui5「學會」		1)wui6:會師，會計 2)wui5:學會了；(古)kui2會稽，會計又讀kui2	wai6	
+會	会	wui6「開會；會計」,wui5「學會，語流中易讀陰去」	(白)wui2「委員會，大會堂」	1)wui6:會師，會計 2)wui5:學會了；(古)kui2會稽，會計又讀kui2	wai6	
 朆	朆	fan1	(語)mang4「未曾的合音，方言字⿰未曾」	fan1	fan1	(語)mang4「未曾的合音，方言字⿰未曾」
 月	月	jyut6		jyut6	njyut5	
 有	有	jau5		jau5；(古)同又	jau5	
@@ -3591,7 +3592,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 杲	杲	gu2		gou2	gaau2	
 杳	杳	miu5		miu5；(又)jiu2	miu5	
 杴	杴	hin1「農具名，又作𣔙/鍁字」	(又)him1	hin1	hyun1「農具名，又作𣔙/鍁字」	(又)hin1,(又)him1
-杵	杵	cyu5		cyu5	cyu2	
+杵	杵	cyu5		cyu5	cyu2	(又)cyu5
 杷	杷	paa4		paa4	baa4	
 杻	杻	cau2「古刑具，似手銬」,nau2「木名」		cau2,nau2	cau2「古刑具，似手銬」,nau2「木名」	
 杼	杼	cyu5		cyu5	zyu5	
@@ -3736,7 +3737,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 梩	梩	li4		lei4	li4	
 梭	梭	slo1		so1	slo1	
 梯	梯	tai1		tai1	tai1	
-械	械	haai6		haai6	gaai3	
+械	械	haai6		haai6	gaai3	(又)haai6
 梲	棁	zyut3「梁上的短柱」,tyut3「杖」		zyut3,tyut3	zyut2「梁上的短柱」,tut2「杖」	
 梳	梳	so1		so1	su1	
 梴	梴	cin1		cin1	cin1	
@@ -3933,7 +3934,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 檐	檐	jim4	(白)jam4	sim4,jim4	jim4	(白)jam4
 檑	檑	lui4		leoi4	lui4	
 檔	档	dong3「大排檔」,dong2「檔案」		1)dong2:檔案 2)dong3:一檔子事	daang3「大排檔」,daang2「檔案」	
-檗	檗	paak3	(又)baak3	baak3,paak3	piak2	(又)biak2
+檗	檗	(白)paak3	(文)baak3	baak3,paak3	(白)piak2	(文)biak2
 檜	桧	kwai3	(又)kui3	kui2	kwai3	
 檞	檞	gaai2	(又)haai5	gaai2,haai5	gaai2	(又)haai5
 檟	槚	gaa2		gaa2	gaa2	
@@ -4001,7 +4002,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 欽	钦	ham1		jam1	ham1	
 款	款	fun2		fun2	hon2	(又)kon2
 欿	欿	ham2「貪」,daam6「坎欿」		ham2	haam2「貪」,daam6「坎欿」	
-歃	歃	slaap3		saap3	slaap2	
+歃	歃	slaap3「歃血；<語>猛咬（一口），又作喢/𠿓字」		saap3	slaap2「歃血；<語>猛咬（一口），又作喢/𠿓字」	(語)slaap6「～得，食欲好、能吃，又作喢/𠿓字」
 歄	歄	gwaa1「弱貌；<語>死亡」		gwaa1	gwaa1「弱貌；<語>死亡」	
 歅	歅	jan1		jan1	an1	
 歆	歆	ham1		jam1	ham1	
@@ -4052,7 +4053,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 殫	殚	daan1		daan1	daan1	
 殭	僵	(白)koeng1	(文)goeng1	goeng1	kiang1	
 殮	殓	lim6	(又)lim5	lim5	lim5	
-殯	殡	ban3	(又)ban1	ban3	ban3	(又)ban1
+殯	殡	ban3	(常)ban1	ban3	ban3	(常)ban1
 殲	歼	cim1		cim1	cim1	
 殳	殳	syu4		syu4	syu4	
 段	段	dyun6		dyun6	dun6	
@@ -4072,7 +4073,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 每	每	mui5		mui5	mui5	
 毐	毐	oi2		oi2	aai2	
 毑	毑	ze2		ze2	ze2	
-毒	毒	duk6	(語)dau6「以藥毒殺，本字酘（即投）」	duk6；(古地名)duk1身毒	doek6	
+毒	毒	duk6「毒蛇」	(白)dau6「以藥毒殺，～老鼠，又作酘字」	duk6；(古地名)duk1身毒	doek6	
 毓	毓	juk1		juk1	njoek5	
 比	比	bi2		1)bei2:比較 2)bei3:比鄰；朋比又讀bei6	bi2	
 毖	毖	bi3		bei3	bi3	
@@ -4171,7 +4172,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 沇	沇	jin5		jin5	jin5	
 沈	沈	sam2「姓」,cam4「沈沒」		1)cam4:浮沈 2)sam2:姓沈	sam2「姓」,zam4「沈沒」	
 沉	沉	cam4	(語)zam6「～水，溺水，本字沈」	cam4,zam6	zam4	(語)zam6「往水裏按，本字沈」
-沊	沊	dam2「落水聲，或作潭字」		dam2	dam5「落水聲，或作潭字」	
+沊	沊	dam2「落水聲，或作丼/潭字」		dam2	dam5「落水聲，或作丼/潭字」	
 沌	沌	dan6		deon6	dan6	
 沏	沏	cai3「沏茶」,cit3「水聲」		cit3,cai3	cai3「沏茶」,cit2「水聲」	
 沐	沐	muk6		muk6	moek5	
@@ -4218,7 +4219,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 泚	泚	ci2	(老派)cy2	ci2	ci2	
 泛	泛	faan3		faan3	faan3	
 泜	泜	ci4「水名，在河北」,zi1「泜河」,zi6「水名，在河南」		ci4,zi1,zi6	zi4「水名，在河北」,zi1「泜河」,zi6「水名，在河南」	
-泝	溯	slu3	(又)slok3	sou3	slu3	(又)slaak2
+泝	泝	slu3		sou3	slu3	
 泞	泞	ning6		ning6	ning6	
 泠	泠	ling4		ling4	ling4	
 泡	泡	paau1「量詞；虛鬆不實，本字穮」,paau3「浸泡」,pu5「泡沫」	(白)peu1「量詞」,(白)peu3「起泡」,(語)bok1「泡、皰，又作𦢊/㿺字」	1)paau1:一泡尿，燈泡 2)pou5:泡沫 3)paau3:泡影；泡影又讀pou5	paau1「量詞；虛鬆不實，本字穮」,paau3「浸泡」,paau5「泡沫」	(語)buk3「泡、皰，又作𦢊/㿺字」
@@ -4268,7 +4269,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 洵	洵	slan4	(老派)slyun4	seon1	slan4	
 洶	汹	hung1		hung1	hoeng1	
 洸	洸	gong1		gwong1	gung1	
-洹	洹	wun4	(又)jyun4	wun4,jyun4	wun4	(又)jyun4
+洹	洹	wun4		wun4	wun4	
 洺	洺	ming4		ming4	ming4	
 活	活	wut6		wut6	wat6	
 洼	洼	waa1		waa1	waa1	
@@ -4285,7 +4286,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 浠	浠	hi1		hei1	hi1	
 浡	浡	but6		but6	but6	
 浣	浣	wun5		wun2,wun5	wun5	
-浥	浥	jap1	(語)ap1「浥汁，陰暗潮溼」	jap1	jap2	(語)ap2「合在一起漚」
+浥	浥	jap1「溼潤」	(語)ap1「～汁，陰暗潮溼」	jap1	jap2「溼潤」	(語)ap2「掩埋；合在一起漚」
 浦	浦	pu2		pou2	pu2	
 浩	浩	hu6		hou6	haau6	
 浪	浪	long6		long6；(水名)long4滄浪	laang6	
@@ -4391,14 +4392,14 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 渭	渭	wai6		wai6	wai6	
 港	港	gong2		gong2	gaang2	
 渰	渰	jim2		jim2	jim2	
-渲	渲	slyun3		hyun1,syun3	slyun3	
+渲	渲	slyun3	(又)slyun1	hyun1,syun3	slyun3	(又)slyun1
 渳	渳	mi5	(語)mi1「小口喝」	mai5	mi5	(語)mi1「小口喝」
 渴	渴	hot3	(語)git6「（粥）稠，後作竭，俗字𠹳」	hot3	haat2	(語)gat6「（粥）稠，後作竭，俗字𠹳」
 游	游	jau4		jau4	jau4	
 渺	渺	miu5		miu5	miu5	
 渼	渼	mi5	(又)mai5	mei5	mai5	
 渾	浑	wan4		wan4	wan4	
-湃	湃	paai3	(舊)baai3	baai3	paai3	(舊)baai3
+湃	湃	baai3	(又)paai3	baai3	baai3	(又)paai3
 湄	湄	mi4		mei4	mi4	
 湆	湆	jap1「幽溼」	(語)nap6「溼湆湆，與淰對轉，又作𣲷字」	jap1,nap6	jap2「幽溼」	(語)nap6「溼湆湆，與淰對轉，又作𣲷字」
 湉	湉	tim4		tim4	dim4	
@@ -4433,7 +4434,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 準	准	zan2	(老派)zyun2	zeon2	zan2	
 溘	溘	hap6		hap6	haap6	
 溚	溚	taap3「焦油舊稱；古水名」,daap3「溼」		taap3,dap6	taap2「焦油舊稱；古水名」,daap2「溼」	
-溜	溜	lau6「急溜」,liu1「溜走，溜冰」		lau6	lau6「急溜」,liu1「溜走，溜冰」	
+溜	溜	lau6「急溜，順口溜」,liu1「溜走，溜冰」		lau6	lau6「急溜，順口溜」,liu1「溜走，溜冰」	
 溝	沟	gau1		kau1	gau1	
 溞	溞	slu1		sou1	slaau1	
 溟	溟	ming4		ming4	ming4	
@@ -4446,7 +4447,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 溪	溪	kai1		kai1	kai1	
 溫	温	wan1		wan1	wan1	
 溮	浉	si1	(老派)sy1	si1	sai1	
-溯	溯	slu3	(又)slok3	sou3	slu3	
+溯	溯	(習)slok3「讀同朔」	(書)slu3	sou3	slu3	
 溱	溱	zan1「溱頭河」,can4「溱潼」		ceon4,zeon1	zan1「溱頭河」,zan4「溱潼」	
 溲	溲	sau1		sau1	sau1	
 溳	涢	wan4		wan4	wan4	
@@ -4571,7 +4572,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 澂	澂	cing4「同澄字」		cing4	zing4「同澄字」	
 澄	澄	cing4「澄清」,dang6「使液體裏的雜質沉澱」		cing4	zing4「澄清」,dang6「使液體裏的雜質沉澱」	
 澆	浇	giu1		giu1	giu1	
-澇	涝	lu6	(又)lu4	lou6	laau6「旱澇；<語>溢出」	(又)laau4「旱澇」
+澇	涝	lu6	(又)lu4	lou6	laau6「旱澇；<語>溢出，𣵰[lɐn22]𣵰[lɐn22]～～，田水滿溢」	(又)laau4「旱澇」
 澈	澈	cit3		cit3	cyut2	(又)cit2
 澉	澉	gaam2		gam2	gaam2	
 澌	澌	si1	(老派)sy1,(語)sli1「陰～～，天氣陰沉或人性格木訥」	si1	sli1	
@@ -4626,9 +4627,9 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 濯	濯	zok6		zok6	zuk6	(又)zoek6
 濰	潍	wai4		wai4	wai4	
 濱	滨	ban1		ban1	ban1	
-濺	溅	zin6「濺水，與瀄/㵶對轉」	(又)zaan6「訓讀灒」	1)zin3:水花四濺 2)zin1:流水濺濺	zin6「濺水，與瀄/㵶對轉」	(又)zaan6「訓讀灒」
+濺	溅	zin6「濺水，與瀄/㵶對轉」	(又)zaan6「訓讀灒/濽」	1)zin3:水花四濺 2)zin1:流水濺濺	zin6「濺水，與瀄/㵶對轉」	(又)zaan6「訓讀灒/濽」
 濼	泺	lok6「濼水」,bok6「同泊字」,lik6「蕨科植物」		lok6	laak5「濼水」,buk6「同泊字」,lik5「蕨科植物」	
-濽	濽	zaan3	(語)zaan6「濺，同灒字」,(語)daan6「濺，同灒字」	zaan3	zaan3	(語)zaan6「濺，同灒字」,(語)zaat3「濺，同灒字」
+濽	𪷽	zaan3	(語)zaan6「濺，同灒字」,(語)daan6「濺，同灒字」	zaan3	zaan3	(語)zaan6「濺，同灒字」,(語)zaat3「濺，同灒字」
 濾	滤	lyu6		leoi6	lyu6	
 瀂	澛	lu5		lou5	lu5	
 瀄	瀄	zit1「擠水射出，與濺對轉」	(白)zet1	zit1	zit3「擠水射出，與濺對轉」	(白)zet3
@@ -4653,7 +4654,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 瀣	瀣	haai6		haai6	haai6	
 瀦	潴	zyu1		zyu1	zyu1	
 瀧	泷	soeng1「瀧水，瀧岡」,lung4「急流的水」		soeng1,lung4	sung1「瀧水，瀧岡」,loeng4「急流的水」	
-瀨	濑	laai6	(語)laai5「～尿，又作攋/落字」	laai6,laai5	laai6	(語)laai5「～尿，又作攋/落字」
+瀨	濑	laai6「急流；瀨粉」	(語)laai5「～尿，又作攋/落字」	laai6,laai5	laai6「急流；瀨粉」	(語)laai5「～尿，又作攋/落字」
 瀰	弥	mi4		nei4；(又)mei4	mi4	
 瀱	瀱	gai3		gai3	gai3	
 瀲	潋	lim6	(又)lim5	lim6	lim5	
@@ -4668,7 +4669,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 灋	灋	faat3「同法字」		faat3	faat2	
 灌	灌	gun3		gun3	gun3	
 灑	洒	slaa2		saa2	slaa2	
-灒	𪷽	zaan3	(語)zaan6「濺」,(語)daan6「濺」	zaan3	zaan3	(語)zaan6「濺」,(語)zaat3「濺」
+灒	𪷽	zaan3	(語)zaan6「濺，又作濽字」,(語)daan6「濺，又作濽字」	zaan3	zaan3	(語)zaan6「濺，又作濽字」,(語)zaat3「濺，又作濽字」
 灓	灓	lyun4		lyun4	lun4	
 灕	漓	li4		lei4	li4	
 灘	滩	taan1		taan1	taan1	
@@ -4792,7 +4793,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 煽	煽	sin3		sin3	sin3	
 熄	熄	slik1		sik1	slik2	
 熅	煴	wan1「無焰的火」,wan6「熨」		wan1,wan6	wan1「無焰的火」,wan3「熨」	
-熇	熇	hok3「烤，又作𤌍字」		hok3	haak2「烤，又作𤌍字」	
+熇	熇	hok3「烤，俗字𤌍」		hok3	haak2「烤，俗字𤌍」	
 熊	熊	jung4		hung4	joeng4	
 熏	熏	(白)wan1	(文)fan1	fan1	wan1	
 熑	熑	lim4	(語)lem1「以火邊緣烤，又作燫字，或源自火鐮」	lim4	lim4	
@@ -4842,7 +4843,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 燠	燠	u3「甚熱」,jyu3「燠休」,juk1「熱」		ou3,jyu3,juk1	aau3「甚熱」,jyu3「燠休」,joek2「熱」	
 燥	燥	cu3		cou3	caau3	
 燦	灿	caan3		caan3	caan3	
-燧	燧	sui6		seoi6	sui6	
+燧	燧	sui6		seoi6	sui6	(又)slui6
 燫	燫	lim4	(語)lem1「以火邊緣烤，又作熑字，或源自火鐮」	lim4	lim4	
 燬	毁	wai2		wai2	wai2	
 燭	烛	zuk1		zuk1	zoek2	
@@ -4930,7 +4931,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 犍	犍	gin3「閹過的牛」,gin6「犍爲縣」		gin1,kin4	gin3「閹過的牛」,gin6「犍爲縣」	
 犏	犏	pin1		pin1	pin1	
 犒	犒	kaau3		hou3	kaau3	
-犖	荦	lok3	(語)lak1「～確[kʰɐk5]，路不平，說話結巴，俗作㪐㩿」	lok3	laak2	(語)lak3「～確[kʰɐk5]，路不平，說話結巴，俗作㪐㩿」
+犖	荦	lok3	(語)lak1「～確[kʰɐk5]，路不平或說話結巴，俗作㪐㩿」	lok3	laak2	(語)lak3「～確[kʰɐk5]，路不平或說話結巴，俗作㪐㩿」
 犛	犛	li4	(又)mu4	lei4	li4	(又)maau4
 犝	犝	tung4		tung4	doeng4「牛犝，未受過訓的小牛」	
 犟	犟	goeng6「固執，又作勥字」		goeng6	giang6「固執，又作勥字」	(語)kiang1「欺負」
@@ -5204,7 +5205,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 璮	璮	taan2		taan2	taan2	
 環	环	waan4「環境」	(白)wen4「耳環」	waan4	waan4	
 璱	璱	slat1		sat1	slat2	
-璲	璲	sui6		seoi6	sui6	
+璲	璲	sui6		seoi6	sui6	(又)slui6
 璵	玙	jyu4		jyu4	jyu4	
 璺	璺	man6「裂痕」	(語)man3「～峻[ɬɐn33]，邊緣；勉強」,(語)men3「～峻[ɬɛn33]，邊緣；勉強」	man6	man6「裂痕」	(語)man3「～峻[ɬɐn55]，邊緣；勉強」,(語)men3「～峻[ɬɛn55]，邊緣；勉強」
 璽	玺	slai2		saai2	slai2	(又)sli2
@@ -5250,7 +5251,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 甥	甥	saang1		sang1；(又)saang1	siang1	
 甦	苏	slu1「甦醒」		sou1	slu1「甦醒」	
 用	用	jung6		jung6	joeng6	
-甩	甩	(訓)lat1「脫落」	(語)saai2「甩手；扔」	lat1	(訓)lat3「脫落」	(語)saai5「甩手；扔」
+甩	甩	(訓)lat1「脫落，訓讀㪐」	(語)saai2「甩手；扔」	lat1	(訓)lat3「脫落，訓讀㪐」	(語)saai5「甩手；扔」
 甪	甪	luk6		luk6	loek5	
 甫	甫	pu2		1)fu2:台甫 2)pou2:十八甫（廣州市地名用字）	pu2	
 甬	甬	jung2		jung2	joeng5	
@@ -5419,7 +5420,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 癘	疠	lai6		lai6	lai6	
 癙	癙	syu2		syu2	syu2	
 癜	癜	din6		din6	din6	
-癟	瘪	bit6「癟三，癟陷」	(白)bet6「溼～～，溼貌，腍～～，軟貌；屌那咩之～，詈語，應借自客家話」	bit6	bit6「癟三，癟陷」	(白)bet6「溼～～，溼貌，腍～～，軟貌」
+癟	瘪	bit6「癟三，癟陷」	(白)bet6「溼～～，溼貌，腍～～，軟貌；屌那咩之～，詈語，應借自客家話」	bit6	bit6「癟三，癟陷」	(白)bet6「溼～～，溼貌，腍～～，軟貌」,(又)bet3「溼～～，溼貌」
 癠	癠	zai6		zai6	zai6	
 癡	痴	ci1		ci1	ci1	
 癢	痒	joeng5		joeng5	jiang5	
@@ -5427,7 +5428,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 癥	症	zing1		zing1	zing1	
 癦	癦	mak6		mak6,mak2	mak5	
 癧	疬	(白)lek6「淋巴結」	(文)lik6	lik6	lik5「淋巴結」	
-癩	癞	laai3「癩蛤蟆」,laat3「癩痢，同瘌痢」		laai3	laai6「癩蛤蟆」,laat5「癩痢，同瘌痢」	
+癩	癞	laai3「癩蛤蟆」,laat3「癩痢，同瘌痢」		laai3	laai3「癩蛤蟆」,laat5「癩痢，同瘌痢」	
 癪	癪	zik1		zik1	zik2	
 癬	癣	slin2	(常)slyun2	sin2	slyun2	(又)slin2
 癭	瘿	jing2		jing2	ing2	
@@ -5436,7 +5437,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 癰	痈	jung1		jung1	oeng1	
 癱	瘫	taan2	(又)taan1	taan2；(又)taan1	taan2	(又)taan1
 癲	癫	din1		din1	din1	
-癸	癸	gwai3	(又)kwai4	gwai3	gwai3	
+癸	癸	gwai3	(常)kwai4	gwai3	gwai3	
 登	登	dang1		dang1	dang1	
 發	发	faat3		faat3	faat2	
 白	白	baak6		baak6	biak6	
@@ -5453,7 +5454,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 皎	皎	gaau2		gaau2	gaau2	
 皓	皓	hu6		hou6	haau6	
 皕	皕	bik1		bik1	bik2	
-皖	皖	wun5		wun5	wun5	(又)waan5
+皖	皖	wun5		wun5	waan5	
 皙	皙	slik1		sik1	slik2	
 皚	皑	ngoi4		ngoi2；(又)ngoi4	ngaai4	
 皛	皛	kiu5		kiu5	giu5	
@@ -5515,7 +5516,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 真	真	zan1		zan1	zan1	
 眠	眠	min4		min4	min4	
 眢	眢	jyun1		jyun1	jyun1	
-眥	眦	zi6「眼眶」,ci3「睚眥」	(老派)cy3	zi6,zaai6	zi6「眼眶」,ci3「睚眥」	
+眥	眦	zi6「眼眶」,ci1「睚眥，讀同疵」	(老派)cy1	zi6,zaai6	zi6「眼眶」,ci1「睚眥，讀同疵」	
 眨	眨	zaap3	(白)jap1,(白)jaap3	zaap3；(語)zaam2	zaap2	(白)jaap2
 眩	眩	jyun6		jyun4；(又)jyun6	jyun6	
 眭	眭	slui1「姓」,kwai4「目深惡視」		seoi1	slui1「姓」,gwai4「目深惡視」	
@@ -5710,7 +5711,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 碶	碶	kai3		kai3	kai3	(又)ki3
 碸	砜	fung1		fung1	foeng1	
 碹	碹	slyun4		syun4	slyun4	
-確	确	kok3	(語)kak1「犖[lɐk5]～，路不平，說話結巴，俗作㪐㩿」	kok3	kaak2	(語)kak3「犖[lɐk5]～，路不平，說話結巴，俗作㪐㩿」
+確	确	kok3	(語)kak1「犖[lɐk5]～，路不平或說話結巴，俗作㪐㩿」	kok3	kaak2	(語)kak3「犖[lɐk5]～，路不平或說話結巴，俗作㪐㩿」
 碻	碻	kok3		kok3	kaak2	
 碼	码	maa5		maa5	maa5	
 碽	䂵	gung1	(語)gung4「詞綴，～～聲」,(語)kung1「詞綴，響～～」	gung1	goeng1	
@@ -5769,7 +5770,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 礹	礹	ngaam4「同巖字」,jim5「險峻」		ngaam4,jim5	ngaam4「同巖字」,njim5「險峻」	
 示	示	si6		si6	si6	
 社	社	se5		se5	se5	
-祀	祀	zi6	(老派)zy6	zi6	zi6	
+祀	祀	si6	(老派)sy6	zi6	zi6	
 祁	祁	ki4		kei4	gi4	
 祂	祂	taa1		taa1	taa1	
 祆	祆	hin1		hin1	hin1	(又)hyun1
@@ -5862,11 +5863,11 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 稈	秆	gon2		gon2	gaan2	
 程	程	cing4		cing4	zing4	
 稌	稌	tu4		tou4	du4	
-稍	稍	saau2		saau2	saau1	
+稍	稍	saau2「稍後，稍微（口語用稍爲[wɐi˨˩]）」	(又)saau1	saau2	saau1「稍後，稍微（口語用稍爲[wɐi˨˩]）」	
 税	税	sui3		seoi3	sui3	
 稑	稑	luk6		luk6	loek5	
 稔	稔	nim1「同棯字」,nam5「熟稔」	(白)nem1	1)nam5:熟稔 2)nim1:山稔	nim1「同棯字」,nam5「熟稔」	(白)nem1
-稗	稗	baai6		bai6	baai6	
+稗	稗	baai6	(又)bai2	bai6	baai6	
 稙	稙	zik6		zik6	zik6	
 稚	稚	zi6	(又)zi3「幼稚，前字調感染」	zi6	zi6	
 稜	棱	ling4	(語)lang5「鞭痕」	ling4	ling4	(語)lang3「鞭痕」
@@ -5889,10 +5890,10 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 穌	稣	slu1		sou1	slu1	
 積	积	zik1		zik1	zik2	
 穎	颖	wing5	(又)jing2	wing6	wing5	(又)jan5
-穗	穗	sui6		seoi6	sui6	
+穗	穗	sui6		seoi6	sui6	(又)slui6
 穙	穙	buk6		buk6	boek6	
 穜	穜	tung4「先種後熟的農作物」		tung4,zung3,zung2	doeng4「先種後熟的農作物」	
-穟	穟	sui6		seoi6	sui6	
+穟	穟	sui6		seoi6	sui6	(又)slui6
 穠	秾	nung4		nung4	noeng4	
 穡	穑	sik1		sik1	sik2	
 穢	秽	wai3		wai3	wai3	
@@ -6018,7 +6019,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 筲	筲	saau1	(白)sleu1	saau1	saau1	
 筵	筵	jin4		jin4	jyun4	(又)jin4
 筶	筶	gu3「卜具」,gu2「義未詳」		gou2	gaau3「卜具」,gaau2「義未詳」	
-筷	筷	faai3	(白)waai3「郊區多讀」	faai3	waai3	
+筷	筷	faai3	(白)waai3「郊區多讀」	faai3	waai3	(又)kwaai3
 筻	筻	gaang3		gaang3	giang3	
 箄	箄	paai4「同𥱼字」,bi6「漁具」		paai4,bei6	baai4「同𥱼字」,bai6「漁具」	
 箅	箅	bi6		bei3	bai6	
@@ -6176,9 +6177,8 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 糵	糵	nip6	(又)nit6	jit6	nip5	(又)nit5
 糶	粜	tiu3		tiu3	tiu3	
 糸	糸	mik6「細絲」,si1「同絲字」	(老派)sy1「同絲字」	mik6	mik5「細絲」,sli1「同絲字」	
-糺	𫄙	dau2	(又)gau2	dau2,gau2,giu2	dau2	(又)gau2
 系	系	hai6		hai6	hai6	(又)hi3
-糾	纠	(習)dau2「俗從斗作紏」	(書)gau2	gau2；(又)dau2	(習)dau2「俗從斗作紏」	(書)gau2
+糾	纠	dau2「俗從斗作紏」		gau2；(又)dau2	dau2「俗從斗作紏」	
 紀	纪	gi2		1)gei3:紀事 2)gei2:紀元，姓紀	gi2	
 紂	纣	zau6		zau6	zau6	
 紃	𬘓	can4	(老派)slyun4,(又)slan4	ceon4	slan4	
@@ -6237,7 +6237,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 絝	绔	fu3		fu3	hu3	
 絞	绞	(白)geu2	(文)gaau2	gaau2	(白)geu2	(文)gaau2
 絡	络	lok3		lok3	laak2	
-絢	绚	hyun3	(又)slan4,(又)slyun4	hyun3	hyun3	(又)slan4
+絢	绚	hyun3		hyun3	hyun3	
 絣	絣	bang1	(語)mang1「癒合；繃緊，與擘對轉，又作繃字」,(語)bang2「～耿，古板，又作繃字」	maang1,bang1,bing3	bang1	(語)mang3「癒合；繃緊，與擘對轉，又作繃字」
 給	给	kap1	(語)gai1「表使役、被動或與格，官話借詞」	kap1	kap2	
 絨	绒	jung4「絨毛」	(白)jung2「絨布」	jung4	joeng4	
@@ -6309,7 +6309,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 緣	缘	jyun4		jyun4	jyun4	
 緦	缌	si1	(老派)sy1	si1	sli1	
 編	编	pin1		pin1	pin1	(又)bin1
-緩	缓	wun5		wun6	wun5	(又)waan2
+緩	缓	wun5		wun6	waan2	
 緪	緪	gang1「繃緊」	(語)gang4「跌碽[kuŋ21]～，跌倒貌」	gang1	gang1「繃緊」	(語)gang4「高～～，高貌」
 緬	缅	min5		min5	min5	
 緯	纬	wai2		wai5	wai2	
@@ -6361,7 +6361,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 繆	缪	miu6「姓」,mau4「綢繆」,mau6「同謬字」		1)miu6:姓繆 2)mau4:綢繆 3)mau6:紕繆；通穆muk6肅繆	miu6「姓」,mau4「綢繆」,mau6「同謬字」	
 繇	繇	jau4「同由字」,jiu4「同徭/謠字」,zau6「卦兆辭」		jau4,jiu4,zau6	jau4「同由字」,jiu4「同徭/謠字」,zau6「卦兆辭」	
 繈	繈	koeng5		koeng5	kiang2	
-繐	穗	sui6		seoi6	sui6	
+繐	穗	sui6		seoi6	sui6	(又)slui6
 繑	繑	(白)keu1	(文)heu1,(又)hiu1	hiu1,kiu5	heu1	(又)giu1
 繒	缯	zang1「絲織品總稱」,zang6「綁；紮」		zang1,zang6	zang1「絲織品總稱」,zang6「綁；紮」	
 織	织	zik1		zik1	zik2	
@@ -6378,7 +6378,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 繫	系	hai6		hai6	hai6	(又)hi3
 繭	茧	(白)gen2	(文)gaan2	gaan2	gaan2	(白)gen2
 繮	缰	(白)koeng1	(文)goeng1	goeng1	kiang1	(又)giang1
-繯	缳	waan6	(又)waan4	waan4,waan6	waan6	(又)waan4
+繯	缳	waan4	(又)waan6	waan4,waan6	waan4	(又)waan6
 繰	缲	ciu1「繰邊」,slu1「同繅字」,zu2「絳紫色帛」		ciu1,zou2,sou1	ciu1「繰邊」,slaau1「同繅字」,zaau2「絳紫色帛」	
 繳	缴	giu2		giu2,zoek3	giu2	
 繶	𫄷	jik1		jik1	ik2	
@@ -6498,7 +6498,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 翯	翯	hok6		hok6	haak6	
 翰	翰	hon6		hon6	haan6	
 翱	翱	ngu4		ngou4	ngaau4	
-翳	翳	ai3「遮蔽；<語>～氣，窩火，又作悘/㜇字」		ai3	ai3	(語)ji3「～燈，熄燈」
+翳	翳	ai3「遮蔽；<語>～氣，窩火，又作曀/悘/㜇字」		ai3	ai3	(語)ji3「～燈，熄燈」
 翷	翷	lan4	(老派)lyun4	leon4	lan4	
 翹	翘	(白)keu1「～腳；乾～～，乾貌」,kiu4「銀～，～首」	(文)heu1「～腳」,(語)keu4「～翹[kʰɛu55]，死亡」	kiu4	heu1「～腳」,giu4「銀～，～首」	(語)keu3「乾～～，乾貌」,(語)keu4「硬～～，乾硬貌；～翹[kʰɛu55]，死亡」,(語)geu4「（木板）彎曲變形，本字喬」
 翻	翻	faan1	(白)fen1,(語)pen1,(語)men1	faan1	faan1	(語)pen1,(語)men1
@@ -6506,7 +6506,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 翽	翙	wai3		wai3	wai3	
 翾	翾	hyun1		hyun1	hyun1	
 耀	耀	jiu6		jiu6	jiu6	
-老	老	lu5「～人」	(語)laau1「～娘[nɛŋ55]/哥[kɛ55]，母親/父親的敘稱；～佬，北方人的俗稱」	lou5	laau5	
+老	老	lu5「～人」	(語)laau1「～娘[nɛŋ55]、～哥[kɛ55]，母親、父親的敘稱；～佬，北方人的俗稱」	lou5	laau5	
 考	考	haau2		haau2	kaau2	
 耄	耄	mu6		mou6	maau6	
 者	者	ze2		ze2	ze2	
@@ -6606,7 +6606,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 胃	胃	wai6		wai6	wai6	
 胄	胄	zau6		zau6	zau6	
 胈	胈	baat6		bat6	baat6	
-背	背	bui6「背書」,bui3「背脊」	(語)bai3「～時/竅，倒楣，官話借詞，又作閉時/竅」	1)bui3:背後 2)bui6:背書	bui6「背書」,bui3「背脊」	(語)bai3「～時/竅，倒楣，官話借詞，又作閉時/竅」
+背	背	bui6「背書」,bui3「背脊」	(語)bai3「～時、～竅，倒楣，又作閉時、閉竅，官話借詞」	1)bui3:背後 2)bui6:背書	bui6「背書」,bui3「背脊」	(語)bai3「～時、～竅，倒楣，又作閉時、閉竅，官話借詞」
 胍	胍	gwaa1「有機化合物」,gu1「胍𦘴」		gwaa1,gu1	gwaa1「有機化合物」,gu1「胍𦘴」	
 胎	胎	toi1		toi1	taai1	
 胏	胏	zi2	(老派)zy2	zi2	zi2	
@@ -6675,7 +6675,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 腈	腈	zing1「精肉；有機化合物」	(又)cing1「有機化合物」	cing1	zing1「精肉；有機化合物」	(又)cing1「有機化合物」
 腊	腊	laap6「同臘字」,slik1「乾肉」		laap6,sik1	laap5「同臘字」,slik2「乾肉」	
 腋	腋	jik6		jik6	jik5	
-腌	腌	(習)jip3「以鹽漬物」	(書)jim1「腌臢，不潔」,(又)ap1「腌臢，不潔」	jim1；(語)jip3	(習)jip2「以鹽漬物」	(書)jim1「腌臢，不潔」,(又)ap2「腌臢，不潔」
+腌	腌	(習)jip3「以鹽漬物」	(書)jim1「以鹽漬物；～臢，不潔」,(又)ap1「～臢，不潔」	jim1；(語)jip3	(習)jip2「以鹽漬物」	(書)jim1「以鹽漬物；～臢，不潔」,(又)ap2「～臢，不潔」
 腍	腍	nam5「熟；味好」,nam4「（肉類等）松軟、爛熟，引申指人懦弱，與䪏/𥹉對轉，或與飪/餁相關」	(又)jam6	nam4	njam5「熟；味好」,nam4「（肉類等）松軟、爛熟，引申指人懦弱，與䪏/𥹉對轉，或與飪/餁相關」	(又)jam6,(又)nam6「～善，善良而軟弱」
 腎	肾	san5		san6；(又)san5	san5	
 腏	腏	zyut3	(語)cot6「男陰，戳物的合音，俗字𨳍」	zyut3	zyut2	(語)cot6「男陰，戳物的合音，俗字𨳍」
@@ -6713,7 +6713,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 膀	膀	bong2「肩膀」,pong4「膀胱」		1)bong2:肩膀 2)pong4:膀胱	baang2「肩膀」,baang4「膀胱」	
 膂	膂	lyu5		leoi5	lyu5	
 膃	腽	wat1		wat1	wat2	
-膆	膆	slu3「同嗉字」	(語)slyu3「雞膆」,(又)slui3「雞膆」	sou3	slu3「同嗉字」	(語)slyu3「雞膆」
+膆	膆	slu3「同嗉字」	(語)slui3「雞膆」,(又)slyu3「雞膆」	sou3	slu3「同嗉字」	(語)slyu3「雞膆」
 膇	膇	zui6		zeoi6,deoi3	zui6	
 膈	膈	gaak3		gaak3	giak2	
 膉	膉	jik1「肥；<語>油脂變質，本字膱」	(語)jek3「臭油～，油變質味，即哈喇，又作膱/䭞字」	jik1	ik2「肥」	
@@ -6757,7 +6757,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 臊	臊	slu1「臊味」,slu3「害臊」		sou1,sou3	slaau1「臊味」,slaau3「害臊」	
 臌	臌	gu2		gu2	gu2	
 臍	脐	ci4	(老派)cy4	ci4	zai4	
-臏	膑	ban3	(又)ban1	ban3	ban3	(又)ban1
+臏	膑	ban1		ban3	ban1	
 臑	臑	jyu4「嫩軟貌」,naau6「牲畜前肢」	(語)no1「肥～～，胖乎乎，疑本字肭」,(語)no2「豬臑[nɔ21]～，童語」	jyu4,naau6	jyu4「嫩軟貌」,naau6「牲畜前肢」	
 臒	臒	wok6		wok3	huk6	
 臕	膘	biu1		biu1	biu1	
@@ -6767,7 +6767,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 臝	臝	lo2		lo2	lo5	
 臟	脏	zong6		zong6	zaang6	
 臠	脔	lyun5		lyun5	lyun5	
-臢	臜	zim1「腌臢，不潔」	(又)zap1「腌臢，不潔」	zim1	zim1「腌臢，不潔」	(又)zap2「腌臢，不潔」
+臢	臜	zim1「腌～，不潔」	(又)zap1	zim1	zim1「腌～，不潔」	(又)zap2
 臣	臣	can4		san4	zan4	
 臤	臤	haan1「堅固」,jin4「同賢字」	(又)hin1	hin1	haan1「堅固」,jyun4「同賢字」	(又)hin1,(又)hyun1,(又)jin4
 臥	卧	ngo6		ngo6	ngo6	
@@ -6812,7 +6812,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 舨	舨	baan2		baan2	baan2	
 航	航	hong4		hong4	haang4	
 舫	舫	fong2		fong2	fung2	
-般	般	bun1		bun1；1)(古人名)baan1公輸般 2)(佛經語)bo1波若	bun1	
+般	般	bun1「搬運」,bo1「般若」		bun1；1)(古人名)baan1公輸般 2)(佛經語)bo1波若	bun1「搬運」,bo1「般若」	
 舭	舭	bi2		bei2	bi2	
 舯	舯	zung1		zung1	zoeng1	
 舲	舲	ling4		lang1,ling4	ling4	
@@ -6991,7 +6991,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 莛	莛	ting4		ting4	ding4	
 莜	莜	diu6「草田器」,jau4「莜麥」		diu6,jau4	diu6「草田器」,jau4「莜麥」	
 莝	莝	co3		co3	co3	
-莞	莞	gun2「東莞」,wun5「莞爾」		1)gun2:東莞縣 2)wun5:莞爾	gun2「東莞」,wun5「莞爾」	(又)waan5「莞爾」
+莞	莞	gun2「東莞」,wun5「莞爾」		1)gun2:東莞縣 2)wun5:莞爾	gun2「東莞」,wun5「莞爾」	
 莠	莠	jau5		jau5	jau5	
 莢	荚	(白)gep3「豆莢」	(文)gaap3,(語)haap3「菜～，老菜葉」	gaap3	gaap2	
 莧	苋	jin6	(白)hen6,(文)haan6,(又)hon6	jin6	haan6	
@@ -7010,6 +7010,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 菇	菇	gu1		gu1	gu1	
 菉	菉	luk6		luk6	loek5	
 菊	菊	guk1		guk1	goek2	
+菋	菋	mi6		mei6	mi6	
 菌	菌	kwan5		kwan2	gwan5	
 菍	菍	nip6		nip6	nip5	
 菏	菏	go1「古湖名」,ho4「菏澤，地名」		go1,ho4	go1「古湖名」,ho4「菏澤，地名」	
@@ -7025,7 +7026,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 菡	菡	haam5		haam5	haam5	
 菢	菢	bu6「孵」		bou6	baau6「孵」	
 菥	菥	slik1		sik1	slik2	
-菩	菩	(習)po4「菩薩，又作婆薩」	(書)pu4	pou4	bu4	
+菩	菩	(白)po4「菩薩，又作婆薩」	(文)pu4	pou4	bu4	
 菪	菪	dong6		dong6	daang6	
 華	华	waa4「中華」,waa6「華山；姓」		1)waa4:中華 2)waa6:華山，姓華；(古)同花	waa4「中華」,waa6「華山；姓」	
 菰	菰	gu1		gu1	gu1	
@@ -7061,7 +7062,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 萸	萸	jyu4		jyu4	jyu4	
 萹	萹	bin1「萹蓄」		bin1	bin1「萹蓄」	
 萼	萼	ngok6		ngok6	ngaak5	
-落	落	lok6	(語)laai5「～尿，又作攋/瀨字」	lok6	laak5「～雨，下雨」	(語)lak2「～來，下來」,(語)laai5「～尿，又作攋/瀨字」
+落	落	lok6「～雨，下雨」	(語)laai5「～尿，又作攋/瀨字」	lok6	laak5「～雨，下雨」	(語)lak2「～來，下來」,(語)laai5「～尿，又作攋/瀨字」
 葆	葆	bu2		bou2	baau2	
 葉	叶	jip6		jip6	jip5	
 葎	葎	lat6	(老派)lyut6	leot6	lat5	
@@ -7077,7 +7078,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 董	董	dung2		dung2	doeng2	
 葤	荮	zau6		zau6	zau6	
 葦	苇	wai4		wai5	wai4	
-葩	葩	paa1	(舊)baa1	baa1	paa1	(舊)baa1
+葩	葩	baa1	(又)paa1	baa1	baa1	(又)paa1
 葫	葫	wu4「葫蘆」	(又)ku4「葫蘆，又作瓠字」	wu4	hu4	
 葬	葬	zong3		zong3	zaang3	
 葭	葭	gaa1		gaa1	gaa1	
@@ -7244,7 +7245,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 薿	薿	ni5		ji5	ni5	
 藁	藁	gu2		gou2	gaau2	
 藂	藂	cung4		cung4	zoeng4	
-藉	藉	ze3「藉口」,zik6「狼藉」		zik6；藉口又讀ze3	ze3「藉口」,zik6「狼藉」	(又)zi3「藉口」
+藉	藉	ze3「藉口」,zik6「狼藉」		zik6；藉口又讀ze3	ze3「藉口」,zik6「狼藉」	(白)zi3「藉口」
 藍	蓝	laam4		laam4	laam4	
 藎	荩	zan6		zeon2	zan6	
 藏	藏	zong6「寶藏」,cong4「隱藏」		1)cong4:埋藏 2)zong6:寶藏	zaang6「寶藏」,zaang4「隱藏」	
@@ -7298,7 +7299,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 虒	虒	si1	(老派)sy1	si1	sli1	
 虓	虓	haau1		haau1	haau1	
 虔	虔	kin4		kin4	gin4	(又)gyun4
-處	处	cyu2「相處，處理」,cyu3「處所，到處」		1)cyu3:住處 2)cyu2:處理	cyu2「相處，處理」,cyu3「處所，到處」	
+處	处	cyu5「相處，處理」,cyu3「處所，到處」		1)cyu3:住處 2)cyu2:處理	cyu2「相處，處理」,cyu3「處所，到處」	
 虛	虚	hyu1		heoi1	hyu1	
 虜	虏	lu5		lou5	lu5	
 虞	虞	jyu4		jyu4	jyu4	
@@ -7355,7 +7356,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 蛌	蛌	gu2		gu2	gu2	
 蛐	蛐	kuk1		kuk1	koek2	
 蛑	蛑	mau4		mau4	mau4	
-蛓	蛓	ci3	(老派)cy3	ci3	ci3	
+蛓	蛓	zi1	(老派)zy1,(又)ci3,(又)cy3	zi1,ci3	zi1	(又)ci3
 蛔	蛔	wui4		wui4	wai4	
 蛘	蛘	joeng5「同癢字」,joeng4「米象」		joeng5,joeng4	jiang5「同癢字」,jiang4「米象」	
 蛙	蛙	waa1		waa1	waa1	
@@ -7405,7 +7406,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 蜹	蜹	jui6		jeoi6	jui6	
 蜻	蜻	cing1		cing1	cing1	
 蜾	蜾	go2		gwo2	go2	
-蜿	蜿	jyun1		jyun2；(又)jyun1	jyun1	
+蜿	蜿	jyun1「蜿蜒」,jyun2「蜿蟺」		jyun2；(又)jyun1	jyun1「蜿蜒」,jyun2「蜿蟺」	
 蝀	𬟽	dung3	(又)dung1	dung1,dung3	doeng3	(又)doeng1
 蝂	蝂	baan2		baan2	baan2	
 蝌	蝌	(白)ko1	(文)fo1	fo1	(白)ko1	(文)hu1
@@ -7443,7 +7444,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 螔	螔	ji4		ji4	ji4	
 螗	螗	tong4		tong4	daang4	
 螘	螘	ngai5「同蟻字」		ngai5	nji5「同蟻字」	(又)ngai5
-螞	蚂	maa5「～蟻；～螂䗧，螳螂」,maa1「～螂，蜻蜓；～𧊅，青蛙，本字蟆蟈」,maa6「～蚱」		1)maa5:螞蟻 2)maa1:螞螂 3)maa6:螞蚱	maa5「～蟻；～螂䗧，螳螂」,maa1「～螂，蜻蜓；～𧊅，青蛙，本字蟆蟈」,maa6「～蚱」	
+螞	蚂	maa5「～蟻；～螂䗧，螳螂」,maa1「～螂，蜻蜓；～𧊅，青蛙，又作蟆蟈」,maa6「～蚱」		1)maa5:螞蟻 2)maa1:螞螂 3)maa6:螞蚱	maa5「～蟻；～螂䗧，螳螂」,maa1「～螂，蜻蜓；～𧊅，青蛙，又作蟆蟈」,maa6「～蚱」	
 螟	螟	ming4		ming4	ming4	
 螠	螠	jik1	(語)ak1「古壯字，～虵，蛤蚧」	jik1,si3	ik2	(語)ak3「古壯字，～虵，蛤蚧」
 螢	萤	jing4		jing4	jing4	
@@ -7462,8 +7463,8 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 螽	螽	zung1		zung1	zoeng1	
 蟀	蟀	slat1	(語)zat1「織～，蟋蟀，又作蜶字」,(語)zyut1「～～，蟋蟀，又作蜶字」	seot1	slat2	(語)zat2「～～，蟋蟀，又作蜶字」
 蟄	蛰	zik6		zik6	zik6	
-蟆	蟆	maa4「蛤蟆，又作蝦蟆」	(語)maa1「蟆蟈，青蛙」	maa4	maa4「蛤蟆，又作蝦蟆」	(語)maa1「蟆蟈，青蛙」
-蟈	蝈	gok3	(語)gwaai2「蟆蟈，青蛙」	gwok3	guk2	(語)gwaai2「蟆蟈，青蛙」
+蟆	蟆	maa4「蛤蟆，又作蝦蟆」	(語)maa1「蟆𧊅，青蛙，又作螞𧊅/蟆蟈」	maa4	maa4「蛤蟆，又作蝦蟆」	(語)maa1「蟆𧊅，青蛙，又作螞𧊅/蟆蟈」
+蟈	蝈	gok3		gwok3	guk2	
 蟊	蟊	maau4		maau4	maau4	
 蟋	蟋	slik1	(又)slat1「～蟀[tʃɐt5]，又作蟋蜶」,(訓)zik1「～蟀[tʃɐt5]，訓讀織蟀」	sik1	slik2	(又)slat2「～蟀[tʃɐt3]，又作蟋蜶」,(訓)zik2「～蟀[tʃɐt3]，訓讀織蟀」
 蟎	螨	mun5		mun5	mun5	
@@ -7486,6 +7487,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 蟴	蟴	si1	(老派)sy1	si1	sli1	
 蟶	蛏	cing1	(又)sing3	cing1	cing1	(又)sing3
 蟹	蟹	haai5		haai5	haai5	
+蟺	蟺	sin6		sin6	syun6	(又)sin6
 蟻	蚁	ngai5		ngai5	nji5	(又)ngai5
 蟾	蟾	sim4	(訓)kam4「訓讀蠄，蠄蟝」	sim4	sim4	(訓)kam4「訓讀蠄，蠄蟝」,(又)sam4「蟾蜍」
 蟿	蟿	kai3		kai3	kai3	
@@ -7581,7 +7583,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 裊	袅	niu5		niu5	niu5	
 裌	裌	gaap3「裌衣」		gaap3	gaap2「裌衣」	(又)gep6「裌裙，又作夾裙」
 裎	裎	cing4		cing4	zing4	
-裏	里	(習)li5	(書)lyu5	1)leoi5:裏外 2)lei5:衣裏	li5	
+裏	里	li5「裏面」		1)leoi5:裏外 2)lei5:衣裏	li5「裏面」	
 裒	裒	pau4	(又)fau4	fau4,pau4	bau4	(又)fau4
 裔	裔	jui6		jeoi6	jui6	
 裕	裕	jyu6		jyu6	jyu6	
@@ -7591,7 +7593,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 補	补	bu2		bou2	bu2	
 裝	装	zong1		zong1	zaang1	
 裟	裟	saa1		saa1	saa1	
-裡	里	(習)li5	(書)lyu5	lei5,leoi5	li5	
+裡	里	li5「裡面」		lei5,leoi5	li5「裡面」	
 裨	裨	bi1「裨益」,pi4「裨將」	(語)be1「併連、併生，古壯字⿱敞牙」	1)bei1:裨益 2)pei4:裨將	bai1「裨益」,bi4「裨將」	(語)be1「併連、併生，～～坐，排排坐，～指，枝指，古壯字⿱敞牙」
 裰	裰	zyut3		zyut3	zyut2	
 裱	裱	biu2		biu2	biu2	
@@ -7639,7 +7641,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 襌	襌	daan1		daan1	daan1	
 襏	袯	but6		but6	but6	
 襖	袄	u3		ou3；(又)ou2	aau3	
-襚	襚	sui6		seoi6	sui6	
+襚	襚	sui6		seoi6	sui6	(又)slui6
 襜	襜	cim1	(又)zim1	cim1,zim1	cim1	(又)zim1
 襝	裣	lim5		lim5	lim5	
 襞	襞	bik1		bik1	bik2	
@@ -7782,27 +7784,27 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 誏	誏	long6「閑言」,long5「同朗字」		long6,long5	laang6「閑言」,laang5「同朗字」	
 誑	诳	kong4		kong4；(又)kwong4	gwaang4	
 誒	诶	e6「嘆詞」,hi1「可惡之辭；強笑」	(又)ai1「表招呼」,(又)ai2「表詫異」,(又)e1「表驚異」	e6,ei6	e6「嘆詞」,hi1「可惡之辭；強笑」	(又)ai1「表招呼」,(又)ai5「表詫異」,(又)e1「表驚異」
-誓	誓	sai6		sai6	si3	
+誓	誓	sai6		sai6	si3	(又)sai6
 誕	诞	daan3		daan3	daan3	
 誖	誖	bui6「同悖字」	(語)bui1「吹捧」	bui6	bui6「同悖字」	(語)bui1「吹捧」
 誘	诱	jau3		jau5	jau5	
 誚	诮	ciu3		ciu3	ciu3	
-語	语	jyu5		1)jyu5:語言 2)jyu6:不以語人	jyu5	
+語	语	jyu5		1)jyu5:語言 2)jyu6:不以語人	jyu5	(又)njyu5
 誠	诚	sing4		sing4	sing4	
 誡	诫	gaai3		gaai3	gaai3	
 誣	诬	mu1		mou4	mu1	
 誤	误	ng6		ng6	ng6	(老派)ngu6
 誥	诰	gu3		gou3	gaau3	
 誦	诵	zung6		zung6	zoeng6	
-誨	诲	fui3		fui3	hui3	
+誨	诲	fui3	(常)fui2	fui3	hui3	
 說	说	syut3「說話」,sui3「遊說，說服」,jyut6「同悅字」		1)syut3:說話 2)seoi3:游說；(古)同悅	syut2「說話」,sui3「遊說，說服」,jyut5「同悅字」	
 説	说	syut3「説話」,sui3「遊説，説服」,jyut6「同悦字」		1)syut3:説話 2)seoi3:游説；(古)同悦	syut2「説話」,sui3「遊説，説服」,jyut5「同悦字」	
 誰	谁	sui4		seoi4	sui4	
 課	课	(白)ko3	(文)fo3	fo3	ko3	
-誶	谇	sui6		seoi6	sui6	
+誶	谇	slui3		seoi6	slui3	
 誹	诽	fi2		fei2	fi2	
 誺	𫍧	ci1「不知」,loi6「誤」		ci1,loi6	ci1「不知」,laai6「誤」	
-誼	谊	ni6	(又)ji6,(舊)ni4,(又)ji4	ji4；(又)ji6	nji6	(舊)nji4
+誼	谊	ni4	(又)ni6	ji4；(又)ji6	nji4	(又)nji6
 誾	訚	ngan4		ngan4	ngan4	
 調	调	diu6「音調」,tiu4「調和，調整」	(白)deu6「～轉、～動，又作掉轉、掉動，罕讀」	1)tiu4:調和 2)diu6:腔調	diu6「音調」,diu4「調和，調整」	(白)deu6「～轉、～動，又作掉轉、掉動」
 諂	谄	cim2		cim2	cim2	
@@ -7894,7 +7896,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 譬	譬	pi3	(訓)bi2「訓讀比」	pei3	pi3	(訓)bi2「訓讀比」
 譭	毁	wai2		wai2	wai2	
 譯	译	jik6		jik6	jik5	
-議	议	ji5		ji5	nji6	
+議	议	ji5「會議」	(又)ji3「議論」	ji5	nji6	
 譴	谴	hin2		hin2	hin2	(又)hyun2
 護	护	wu6		wu6	hu6	
 譸	诪	zau1		zau1	zau1	
@@ -8034,7 +8036,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 赬	赪	cing1		cing1	cing1	
 赭	赭	ze2		ze2	ze2	
 走	走	zau2		zau2	zau2	
-赳	赳	(習)dau2	(書)gau2	gau2；(又)dau2	(習)dau2	(書)gau2
+赳	赳	dau2「俗從斗作﨣」		gau2；(又)dau2	dau2「俗從斗作﨣」	
 赴	赴	fu6		fu6	fu6	
 赶	赶	gon2		gon2	gaan2	
 起	起	hi2		hei2	hi2	
@@ -8096,6 +8098,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 跮	跮	ci3「跮踱」,dit6「跮跮」		ci3	ci3「跮踱」,dit6「跮跮」	
 路	路	lu6		lou6	lu6	
 跱	跱	zi6	(又)ci5	ci5	zi6	
+跲	跲	gaap3		gaap3	gaap2	
 跳	跳	tiu3		tiu3	tiu3	
 跴	跴	caai2「同踩字」	(白)jaai2	caai2,jaai2	caai2「同踩字」	(白)njaai2
 跺	跺	do2		do2	du2	
@@ -8277,7 +8280,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 轡	辔	bi3	(又)bai3	bei3	bi3	
 轢	轹	lik6		lik1	lik5	
 轤	轳	lu4		lou4	lu4	
-轥	轥	lan6	(老派)lyun6,(語)lin3「打滾，古壯字⿰令袞，本字或爲轥」,(又)len3「打滾」	lin3	lan6	(語)lin3「打滾，古壯字⿰令袞，本字或爲轥」
+轥	轥	lan6	(老派)lyun6,(語)lin3「打滾，古壯字⿰令袞，疑本字轥」,(又)len3「打滾」	lin3	lan6	(語)lin3「打滾，古壯字⿰令袞，疑本字轥」
 辛	辛	slan1		san1	slan1	
 辜	辜	gu1		gu1	gu1	
 辟	辟	pik1		pik1；復辟又讀bik1	pik2	
@@ -8342,7 +8345,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 這	这	ze5「又～又那，麻煩事多」		ze3；(又)ze5	ze5	
 通	通	tung1		tung1	toeng1	
 逛	逛	gwaang6	(又)gong6	kwaang3；(又)gwaang6	gwaang6「散步，我哋～一陣子」	
-逝	逝	sai6		sai6	si3	
+逝	逝	sai6		sai6	si3	(又)sai6
 逞	逞	cing4	(又)cing2	cing2	cing2	
 速	速	cuk1		cuk1	coek2	
 造	造	zu6「製造」,cu3「造詣」		1)zou6:造船 2)cou3:造詣	zaau6「製造」,caau3「造詣」	(白)zaau5「造火」
@@ -8363,7 +8366,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 逼	逼	bik1		bik1	bik2	
 逾	逾	jyu4		jyu6；(又)jyu4	jyu4	
 遁	遁	dan6		deon6	dan6	
-遂	遂	sui6		seoi6	sui6	
+遂	遂	sui6		seoi6	sui6	(又)slui6
 遄	遄	cyun4		cyun4	zyun4	
 遆	遆	tai4		tai4	dai4	
 遇	遇	jyu6		jyu6	jyu6	
@@ -8407,7 +8410,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 邀	邀	jiu1		jiu1	jiu1	
 邁	迈	maai6		maai6	maai6	
 邂	邂	haai5		haai5；(又)haai6	haai5	
-邃	邃	sui6		seoi6	sui6	
+邃	邃	sui6		seoi6	sui6	(又)slui6
 還	还	waan4「還有，副詞；還錢，動詞」	(白)wen4「還錢，動詞」	waan4；通旋	waan4	
 邇	迩	ji5		ji5	nji5	
 邈	邈	miu5「同藐字」,mok6「遠；渺」		miu5,mok6	miu5「同藐字」,miak5「遠；渺」	
@@ -8520,7 +8523,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 酐	酐	gon1「酸酐」,hong5「苦酒」		gon1,hong5	gaan1「酸酐」,haang5「苦酒」	
 酒	酒	zau2		zau2	zau2	
 酗	酗	hyu3	(又)jyu3	jyu3,heoi3	hyu3	(又)jyu3
-酘	酘	tau4「酒再釀」	(白)dau6「以藥毒殺，～老鼠，又作毒/投字」	tau4,dou6	dau4「酒再釀」	
+酘	酘	tau4「酒再釀」	(語)dau6「以藥毒殺，～老鼠，又作毒字」	tau4,dou6	dau4「酒再釀」	
 酚	酚	fan1		fan1	fan1	
 酞	酞	taai3		taai3	taai3	
 酡	酡	to4		to4	do4	
@@ -8582,7 +8585,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 采	采	coi2		coi2；(古)coi3菜邑	caai2	
 釉	釉	jau6	(白)jau2	jau6	jau6	
 釋	释	slik1		sik1	sik2	
-里	里	li5		lei5	li5	
+里	里	li5「里程」		lei5	li5「里程」	
 重	重	zung6「<又>重要；副詞，還，俗字仲」,cung5「輕重；重要」,cung4「重複」		1)zung6:重要 2)cung4:重複 3)cung5:輕重	zoeng6「<又>重要；副詞，還，俗字仲」,zoeng5「輕重；重要」,zoeng4「重複」	
 野	野	je5		je5	je5	
 量	量	loeng4「測量」,loeng6「數量」		1)loeng4:量米 2)loeng6:膽量	liang4「測量」,liang6「數量」	
@@ -8621,7 +8624,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 鈇	𫓧	fu1		fu1	fu1	
 鈈	钚	bat1		bat1	bat2	
 鈉	钠	naap6		naap6	naap5	
-鈍	钝	dan6		deon6	dan6	
+鈍	钝	dan6「遲鈍」	(訓)man5「鈍，刀～、針～」	deon6	dan6「遲鈍」	(訓)man5「鈍，刀～、針～」
 鈎	钩	(白)ngau1	(文)gau1	ngau1	(白)ngau1	(文)gau1
 鈐	钤	kim4		kim4	gim4	
 鈑	钣	baan2		baan2	baan2	
@@ -8669,7 +8672,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 鉥	𬬸	sat6	(老派)slyut6,(又)slat6	seot6	slat6	
 鉦	钲	zing1「古樂器」		zing1,zing3	zing1「古樂器」	
 鉧	𬭁	mu5		mou5	mu5	
-鉨	鿭	ni5		nei5	ni5	
+鉨	鿭	ni5「化學元素」		nei5	ni5「化學元素」	
 鉬	钼	muk6		muk6	moek5	
 鉭	钽	taan2	(又)daan3	taan2,daan3	taan2	(又)daan3
 鉮	𬬹	san4		san4	san4	
@@ -8700,7 +8703,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 銣	铷	jyu4		jyu4	jyu4	
 銥	铱	ji1		ji1	ji1	
 銦	铟	jan1		jan1	an1	
-銨	铵	on2		on2	aan1	
+銨	铵	on2		on2	aan2	
 銩	铥	diu1		diu1	dau1	
 銪	铕	jau5		jau5	jau5	
 銫	铯	sik1		sik1	sik2	
@@ -8749,7 +8752,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 錇	锫	pui4「化學元素」		pui4	bui4「化學元素」	
 錈	锩	gyun2		gyun2	gyun2	
 錍	錍	pai1		pai1	pai1	
-錐	锥	zui1	(白)jui1	zeoi1	zui1	
+錐	锥	zui1「圓錐」	(白)jui1「錐子」	zeoi1	zui1	
 錒	锕	aa3		aa3	aa3	
 錔	錔	(名)taap3「器物錔頭」,(動)tap1「套上，俗字佮」		daap6,taap3	(名)taap2「器物錔頭」,(動)tap2「貼近；套上，俗字佮」	
 錕	锟	kwan1		kwan1	kwan1	
@@ -8880,7 +8883,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 鐦	锎	hoi1		hoi1	haai1	
 鐧	锏	gaan2「殺手鐧」,gaan3「車鐧」	(白)gen2「殺手鐧」	gaan2,gaan3	gaan2「殺手鐧」,gaan3「車鐧」	
 鐨	镄	fai3		fai3	fi3	
-鐩	𬭼	sui6		seoi6	sui6	
+鐩	𬭼	sui6		seoi6	sui6	(又)slui6
 鐫	镌	zyun1		zyun1,zeon3	zyun1	
 鐮	镰	lim4		lim4	lim4	
 鐯	䦃	zoek3		zoek3	ziak2	
@@ -8925,7 +8928,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 閂	闩	saan1		saan1	saan1	
 閃	闪	sim2		sim2	sim2	
 閆	闫	jim4		jim4	jim4	
-閉	闭	bai3	(又)bi3	bai3	bai3	
+閉	闭	bai3	(又)bi3	bai3	bai3	(又)bi3
 開	开	hoi1		hoi1	haai1	
 閌	闶	kong3		kong3	kaang3	
 閎	闳	hung4		wang4	hoeng4	
@@ -8936,7 +8939,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 閔	闵	man5		man5	man5	
 閘	闸	zaap6「讀同牐」		zaap6	zaap6「讀同牐」	
 閛	閛	ping1	(又)pang1	ping1	ping1	(又)pang1
-閜	閜	haa1「大開」,ho2「閜砢」	(語)ko4「彎曲，古壯字⿵门可」	haa1,ho2	haa1「大開」,ko2「閜砢」	(語)go4「彎曲，古壯字⿵门可」
+閜	閜	haa1「大開」,ho2「閜砢」	(語)ko4「彎曲，古壯字⿵门可」	haa1,ho2	haa1「大開」,ko2「閜砢」	(語)go4「～寥[lɛu55/lau55]翹[kʰɛu55/kʰau55]，彎曲，古壯字⿵门可」
 閡	阂	hat6「隔閡」,ngoi6「外閉」,goi1「同垓字」		hat6	hat6「隔閡」,ngaai6「外閉」,gaai1「同垓字」	
 閣	阁	gok3		gok3	(白)kaak2	(文)gaak2
 閤	閤	hap6「同闔字」,gok3「同閣字」,gap3「小門；姓」		hap6；通閣	haap6「同闔字」,(白)kaak2「同閣字」,gaap2「小門；姓」	(文)gaak2「同閣字」
@@ -9012,7 +9015,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 陛	陛	bai6	(又)bi6	bai6	bai6	(又)bi6
 陜	陜	haap6		haap6	haap6	
 陝	陕	sim2		sim2	sim2	
-陞	升	sing1		sing1	sing1	
+陞	陞	sing1		sing1	sing1	
 陟	陟	zik1		zik1	zik2	
 陡	陡	dau2		dau2	dau2	
 院	院	jyun2		jyun2；(又)jyun6	jyun6	
@@ -9048,7 +9051,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 際	际	zai3		zai3	zai3	
 障	障	zoeng3		zoeng3	ziang3	
 隤	𬯎	tui4		teoi4	dui4	
-隧	隧	sui6		seoi6	sui6	
+隧	隧	sui6		seoi6	sui6	(又)slui6
 隨	随	cui4		ceoi4	zui4	
 隩	隩	u3「同奧字」,juk1「河岸彎曲處」		ou3,juk1	aau3「同奧字」,joek2「河岸彎曲處」	
 險	险	him2		him2	him2	
@@ -9061,7 +9064,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 隸	隶	dai6		dai6；隸書又音lai6	dai6	
 隹	隹	zui1		zeoi1	zui1	
 隺	隺	hok6		hok6	haak6	
-隻	只	zek3		zek3	zik2	
+隻	只	zek3	(又)zik3	zek3	zik2	
 隼	隼	zan2	(老派)zyun2,(又)slyun2,(又)slan2	zeon2	zan2	(又)slan2
 雀	雀	coek3		zoek3	ciak2「偷飯～，麻雀」	(語)ciak3「麻～，麻將」
 雁	雁	ngaan6		ngaan6	njaan6	
@@ -9077,8 +9080,8 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 雍	雍	jung1		jung1	oeng1	
 雎	雎	zyu1		zeoi1	zyu1	
 雒	雒	lok3		lok3	laak2	
-雕	雕	diu1	(又)tiu1「雕刻」	diu1；雕刻又讀tiu1	diu1	
-雖	虽	slui1		seoi1	slui1	
+雕	雕	diu1「雕像，雕刻」	(又)tiu1「雕刻，罕讀」	diu1；雕刻又讀tiu1	diu1「雕像，雕刻」	
+雖	虽	slui1「雖然」	(又)slyu1「語流音變」	seoi1	slui1	
 雘	雘	wok6		wok3	huk6	
 雙	双	soeng1		soeng1	sung1	
 雛	雏	cyu4	(又)cyu1	co1；(又)co4	zyu4	
@@ -9184,7 +9187,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 韆	千	cin1		cin1	cin1	
 韉	鞯	zin1		zin1	zin1	
 韋	韦	wai4		wai5；(又)wai4	wai4	
-韌	韧	jan6	(白)ngan6「煙～，食物有勁道」,(語)jang3「肉食煮得不爛，古壯字作絴」	jan6	njan6	(語)njang3「肉食煮得不爛，古壯字作絴」,(語)njan2「打恂～，打冷顫、顫抖」
+韌	韧	jan6「堅韌」	(白)ngan6「煙～，食物有勁道」,(語)jang3「肉食煮得不爛，古壯字作絴」	jan6	njan6「堅韌」	(語)njang3「肉食煮得不爛，古壯字作絴」,(語)njan2「打恂～，打冷顫、顫抖」
 韍	韨	fat1		fat1	fat2	
 韓	韩	hon4		hon4	haan4	
 韔	韔	coeng3		coeng3	ciang3	
@@ -9205,7 +9208,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 項	项	hong6「項目」	(又)hong5「項鏈」	hong6	haang6	
 順	顺	san6	(老派)syun6	seon6	san6	
 頇	顸	hon1		hon1	haan1	
-須	须	slyu1		seoi1；(古)通鬚	slyu1	
+須	须	slyu1「必須」		seoi1；(古)通鬚	slyu1「必須」	
 頊	顼	juk1		juk1,guk1	joek2	
 頌	颂	zung6		zung6	zoeng6	
 頍	𫠆	kwai2		kwai2	kwai2	
@@ -9343,12 +9346,13 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 餿	馊	slau1	(訓)sluk1「食物過宿，訓讀宿」	sau1；(語)suk1	slau1	(又)sloek2「食物過宿，訓讀宿」
 饁	馌	jip6		jip6	jip5	
 饃	馍	mo1「又作饝/𩞁字」	(又)mo4	mo4	mo1「又作饝/𩞁字」	(又)mo4
-饅	馒	maan4	(又)maan6	maan6；(又)maan4	maan6	
+饅	馒	maan6	(又)maan4	maan6；(又)maan4	maan6	
 饈	馐	slau1		sau1	slau1	
 饉	馑	gan2		gan2	gan2	
 饊	馓	slaan2「米花糰」		saan2	slaan2「米花糰」	
 饋	馈	gwai6		gwai6	gwai6	
 饌	馔	zyun6		zaan6	zyun6	
+饍	膳	sin6		sin6	syun6	(又)sin6
 饎	饎	ci3		ci3	ci3	
 饐	饐	ji3		ji3	ji3	
 饑	饥	gi1		gei1	gi1	
@@ -9374,18 +9378,18 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 馮	冯	fung4「姓」,pang4「暴虎馮河」		fung4；(古)通憑	foeng4「姓」,bang4「暴虎馮河」	
 馱	驮	to4「馱東西」,do6「馱子」		to4	do4「馱東西」,do6「馱子」	
 馳	驰	ci4		ci4	zi4	
-馴	驯	fan3		seon4	wan3	
+馴	驯	slan4	(老派)slyun4,(又)fan3	seon4	slan4	(又)wan3
 馹	驲	jat6		jat6	njat5	
 馼	𫘜	man4		man4	man4	(老派)fan4
 駁	驳	bok3		bok3	buk2	
 駃	𫘝	faai3「同快字」,kyut3「駃騠」		faai3,kyut3	waai3「同快字」,kyut2「駃騠」	
 駉	𬳶	gwing1		gwing1	gwing1	
-駐	驻	zyu3		zyu3	zyu3	
+駐	驻	zyu3	(又)zyu6	zyu3	zyu3	
 駑	驽	nu4		nou4	nu4	
 駒	驹	(白)kyu1	(文)gyu1	keoi1	(白)kyu1	(文)gyu1
 駓	𬳵	pi1		pei1	pi1	
 駔	驵	cong2「駔子」,zong2「壯馬；駔儈」,zu2「駿馬」		cong2,zong2,zou2	caang2「駔子」,zaang2「壯馬；駔儈」,zu2「駿馬」	
-駕	驾	(白)kaa3	(文)gaa3	gaa3	kaa3	
+駕	驾	(白)kaa3「量詞」	(文)gaa3「駕駛」	gaa3	kaa3	
 駘	骀	doi6「駘蕩」,toi4「劣馬」		toi5,toi4	daai6「駘蕩」,daai4「劣馬」	
 駙	驸	fu6		fu6	fu6	
 駛	驶	sai2		sai2	sai2	
@@ -9481,7 +9485,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 髒	脏	zong1		zong1	zaang1	
 髓	髓	sui2		seoi5	sui2	
 體	体	tai2		tai2	tai2	
-髕	髌	ban3	(又)ban1	ban3	ban3	(又)ban1
+髕	髌	ban1		ban3	ban1	
 髖	髋	fun1		fun1	hun1	
 高	高	gu1		gou1	gaau1	
 髡	髡	kwan1		kwan1	kwan1	
@@ -9512,11 +9516,11 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 鬒	鬒	can2		can2	can2	
 鬘	鬘	maan4		maan4	maan4	
 鬙	鬙	zang1	(語)slang1「鬅[lɐŋ21]～，不整潔」	zang1,sang1	zang1	(語)slang4「鬅[pɐŋ21]～楞[lɐŋ21]，不整潔」
-鬚	须	slu1	(又)slyu1	sou1	slu1	(又)slyu1
+鬚	须	slu1「鬍鬚」	(又)slyu1	sou1	slu1「鬍鬚」	(又)slyu1
 鬞	鬞	nung1「～鬤，窩囊，不整潔」		nung4	nung3「～鬤，窩囊，不整潔」	
 鬟	鬟	waan4		waan4	waan4	
 鬡	鬡	ning4		ning4	ning4	
-鬢	鬓	ban3	(又)ban1	ban3	ban3	(又)ban1
+鬢	鬓	ban3	(常)ban1	ban3	ban3	(常)ban1
 鬣	鬣	lip6		lip6	lip5	
 鬤	鬤	joeng4「頭髮亂貌」	(語)naang1「鬞～，窩囊，不整潔」	joeng4	ngiang4「頭髮亂貌」	(語)naang3「鬞～，窩囊，不整潔」
 鬥	斗	dau3		dau3	dau3	
@@ -9645,9 +9649,9 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 鰷	鲦	tiu4		tiu4	diu4	
 鰹	鲣	gin1		gin1	gyun1	(又)gin1
 鰺	鲹	sam1		sam1	sam1	
-鰻	鳗	maan6		maan4	maan6	
+鰻	鳗	maan6	(又)maan4	maan4	maan6	
 鰼	鳛	zap6		zaap6	zap6	
-鰾	鳔	piu3		piu5	biu6	
+鰾	鳔	piu5「魚鰾，語流中易讀陰去」		piu5	biu6	
 鱀	𬶨	gi3		gei6,kei3	gi3	
 鱂	鳉	zoeng1		zoeng1	ziang1	
 鱅	鳙	jung4		jung4,sung4	joeng4	
@@ -9721,7 +9725,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 鵬	鹏	paang4		paang4	bang4	
 鵮	鹐	(白)dem1「啄；叼」,cem1「鳥啄物」	(文)daam1「叼」	daam1	(白)dem1「啄；叼」,cem1「鳥啄物」	(文)daam1「叼」
 鵯	鹎	bi1		bei1	bi1	
-鵰	雕	diu1		diu1	diu1	
+鵰	雕	diu1「一箭雙鵰」		diu1	diu1「一箭雙鵰」	
 鵲	鹊	coek3		zoek3；(又)coek3	ciak2	
 鵷	鹓	jyun1		jyun1	jyun1	
 鵾	鹍	(白)kwan1	(文)gwan1	gwan1,kwan1	(白)kwan1	(文)gwan1
@@ -9987,7 +9991,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 𠽌	𠽌	slyut1「詞綴，白～～」		syut1	slyut2	
 𠽤	𠽤	kik1「阻礙、絆，本字棘」		kik1	kik2「阻礙、絆，本字棘」	
 𠾴	𠾴	bang6「冚～唥（咸不論），全部，又作唪字」		baang6	bang6「冚～唥（咸不論），全部，又作唪字」	
-𠿓	𠿓	slaap3		saap3	slaap2	
+𠿓	𠿓	slaap3「醜；食貌；<語>猛咬（一口），又作喢/歃字」		saap3	slaap2「醜；食貌；<語>猛咬（一口），又作喢/歃字」	(語)slaap6「～得，食欲好、能吃，又作喢/歃字」
 𡀾	𡀾	ngap6「眾聲」	(語)ngap1「胡說，俗字噏，與啽/吟對轉」	ngap6,ngap1	ngap6「眾聲」	(語)ngap3「胡說，俗字噏，與啽/吟對轉」
 𡁏	𡁏	mung4「言不明」	(語)mung1「（薯類）膨鬆粉麪」	mung4	moeng4「言不明」	(語)moeng1「（薯類）膨鬆粉麪」
 𡁯	𡁯	dut1「～～車，童語，汽車」,dyut1「～嘴，親吻」		dut1,dyut1	dut6	(語)dot3「～～車，童語，汽車」
@@ -10073,8 +10077,8 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 𣶛	𣶛	jin4		jin4	hin4	(又)saan4
 𣶜	𣶜	jin4		jin4	hin4	(又)saan4
 𤊶	𤊶	laat6	(語)laat3「熱」	laat6	laat5	(語)laat3「熱」,(語)let3「熱」
-𤌍	𤌍	hok3「烤，又作熇字」		hok3	haak2「烤，又作熇字」	
-𤎩	𤎩	sui6		seoi6	sui6	
+𤌍	𤌍	hok3「烤，本字熇」		hok3	haak2「烤，本字熇」	
+𤎩	𤎩	sui6		seoi6	sui6	(又)slui6
 𤏻	𤏻	slit3		sit3,sip3	slyut2	(又)slit2
 𤓓	𤓓	lo3「煳味」		lo3	lo3「煳味」	
 𤔲	𤔲	si1「同司字」,ci4「同辭字」	(老派)sy1,(老派)cy4	si1	sli1「同司字」,zi4「同辭字」	
@@ -10084,9 +10088,9 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 𤧛	𤧛	dai3		dai3	dai3	
 𤫉	𤫉	slit3		sit3	slyut2	(又)slit2
 𤯌	𤯌	gam1	(又)ham4	haam4,gam1	gaam1	(又)haam4
-𤶸	𤶸	naa1「補丁，或源自補衲；傷疤，本字或爲痆；又作𤸻字」		naa1	naa1「補丁，或源自補衲；傷疤，本字或爲痆；又作𤸻字」	
+𤶸	𤶸	naa1「補丁，或源自補衲；傷疤，疑本字痆；又作𤸻字」		naa1	naa1「補丁，或源自補衲；傷疤，疑本字痆；又作𤸻字」	
 𤷪	𤷪	mang2「～𤺧，暴躁」		mang2	mang2	
-𤸻	𤸻	naa1「補丁，或源自補衲；傷疤，本字或爲痆；又作𤶸字」		naa1	naa1「補丁，或源自補衲；傷疤，本字或爲痆；又作𤶸字」	
+𤸻	𤸻	naa1「補丁，或源自補衲；傷疤，疑本字痆；又作𤶸字」		naa1	naa1「補丁，或源自補衲；傷疤，疑本字痆；又作𤶸字」	
 𤹍	𤹍	nang1「～雞，疤痕」		nang1	nang3「～雞，疤痕」	
 𤺧	𤺧	zang2「𤷪～，暴躁」		zang2	zang2	
 𤿆	𤿆	zang2「䁅[mɐŋ35]～，同𤷪𤺧」		zang2	zang2「䁅[mɐŋ33]～，同𤷪𤺧」	
@@ -10143,8 +10147,8 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 𦳊	𦳊	si2		si2	si2	
 𦵯	𦵯	hat6		hat6	hat6	
 𦻐	𦻐	(白)zeu3「同㷹字」	(文)zaau3	zaau3	zaau3「用油炸」	zaau3「同㷹字」
-𦼔	𦼔	leu3「古壯字，枯萎、蔫，疑本字𣩢」		liu4	leu3「古壯字，枯萎、蔫，疑本字𣩢」	
-𧊅	𧊅	gwaai2「螞～，青蛙，本字蟆蟈」	(白)kwe2「小青蛙」	gwaai2	gwaai2「螞～，青蛙，本字蟆蟈」	(白)kwe2「～子，小青蛙」
+𦼔	𦼔	leu3「古壯字，枯萎、蔫，疑本字燎/熮/𣩢」		liu4	leu3「古壯字，枯萎、蔫，疑本字燎/熮/𣩢」	
+𧊅	𧊅	gwaai2「螞～，青蛙，又作蟆蟈」	(白)kwe2「小青蛙」	gwaai2	gwaai2「螞～，青蛙，又作蟆蟈」	(白)kwe2「～子，小青蛙」
 𧋦	𧋦	mi1	(語)me1「塘～，蜻蜒」	mei1	mi1	(語)me1「～虰[tʃiɐŋ21]，蜻蜒」
 𧒽	𧒽	lui1		leoi1	lui1	
 𧕴	𧕴	naan3「蚊蟲叮咬起的包」		naan3	naan3「蚊蟲叮咬起的包」	
