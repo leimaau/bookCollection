@@ -2896,7 +2896,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 抒	抒	syu1		syu1	syu1	
 抓	抓	zaa1「握、拿，又作揸字，本字𠭯」,zaau2「搔、撓」	(白)jaa1「握、拿」,(白)jaau1「搔、撓，俗字撓」	zaau2；(又)zaa1	zaa1「握、拿，又作揸字，本字𠭯」,zaau2「搔、撓」	(白)njaa1「握、拿」,(白)njaau1「搔、撓，俗字撓」
 抔	抔	pau4		pau4	bau4	
-投	投	tau4	(白)dau6「以藥毒殺，～老鼠，又作毒/酘字」	tau4	dau4	
+投	投	tau4「投入」	(白)dau6「以藥毒殺，～老鼠，又作毒/酘字」	tau4	dau4	
 抖	抖	dau2		dau2	dau2	
 抗	抗	kong3		kong3	kaang3	
 折	折	zit3「折斷」,sit6「折本」		1)zit3:折磨 2)zip3:存折	zyut2「折斷」,syut6「折本」	(又)zit2「折斷」,(又)sit6「折本」
@@ -3164,7 +3164,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 摮	摮	ngu4		ngou4	ngaau4	
 摯	挚	zi3		zi3	zi3	
 摱	摱	maan1		maan1	maan1	
-摳	抠	kau1		kau1	kau1	
+摳	抠	kau1「擡起、端起，～張凳來；挖，～牆壁」		kau1	kau1「擡起、端起，～張凳來；挖，～牆壁」	
 摴	摴	syu1		syu1	syu1	
 摵	摵	cik1「提，與掅對轉」,saak3「摵摵，落葉聲，又作瑟瑟/槭槭」	(又)slik1「摵摵」,(又)slak1「摵摵」	cik1	cik2「提，與掅對轉」,siak2「摵摵，落葉聲，又作瑟瑟/槭槭」	(又)slik2「摵摵」,(又)slak2「摵摵」
 摶	抟	tyun4		tyun4	dun4	
@@ -3178,7 +3178,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 撂	撂	liu1「放下」,loek6「掠取，本字㨼」		liu1,loek6	liu1「放下」,liak5「掠取，本字㨼」	
 撅	撅	kyut3	(語)goe1「～屎窟，撅屁股，又作啹字」	kyut3	kyut2	
 撇	撇	pit3		pit3	pit2	
-撈	捞	(白)lu1「攪拌；～世界，闖江湖」,(白)laau1「～籬[li55]；～佬，北方人的俗稱，本字老」,(白)leu1「探取」,(白)leu4「攪拌」	(文)laau4「打～；～籬[li21]」	1)laau4:打撈 2)lou1:撈本兒	(白)laau1「攪拌；摻合」	(文)laau4「打～；～籬[li21]」
+撈	捞	(白)lu1「攪拌；～世界，闖江湖」,(白)laau1「～籬[li55]；～佬，北方人的俗稱，本字老，老兄的官話音」,(白)leu1「探取」,(白)leu4「攪拌」	(文)laau4「打～；～籬[li21]」	1)laau4:打撈 2)lou1:撈本兒	(白)laau1「攪拌；摻合」	(文)laau4「打～；～籬[li21]」
 撉	撉	dan1	(又)dan3	dan3,deon1	dan1	(又)dan3
 撍	撍	cim4「拔、抽，又作撏字」		cim4	zim4「拔、抽，又作撏字」	
 撏	挦	cam4「撏扯」,cim4「拔、抽，又作撍字」		cam4,cim4	zam4「撏扯」,zim4「拔、抽，又作撍字」	
@@ -4075,7 +4075,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 每	每	mui5		mui5	mui5	
 毐	毐	oi2		oi2	aai2	
 毑	毑	ze2		ze2	ze2	
-毒	毒	duk6「毒蛇」	(白)dau6「以藥毒殺，～老鼠，又作酘字」	duk6；(古地名)duk1身毒	doek6	
+毒	毒	duk6「毒蛇」	(白)dau6「以藥毒殺，～老鼠，又作酘/投字」	duk6；(古地名)duk1身毒	doek6	
 毓	毓	juk1		juk1	njoek5	
 比	比	bi2		1)bei2:比較 2)bei3:比鄰；朋比又讀bei6	bi2	
 毖	毖	bi3		bei3	bi3	
@@ -4275,7 +4275,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 洺	洺	ming4		ming4	ming4	
 活	活	wut6		wut6	wat6	
 洼	洼	waa1		waa1	waa1	
-洽	洽	hap6	(又)haap6	hap1	haap2	
+洽	洽	haap6	(又)hap6	hap1	haap2	
 派	派	paai3	(語)paai1「夠～，有派頭」	paai3	paai3	
 洿	洿	wu1		wu1	wu1	
 流	流	lau4		lau4	lau4	
@@ -4905,7 +4905,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 牚	牚	caang3「椅牚」		caang1,caang3	ciang3「椅牚」	
 牛	牛	ngau4		ngau4	njau4	
 牝	牝	pan5		pan5	ban5	
-牞	牞	gau1	(語)kau1「擡起，又作摳字」	gau1,kau1	gau1	(語)kau1「擡起，又作摳字」
+牞	牞	gau1	(又)kau1	gau1,kau1	gau1	(又)kau1
 牟	牟	mau4		mau4	mau4	
 牠	牠	taa1		taa1	taa1	
 牡	牡	maau5	(又)mau5	maau5	maau6	(又)mau5
@@ -6508,7 +6508,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 翽	翙	wai3		wai3	wai3	
 翾	翾	hyun1		hyun1	hyun1	
 耀	耀	jiu6		jiu6	jiu6	
-老	老	lu5「～人」	(語)laau1「～娘[nɛŋ55]、～哥[kɛ55]，母親、父親的敘稱；～佬，北方人的俗稱」	lou5	laau5	
+老	老	lu5「～人」	(語)laau1「～孃[nɛŋ55]、～哥[kɛ55]，母親、父親的敘稱；～佬，北方人的俗稱，老兄的官話音」	lou5	laau5	
 考	考	haau2		haau2	kaau2	
 耄	耄	mu6		mou6	maau6	
 者	者	ze2		ze2	ze2	
@@ -8224,7 +8224,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 軤	轷	fu1		fu1	hu1	
 軥	軥	kyu4「軛下曲者」,(白)ngau1「軥心木」	(文)gau1	keoi4	gyu4「軛下曲者」,(白)ngau1「軥心木」	(文)gau1
 軫	轸	can2		can2,zan2	zan2	
-軭	軭	kwaang1	(又)kong1,(語)waang1「搞砸了，本字橫」	waang1	kwaang1	
+軭	軭	kwaang1	(又)kong1,(語)waang1「搞砸了，疑本字橫」	waang1	kwaang1	
 軲	轱	gu1		gu1	gu1	
 軶	軶	aak3		aak1	iak2	
 軸	轴	zuk6		zuk6	zoek6	
@@ -8525,7 +8525,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 酐	酐	gon1「酸酐」,hong5「苦酒」		gon1,hong5	gaan1「酸酐」,haang5「苦酒」	
 酒	酒	zau2		zau2	zau2	
 酗	酗	hyu3	(又)jyu3	jyu3,heoi3	hyu3	(又)jyu3
-酘	酘	tau4「酒再釀」	(語)dau6「以藥毒殺，～老鼠，又作毒字」	tau4,dou6	dau4「酒再釀」	
+酘	酘	tau4「酒再釀」	(語)dau6「以藥毒殺，～老鼠，又作毒/投字」	tau4,dou6	dau4「酒再釀」	
 酚	酚	fan1		fan1	fan1	
 酞	酞	taai3		taai3	taai3	
 酡	酡	to4		to4	do4	
@@ -9416,7 +9416,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 騇	騇	se3		se3	se3	
 騊	𫘦	tu4		tou4	daau4	
 騍	骒	(白)ko3	(文)fo3	fo3	ko3	
-騎	骑	ke4「騎馬」,gi6「車騎」		1)ke4:騎馬 2)kei4:車騎	gi4「騎馬」,gi6「車騎」	(又)ge4「騎馬」
+騎	骑	ke4「騎馬」,gi6「車騎」	(語)ge6「屘[mɛt5]～，最後一名」	1)ke4:騎馬 2)kei4:車騎	gi4「騎馬」,gi6「車騎」	(又)ge4「騎馬」
 騏	骐	ki4		kei4	gi4	
 騑	𬴂	fi1		fei1	fi1	
 騖	骛	mu6		mou6	mu6	(老派)fu6
@@ -9960,7 +9960,7 @@ TRAD	SIMP	JP	JP2	GZ	BWJP	BWJP2	NOTE
 𠬞	𠬞	gung2		gung2	goeng2	
 𠭯	𠭯	zaa1「握、拿」	(白)jaa1	zaa1	zaa1「握、拿」	(白)njaa1
 𠮨	𠮨	naai3「連帶，與褦對轉」		naai3	naai3「連帶，與褦對轉」	
-𠯋	𠯋	jai5「孩童頑皮，本字跩」,jai4「劣質的，本字勩」		jai5,jai4	jai5「孩童頑皮，本字跩」,jai4「劣質的，本字勩」	
+𠯋	𠯋	jai5「孩童頑皮，本字跩/跇」,jai4「劣質的，本字勩」		jai5,jai4	jai5「孩童頑皮，本字跩/跇」,jai4「劣質的，本字勩」	
 𠯔	𠯔	pat1「～斜咧[lɛ21]，嘆詞，呸」		pat1	pat3「～斜咧[le21]，嘆詞，呸」	
 𠯦	𠯦	cet1「詞綴，短～～」		cet1	cet3「詞綴，短～～」	
 𠱂	𠱂	dat1「用力往下放，與躉對轉」		dat1	dat2「用力往下放，與躉對轉」	
