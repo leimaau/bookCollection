@@ -1169,7 +1169,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1168	捻	捻	nim55	nim55	nim1	P111		
 1169	驗	验	nim22	nim22	nim6	P111		原文誤作[nim21]
 1170	鮎	鲇	nim21	nim21	nim4	P111		
-1171	鯰	鲇	nim21	nim21	nim4	P111		
+1171	鯰	鲶	nim21	nim21	nim4	P111		原文作「鮎」字
 1172	念	念	nim22	nim22	nim6	P111		
 1173	㖭	㖭	lim55	lim55	lim1	P111	焉	原文有音無字
 1174	𠻹	𠻹	lim55	lim55	lim1	P111	焉	原文有音無字
@@ -2120,8 +2120,8 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2119	映	映	∅ieŋ35	jeŋ35	jing2	P115		原文作[∅iŋ35]，与[∅ieŋ35]不統一
 2120	捧	捧	pʰuŋ35	pʰʊŋ35	pung2	P115		
 2121	蒙	蒙	muŋ21	mʊŋ21	mung4	P115		
-2122	濛	蒙	muŋ21	mʊŋ21	mung4	P115		原文作「蒙」字
-2123	矇	蒙	muŋ21	mʊŋ21	mung4	P115		原文作「蒙」字
+2122	丰	丰	fuŋ55	fʊŋ55	fung1	P115		
+2123	游	游	∅iɐu21	jɐu21	jau4	P111	逛	原文有音無字
 2124	夢	梦	muŋ22	mʊŋ22	mung6	P115		原文誤作[muŋ21]
 2125	懵	懵	muŋ35	mʊŋ35	mung2	P115		
 2126	風	风	fuŋ55	fʊŋ55	fung1	P115		
@@ -2328,7 +2328,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2327	佛	佛	fɐt2	fɐt2	fat6	P115		
 2328	突	突	tɐt2	tɐt2	dat6	P115		
 2329	肄	肄	lɐt2	lɐt2	lat6	P115		
-2330	慄	栗	lɐt2	lɐt2	lat6	P115		
+2330	栗	栗	lɐt2	lɐt2	lat6	P115		
 2331	律	律	lɐt2	lɐt2	lat6	P115		
 2332	率	率	lɐt2	lɐt2	lat6	P115		
 2333	質	质	tʃɐt5	tʃɐt5	zat1	P115		
@@ -2684,3 +2684,5 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2683	稜	棱	lɐŋ55	lɐŋ55	lang1	P113	在皮膚上抓出的痕跡	原文有音無字
 2684	瀰	弥	mɛ21	mɛ21	me4	P109	乳房	原文有音無字
 2685	㞞	𪨊	ɬuŋ35	ɬʊŋ35	slung2	P115		原文誤作「慫」字，而[ɬuŋ21]應該對應「㞞」字
+2686	癒	愈	∅y22	jy22	jyu6	P109		原文誤作[∅y21]
+2687	嚐	尝	ʃœŋ21	ʃœŋ21	soeng4	P114		

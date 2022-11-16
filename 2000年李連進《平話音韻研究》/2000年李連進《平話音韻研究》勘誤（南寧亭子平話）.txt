@@ -512,7 +512,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 511	榆	榆	y21	jy21	jyu4			
 512	逾	逾	y21	jy21	jyu4			
 513	愉	愉	y21	jy21	jyu4			
-514	愈	愈	y21	jy21	jyu4		病癒	
+514	愈	愈	y21	jy21	jyu4			
 515	喻	喻	y223	jy22	jyu6			
 516	裕	裕	y223	jy22	jyu6			
 517	獃	呆	tai41	tai53	daai1			
@@ -2632,7 +2632,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2631	航	航	haŋ21	haŋ21	haang4			
 2632	杭	杭	haŋ21	haŋ21	haang4			原文誤作[haŋ31]
 2633	鶴	鹤	hak2	hak2	haak6			
-2634	肮	肮	ŋaŋ41	ŋaŋ53	ngaang1			
+2634	嚐	尝	ɕEŋ21	ʃiɐŋ21	siang4			
 2635	娘	娘	nEŋ21	niɐŋ21	niang4			
 2636	釀	酿	ŋEŋ223	ŋiɐŋ22	ngiang6			
 2637	良	良	lEŋ21	liɐŋ21	liang4			
@@ -3318,9 +3318,9 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3317	福	福	føk3	fœk3	foek2			
 3318	蝠	蝠	føk3	fœk3	foek2		蝙蝠	
 3319	腹	腹	føk3	fœk3	foek2			
-3320	複	复	føk3	fœk3	foek2			
-3321	複	复	føk3	fœk3	foek2		復原	
-3322	複	复	føk3	fœk3	foek2		複與	
+3320	复	复	føk3	fœk3	foek2			
+3321	複	复	føk3	fœk3	foek2			
+3322	復	复	føk3	fœk3	foek2		復興；復原	
 3323	豐	丰	føŋ41	fœŋ53	foeng1			
 3324	覆	覆	føk3	fœk3	foek2		反覆	
 3325	馮	冯	føŋ21	fœŋ21	foeng4			
@@ -3451,3 +3451,122 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3450	浴	浴	ȵøk24	ȵœk24	njoek5			
 3451	欲	欲	ȵøk24	ȵœk24	njoek5			
 3452	慾	欲	ȵøk24	ȵœk24	njoek5			
+3453	丑	丑	tɕʰɐu33	tʃʰɐu33	cau2			
+3454	乾	乾	kyn21	kyn21	gyun4		乾坤	
+3455	于	于	y223	jy22	jyu6			
+3456	云	云	wuɐn21	wɐn21	wan4			
+3457	係	系	hi55	hi55	hi3			
+3458	傑	杰	kyt24	kyt24	gyut5			
+3459	僕	仆	pʰɷk3	pʰok3	puk2			
+3460	僞	伪	ŋEi223	ŋɐi22	ngai6			
+3461	僞	伪	vEi223	wɐi22	wai6			
+3462	冒	冒	mau223	mau22	maau6			
+3463	冢	冢	tɕʰøŋ33	tʃʰœŋ33	coeng2			
+3464	凌	凌	lɐŋ21	leŋ21	ling4			
+3465	几	几	ki41	ki53	gi1		茶几	
+3466	勛	勋	wuɐn41	wɐn53	wan1			
+3467	卜	卜	pʰɷk3	pʰok3	puk2			
+3468	吁	吁	y41	jy53	jyu1			
+3469	后	后	hɐu223	hɐu22	hau6			
+3470	咸	咸	ham21	ham21	haam4			
+3471	啓	启	hi33	hi33	hi2			
+3472	喫	吃	hʅk3	hek3	hik2			
+3473	坡	坡	pʰɔ33	pʰo33	po2			
+3474	壠	垄	løŋ13	lœŋ24	loeng5			
+3475	壻	婿	ɬEi55	ɬɐi55	slai3		女壻	
+3476	妒	妒	tu13	tu24	du5			
+3477	姜	姜	kEŋ41	kiɐŋ53	giang1			
+3478	姦	奸	kan41	kan53	gaan1			
+3479	姪	侄	tɕiɐt2	tʃɐt2	zat6			
+3480	孃	娘	nEŋ21	niɐŋ21	niang4			
+3481	寧	宁	nɐŋ21	neŋ21	ning4		安寧	
+3482	導	导	tau33	tau33	daau2			
+3483	尸	尸	ɕi41	ʃi53	si1			
+3484	岔	岔	tɕʰa41	tʃʰa53	caa1			
+3485	岳	岳	ŋak2	ŋak2	ngaak6			
+3486	峯	峰	føŋ41	fœŋ53	foeng1			
+3487	崙	仑	lɐn21	lɐn21	lan4			
+3488	干	干	kan41	kan53	gaan1			
+3489	幺	幺	jiu41	jiu53	jiu1		么二三	
+3490	廁	厕	tɕʰi55	tʃʰi55	ci3		廁所	
+3491	弔	吊	tiu55	tiu55	diu3			
+3492	御	御	y223	jy22	jyu6			
+3493	怠	怠	tai223	tai22	daai6			
+3494	恆	恒	həŋ21	hɐŋ21	hang4			
+3495	悶	闷	mun223	mun22	mun6			
+3496	捨	舍	ɕiE33	ʃe33	se2			
+3497	撚	撚	nEn33	nɛn33	nen2		以指撚碎	
+3498	擡	抬	tai21	tai21	daai4			
+3499	攷	考	kʰau33	kʰau33	kaau2			
+3500	敘	叙	tɕy13	tʃy24	zyu5			
+3501	斗	斗	tɐu33	tɐu33	dau2			
+3502	札	札	tɕat3	tʃat3	zaat2			
+3503	枱	台	tai21	tai21	daai4			
+3504	枴	拐	kʷai33	kʷai33	gwaai2			
+3505	樸	朴	pɷk3	pok3	buk2			
+3506	橛	橛	kyt3	kyt3	gyut2			
+3507	檐	檐	jim21	jim21	jim4			
+3508	檯	台	tai21	tai21	daai4			
+3509	歎	叹	tʰan55	tʰan55	taan3			
+3510	歷	历	lʅk24	lek24	lik5			
+3511	污	污	wu41	wu53	wu1			
+3512	涌	涌	yøŋ13	jœŋ24	joeng5			
+3513	淚	泪	lui223	lui22	lui6			
+3514	游	游	jiɐu41	jɐu53	jau1			
+3515	準	准	tɕiɐn33	tʃɐn33	zan2			
+3516	溼	湿	ɕɐp3	ʃɐp3	sap2			
+3517	滰	滰	kɐŋ21	keŋ21	ging4			原文作「澄」字
+3518	滷	卤	lu13	lu24	lu5			
+3519	潛	潜	tɕɐm21	tʃɐm21	zam4			
+3520	煉	炼	lin223	lin22	lin6			
+3521	煑	煮	tɕu33	tʃu33	zu2			
+3522	爲	为	vEi21	wɐi21	wai4		作為	
+3523	牀	床	ɕaŋ21	ʃaŋ21	saang4			
+3524	牚	牚	tɕʰEŋ55	tʃʰiɐŋ55	ciang3			
+3525	瓮	瓮	øŋ55	∅œŋ55	oeng3			
+3526	疊	叠	tɐp24	tɐp24	dap5			
+3527	痲	痲	ma21	ma21	maa4			
+3528	皁	皂	tɕau223	tʃau22	zaau6			
+3529	秘	秘	pi55	pi55	bi3			
+3530	稭	秸	kai41	kai53	gaai1			
+3531	窯	窑	jiu21	jiu21	jiu4			
+3532	竈	灶	tɕau55	tʃau55	zaau3			
+3533	簾	帘	lim21	lim21	lim4			
+3534	粮	粮	lEŋ21	liɐŋ21	liang4			
+3535	紮	扎	tɕat3	tʃat3	zaat2			
+3536	絃	弦	yn21	jyn21	jyun4			
+3537	網	网	moŋ13	moŋ24	mung5			
+3538	線	线	ɬin55	ɬin55	slin3			
+3539	繮	缰	kʰEŋ41	kʰiɐŋ53	kiang1		繮繩	
+3540	羣	群	kʷɐn21	kʷɐn21	gwan4			
+3541	羶	膻	ɬau41	ɬau53	slaau1			原文誤作[ɬao41]
+3542	脣	唇	ɕiɐn21	ʃɐn21	san4			
+3543	艷	艳	yn55	jyn55	jyun3			
+3544	菸	烟	yn41	jyn53	jyun1			
+3545	葱	葱	tɕʰøŋ41	tʃʰœŋ53	coeng1			
+3546	藥	药	jiEk24	jiɐk24	jiak5			
+3547	蘂	蕊	jiui13	jiui24	jiui5			
+3548	螂	螂	laŋ21	laŋ21	laang4			
+3549	衆	众	tɕøŋ55	tʃœŋ55	zoeng3			
+3550	製	制	tɕi41	tʃi53	zi1			
+3551	襉	裥	kan33	kan33	gaan2			
+3552	谷	谷	køk3	kœk3	goek2			
+3553	蹤	踪	tɕøŋ41	tʃœŋ53	zoeng1			
+3554	輓	挽	wuan33	wan33	waan2			
+3555	采	采	tɕʰai33	tʃʰai33	caai2			
+3556	里	里	li13	li24	li5			
+3557	鉢	钵	put3	put3	but2			
+3558	鐘	钟	tɕøŋ41	tʃœŋ53	zoeng1			
+3559	颱	台	tai21	tai21	daai4			
+3560	飢	饥	ki41	ki53	gi1			
+3561	餚	肴	ŋau21	ŋau21	ngaau4			
+3562	髮	发	fɐt3	fɐt3	fat2			
+3563	鱉	鳖	pit3	pit3	bit2			
+3564	鷄	鸡	kEi41	kɐi53	gai1			
+3565	麪	面	min223	min22	min6			
+3566	麵	面	min223	min22	min6			
+3567	癒	愈	y21	jy21	jyu4		病癒	
+3568	遊	游	jiɐu41	jɐu53	jau1			原文作「游」字
+3569	丰	丰	føŋ41	fœŋ53	foeng1			原文作「豐」字
+3570	槓	杠	kaŋ55	kaŋ55	gaang3			
+3571	嘆	叹	tʰan55	tʰan55	taan3			
