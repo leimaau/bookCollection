@@ -2026,8 +2026,8 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2025	件	件	kyn223	kyn22	gyun6			
 2026	諺	谚	yn55	jyn55	jyun3			
 2027	孽	孽	nip3	nip3	nip2			
-2028	蔫	蔫	lEu41	lɛu53	leu1			
-2029	蔫	蔫	lEu41	lɛu53	leu1		花萎	
+2028	熮	熮	lEu41	lɛu53	leu1		花萎	原文作「蔫」字
+2029	蔫	蔫	lEu41	lɛu53	leu1		花萎	參見「熮」字
 2030	焉	焉	yn21	jyn21	jyun4		心不在焉	
 2031	延	延	yn21	jyn21	jyun4			
 2032	筵	筵	yn21	jyn21	jyun4			
@@ -3211,7 +3211,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3210	宏	宏	høŋ21	hœŋ21	hoeng4			
 3211	獲	获	vEk2	wiɐk2	wiak6			
 3212	劃	划	vak2	wak2	waak6			
-3213	劃	划	tɕau223	tʃau22	zaau6		划船	
+3213	劃	划	tɕau223	tʃau22	zaau6		划船	應作「棹/櫂」字
 3214	兄	兄	vɐŋ41	weŋ53	wing1			
 3215	榮	荣	yøŋ21	jœŋ21	joeng4			
 3216	永	永	vɐŋ13	weŋ24	wing5			
@@ -3570,3 +3570,6 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3569	丰	丰	føŋ41	fœŋ53	foeng1			原文作「豐」字
 3570	槓	杠	kaŋ55	kaŋ55	gaang3			
 3571	嘆	叹	tʰan55	tʰan55	taan3			
+3572	扎	扎	tɕat3	tʃat3	zaat2			
+3573	膻	膻	ɬau41	ɬau53	slaau1			原文誤作[ɬao41]
+3574	匆	匆	tɕʰøŋ41	tʃʰœŋ53	coeng1			
