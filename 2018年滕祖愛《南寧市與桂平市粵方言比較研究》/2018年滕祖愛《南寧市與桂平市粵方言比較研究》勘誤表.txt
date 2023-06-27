@@ -607,7 +607,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 606	射	射	ʃɛ22	ʃɛ22	se6	P109		
 607	茄	茄	kʰɛ21	kʰɛ21	ke4	P109		
 608	騎	骑	kʰɛ21	kʰɛ21	ke4	P109		
-609	楔	楔	ɬɛt3	ɬɛt3	slet3	P109		原文誤作[khɛ33]
+609	楔	楔	ɬit3	ɬit3	slit3	P109		原文誤作[khɛ33]
 610	彌	弥	mɛ21	mɛ21	me4	P109	乳房	原文有音無字
 611	孭	孭	mɛ55	mɛ55	me1	P109	背的意思	原文有音無字，誤作[mɛ33]
 612	爺	爷	∅iɛ21	jɛ21	je4	P109		
@@ -1251,7 +1251,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1250	扇	扇	ʃin33	ʃin33	sin3	P111		
 1251	善	善	ʃin22	ʃin22	sin6	P111		
 1252	堅	坚	kin55	kin55	gin1	P111		
-1253	筧	笕	kan35	kan35	gaan2	P111		原文誤作[kin35]
+1253	筧	笕	kin35	kin35	gin2	P111		
 1254	建	建	kin33	kin33	gin3	P111		
 1255	見	见	kin33	kin33	gin3	P111		
 1256	件	件	kin22	kin22	gin6	P111		
@@ -1717,7 +1717,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1716	看	看	hɔn33	hɔn33	hon3	P113	～見	
 1717	漢	汉	hɔn33	hɔn33	hon3	P113		
 1718	焊	焊	hɔn22	hɔn22	hon6	P113		
-1719	銲	焊	hɔn22	hɔn22	hon6	P113		
+1719	銲	焊	hɔn22	hɔn22	hon6	P113		原文作「焊」字
 1720	安	安	∅ɔn55	∅ɔn55	on1	P113		
 1721	按	按	∅ɔn33	∅ɔn33	on3	P113		
 1722	皿	皿	mɐn24	mɐn24	man5	P113		原文誤作[men24]
@@ -1855,8 +1855,8 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1854	房	房	fɔŋ21	fɔŋ21	fong4	P114		
 1855	防	防	fɔŋ21	fɔŋ21	fong4	P114		
 1856	晃	晃	fɔŋ35	fɔŋ35	fong2	P114		
-1857	仿	仿	fɔŋ35	fɔŋ35	fong2	P114	～效;相似	
-1858	彷	仿	fɔŋ35	fɔŋ35	fong2	P114	～效;相似	原文作「仿」字
+1857	仿	仿	fɔŋ35	fɔŋ35	fong2	P114	相似	
+1858	倣	仿	fɔŋ35	fɔŋ35	fong2	P114	倣效	原文作「仿」字
 1859	紡	纺	fɔŋ35	fɔŋ35	fong2	P114		
 1860	訪	访	fɔŋ35	fɔŋ35	fong2	P114		
 1861	放	放	fɔŋ33	fɔŋ33	fong3	P114		
@@ -2149,7 +2149,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2148	慫	怂	ɬuŋ35	ɬʊŋ35	slung2	P115		原文誤作[ɬuŋ21]，而[ɬuŋ21]應該對應「㞞」字
 2149	送	送	ɬuŋ33	ɬʊŋ33	slung3	P115		
 2150	宋	宋	ɬuŋ33	ɬʊŋ33	slung3	P115		
-2151	椶	椶	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2151	椶	棕	tʃuŋ55	tʃʊŋ55	zung1	P115		
 2152	宗	宗	tʃuŋ55	tʃʊŋ55	zung1	P115		
 2153	綜	综	tʃuŋ55	tʃʊŋ55	zung1	P115		
 2154	中	中	tʃuŋ55	tʃʊŋ55	zung1	P115	當～	
@@ -2354,7 +2354,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2353	刻	刻	kʰɐk5	kʰɐk5	kak1	P116	時～	
 2354	握	握	ŋɐk5	ŋɐk5	ngak1	P116		
 2355	軛	轭	ŋɐk5	ŋɐk5	ngak1	P116		
-2356	呃	呃	ŋɐk5	ŋɐk5	ngak1	P116	騙	原文有音無字
+2356	眲	眲	ŋɐk5	ŋɐk5	ngak1	P116	騙	原文有音無字
 2357	克	克	hɐk5	hɐk5	hak1	P116		
 2358	黑	黑	hɐk5	hɐk5	hak1	P116	黑白；滅	「滅」義原文有音無字，誤作[hɔk5]，應是「黑燈」的「黑」
 2359	嗒	嗒	tɛp5	tɛp5	dep1	P116	親	原文有音無字
@@ -2670,3 +2670,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2669	嚐	尝	ʃœŋ21	ʃœŋ21	soeng4	P114		
 2670	棯	棯	nim55	nim55	nim1	P111		原文作「捻」字
 2671	惠	惠	∅ui22	wui22	wui6	P110		原文誤作[∅ui21]
+2672	著	著	tʃœk3	tʃœk3	zoek3	P116	～衣	原文作「着」字
+2673	著	著	tʃœk2	tʃœk2	zoek6	P116	睡～	原文作「着」字
+2674	棕	棕	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2675	掰	掰	mek5	mek5	mik1	P116	～菜：擇菜；“掰、剝”的意思；捻的意思	原文有音無字，誤作[mɛk5]
