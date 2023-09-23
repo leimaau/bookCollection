@@ -335,7 +335,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 334	稿	稿	ku35	ku35	gu2	P108		
 335	故	故	ku33	ku33	gu3	P108		
 336	固	固	ku33	ku33	gu3	P108		
-337	僱	雇	ku33	ku33	gu3	P108		
+337	雇	雇	ku33	ku33	gu3	P108		
 338	顧	顾	ku33	ku33	gu3	P108		
 339	告	告	ku33	ku33	gu3	P108		
 340	箍	箍	kʰu55	kʰu55	ku1	P108		
@@ -1225,7 +1225,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1224	蓮	莲	lin21	lin21	lin4	P111		原文誤作[lin22]
 1225	練	练	lin22	lin22	lin6	P111		
 1226	楝	楝	lin22	lin22	lin6	P111		
-1227	𧐖	𧐖	lin33	lin33	lin3	P111	打滾	原文有音無字
+1227	摙	摙	lin33	lin33	lin3	P111	打滾	原文有音無字
 1228	仙	仙	ɬin55	ɬin55	slin1	P111		
 1229	鮮	鲜	ɬin55	ɬin55	slin1	P111	新～	
 1230	軒	轩	hin55	hin55	hin1	P111		原文誤作[ɬin55]
@@ -2370,7 +2370,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2369	闢	辟	pʰek5	pʰek5	pik1	P116		原文誤作[phɛk5]
 2370	辟	辟	pʰek5	pʰek5	pik1	P116		原文誤作[phɛk5]
 2371	劈	劈	pʰɛk3	pʰɛk3	pek3	P116		
-2372	擘	擘	mek5	mek5	mik1	P116	～菜：擇菜；“掰、剝”的意思；捻的意思	原文有音無字，誤作[mɛk5]
+2372	擘	擘	mek5	mek5	mik1	P116	～菜：擇菜；「掰、剝」的意思；捻的意思	原文有音無字，誤作[mɛk5]
 2373	覓	觅	mek2	mek2	mik6	P116		原文誤作[mɛk2]
 2374	的	的	tek5	tek5	dik1	P116	目～	原文誤作[tɛk5]
 2375	滴	滴	tek5	tek5	dik1	P116		原文誤作[tɛk5]
@@ -2389,7 +2389,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2388	即	即	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
 2389	織	织	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
 2390	職	职	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
-2391	積	积	tʃek5	tʃek5	zik1	P116	面積；“J”的意思	
+2391	積	积	tʃek5	tʃek5	zik1	P116	面積；「J」的意思	
 2392	績	绩	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
 2393	直	直	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk3]
 2394	值	值	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk3]
@@ -2417,7 +2417,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2416	極	极	kek2	kek2	gik6	P116		原文誤作[kɛk2]
 2417	屐	屐	kʰɛk5	kʰɛk5	kek1	P116		
 2418	激	激	kek5	kek5	gik1	P116	生氣	原文誤作[khɛk5]
-2419	揢	揢	kʰɛk5	kʰɛk5	kek1	P116	樓梯～：臺階	原文有音無字，又讀[khɐk5]
+2419	揢	揢	kʰɛk5	kʰɛk5	kek1	P116	樓梯～：臺階	原文有音無字，又讀[khɐk5]，疑爲「級」之誤
 2420	逆	逆	ŋek2	ŋek2	ngik6	P116	～風	原文誤作[ŋɛk2]
 2421	喫	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
 2422	吃	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
@@ -2673,4 +2673,6 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2672	著	著	tʃœk3	tʃœk3	zoek3	P116	～衣	原文作「着」字
 2673	著	著	tʃœk2	tʃœk2	zoek6	P116	睡～	原文作「着」字
 2674	棕	棕	tʃuŋ55	tʃʊŋ55	zung1	P115		
-2675	掰	掰	mek5	mek5	mik1	P116	～菜：擇菜；“掰、剝”的意思；捻的意思	原文有音無字，誤作[mɛk5]
+2675	掰	掰	mek5	mek5	mik1	P116	～菜：擇菜；「掰、剝」的意思；捻的意思	原文有音無字，誤作[mɛk5]
+2676	閒	闲	han21	han21	haan4	P112	〔文讀〕	
+2677	閒	闲	hɛn21	hɛn21	hen4	P113	〔白讀〕	

@@ -2105,7 +2105,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2104	寬	宽	fun55	fun55	fun1	2007年李彬《左江土白話研究》P247		
 2105	款	款	fun35	fun35	fun2	2007年李彬《左江土白話研究》P247		
 2106	闊	阔	fut3	fut3	fut3	2007年李彬《左江土白話研究》P247		
-2107	玩	玩	wan35	wan35	waan2	2007年李彬《左江土白話研究》P247	古玩；游玩	
+2107	玩	玩	wan35	wan35	waan2	2007年李彬《左江土白話研究》P247	古玩；遊玩	
 2108	歡	欢	fun55	fun55	fun1	2007年李彬《左江土白話研究》P247		
 2109	喚	唤	wun22	wun22	wun6	2007年李彬《左江土白話研究》P247		
 2110	煥	焕	wun22	wun22	wun6	2007年李彬《左江土白話研究》P247		
@@ -3415,3 +3415,4 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3414	欲	欲	juk2	jʊk2	juk6	2007年李彬《左江土白話研究》P283		
 3415	慾	欲	juk2	jʊk2	juk6	2007年李彬《左江土白話研究》P283		
 3416	浴	浴	juk2	jʊk2	juk6	2007年李彬《左江土白話研究》P283		
+3417	閒	闲	hɛn21	hɛn21	hen4	2007年李彬《左江土白話研究》P240		

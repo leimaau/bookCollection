@@ -804,3 +804,4 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 803	讚	赞	tsan55	tʃan55	zaan3	2017年詹伯慧、張振興《漢語方言學大詞典》P328，329		
 804	采	采	tsʰai33	tʃʰai33	caai2	2017年詹伯慧、張振興《漢語方言學大詞典》P258，259		
 805	鍾	钟	tsøŋ53	tʃœŋ53	zoeng1	2017年詹伯慧、張振興《漢語方言學大詞典》P414，415		
+806	閒	闲	han21	han21	haan4	2017年詹伯慧、張振興《漢語方言學大詞典》P330，331		
