@@ -781,7 +781,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 780	黎	黎	lɐi21	lɐi21	lai4	P110		
 781	麗	丽	lɐi22	lɐi22	lai6	P110		原文誤作[lɐi21]
 782	禮	礼	lɐi24	lɐi24	lai5	P110		
-783	囗(lai3)	囗(lai3)	lɐi33	lɐi33	lai3	P110	牽	原文有音無字
+783	繫	系	lɐi33	lɐi33	lai3	P110	牽	原文有音無字
 784	荔	荔	lɐi22	lɐi22	lai6	P110		
 785	吏	吏	li22	li22	li6	P110		原文誤作[lɐi22]
 786	西	西	ɬɐi55	ɬɐi55	slai1	P110		
@@ -1144,7 +1144,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1143	巧	巧	kʰɛu35	kʰɛu35	keu2	P111	〔白讀〕	
 1144	姣	姣	hɛu21	hɛu21	heu4	P111	～婆：風流淫蕩的女人	原文有音無字
 1145	咬	咬	ŋɛu24	ŋɛu24	ngeu5	P111	〔白讀〕	
-1146	𢯎	𢯎	ŋɛu55	ŋɛu55	ngeu1	P111	抓的意思	原文有音無字，誤作[∅ɛu55]
+1146	撓	挠	ŋɛu55	ŋɛu55	ngeu1	P111	抓的意思	原文有音無字，誤作[∅ɛu55]
 1147	坳	坳	∅ɛu33	∅ɛu33	eu3	P111	〔白讀〕	
 1148	拗	拗	∅ɛu35	∅ɛu35	eu2	P111	扳的意思	原文有音無字
 1149	點	点	tim35	tim35	dim2	P111		
@@ -1754,8 +1754,8 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1753	筐	筐	kʰuaŋ55	kʷʰaŋ55	kwaang1	P113		原文誤作[khaŋ55]
 1754	硬	硬	ŋaŋ22	ŋaŋ22	ngaang6	P113		原文誤作[ŋaŋ21]
 1755	坑	坑	haŋ55	haŋ55	haang1	P113	坑溝；爺～：老頭子	老頭子義原文有音無字，誤作[haŋ33]，此處併入「坑」字
-1756	垵	垵	hɐm35	hɐm35	ham2	P113		原文作「埯」字，誤作[haŋ33]
-1757	埯	埯	hɐm35	hɐm35	ham2	P113		原文誤作[haŋ33]
+1756	垵	垵	hɐm35	hɐm35	ham2	P113		原文作「埯」字，誤作[haŋ33]，本字「坅」
+1757	埯	埯	hɐm35	hɐm35	ham2	P113		原文誤作[haŋ33]，本字「坅」
 1758	罌	罂	∅aŋ55	∅aŋ55	aang1	P113	豉油～：醬油壺	原文有音無字
 1759	梗	梗	kʰuaŋ35	kʷʰaŋ35	kwaang2	P113		
 1760	橫	横	∅uaŋ21	waŋ21	waang4	P113	～直	
@@ -2357,7 +2357,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2356	眲	眲	ŋɐk5	ŋɐk5	ngak1	P116	騙	原文有音無字
 2357	克	克	hɐk5	hɐk5	hak1	P116		
 2358	黑	黑	hɐk5	hɐk5	hak1	P116	黑白；滅	「滅」義原文有音無字，誤作[hɔk5]，應是「黑燈」的「黑」
-2359	䑜	䑜	tɛp5	tɛp5	dep1	P116	親	原文有音無字
+2359	嗒	嗒	tɛp5	tɛp5	dep1	P116	親	原文有音無字
 2360	鑷	镊	nɛp2	nɛp2	nep6	P116	鑷子	
 2361	𤗈	𤗈	ɬɛp3	ɬɛp3	slep3	P116	木～	原文作「屑」字
 2362	霅	霅	ɬɛp3	ɬɛp3	slep3	P116	哭～～：抽泣	原文有音無字。應作陽入
@@ -2677,3 +2677,5 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2676	閒	闲	han21	han21	haan4	P112	〔文讀〕	
 2677	閒	闲	hɛn21	hɛn21	hen4	P113	〔白讀〕	
 2678	舔	舔	lɛm35	lɛm35	lem2	P113		原文作「舐」字
+2679	坅	坅	hɐm35	hɐm35	ham2	P113		原文作「埯」字，誤作[haŋ33]，本字「坅」
+2680	鈀	钯	pʰa21	pʰa21	paa4	P109		原文誤作[pha22]，原文作「耙」字
