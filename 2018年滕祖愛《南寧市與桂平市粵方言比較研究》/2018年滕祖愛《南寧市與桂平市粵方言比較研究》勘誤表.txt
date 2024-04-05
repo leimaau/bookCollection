@@ -583,7 +583,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 582	和	和	∅uɔ21	wɔ21	wo4	P109	～氣	
 583	禾	禾	∅uɔ21	wɔ21	wo4	P109		
 584	禍	祸	∅uɔ22	wɔ22	wo6	P109		原文誤作[∅uɔ21]
-585	癟	瘪	pɛt2	pɛt2	bet6	P109	喃[nam55]～～：嘟囔	原文有音無字，誤作[nɐm55 pɛ21 pɛ21]
+585	咇	咇	pɛt2	pɛt2	bet6	P109	喃[nam55]～～：嘟囔	原文有音無字，誤作[nɐm55 pɛ21 pɛ21]
 586	寫	写	ɬɛ35	ɬɛ35	sle2	P109		
 587	瀉	泻	ɬɛ33	ɬɛ33	sle3	P109		
 588	遮	遮	tʃɛ55	tʃɛ55	ze1	P109		
@@ -1120,7 +1120,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1119	包	包	pɛu55	pɛu55	beu1	P111	〔白讀〕	
 1120	飽	饱	pɛu35	pɛu35	beu2	P111	〔白讀〕	
 1121	泡	泡	pʰɛu55	pʰɛu55	peu1	P111	〔白讀〕鹼～	
-1122	囗(peu1)	囗(peu1)	pʰɛu55	pʰɛu55	peu1	P111	捹[feŋ24]～：戴高帽	原文有音無字
+1122	脬	脬	pʰɛu55	pʰɛu55	peu1	P111	捧[pʰuŋ35]～：戴高帽	原文有音無字。原文「捧」誤作[feŋ24]
 1123	拋	抛	pʰɛu55	pʰɛu55	peu1	P111	〔白讀〕	
 1124	刨	刨	pʰɛu21	pʰɛu21	peu4	P111	〔白讀〕拿鋤頭挖	
 1125	骲	骲	pɛu22	pɛu22	beu6	P111	豬用嘴拱地	原文有音無字，誤作[phɛu21]
@@ -1518,7 +1518,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1517	宦	宦	∅uan22	wan22	waan6	P112		原文誤作[∅uan21]
 1518	玩	玩	∅uan35	wan35	waan2	P112	1古玩；2遊玩	
 1519	幻	幻	∅uan22	wan22	waan6	P112		
-1520	喃	喃	nam55	nam55	naam1	P112	～癟[pɛt2]癟[pɛt2]：嘮叨	原文有音無字，誤作[nɐm55 pɛ21 pɛ21]
+1520	喃	喃	nam55	nam55	naam1	P112	～咇[pɛt2]咇[pɛt2]：嘮叨	原文有音無字，誤作[nɐm55 pɛ21 pɛ21]
 1521	林	林	lɐm21	lɐm21	lam4	P112		
 1522	臨	临	lɐm21	lɐm21	lam4	P112		
 1523	心	心	ɬɐm55	ɬɐm55	slam1	P112		
@@ -1872,7 +1872,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1871	塘	塘	tʰɔŋ21	tʰɔŋ21	tong4	P114		
 1872	躺	躺	tʰɔŋ35	tʰɔŋ35	tong2	P114		
 1873	趟	趟	tʰɔŋ33	tʰɔŋ33	tong3	P114		
-1874	𧟘	𧟘	nɔŋ55	nɔŋ55	nong1	P114	褲～：褲襠	原文有音無字
+1874	襠	裆	nɔŋ55	nɔŋ55	nong1	P114	褲～：褲襠	原文有音無字
 1875	囊	囊	nɔŋ21	nɔŋ21	nong4	P114		
 1876	瓤	瓤	nɔŋ21	nɔŋ21	nong4	P114		
 1877	仰	仰	ŋɔŋ24	ŋɔŋ24	ngong5	P114		原文誤作[nɔŋ24]
@@ -1952,7 +1952,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1951	並	并	peŋ22	peŋ22	bing6	P114	～行～講	原文誤作[pheŋ33]
 1952	銘	铭	meŋ21	meŋ21	ming4	P114		
 1953	命	命	meŋ22	meŋ22	ming6	P114		
-1954	捹	捹	feŋ24	feŋ24	fing5	P114	～[phɛu55]：戴高帽子	原文有音無字
+1954	捧	捧	phuŋ35	pʰʊŋ35	pung2	P114	～脬[phɛu55]：戴高帽子	原文有音無字，誤作[feŋ24]
 1955	定	定	teŋ22	teŋ22	ding6	P114		原文誤作[teŋ21]
 1956	頂	顶	teŋ35	teŋ35	ding2	P114		
 1957	停	停	tʰeŋ21	tʰeŋ21	ting4	P114		
@@ -2143,7 +2143,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2142	攏	拢	luŋ35	lʊŋ35	lung2	P115		
 2143	壟	垄	luŋ24	lʊŋ24	lung5	P115		原文誤作[luŋ35]
 2144	壠	垄	luŋ24	lʊŋ24	lung5	P115		原文誤作[luŋ35]
-2145	松	松	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115	～木	原文誤作[ɬuŋ55]
+2145	松	松	ɬuŋ55	ɬʊŋ55	slung1	P115	～木	
 2146	嵩	嵩	ɬuŋ55	ɬʊŋ55	slung1	P115		
 2147	鬆	松	ɬuŋ55	ɬʊŋ55	slung1	P115	輕～	
 2148	慫	怂	ɬuŋ35	ɬʊŋ35	slung2	P115		原文誤作[ɬuŋ21]，而[ɬuŋ21]應該對應「㞞」字
@@ -2417,7 +2417,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2416	極	极	kek2	kek2	gik6	P116		原文誤作[kɛk2]
 2417	屐	屐	kʰɛk5	kʰɛk5	kek1	P116		
 2418	激	激	kek5	kek5	gik1	P116	生氣	原文誤作[khɛk5]
-2419	級	级	kʰɛk5	kʰɛk5	kek1	P116	樓梯～：臺階	原文有音無字，又或讀[khɐk5]，應爲「級」之誤
+2419	級	级	kʰɛk5	kʰɛk5	kek1	P116	樓梯～：臺階	原文有音無字，記音疑誤
 2420	逆	逆	ŋek2	ŋek2	ngik6	P116	～風	原文誤作[ŋɛk2]
 2421	喫	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
 2422	吃	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
