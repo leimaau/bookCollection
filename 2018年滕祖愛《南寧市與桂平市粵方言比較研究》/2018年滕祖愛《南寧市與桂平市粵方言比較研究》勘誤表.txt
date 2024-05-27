@@ -781,7 +781,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 780	黎	黎	lɐi21	lɐi21	lai4	P110		
 781	麗	丽	lɐi22	lɐi22	lai6	P110		原文誤作[lɐi21]
 782	禮	礼	lɐi24	lɐi24	lai5	P110		
-783	繫	系	lɐi33	lɐi33	lai3	P110	牽	原文有音無字
+783	拽	拽	jɐi22	jɐi22	jai22	P110	牽	原文有音無字，誤作[lɐi33]
 784	荔	荔	lɐi22	lɐi22	lai6	P110		
 785	吏	吏	li22	li22	li6	P110		原文誤作[lɐi22]
 786	西	西	ɬɐi55	ɬɐi55	slai1	P110		
@@ -1396,7 +1396,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1395	罈	坛	tʰam21	tʰam21	taam4	P112		
 1396	淡	淡	tʰam24	tʰam24	taam5	P112		原文誤作[tham35]
 1397	探	探	tʰam33	tʰam33	taam3	P112		
-1398	𦛚	𦛚	nɐm55	nɐm55	nam1	P112	～佬：鄉下人	原文有音無字，誤作[nam55]
+1398	黮	黮	nɐm55	nɐm55	nam1	P112	～佬：鄉下人	原文有音無字，誤作[nam55]
 1399	南	南	nam21	nam21	naam4	P112		
 1400	藍	蓝	lam21	lam21	laam4	P112		
 1401	覽	览	lam35	lam35	laam2	P112		
@@ -1636,7 +1636,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1635	僅	仅	kɐn35	kɐn35	gan2	P113		
 1636	謹	谨	kɐn35	kɐn35	gan2	P113		
 1637	勤	勤	kʰɐn21	kʰɐn21	kan4	P113		
-1638	囗(kan4)	囗(kan4)	kʰɐn21	kʰɐn21	kan4	P113	團	原文有音無字
+1638	囤	囤	kʰɐn21	kʰɐn21	kan4	P113	囤	原文有音無字，誤作[kʰɐn21]，誤釋義爲「團」
 1639	芹	芹	kʰɐn21	kʰɐn21	kan4	P113		
 1640	近	近	kʰɐn24	kʰɐn24	kan5	P113		
 1641	銀	银	ŋɐn21	ŋɐn21	ngan4	P113		
