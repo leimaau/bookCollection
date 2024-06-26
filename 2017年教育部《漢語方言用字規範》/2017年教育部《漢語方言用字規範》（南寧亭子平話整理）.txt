@@ -10,7 +10,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 9	逛	逛	kuaŋ22	kʷaŋ22	gwaang6	P276	散步：我哋～一陣子	原文作「𠉫」字
 10	孭	孭	me55	me55	me3	P276	（人）用脊背馱：～一袋米	
 11	𫲦	𫲦	met5	mɛt5	met3	P276	最小的：～崽（小兒子）	
-12	屘	屘	met5	mɛt5	met3	P276	最小的：～崽（小兒子）	原文作「𫲦」字
+12	蔑	蔑	met5	mɛt5	met3	P276	最小的：～崽（小兒子）	原文作「𫲦」字
 13	㨆	㨆	ləm22	lɐm22	lam6	P276	碼；堆叠：～磚	
 14	掹	掹	məŋ53	mɐŋ53	mang1	P276	①拔：～鷄毛②扽：～好啲衫（把衣服拉好一點兒）	
 15	𧊅	𧊅	kʰue33	kʷʰe33	kwe2	P276	犁頭～：一種小青蛙	
@@ -233,7 +233,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 232	灒	𪷽	tsan22	tʃan22	zaan6	P282	（水）受沖激向四外射出；濺	
 233	㜺	㜺	tsan33	tʃan33	zaan2	P282	好看；漂亮：亞隻女崽～啝	
 234	鬞	鬞	noŋ55	noŋ55	nung3	P282	～鬤：穿着辦事不利索；講話不簡潔，語無倫次	
-235	轤	轳	lu55	lu55	lu3	P282	滾～～：物體滾動狀態	
+235	轤	轳	lu55	lu55	lu3	P282	滾～～：物體滾動狀態	實爲象聲詞，應作「嚕」字
 236	䉴	䉴	ŋiɐŋ33	ŋiɐŋ33	ngiang2	P282	篾織的捕魚籠子：魚～｜蝦～	
 237	𠖫	𠖫	kʰəm33	kʰɐm33	kam2	P282	蓋住，遮住	
 238	冚	冚	kʰəm33	kʰɐm33	kam2	P282	蓋住，遮住	原文作「𠖫」字
@@ -360,3 +360,4 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 359	蜆	蚬	hyn55	hyn55	hyun3	P277	常綠喬木	原文作「櫶」字
 360	稃	稃	pau21	pau21	baau4	P282	（植物子實）不飽滿；（木頭）內部不結實：亞啲木～一世	原文作「穮」字
 361	滿	满	mən24	mɐn24	man5	P283	氣泡從水底往水面上冒：鯉魚～泡喇	原文作同音替代字「敏」，其實本字「滿」，音變過程[mun24]->[mon24]->[mɐn24]
+362	嚕	噜	lu55	lu55	lu3	P282	滾～～：物體滾動狀態	原文作「轤」字
