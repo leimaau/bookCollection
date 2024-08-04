@@ -75,7 +75,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 74	羓	羓	pa53	pa53	baa1	P278	一種肉製食品	
 75	㞘	㞘	tøk3	tœk3	doek2	P278	物體底部	同「䐁」字
 76	𥾝	𥾝	min21	min21	min4	P278	細：切～啲（點兒）	
-77	㨂	㨂	toŋ33	toŋ33	dung2	P278	用棍子捅、戳	
+77	㨂	㨂	toŋ33	toŋ33	dung2	P278	用棍子捅、戳	本字「捅」
 78	㧾	㧾	kʰuət3	kʷʰɐt3	kwat2	P278	（牛等）兩角左右擺動擊打或挑：渠捱牛～一角	
 79	菸	菸	y33	jy33	jyu2	P278	（青菜等）被長時間抓拿而不新鮮：亞啲菜捱渠揸～喇	又作「瘀」字
 80	紮	扎	tsat3	tʃat3	zaat2	P278	用於成捆的東西：兩～筷子	
@@ -95,7 +95,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 94	湴	湴	pam22	pam22	baam6	P279	稀泥，爛泥：爛～｜～泥	又作「埿」字
 95	埿	埿	pam22	pam22	baam6	P279	稀泥，爛泥：爛～｜～泥	原文作「湴」字
 96	㤿	㤿	im53	jim53	jim1	P279	挑剔：～憸	
-97	搑	搑	øŋ33	∅œŋ33	oeng2	P279	推：你冇～我！	
+97	搑	搑	øŋ33	∅œŋ33	oeng2	P279	推：你冇～我！	本字「擁」
 98	擁	拥	øŋ33	∅œŋ33	oeng2	P279	推：你冇～我！	原文作「搑」字
 99	揸	揸	tsa53	tʃa53	zaa1	P279	①手指聚攏，使物體固定在手中②量詞，一手抓起的數量：一～菜	
 100	㨘	㨘	ɬəŋ55	ɬɐŋ55	slang3	P279	按住鼻孔出氣，使鼻涕排出	一般作「擤」字

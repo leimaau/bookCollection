@@ -1158,1524 +1158,1523 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1157	鮎	鲇	nim21	nim21	nim4	P111		
 1158	鯰	鲶	nim21	nim21	nim4	P111		原文作「鮎」字
 1159	念	念	nim22	nim22	nim6	P111		
-1160	㖭	㖭	lim55	lim55	lim1	P111	焉	原文有音無字
-1161	𠻹	𠻹	lim55	lim55	lim1	P111	焉	原文有音無字
-1162	簾	帘	lim21	lim21	lim4	P111		
-1163	斂	敛	lim35	lim35	lim2	P111		
-1164	殮	殓	lim35	lim35	lim2	P111		
-1165	尖	尖	tʃim55	tʃim55	zim1	P111		
-1166	沾	沾	tʃim55	tʃim55	zim1	P111		
-1167	佔	占	tʃim33	tʃim33	zim3	P111		
-1168	漸	渐	tʃim22	tʃim22	zim6	P111		
-1169	殲	歼	tʃʰim55	tʃʰim55	cim1	P111	殲滅	
-1170	籤	签	tʃʰim55	tʃʰim55	cim1	P111		
-1171	簽	签	tʃʰim55	tʃʰim55	cim1	P111		
-1172	遷	迁	tʃʰim55	tʃʰim55	cim1	P111		
-1173	箋	笺	tʃʰim55	tʃʰim55	cim1	P111		
-1174	閃	闪	ʃim35	ʃim35	sim2	P111		
-1175	兼	兼	kim55	kim55	gim1	P111		
-1176	檢	检	kim35	kim35	gim2	P111		
-1177	劍	剑	kim33	kim33	gim3	P111		
-1178	儉	俭	kim22	kim22	gim6	P111		
-1179	謙	谦	him55	him55	him1	P111		
-1180	險	险	him35	him35	him2	P111		
-1181	欠	欠	him33	him33	him3	P111		
-1182	歉	歉	him33	him33	him3	P111		
-1183	淹	淹	∅im55	jim55	jim1	P111		
-1184	閹	阉	∅im55	jim55	jim1	P111		
-1185	炎	炎	∅im21	jim21	jim4	P111		
-1186	鹽	盐	∅im21	jim21	jim4	P111		
-1187	閻	阎	∅im21	jim21	jim4	P111		
-1188	嚴	严	∅im21	jim21	jim4	P111		
-1189	嫌	嫌	∅im21	jim21	jim4	P111		
-1190	掩	掩	∅im35	jim35	jim2	P111		
-1191	演	演	∅im35	jim35	jim2	P111		
-1192	染	染	∅im24	jim24	jim5	P111		
-1193	厭	厌	∅im33	jim33	jim3	P111		
-1194	檐	檐	∅im21	jim21	jim4	P111		原文誤作[∅im22]
-1195	簷	檐	∅im21	jim21	jim4	P111		原文誤作[∅im22]
-1196	邊	边	pin55	pin55	bin1	P111		
-1197	辮	辫	pin55	pin55	bin1	P111		
-1198	變	变	pin33	pin33	bin3	P111		
-1199	辨	辨	pin22	pin22	bin6	P111		
-1200	便	便	pin22	pin22	bin6	P111	方～	
-1201	編	编	pʰin55	pʰin55	pin1	P111		
-1202	篇	篇	pʰin55	pʰin55	pin1	P111		
-1203	蝙	蝙	pʰin55	pʰin55	pin1	P111		
-1204	便	便	pʰin21	pʰin21	pin4	P111	～宜	
-1205	騙	骗	pʰin33	pʰin33	pin3	P111		
-1206	遍	遍	pʰin33	pʰin33	pin3	P111		
-1207	片	片	pʰin33	pʰin33	pin3	P111		
-1208	棉	棉	min21	min21	min4	P111		
-1209	面	面	min22	min22	min6	P111		原文誤作[min21]
-1210	眠	眠	min21	min21	min4	P111		
-1211	免	免	min24	min24	min5	P111		原文誤作[min35]
-1212	麪	面	min22	min22	min6	P111		
-1213	麵	面	min22	min22	min6	P111		
-1214	顛	颠	tin55	tin55	din1	P111		
-1215	電	电	tin22	tin22	din6	P111		
-1216	殿	殿	tin22	tin22	din6	P111		
-1217	臀	臀	tin22	tin22	din6	P111		
-1218	天	天	tʰin55	tʰin55	tin1	P111		
-1219	田	田	tʰin21	tʰin21	tin4	P111		
-1220	填	填	tʰin21	tʰin21	tin4	P111		
-1221	年	年	nin21	nin21	nin4	P111		
-1222	連	连	lin21	lin21	lin4	P111		
-1223	憐	怜	lin21	lin21	lin4	P111		
-1224	蓮	莲	lin21	lin21	lin4	P111		原文誤作[lin22]
-1225	練	练	lin22	lin22	lin6	P111		
-1226	楝	楝	lin22	lin22	lin6	P111		
-1227	摙	摙	lin33	lin33	lin3	P111	打滾	原文有音無字
-1228	仙	仙	ɬin55	ɬin55	slin1	P111		
-1229	鮮	鲜	ɬin55	ɬin55	slin1	P111	新～	
-1230	軒	轩	hin55	hin55	hin1	P111		原文誤作[ɬin55]
-1231	先	先	ɬin55	ɬin55	slin1	P111		
-1232	癬	癣	ɬin35	ɬin35	slin2	P111		
-1233	線	线	ɬin33	ɬin33	slin3	P111		
-1234	綫	线	ɬin33	ɬin33	slin3	P111		
-1235	煎	煎	tʃin55	tʃin55	zin1	P111		
-1236	剪	剪	tʃin35	tʃin35	zin2	P111		
-1237	展	展	tʃin35	tʃin35	zin2	P111		
-1238	箭	箭	tʃin33	tʃin33	zin3	P111		
-1239	戰	战	tʃin33	tʃin33	zin3	P111		
-1240	薦	荐	tʃin33	tʃin33	zin3	P111		
-1241	賤	贱	tʃin22	tʃin22	zin6	P111		
-1242	千	千	tʃʰin55	tʃʰin55	cin1	P111		
-1243	錢	钱	tʃʰin21	tʃʰin21	cin4	P111		
-1244	前	前	tʃʰin21	tʃʰin21	cin4	P111		
-1245	淺	浅	tʃʰin35	tʃʰin35	cin2	P111		
-1246	賢	贤	∅in21	jin21	jin4	P111		原文誤作[ʃin21]
-1247	羨	羡	ʃin33	ʃin33	sin3	P111		
-1248	羡	羡	ʃin33	ʃin33	sin3	P111		
-1249	搧	搧	ʃin33	ʃin33	sin3	P111		
-1250	扇	扇	ʃin33	ʃin33	sin3	P111		
-1251	善	善	ʃin22	ʃin22	sin6	P111		
-1252	堅	坚	kin55	kin55	gin1	P111		
-1253	筧	笕	kin35	kin35	gin2	P111		
-1254	建	建	kin33	kin33	gin3	P111		
-1255	見	见	kin33	kin33	gin3	P111		
-1256	件	件	kin22	kin22	gin6	P111		
-1257	鍵	键	kin22	kin22	gin6	P111		
-1258	健	健	kin22	kin22	gin6	P111		
-1259	掀	掀	hin55	hin55	hin1	P111		
-1260	牽	牵	hin55	hin55	hin1	P111		
-1261	遣	遣	hin35	hin35	hin2	P111		
-1262	顯	显	hin35	hin35	hin2	P111		
-1263	憲	宪	hin33	hin33	hin3	P111		
-1264	蔫	蔫	∅in55	jin55	jin1	P111		
-1265	煙	烟	∅in55	jin55	jin1	P111		
-1266	菸	烟	∅in55	jin55	jin1	P111		
-1267	咽	咽	∅in55	jin55	jin1	P111		
-1268	然	然	∅in21	jin21	jin4	P111		
-1269	延	延	∅in21	jin21	jin4	P111		
-1270	言	言	∅in21	jin21	jin4	P111		
-1271	研	研	∅in21	jin21	jin4	P111		
-1272	豔	艳	∅in33	jin33	jin3	P111		
-1273	艷	艳	∅in33	jin33	jin3	P111		
-1274	堰	堰	∅in33	jin33	jin3	P111		
-1275	燕	燕	∅in33	jin33	jin3	P111		
-1276	宴	宴	∅in33	jin33	jin3	P111		
-1277	諺	谚	∅in22	jin22	jin6	P111		
-1278	硯	砚	∅in22	jin22	jin6	P111		
-1279	現	现	∅in22	jin22	jin6	P111		
-1280	搬	搬	pun55	pun55	bun1	P111		
-1281	本	本	pun35	pun35	bun2	P111		
-1282	半	半	pun33	pun33	bun3	P111		
-1283	伴	伴	pun22	pun22	bun6	P111		
-1284	潘	潘	pʰun55	pʰun55	pun1	P111		
-1285	盤	盘	pʰun21	pʰun21	pun4	P111		
-1286	盆	盆	pʰun21	pʰun21	pun4	P111		
-1287	判	判	pʰun33	pʰun33	pun3	P111		
-1288	叛	叛	pʰun33	pʰun33	pun3	P111		
-1289	門	门	mun21	mun21	mun4	P111		
-1290	瞞	瞒	mun21	mun21	mun4	P111		原文誤作[mun24]
-1291	滿	满	mun24	mun24	mun5	P111		
-1292	悶	闷	mun22	mun22	mun6	P111		
-1293	寬	宽	fun55	fun55	fun1	P111		
-1294	歡	欢	fun55	fun55	fun1	P111		
-1295	款	款	fun35	fun35	fun2	P111		
-1296	官	官	kun55	kun55	gun1	P112		
-1297	觀	观	kun55	kun55	gun1	P112	參～	
-1298	觀	观	kun33	kun33	gun3	P112	寺～	原文誤作[kun55]
-1299	管	管	kun35	kun35	gun2	P112		
-1300	貫	贯	kun33	kun33	gun3	P112		
-1301	罐	罐	kun33	kun33	gun3	P112		
-1302	換	换	∅un22	wun22	wun6	P112		原文誤作[∅un21]
-1303	碗	碗	∅un35	wun35	wun2	P112		
-1304	腕	腕	∅un35	wun35	wun2	P112		
-1305	煥	焕	∅un22	wun22	wun6	P112		
-1306	端	端	tyn55	tyn55	dyun1	P112		
-1307	短	短	tyn35	tyn35	dyun2	P112		
-1308	鍛	锻	tyn22	tyn22	dyun6	P112		
-1309	段	段	tyn22	tyn22	dyun6	P112		
-1310	團	团	tʰyn21	tʰyn21	tyun4	P112		
-1311	糰	团	tʰyn21	tʰyn21	tyun4	P112		
-1312	斷	断	tʰyn24	tʰyn24	tyun5	P112	決～；～絕	
-1313	暖	暖	nyn24	nyn24	nyun5	P112		原文誤作[nyn35]
-1314	嫩	嫩	nyn22	nyn22	nyun6	P112		
-1315	鸞	鸾	lyn21	lyn21	lyun4	P112		
-1316	亂	乱	lyn22	lyn22	lyun6	P112		原文誤作[lyn21]
-1317	戀	恋	lyn35	lyn35	lyun2	P112		
-1318	卵	卵	lyn24	lyn24	lyun5	P112		
-1319	酸	酸	ɬyn55	ɬyn55	slyun1	P112		
-1320	宣	宣	ɬyn55	ɬyn55	slyun1	P112		
-1321	喧	喧	ɬyn55	ɬyn55	slyun1	P112		
-1322	孫	孙	ɬyn55	ɬyn55	slyun1	P112		
-1323	選	选	ɬyn35	ɬyn35	slyun2	P112		
-1324	損	损	ɬyn35	ɬyn35	slyun2	P112		
-1325	筍	笋	ɬyn35	ɬyn35	slyun2	P112		
-1326	算	算	ɬyn33	ɬyn33	slyun3	P112		
-1327	蒜	蒜	ɬyn33	ɬyn33	slyun3	P112		
-1328	氈	毡	tʃyn55	tʃyn55	zyun1	P112		
-1329	鑽	钻	tʃyn55	tʃyn55	zyun1	P112	動詞	
-1330	專	专	tʃyn55	tʃyn55	zyun1	P112		
-1331	磚	砖	tʃyn55	tʃyn55	zyun1	P112		
-1332	尊	尊	tʃyn55	tʃyn55	zyun1	P112		
-1333	遵	遵	tʃyn55	tʃyn55	zyun1	P112		
-1334	轉	转	tʃyn35	tʃyn35	zyun2	P112	～送	
-1335	轉	转	tʃyn33	tʃyn33	zyun3	P112	～螺絲	原文誤作[tʃyn35]
-1336	鑽	钻	tʃyn33	tʃyn33	zyun3	P112	木工用具	
-1337	篆	篆	tʃyn22	tʃyn22	zyun6	P112		
-1338	川	川	tʃʰyn55	tʃʰyn55	cyun1	P112		
-1339	穿	穿	tʃʰyn55	tʃʰyn55	cyun1	P112		
-1340	村	村	tʃʰyn55	tʃʰyn55	cyun1	P112		
-1341	全	全	tʃʰyn21	tʃʰyn21	cyun4	P112		
-1342	傳	传	tʃʰyn21	tʃʰyn21	cyun4	P112	～達	
-1343	傳	传	tʃyn22	tʃyn22	zyun6	P112	～記	原文誤作[tʃhyn21]
-1344	存	存	tʃʰyn21	tʃʰyn21	cyun4	P112		
-1345	竄	窜	tʃʰyn33	tʃʰyn33	cyun3	P112		
-1346	篡	篡	tʃʰyn33	tʃʰyn33	cyun3	P112		
-1347	串	串	tʃʰyn33	tʃʰyn33	cyun3	P112		
-1348	寸	寸	tʃʰyn33	tʃʰyn33	cyun3	P112		
-1349	旋	旋	ʃyn21	ʃyn21	syun4	P112		
-1350	船	船	ʃyn21	ʃyn21	syun4	P112		
-1351	玄	玄	∅yn21	jyn21	jyun4	P112		原文誤作[ʃyn21]
-1352	絹	绢	kyn55	kyn55	gyun1	P112		
-1353	卷	卷	kyn35	kyn35	gyun2	P112		
-1354	捲	卷	kyn35	kyn35	gyun2	P112		
-1355	眷	眷	kyn33	kyn33	gyun3	P112		
-1356	券	券	kyn33	kyn33	gyun3	P112		
-1357	倦	倦	kyn22	kyn22	gyun6	P112		
-1358	捐	捐	kyn55	kyn55	gyun1	P112		
-1359	乾	乾	kʰyn21	kʰyn21	kyun4	P112	乾坤	
-1360	拳	拳	kʰyn21	kʰyn21	kyun4	P112		
-1361	權	权	kʰyn21	kʰyn21	kyun4	P112		
-1362	圈	圈	hyn55	hyn55	hyun1	P112		
-1363	勸	劝	hyn33	hyn33	hyun3	P112		
-1364	冤	冤	∅yn55	jyn55	jyun1	P112		
-1365	淵	渊	∅yn55	jyn55	jyun1	P112		
-1366	完	完	∅yn21	jyn21	jyun4	P112		
-1367	丸	丸	∅yn21	jyn21	jyun4	P112		
-1368	椽	椽	∅yn21	jyn21	jyun4	P112		
-1369	圓	圆	∅yn21	jyn21	jyun4	P112		
-1370	員	员	∅yn21	jyn21	jyun4	P112		
-1371	緣	缘	∅yn21	jyn21	jyun4	P112		
-1372	沿	沿	∅yn21	jyn21	jyun4	P112		
-1373	鉛	铅	∅yn21	jyn21	jyun4	P112		
-1374	元	元	∅yn21	jyn21	jyun4	P112		
-1375	原	原	∅yn21	jyn21	jyun4	P112		
-1376	願	愿	∅yn22	jyn22	jyun6	P112		原文誤作[∅yn21]
-1377	袁	袁	∅yn21	jyn21	jyun4	P112		
-1378	園	园	∅yn21	jyn21	jyun4	P112		
-1379	院	院	∅yn35	jyn35	jyun2	P112		
-1380	阮	阮	∅yn24	jyn24	jyun5	P112		原文誤作[∅yn35]
-1381	軟	软	∅yn24	jyn24	jyun5	P112		
-1382	遠	远	∅yn24	jyn24	jyun5	P112		
-1383	怨	怨	∅yn33	jyn33	jyun3	P112		
-1384	宛	宛	∅yn22	jyn22	jyun6	P112		
-1385	縣	县	∅yn22	jyn22	jyun6	P112		
-1386	耽	耽	tam55	tam55	daam1	P112		
-1387	鵮	鹐	tam55	tam55	daam1	P112	叼	原文有音無字
-1388	擔	担	tam55	tam55	daam1	P112	～任	
-1389	膽	胆	tam35	tam35	daam2	P112		
-1390	擔	担	tam33	tam33	daam3	P112	挑～	
-1391	貪	贪	tʰam55	tʰam55	taam1	P112		
-1392	譚	谭	tʰam21	tʰam21	taam4	P112		
-1393	談	谈	tʰam21	tʰam21	taam4	P112		
-1394	痰	痰	tʰam21	tʰam21	taam4	P112		
-1395	罈	坛	tʰam21	tʰam21	taam4	P112		
-1396	淡	淡	tʰam24	tʰam24	taam5	P112		原文誤作[tham35]
-1397	探	探	tʰam33	tʰam33	taam3	P112		
-1398	黮	黮	nɐm55	nɐm55	nam1	P112	～佬：鄉下人	原文有音無字，誤作[nam55]
-1399	南	南	nam21	nam21	naam4	P112		
-1400	藍	蓝	lam21	lam21	laam4	P112		
-1401	覽	览	lam35	lam35	laam2	P112		
-1402	纜	缆	lam24	lam24	laam5	P112		
-1403	三	三	ɬam55	ɬam55	slaam1	P112		
-1404	暫	暂	tʃam22	tʃam22	zaam6	P112		原文誤作[tʃam21]
-1405	斬	斩	tʃam35	tʃam35	zaam2	P112		
-1406	站	站	tʃam22	tʃam22	zaam6	P112	車～	
-1407	參	参	tʃʰam55	tʃʰam55	caam1	P112		
-1408	慘	惨	tʃʰam35	tʃʰam35	caam2	P112		
-1409	杉	杉	tʃʰam33	tʃʰam33	caam3	P112	杉樹；電燈～：電線杆	電線杆義原文有音無字，誤作[tʃhɐm33]
-1410	衫	衫	ʃam55	ʃam55	saam1	P112		
-1411	監	监	kam55	kam55	gaam1	P112		
-1412	感	感	kam35	kam35	gaam2	P112		
-1413	敢	敢	kam35	kam35	gaam2	P112		
-1414	減	减	kam35	kam35	gaam2	P112		
-1415	鑑	鉴	kam33	kam33	gaam3	P112		
-1416	艦	舰	lam22	lam22	laam6	P112		原文誤作[kam22]
-1417	勘	勘	kʰam55	kʰam55	kaam1	P112		
-1418	砍	砍	kʰam35	kʰam35	kaam2	P112		
-1419	巖	岩	ŋam21	ŋam21	ngaam4	P112		
-1420	岩	岩	ŋam21	ŋam21	ngaam4	P112		
-1421	函	函	ham21	ham21	haam4	P112		
-1422	鹹	咸	ham21	ham21	haam4	P112		
-1423	咸	咸	ham21	ham21	haam4	P112		
-1424	銜	衔	ham21	ham21	haam4	P112		
-1425	喊	喊	ham33	ham33	haam3	P112		
-1426	莧	苋	ham22	ham22	haam6	P112	～菜	
-1427	啱	啱	ŋam55	ŋam55	ngaam1	P112	～～：剛好	原文有音無字，誤作[∅am55]
-1428	班	班	pan55	pan55	baan1	P112		
-1429	辦	办	pan22	pan22	baan6	P112		原文誤作[pan21]
-1430	板	板	pan35	pan35	baan2	P112		
-1431	扮	扮	pan22	pan22	baan6	P112		
-1432	攀	攀	pʰan55	pʰan55	paan1	P112		
-1433	盼	盼	pʰan33	pʰan33	paan3	P112		
-1434	襻	襻	pʰan33	pʰan33	paan3	P112		
-1435	蠻	蛮	man21	man21	maan4	P112		
-1436	饅	馒	man21	man21	maan4	P112		
-1437	頑	顽	man21	man21	maan4	P112		
-1438	晚	晚	man24	man24	maan5	P112		
-1439	慢	慢	man22	man22	maan6	P112		
-1440	漫	漫	man22	man22	maan6	P112		
-1441	萬	万	man22	man22	maan6	P112		
-1442	藩	藩	fan55	fan55	faan1	P112		
-1443	番	番	fan55	fan55	faan1	P112	幾～	
-1444	帆	帆	fan21	fan21	faan4	P112		
-1445	煩	烦	fan21	fan21	faan4	P112		
-1446	繁	繁	fan21	fan21	faan4	P112		
-1447	反	反	fan35	fan35	faan2	P112		
-1448	泛	泛	fan33	fan33	faan3	P112		
-1449	範	范	fan33	fan33	faan3	P112		原文有誤作[fan55]
-1450	范	范	fan33	fan33	faan3	P112		原文有誤作[fan55]
-1451	販	贩	fan33	fan33	faan3	P112		
-1452	翻	翻	fan55	fan55	faan1	P112		原文誤作[fan33]
-1453	犯	犯	fan22	fan22	faan6	P112		
-1454	飯	饭	fan22	fan22	faan6	P112		
-1455	單	单	tan55	tan55	daan1	P112	～獨	
-1456	泹	泹	tan35	tan35	daan2	P112	焯	原文有音無字
-1457	旦	旦	tan33	tan33	daan3	P112		
-1458	誕	诞	tan33	tan33	daan3	P112		
-1459	彈	弹	tan22	tan22	daan6	P112	子～	
-1460	蛋	蛋	tan22	tan22	daan6	P112		
-1461	攤	摊	tʰan55	tʰan55	taan1	P112		
-1462	彈	弹	tʰan21	tʰan21	taan4	P112	～琴	
-1463	毯	毯	tʰan35	tʰan35	taan2	P112		
-1464	坦	坦	tʰan35	tʰan35	taan2	P112		
-1465	炭	炭	tʰan33	tʰan33	taan3	P112		
-1466	難	难	nan21	nan21	naan4	P112	～易	
-1467	難	难	nan22	nan22	naan6	P112	苦～	原文誤作[nan21]
-1468	攔	拦	lan21	lan21	laan4	P112		
-1469	欄	栏	lan21	lan21	laan4	P112		
-1470	爛	烂	lan22	lan22	laan6	P112		原文誤作[lan21]
-1471	懶	懒	lan24	lan24	laan5	P112		
-1472	濫	滥	lan22	lan22	laan6	P112		
-1473	散	散	ɬan35	ɬan35	slaan2	P112	鞋帶散了	
-1474	傘	伞	ɬan35	ɬan35	slaan2	P112		
-1475	散	散	ɬan33	ɬan33	slaan3	P112	分～	
-1476	饞	馋	tʃʰan21	tʃʰan21	caan4	P112		原文誤作[tʃan21]
-1477	殘	残	tʃʰan21	tʃʰan21	caan4	P112		原文誤作[tʃan21]
-1478	纏	缠	tʃʰin21	tʃʰin21	cin4	P112		原文誤作[tʃan21]
-1479	禪	禅	ʃin21	ʃin21	sin4	P112		原文誤作[tʃan21]
-1480	盞	盏	tʃan35	tʃan35	zaan2	P112		
-1481	棧	栈	tʃan35	tʃan35	zaan2	P112		
-1482	贊	赞	tʃan33	tʃan33	zaan3	P112		
-1483	讚	赞	tʃan33	tʃan33	zaan3	P112		
-1484	灒	𪷽	tʃan33	tʃan33	zaan3	P112		
-1485	賺	赚	tʃan22	tʃan22	zaan6	P112		
-1486	餐	餐	tʃʰan55	tʃʰan55	caan1	P112		
-1487	蠶	蚕	tʃʰan21	tʃʰan21	caan4	P112		
-1488	慚	惭	tʃʰan21	tʃʰan21	caan4	P112		
-1489	鏟	铲	tʃʰan35	tʃʰan35	caan2	P112		
-1490	產	产	tʃʰan35	tʃʰan35	caan2	P112		
-1491	燦	灿	tʃʰan33	tʃʰan33	caan3	P112		
-1492	顫	颤	tʃʰan33	tʃʰan33	caan3	P112		
-1493	山	山	ʃan55	ʃan55	saan1	P112		
-1494	刪	删	ʃan55	ʃan55	saan1	P112		
-1495	閂	闩	ʃan55	ʃan55	saan1	P112		
-1496	艱	艰	kan55	kan55	gaan1	P112		
-1497	間	间	kan55	kan55	gaan1	P112	〔文讀〕中～	原文誤作白讀
-1498	奸	奸	kan55	kan55	gaan1	P112		
-1499	姦	奸	kan55	kan55	gaan1	P112		
-1500	簡	简	kan35	kan35	gaan2	P112	〔文讀〕	原文誤作白讀
-1501	繭	茧	kan35	kan35	gaan2	P112		
-1502	揀	拣	kan35	kan35	gaan2	P112	〔文讀〕	原文誤作白讀，誤作[kan24]
-1503	間	间	kan33	kan33	gaan3	P112	～斷	
-1504	澗	涧	kan33	kan33	gaan3	P112		
-1505	顏	颜	ŋan21	ŋan21	ngaan4	P112		
-1506	雁	雁	ŋan22	ŋan22	ngaan6	P112		原文誤作[ŋan21]
-1507	眼	眼	ŋan24	ŋan24	ngaan5	P112		
-1508	閑	闲	han21	han21	haan4	P112	〔文讀〕	
-1509	限	限	han22	han22	haan6	P112		
-1510	晏	晏	∅an33	∅an33	aan3	P112		
-1511	鰥	鳏	kuan55	kʷan55	gwaan1	P112		
-1512	關	关	kuan55	kʷan55	gwaan1	P112		
-1513	慣	惯	kuan33	kʷan33	gwaan3	P112		
-1514	彎	弯	∅uan5	wan24	waan5	P112		
-1515	還	还	∅uan21	wan21	waan4	P112	～有；〔文讀〕～原	
-1516	環	环	∅uan21	wan21	waan4	P112		
-1517	宦	宦	∅uan22	wan22	waan6	P112		原文誤作[∅uan21]
-1518	玩	玩	∅uan35	wan35	waan2	P112	1古玩；2遊玩	
-1519	幻	幻	∅uan22	wan22	waan6	P112		
-1520	喃	喃	nam55	nam55	naam1	P112	～咇[pɛt2]咇[pɛt2]：嘮叨	原文有音無字，誤作[nɐm55 pɛ21 pɛ21]
-1521	林	林	lɐm21	lɐm21	lam4	P112		
-1522	臨	临	lɐm21	lɐm21	lam4	P112		
-1523	心	心	ɬɐm55	ɬɐm55	slam1	P112		
-1524	簪	簪	tʃam55	tʃam55	zaam1	P112		原文誤作[tʃɐm55]
-1525	陣	阵	tʃɐm22	tʃɐm22	zam6	P112	股	原文有音無字，誤作[tʃɐm55]
-1526	針	针	tʃɐm55	tʃɐm55	zam1	P112		
-1527	斟	斟	tʃɐm55	tʃɐm55	zam1	P112		
-1528	枕	枕	tʃɐm35	tʃɐm35	zam2	P112		
-1529	浸	浸	tʃɐm33	tʃɐm33	zam3	P112		
-1530	滲	渗	tʃɐm33	tʃɐm33	zam3	P112	水～透	訓讀「浸」
-1531	侵	侵	tʃʰɐm55	tʃʰɐm55	cam1	P112		
-1532	潛	潜	tʃʰɐm21	tʃʰɐm21	cam4	P112		
-1533	尋	寻	tʃʰɐm21	tʃʰɐm21	cam4	P112		
-1534	沉	沉	tʃʰɐm21	tʃʰɐm21	cam4	P112		
-1535	森	森	ʃɐm55	ʃɐm55	sam1	P112		
-1536	深	深	ʃɐm55	ʃɐm55	sam1	P112		
-1537	岑	岑	ʃɐm21	ʃɐm21	sam4	P112		
-1538	甚	甚	ʃɐm22	ʃɐm22	sam6	P112		原文誤作[ʃɐm21]
-1539	沈	沈	ʃɐm35	ʃɐm35	sam2	P112		
-1540	嬸	婶	ʃɐm35	ʃɐm35	sam2	P112		
-1541	甘	甘	kɐm55	kɐm55	gam1	P112		
-1542	金	金	kɐm55	kɐm55	gam1	P112		
-1543	錦	锦	kɐm35	kɐm35	gam2	P112		
-1544	禁	禁	kɐm33	kɐm33	gam3	P112	～不住；～止	
-1545	撳	揿	kɐm22	kɐm22	gam6	P112		
-1546	岑	岑	kʰɐm21	kʰɐm21	kam4	P112		
-1547	琴	琴	kʰɐm21	kʰɐm21	kam4	P112		
-1548	妗	妗	kʰɐm24	kʰɐm24	kam5	P112		
-1549	龕	龛	hɐm55	hɐm55	ham1	P112		
-1550	欽	钦	hɐm55	hɐm55	ham1	P112		
-1551	含	含	hɐm21	hɐm21	ham4	P112		
-1552	暗	暗	∅ɐm33	∅ɐm33	am3	P112		
-1553	音	音	∅iɐm55	jɐm55	jam1	P112		
-1554	壬	壬	∅iɐm21	jɐm21	jam4	P112		
-1555	任	任	∅iɐm22	jɐm22	jam6	P112	責任	原文誤作[∅iɐm21]
-1556	吟	吟	∅iɐm21	jɐm21	jam4	P112		
-1557	淫	淫	∅iɐm21	jɐm21	jam4	P112		
-1558	飲	饮	∅iɐm35	jɐm35	jam2	P112		
-1559	彬	彬	pɐn55	pɐn55	ban1	P112		
-1560	賓	宾	pɐn55	pɐn55	ban1	P112		
-1561	奔	奔	pɐn55	pɐn55	ban1	P112		
-1562	笨	笨	pɐn22	pɐn22	ban6	P112		
-1563	貧	贫	pʰɐn21	pʰɐn21	pan4	P112		
-1564	頻	频	pʰɐn21	pʰɐn21	pan4	P112		
-1565	品	品	pʰɐn35	pʰɐn35	pan2	P112		原文誤作[phɐn24]
-1566	噴	喷	pʰɐn33	pʰɐn33	pan3	P112	～水；～香	
-1567	蚊	蚊	mɐn55	mɐn55	man1	P112		
-1568	民	民	mɐn21	mɐn21	man4	P112		
-1569	文	文	mɐn21	mɐn21	man4	P112	～化	
-1570	聞	闻	mɐn21	mɐn21	man4	P112		
-1571	問	问	mɐn22	mɐn22	man6	P112		原文誤作[mɐn21]
-1572	璺	璺	mɐn22	mɐn22	man6	P112		原文誤作[mɐn21]
-1573	敏	敏	mɐn24	mɐn24	man5	P112		原文誤作[mɐn35]
-1574	刎	刎	mɐn24	mɐn24	man5	P112		
-1575	婚	婚	fɐn55	fɐn55	fan1	P112		
-1576	分	分	fɐn55	fɐn55	fan1	P112	～開	
-1577	芬	芬	fɐn55	fɐn55	fan1	P112		
-1578	焚	焚	fɐn21	fɐn21	fan4	P112		
-1579	墳	坟	fɐn21	fɐn21	fan4	P112		
-1580	份	份	fɐn22	fɐn22	fan6	P112		原文誤作[fɐn21]
-1581	粉	粉	fɐn35	fɐn35	fan2	P112		
-1582	糞	粪	fɐn33	fɐn33	fan3	P112		
-1583	憤	愤	fɐn33	fɐn33	fan3	P112		
-1584	訓	训	fɐn33	fɐn33	fan3	P112		
-1585	鈍	钝	tɐn22	tɐn22	dan6	P112		原文誤作[tɐn21]
-1586	盾	盾	tɐn22	tɐn22	dan6	P112	矛～	
-1587	吞	吞	tʰɐn55	tʰɐn55	tan1	P112，113	～下；雲～	「雲～」義原文P113作[thuɐn55]
-1588	撚	撚	nɐn35	nɐn35	nan2	P112	挪[nɔ21]挪[nɔ21]～～：磨磨蹭蹭	原文有音無字
-1589	溣	溣	lɐn35	lɐn35	lan2	P112	沾	原文有音無字
-1590	鄰	邻	lɐn21	lɐn21	lan4	P112		
-1591	鱗	鳞	lɐn21	lɐn21	lan4	P112		
-1592	侖	仑	lɐn21	lɐn21	lan4	P112		
-1593	崙	仑	lɐn21	lɐn21	lan4	P112		
-1594	輪	轮	lɐn21	lɐn21	lan4	P112		
-1595	論	论	lɐn22	lɐn22	lan6	P112		
-1596	辛	辛	ɬɐn55	ɬɐn55	slan1	P113		
-1597	新	新	ɬɐn55	ɬɐn55	slan1	P113		
-1598	遜	逊	ɬɐn33	ɬɐn33	slan3	P113		原文誤作[ɬɐn55]
-1599	信	信	ɬɐn33	ɬɐn33	slan3	P113		
-1600	訊	讯	ɬɐn33	ɬɐn33	slan3	P113		
-1601	迅	迅	ɬɐn33	ɬɐn33	slan3	P113		
-1602	津	津	tʃɐn55	tʃɐn55	zan1	P113		
-1603	珍	珍	tʃɐn55	tʃɐn55	zan1	P113		
-1604	臻	臻	tʃɐn55	tʃɐn55	zan1	P113		
-1605	真	真	tʃɐn55	tʃɐn55	zan1	P113		
-1606	儘	尽	tʃɐn22	tʃɐn22	zan6	P113		原文誤作[tʃɐn21]
-1607	進	进	tʃɐn33	tʃɐn33	zan3	P113		
-1608	鎮	镇	tʃɐn33	tʃɐn33	zan3	P113		
-1609	振	振	tʃɐn33	tʃɐn33	zan3	P113		
-1610	震	震	tʃɐn33	tʃɐn33	zan3	P113		
-1611	俊	俊	tʃɐn33	tʃɐn33	zan3	P113		
-1612	盡	尽	tʃɐn22	tʃɐn22	zan6	P113		
-1613	陣	阵	tʃɐn22	tʃɐn22	zan6	P113		
-1614	秦	秦	tʃʰɐn21	tʃʰɐn21	can4	P113		
-1615	陳	陈	tʃʰɐn21	tʃʰɐn21	can4	P113		
-1616	塵	尘	tʃʰɐn21	tʃʰɐn21	can4	P113		
-1617	臣	臣	tʃʰɐn21	tʃʰɐn21	can4	P113		
-1618	診	诊	tʃʰɐn35	tʃʰɐn35	can2	P113		
-1619	親	亲	tʃʰɐn33	tʃʰɐn33	can3	P113		
-1620	趁	趁	tʃʰɐn33	tʃʰɐn33	can3	P113		
-1621	襯	衬	tʃʰɐn33	tʃʰɐn33	can3	P113		
-1622	身	身	ʃɐn55	ʃɐn55	san1	P113		
-1623	申	申	ʃɐn55	ʃɐn55	san1	P113		
-1624	神	神	ʃɐn21	ʃɐn21	san4	P113		
-1625	辰	辰	ʃɐn21	ʃɐn21	san4	P113		
-1626	慎	慎	ʃɐn22	ʃɐn22	san6	P113		原文誤作[ʃɐn21]
-1627	榫	榫	ɬɐn35	ɬɐn35	slan2	P113		原文誤作[ʃɐn35]
-1628	腎	肾	ʃɐn24	ʃɐn24	san5	P113		
-1629	跟	跟	kɐn55	kɐn55	gan1	P113		
-1630	根	根	kɐn55	kɐn55	gan1	P113		
-1631	巾	巾	kɐn55	kɐn55	gan1	P113		
-1632	斤	斤	kɐn55	kɐn55	gan1	P113		
-1633	筋	筋	kɐn55	kɐn55	gan1	P113		
-1634	緊	紧	kɐn35	kɐn35	gan2	P113		
-1635	僅	仅	kɐn35	kɐn35	gan2	P113		
-1636	謹	谨	kɐn35	kɐn35	gan2	P113		
-1637	勤	勤	kʰɐn21	kʰɐn21	kan4	P113		
-1638	囤	囤	kʰɐn21	kʰɐn21	kan4	P113	囤	原文有音無字，誤作[kʰɐn21]，誤釋義爲「團」
-1639	芹	芹	kʰɐn21	kʰɐn21	kan4	P113		
-1640	近	近	kʰɐn24	kʰɐn24	kan5	P113		
-1641	銀	银	ŋɐn21	ŋɐn21	ngan4	P113		
-1642	欣	欣	hɐn55	hɐn55	han1	P113		
-1643	痕	痕	hɐn21	hɐn21	han4	P113		
-1644	恨	恨	hɐn22	hɐn22	han6	P113		原文誤作[hɐn21]
-1645	很	很	hɐn35	hɐn35	han2	P113		
-1646	恩	恩	∅ɐn55	∅ɐn55	an1	P113		
-1647	因	因	∅iɐn55	jɐn55	jan1	P113	～爲	
-1648	姻	姻	∅iɐn55	jɐn55	jan1	P113		
-1649	人	人	∅iɐn21	jɐn21	jan4	P113		
-1650	仁	仁	∅iɐn21	jɐn21	jan4	P113		
-1651	認	认	∅iɐn22	jɐn22	jan6	P113		原文誤作[∅iɐn21]
-1652	寅	寅	∅iɐn21	jɐn21	jan4	P113		
-1653	忍	忍	∅iɐn24	jɐn24	jan5	P113		
-1654	引	引	∅iɐn24	jɐn24	jan5	P113		
-1655	隱	隐	∅iɐn24	jɐn24	jan5	P113		
-1656	印	印	∅iɐn33	jɐn33	jan3	P113		
-1657	孕	孕	∅iɐn22	jɐn22	jan6	P113		
-1658	墩	墩	tɐn55	tɐn55	dan1	P113		原文作[tuɐn55]
-1659	頓	顿	tɐn22	tɐn22	dan6	P113		原文作[tuɐn22]
-1660	臀	臀	tʰɐn21	tʰɐn21	tan4	P113		原文作[thuɐn21]
-1661	屯	屯	tʰɐn21	tʰɐn21	tan4	P113		原文誤作[thuɐn33]
-1662	倫	伦	lɐn21	lɐn21	lan4	P113		原文作[luɐn21]
-1663	準	准	tʃɐn35	tʃɐn35	zan2	P113		原文作[tʃuɐn35]
-1664	准	准	tʃɐn35	tʃɐn35	zan2	P113		原文作[tʃuɐn35]
-1665	春	春	tʃʰɐn55	tʃʰɐn55	can1	P113		原文作[tʃhuɐn55]
-1666	蠢	蠢	tʃʰɐn35	tʃʰɐn35	can2	P113		原文作[tʃhuɐn35]
-1667	荀	荀	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
-1668	旬	旬	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
-1669	巡	巡	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
-1670	脣	唇	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
-1671	唇	唇	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
-1672	順	顺	ʃɐn22	ʃɐn22	san6	P113		原文誤作[ʃuɐn21]
-1673	舜	舜	ʃɐn22	ʃɐn22	san6	P113		原文誤作[ʃuɐn21]
-1674	純	纯	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
-1675	軍	军	kuɐn55	kʷɐn55	gwan1	P113		
-1676	滾	滚	kuɐn35	kʷɐn35	gwan2	P113		
-1677	棍	棍	kuɐn33	kʷɐn33	gwan3	P113		
-1678	昆	昆	kʰuɐn55	kʷʰɐn55	kwan1	P113		
-1679	崑	昆	kʰuɐn55	kʷʰɐn55	kwan1	P113		
-1680	坤	坤	kʰuɐn55	kʷʰɐn55	kwan1	P113		
-1681	均	均	kʰuɐn55	kʷʰɐn55	kwan1	P113		
-1682	郡	郡	kʰuɐn55	kʷʰɐn55	kwan1	P113		原文作[khuɐn55]
-1683	羣	群	kʰuɐn21	kʷʰɐn21	kwan4	P113		
-1684	群	群	kʰuɐn21	kʷʰɐn21	kwan4	P113		
-1685	捆	捆	kʰuɐn35	kʷʰɐn35	kwan2	P113		
-1686	綑	捆	kʰuɐn35	kʷʰɐn35	kwan2	P113		文作「捆」字
-1687	菌	菌	kʰuɐn24	kʷʰɐn24	kwan5	P113		
-1688	困	困	kʰuɐn33	kʷʰɐn33	kwan3	P113		
-1689	溫	温	∅uɐn55	wɐn55	wan1	P113		
-1690	瘟	瘟	∅uɐn55	wɐn55	wan1	P113		
-1691	葷	荤	∅uɐn55	wɐn55	wan1	P113		
-1692	魂	魂	∅uɐn21	wɐn21	wan4	P113		
-1693	餛	馄	∅uɐn21	wɐn21	wan4	P113		
-1694	混	混	∅uɐn22	wɐn22	wan6	P113		原文誤作[∅uɐn21]
-1695	勻	匀	∅uɐn21	wɐn21	wan4	P113		
-1696	雲	云	∅uɐn21	wɐn21	wan4	P113		
-1697	云	云	∅uɐn21	wɐn21	wan4	P113		
-1698	韻	韵	∅uɐn22	wɐn22	wan6	P113		原文誤作[∅uɐn21]
-1699	運	运	∅uɐn22	wɐn22	wan6	P113		原文誤作[∅uɐn21]
-1700	暈	晕	∅uɐn21	wɐn21	wan4	P113		
-1701	穩	稳	∅uɐn35	wɐn35	wan2	P113		
-1702	尹	尹	∅uɐn35	wɐn35	wan2	P113		
-1703	閏	闰	∅iɐn22	jɐn22	jan6	P113		原文誤作[∅uɐn22]
-1704	肝	肝	kɔn55	kɔn55	gon1	P113		
-1705	干	干	kɔn55	kɔn55	gon1	P113		
-1706	乾	干	kɔn55	kɔn55	gon1	P113	～溼	
-1707	桿	杆	kɔn35	kɔn35	gon2	P113		
-1708	趕	赶	kɔn35	kɔn35	gon2	P113		
-1709	幹	干	kɔn33	kɔn33	gon3	P113	～部	
-1710	岸	岸	ŋɔn22	ŋɔn22	ngon6	P113		
-1711	看	看	hɔn55	hɔn55	hon1	P113	～守	
-1712	寒	寒	hɔn21	hɔn21	hon4	P113		
-1713	汗	汗	hɔn22	hɔn22	hon6	P113		原文誤作[hɔn21]
-1714	刊	刊	hɔn35	hɔn35	hon2	P113		
-1715	旱	旱	hɔn24	hɔn24	hon5	P113		原文誤作[hɔn35]
-1716	看	看	hɔn33	hɔn33	hon3	P113	～見	
-1717	漢	汉	hɔn33	hɔn33	hon3	P113		
-1718	焊	焊	hɔn22	hɔn22	hon6	P113		
-1719	銲	焊	hɔn22	hɔn22	hon6	P113		原文作「焊」字
-1720	安	安	∅ɔn55	∅ɔn55	on1	P113		
-1721	按	按	∅ɔn33	∅ɔn33	on3	P113		
-1722	皿	皿	mɐn24	mɐn24	man5	P113		原文誤作[men24]
-1723	舐	舐	lɛm35	lɛm35	lem2	P113		
-1724	減	减	kɛm35	kɛm35	gem2	P113		
-1725	鉗	钳	kʰɛm21	kʰɛm21	kem4	P113		
-1726	鹹	咸	hɛm21	hɛm21	hem4	P113		
-1727	喊	喊	hɛm33	hɛm33	hem3	P113		
-1728	莧	苋	hɛm22	hɛm22	hem6	P113		
-1729	躽	躽	∅ɛn35	∅ɛn35	en2	P113	挺的意思	原文有音無字，誤作[nɛn24]
-1730	間	间	kɛn55	kɛn55	gen1	P113	〔白讀〕中～	
-1731	簡	简	kɛn35	kɛn35	gen2	P113	〔白讀〕	
-1732	揀	拣	kɛn35	kɛn35	gen2	P113	〔白讀〕	原文誤作[kɛn24]
-1733	閑	闲	hɛn21	hɛn21	hen4	P113	〔白讀〕	
-1734	還	还	∅uɛn21	wɛn21	wen4	P113	〔白讀〕～原	
-1735	龐	庞	pʰaŋ21	pʰaŋ21	paang4	P113		
-1736	彭	彭	pʰaŋ21	pʰaŋ21	paang4	P113		
-1737	棚	棚	pʰaŋ21	pʰaŋ21	paang4	P113		
-1738	抨	抨	pʰaŋ24	pʰaŋ24	paang5	P113	～行：攆走	原文有音無字，有誤作[phaŋ35]
-1739	盲	盲	maŋ21	maŋ21	maang4	P113		
-1740	猛	猛	maŋ24	maŋ24	maang5	P113		原文誤作[maŋ35]
-1741	孟	孟	maŋ24	maŋ24	maang5	P113		原文誤作[maŋ35]
-1742	𦀬	𦀬	laŋ55	laŋ55	laang1	P113	織～衫：織毛衣	原文有音無字
-1743	冷	冷	laŋ24	laŋ24	laang5	P113		原文誤作[laŋ35]
-1744	爭	争	tʃaŋ55	tʃaŋ55	zaang1	P113		
-1745	撐	撑	tʃʰaŋ55	tʃʰaŋ55	caang1	P113		
-1746	鐺	铛	tʃʰaŋ55	tʃʰaŋ55	caang1	P113	烙餅用具	
-1747	橙	橙	tʃʰaŋ35	tʃʰaŋ35	caang2	P113		原文誤作[tʃhaŋ24]
-1748	牚	牚	tʃʰaŋ33	tʃʰaŋ33	caang3	P113		
-1749	生	生	ʃaŋ55	ʃaŋ55	saang1	P113		
-1750	甥	甥	ʃaŋ55	ʃaŋ55	saang1	P113		
-1751	省	省	ʃaŋ35	ʃaŋ35	saang2	P113	節～	
-1752	耕	耕	kaŋ55	kaŋ55	gaang1	P113		
-1753	筐	筐	kʰuaŋ55	kʷʰaŋ55	kwaang1	P113		原文誤作[khaŋ55]
-1754	硬	硬	ŋaŋ22	ŋaŋ22	ngaang6	P113		原文誤作[ŋaŋ21]
-1755	坑	坑	haŋ55	haŋ55	haang1	P113	坑溝；爺～：老頭子	老頭子義原文有音無字，誤作[haŋ33]，此處併入「坑」字
-1756	垵	垵	hɐm35	hɐm35	ham2	P113		原文作「埯」字，誤作[haŋ33]，本字「坅」
-1757	埯	埯	hɐm35	hɐm35	ham2	P113		原文誤作[haŋ33]，本字「坅」
-1758	罌	罂	∅aŋ55	∅aŋ55	aang1	P113	豉油～：醬油壺	原文有音無字
-1759	梗	梗	kʰuaŋ35	kʷʰaŋ35	kwaang2	P113		
-1760	橫	横	∅uaŋ21	waŋ21	waang4	P113	～直	
-1761	崩	崩	pɐŋ55	pɐŋ55	bang1	P113		
-1762	烹	烹	pʰɐŋ55	pʰɐŋ55	pang1	P113		
-1763	朋	朋	pʰɐŋ21	pʰɐŋ21	pang4	P113		
-1764	憑	凭	pʰɐŋ21	pʰɐŋ21	pang4	P113		
-1765	蓬	蓬	pʰuŋ21	pʰʊŋ21	pung4	P113		原文誤作[phɐŋ21]
-1766	掹	掹	mɐŋ55	mɐŋ55	mang1	P113	～秧：拔秧	原文有音無字，P115誤作[muŋ55]
-1767	繃	绷	mɐŋ55	mɐŋ55	mang1	P113	～油：花油	原文有音無字。「繃」指傷口癒合，「繃油」指讓傷口癒合的花油
-1768	萌	萌	mɐŋ21	mɐŋ21	mang4	P113		
-1769	盟	盟	mɐŋ21	mɐŋ21	mang4	P113		
-1770	燈	灯	tɐŋ55	tɐŋ55	dang1	P113		
-1771	等	等	tɐŋ35	tɐŋ35	dang2	P113		
-1772	凳	凳	tɐŋ33	tɐŋ33	dang3	P113		
-1773	鄧	邓	tɐŋ22	tɐŋ22	dang6	P113		
-1774	藤	藤	tʰɐŋ21	tʰɐŋ21	tang4	P113		
-1775	硬	硬	ŋaŋ35	ŋaŋ35	ngaang2	P113	必	原文有音無字，誤作[nɐŋ35]
-1776	能	能	nɐŋ21	nɐŋ21	nang4	P113		
-1777	棱	棱	lɐŋ55	lɐŋ55	lang1	P113	在皮膚上抓出的痕跡	原文有音無字
-1778	增	增	tʃɐŋ55	tʃɐŋ55	zang1	P113		
-1779	僧	僧	tʃɐŋ55	tʃɐŋ55	zang1	P113		
-1780	贈	赠	tʃɐŋ22	tʃɐŋ22	zang6	P113		
-1781	曾	曾	tʃʰɐŋ21	tʃʰɐŋ21	cang4	P113	～經	原文誤作[tʃhɐŋ55]
-1782	層	层	tʃʰɐŋ21	tʃʰɐŋ21	cang4	P113		原文誤作[tʃhɐŋ55]
-1783	澄	澄	tʃʰɐŋ21	tʃʰɐŋ21	cang4	P113		原文誤作[tʃhɐŋ22]
-1784	㨘	㨘	ʃaŋ35	ʃaŋ35	saang2	P113	甩的意思	原文有音無字，誤作[ʃɐŋ55]
-1785	更	更	kɐŋ55	kɐŋ55	gang1	P113	～換	
-1786	更	更	kaŋ55	kaŋ55	gaang1	P113	五～	五更義誤作[kɐŋ55]
-1787	粳	粳	kɐŋ55	kɐŋ55	gang1	P113		
-1788	庚	庚	kɐŋ55	kɐŋ55	gang1	P113		
-1789	更	更	kɐŋ33	kɐŋ33	gang3	P113	～加	
-1790	哽	哽	kʰɐŋ35	kʰɐŋ35	kang2	P113		
-1791	鯁	鲠	kʰɐŋ35	kʰɐŋ35	kang2	P113		原文作「哽」字
-1792	骾	鲠	kʰɐŋ35	kʰɐŋ35	kang2	P113		原文作「哽」字
-1793	摼	摼	hɐŋ55	hɐŋ55	hang1	P113	用指關節敲	原文有音無字或作「敲」字
-1794	亨	亨	hɐŋ55	hɐŋ55	hang1	P113		
-1795	揈	揈	fɐŋ33	fɐŋ33	fang3	P113	甩的意思	原文有音無字，誤作[hɐŋ55]
-1796	行	行	hɔŋ21	hɔŋ21	hong4	P113	～列	原文誤作[hɐŋ21]
-1797	恆	恒	hɐŋ21	hɐŋ21	hang4	P113		
-1798	恒	恒	hɐŋ21	hɐŋ21	hang4	P113		
-1799	行	行	hɐŋ21	hɐŋ21	hang4	P113	～爲；品～	
-1800	杏	杏	hɐŋ22	hɐŋ22	hang6	P113		原文誤作[hɐŋ21]
-1801	幸	幸	hɐŋ22	hɐŋ22	hang6	P113		原文誤作[hɐŋ21]
-1802	肯	肯	hɐŋ35	hɐŋ35	hang2	P113		
-1803	餅	饼	pɛŋ35	pɛŋ35	beng2	P113		原文誤作[pɛŋ55]
-1804	病	病	pɛŋ22	pɛŋ22	beng6	P113		
-1805	拼	拼	pʰeŋ55	pʰeŋ55	ping1	P114		原文誤作[phɛŋ55]
-1806	平	平	pʰeŋ21	pʰeŋ21	ping4	P114		原文誤作[phɛŋ21]
-1807	評	评	pʰeŋ21	pʰeŋ21	ping4	P114		原文誤作[phɛŋ21]
-1808	明	明	meŋ21	meŋ21	ming4	P114		原文誤作[mɛŋ21]
-1809	名	名	mɛŋ21	mɛŋ21	meng4	P114		
-1810	命	命	mɛŋ22	mɛŋ22	meng6	P114		
-1811	釘	钉	tɛŋ55	tɛŋ55	deng1	P114	鐵～	
-1812	訂	订	tɛŋ22	tɛŋ22	deng6	P114		原文誤作[tɛŋ33]
-1813	聽	听	tʰɛŋ55	tʰɛŋ55	teng1	P114		
-1814	廳	厅	tʰɛŋ55	tʰɛŋ55	teng1	P114		
-1815	艇	艇	tʰɛŋ24	tʰɛŋ24	teng5	P114		原文誤作[thɛŋ35]
-1816	擰	拧	neŋ55	neŋ55	ning1	P114	～筆：握的意思	原文有音無字，誤作[nɛŋ55]
-1817	拎	拎	neŋ55	neŋ55	ning1	P114	～筆：握的意思	原文有音無字，誤作[nɛŋ55]
-1818	靈	灵	lɛŋ21	lɛŋ21	leng4	P114		
-1819	領	领	lɛŋ24	lɛŋ24	leng5	P114		
-1820	嶺	岭	lɛŋ24	lɛŋ24	leng5	P114		
-1821	醒	醒	ɬɛŋ35	ɬɛŋ35	sleng2	P114		
-1822	精	精	tʃɛŋ55	tʃɛŋ55	zeng1	P114		
-1823	清	清	tʃʰɛŋ55	tʃʰɛŋ55	ceng1	P114		原文誤作[tʃɛŋ55]
-1824	井	井	tʃɛŋ35	tʃɛŋ35	zeng2	P114		
-1825	青	青	tʃʰɛŋ55	tʃʰɛŋ55	ceng1	P114		
-1826	聲	声	ʃɛŋ55	ʃɛŋ55	seng1	P114		
-1827	頸	颈	kɛŋ35	kɛŋ35	geng2	P114		
-1828	鏡	镜	kɛŋ33	kɛŋ33	geng3	P114		
-1829	競	竞	keŋ33	keŋ33	ging3	P114		原文誤作[kɛŋ33]
-1830	輕	轻	hɛŋ55	hɛŋ55	heng1	P114	～重	
-1831	迎	迎	∅ieŋ21	jeŋ21	jing4	P114		原文誤作[∅iɛŋ21]
-1832	幫	帮	pɔŋ55	pɔŋ55	bong1	P114		
-1833	邦	邦	pɔŋ55	pɔŋ55	bong1	P114		
-1834	榜	榜	pɔŋ35	pɔŋ35	bong2	P114		
-1835	綁	绑	pɔŋ35	pɔŋ35	bong2	P114		
-1836	謗	谤	pɔŋ22	pɔŋ22	bong6	P114		
-1837	棒	棒	pɔŋ22	pɔŋ22	bong6	P114		
-1838	滂	滂	pʰɔŋ21	pʰɔŋ21	pong4	P114		
-1839	旁	旁	pʰɔŋ21	pʰɔŋ21	pong4	P114		
-1840	傍	傍	pʰɔŋ21	pʰɔŋ21	pong4	P114		
-1841	芒	芒	mɔŋ55	mɔŋ55	mong1	P114		
-1842	忙	忙	mɔŋ21	mɔŋ21	mong4	P114		
-1843	亡	亡	mɔŋ21	mɔŋ21	mong4	P114		
-1844	忘	忘	mɔŋ21	mɔŋ21	mong4	P114		
-1845	望	望	mɔŋ22	mɔŋ22	mong6	P114		原文誤作[mɔŋ21]
-1846	網	网	mɔŋ24	mɔŋ24	mong5	P114		原文誤作[mɔŋ35]
-1847	莽	莽	mɔŋ24	mɔŋ24	mong5	P114		
-1848	蟒	蟒	mɔŋ24	mɔŋ24	mong5	P114		
-1849	荒	荒	fɔŋ55	fɔŋ55	fong1	P114		
-1850	謊	谎	fɔŋ55	fɔŋ55	fong1	P114		
-1851	方	方	fɔŋ55	fɔŋ55	fong1	P114		
-1852	芳	芳	fɔŋ55	fɔŋ55	fong1	P114		
-1853	妨	妨	fɔŋ21	fɔŋ21	fong4	P114		
-1854	房	房	fɔŋ21	fɔŋ21	fong4	P114		
-1855	防	防	fɔŋ21	fɔŋ21	fong4	P114		
-1856	晃	晃	fɔŋ35	fɔŋ35	fong2	P114		
-1857	仿	仿	fɔŋ35	fɔŋ35	fong2	P114	相似	
-1858	倣	仿	fɔŋ35	fɔŋ35	fong2	P114	倣效	原文作「仿」字
-1859	紡	纺	fɔŋ35	fɔŋ35	fong2	P114		
-1860	訪	访	fɔŋ35	fɔŋ35	fong2	P114		
-1861	放	放	fɔŋ33	fɔŋ33	fong3	P114		
-1862	當	当	tɔŋ55	tɔŋ55	dong1	P114	～時	
-1863	黨	党	tɔŋ35	tɔŋ35	dong2	P114		
-1864	當	当	tɔŋ33	tɔŋ33	dong3	P114	～作	
-1865	蕩	荡	tɔŋ22	tɔŋ22	dong6	P114		原文誤作[tɔŋ33]
-1866	盪	荡	tɔŋ22	tɔŋ22	dong6	P114		原文誤作[tɔŋ33]
-1867	宕	宕	tɔŋ22	tɔŋ22	dong6	P114		原文誤作[tɔŋ33]
-1868	湯	汤	tʰɔŋ55	tʰɔŋ55	tong1	P114		
-1869	唐	唐	tʰɔŋ21	tʰɔŋ21	tong4	P114		
-1870	糖	糖	tʰɔŋ21	tʰɔŋ21	tong4	P114		
-1871	塘	塘	tʰɔŋ21	tʰɔŋ21	tong4	P114		
-1872	躺	躺	tʰɔŋ35	tʰɔŋ35	tong2	P114		
-1873	趟	趟	tʰɔŋ33	tʰɔŋ33	tong3	P114		
-1874	襠	裆	nɔŋ55	nɔŋ55	nong1	P114	褲～：褲襠	原文有音無字
-1875	囊	囊	nɔŋ21	nɔŋ21	nong4	P114		
-1876	瓤	瓤	nɔŋ21	nɔŋ21	nong4	P114		
-1877	仰	仰	ŋɔŋ24	ŋɔŋ24	ngong5	P114		原文誤作[nɔŋ24]
-1878	褦	褦	nɐŋ33	nɐŋ33	nang3	P114	交配的意思，狗𪐀[na55]～	原文誤作[na33 nɔŋ33]
-1879	廊	廊	lɔŋ21	lɔŋ21	long4	P114		
-1880	浪	浪	lɔŋ22	lɔŋ22	long6	P114		原文誤作[lɔŋ21]
-1881	郎	郎	lɔŋ21	lɔŋ21	long4	P114		原文誤作[lɔŋ35]
-1882	朗	朗	lɔŋ24	lɔŋ24	long5	P114		原文誤作[lɔŋ35]
-1883	桑	桑	ɬɔŋ55	ɬɔŋ55	slong1	P114		
-1884	霜	霜	ɬɔŋ55	ɬɔŋ55	slong1	P114		
-1885	磉	磉	ɬɔŋ35	ɬɔŋ35	slong2	P114		
-1886	爽	爽	ʃɔŋ35	ʃɔŋ35	song2	P114		原文誤作[ɬɔŋ35]
-1887	髒	脏	tʃɔŋ55	tʃɔŋ55	zong1	P114		
-1888	裝	装	tʃɔŋ55	tʃɔŋ55	zong1	P114		
-1889	撞	撞	tʃɔŋ22	tʃɔŋ22	zong6	P114		原文誤作[tʃɔŋ21]
-1890	葬	葬	tʃɔŋ33	tʃɔŋ33	zong3	P114		
-1891	壯	壮	tʃɔŋ33	tʃɔŋ33	zong3	P114		
-1892	狀	状	tʃɔŋ22	tʃɔŋ22	zong6	P114		
-1893	倉	仓	tʃʰɔŋ55	tʃʰɔŋ55	cong1	P114		
-1894	瘡	疮	tʃʰɔŋ55	tʃʰɔŋ55	cong1	P114		
-1895	窗	窗	tʃʰɔŋ55	tʃʰɔŋ55	cong1	P114		
-1896	藏	藏	tʃʰɔŋ21	tʃʰɔŋ21	cong4	P114	隱～	
-1897	牀	床	tʃʰɔŋ21	tʃʰɔŋ21	cong4	P114		
-1898	床	床	tʃʰɔŋ21	tʃʰɔŋ21	cong4	P114		
-1899	闖	闯	tʃʰɔŋ35	tʃʰɔŋ35	cong2	P114		
-1900	廠	厂	tʃʰɔŋ35	tʃʰɔŋ35	cong2	P114		
-1901	創	创	tʃʰɔŋ33	tʃʰɔŋ33	cong3	P114		
-1902	藏	藏	tʃɔŋ22	tʃɔŋ22	zong6	P114	西～	原文誤作[tʃhɔŋ22]
-1903	岡	冈	kɔŋ55	kɔŋ55	gong1	P114		
-1904	崗	岗	kɔŋ55	kɔŋ55	gong1	P114		
-1905	綱	纲	kɔŋ55	kɔŋ55	gong1	P114		
-1906	缸	缸	kɔŋ55	kɔŋ55	gong1	P114		
-1907	光	光	kɔŋ55	kɔŋ55	gong1	P114		
-1908	江	江	kɔŋ55	kɔŋ55	gong1	P114		
-1909	講	讲	kɔŋ35	kɔŋ35	gong2	P114		
-1910	港	港	kɔŋ35	kɔŋ35	gong2	P114		
-1911	廣	广	kɔŋ35	kɔŋ35	gong2	P114		原文誤作[kɔŋ24]
-1912	鋼	钢	kɔŋ33	kɔŋ33	gong3	P114		
-1913	槓	杠	kɔŋ33	kɔŋ33	gong3	P114		
-1914	杠	杠	kɔŋ33	kɔŋ33	gong3	P114		
-1915	降	降	kɔŋ33	kɔŋ33	gong3	P114		
-1916	狂	狂	kʰɔŋ21	kʰɔŋ21	kong4	P114		
-1917	扛	扛	kʰɔŋ21	kʰɔŋ21	kong4	P114		
-1918	抗	抗	kʰɔŋ33	kʰɔŋ33	kong3	P114		
-1919	曠	旷	kʰɔŋ33	kʰɔŋ33	kong3	P114		
-1920	擴	扩	kʰɔŋ33	kʰɔŋ33	kong3	P114		
-1921	況	况	kʰɔŋ33	kʰɔŋ33	kong3	P114		
-1922	礦	矿	kʰɔŋ33	kʰɔŋ33	kong3	P114		
-1923	昂	昂	ŋɔŋ21	ŋɔŋ21	ngong4	P114		原文誤作[ŋɔŋ35]
-1924	康	康	hɔŋ55	hɔŋ55	hong1	P114		
-1925	糠	糠	hɔŋ55	hɔŋ55	hong1	P114		
-1926	慷	慷	hɔŋ55	hɔŋ55	hong1	P114		
-1927	杭	杭	hɔŋ21	hɔŋ21	hong4	P114		
-1928	虹	虹	huŋ21	hʊŋ21	hung4	P114		原文誤作[hɔŋ21]
-1929	𣚺	𣚺	hɔŋ22	hɔŋ22	hong6	P114	～雞：未下蛋的小雞	原文有音無字，誤作[hɔŋ21]
-1930	吼	吼	huŋ35	hʊŋ35	hung2	P114		原文誤作[hɔŋ35]
-1931	項	项	hɔŋ35	hɔŋ35	hong2	P114		
-1932	巷	巷	hɔŋ35	hɔŋ35	hong2	P114		
-1933	汪	汪	∅uɔŋ55	wɔŋ55	wong1	P114	一汪水	
-1934	黃	黄	∅uɔŋ21	wɔŋ21	wong4	P114		
-1935	皇	皇	∅uɔŋ21	wɔŋ21	wong4	P114		
-1936	王	王	∅uɔŋ21	wɔŋ21	wong4	P114		
-1937	旺	旺	∅uɔŋ22	wɔŋ22	wong6	P114		原文誤作[∅uɔŋ21]
-1938	降	降	hɔŋ21	hɔŋ21	hong4	P114	投～	原文誤作[∅uɔŋ21]
-1939	枉	枉	∅uɔŋ35	wɔŋ35	wong2	P114		
-1940	往	往	∅uɔŋ24	wɔŋ24	wong5	P114		原文誤作[∅uɔŋ35]
-1941	冰	冰	peŋ55	peŋ55	bing1	P114		
-1942	兵	兵	peŋ55	peŋ55	bing1	P114		
-1943	丙	丙	peŋ35	peŋ35	bing2	P114		
-1944	并	并	peŋ33	peŋ33	bing3	P114	合～	
-1945	併	并	peŋ33	peŋ33	bing3	P114	合～	
-1946	瓶	瓶	pʰeŋ21	pʰeŋ21	ping4	P114		
-1947	屏	屏	pʰeŋ21	pʰeŋ21	ping4	P114	圍～	
-1948	萍	萍	pʰeŋ21	pʰeŋ21	ping4	P114		
-1949	聘	聘	pʰeŋ33	pʰeŋ33	ping3	P114		
-1950	并	并	peŋ22	peŋ22	bing6	P114	～行～講	原文誤作[pheŋ33]
-1951	並	并	peŋ22	peŋ22	bing6	P114	～行～講	原文誤作[pheŋ33]
-1952	銘	铭	meŋ21	meŋ21	ming4	P114		
-1953	命	命	meŋ22	meŋ22	ming6	P114		
-1954	捧	捧	phuŋ35	pʰʊŋ35	pung2	P114	～脬[phɛu55]：戴高帽子	原文有音無字，誤作[feŋ24]
-1955	定	定	teŋ22	teŋ22	ding6	P114		原文誤作[teŋ21]
-1956	頂	顶	teŋ35	teŋ35	ding2	P114		
-1957	停	停	tʰeŋ21	tʰeŋ21	ting4	P114		
-1958	庭	庭	tʰeŋ21	tʰeŋ21	ting4	P114		
-1959	寧	宁	neŋ21	neŋ21	ning4	P114		
-1960	凌	凌	leŋ21	leŋ21	ling4	P114		
-1961	令	令	leŋ22	leŋ22	ling6	P114		原文誤作[leŋ21]
-1962	靈	灵	leŋ21	leŋ21	ling4	P114		
-1963	零	零	leŋ21	leŋ21	ling4	P114		
-1964	領	领	leŋ24	leŋ24	ling5	P114		
-1965	另	另	leŋ22	leŋ22	ling6	P114		
-1966	姓	姓	ɬeŋ33	ɬeŋ33	sling3	P114		原文誤作[ɬeŋ55]
-1967	星	星	ɬeŋ55	ɬeŋ55	sling1	P114		
-1968	徵	征	tʃeŋ55	tʃeŋ55	zing1	P114		
-1969	征	征	tʃeŋ55	tʃeŋ55	zing1	P114		
-1970	蒸	蒸	tʃeŋ55	tʃeŋ55	zing1	P114		
-1971	精	精	tʃeŋ55	tʃeŋ55	zing1	P114		
-1972	睛	睛	tʃeŋ55	tʃeŋ55	zing1	P114		
-1973	清	清	tʃʰeŋ55	tʃʰeŋ55	cing1	P114		原文誤作[tʃeŋ55]
-1974	貞	贞	tʃeŋ55	tʃeŋ55	zing1	P114		
-1975	偵	侦	tʃeŋ55	tʃeŋ55	zing1	P114		
-1976	正	正	tʃeŋ55	tʃeŋ55	zing1	P114	～月	
-1977	晴	晴	tʃʰeŋ21	tʃʰeŋ21	cing4	P114		原文誤作[tʃeŋ21]
-1978	整	整	tʃeŋ35	tʃeŋ35	zing2	P114		
-1979	證	证	tʃeŋ33	tʃeŋ33	zing3	P114		
-1980	剩	剩	tʃeŋ22	tʃeŋ22	zing6	P114		原文誤作[tʃeŋ33]
-1981	正	正	tʃeŋ33	tʃeŋ33	zing3	P114	公～	
-1982	政	政	tʃeŋ33	tʃeŋ33	zing3	P114		
-1983	澄	澄	tʃʰeŋ21	tʃʰeŋ21	cing4	P114		原文誤作[tʃeŋ22]
-1984	靜	静	tʃeŋ22	tʃeŋ22	zing6	P114		
-1985	淨	净	tʃeŋ22	tʃeŋ22	zing6	P114		
-1986	凈	净	tʃeŋ22	tʃeŋ22	zing6	P114		
-1987	鄭	郑	tʃeŋ22	tʃeŋ22	zing6	P114		
-1988	稱	称	tʃʰeŋ55	tʃʰeŋ55	cing1	P114	～呼	
-1989	青	青	tʃʰeŋ55	tʃʰeŋ55	cing1	P114		
-1990	懲	惩	tʃʰeŋ21	tʃʰeŋ21	cing4	P114		
-1991	情	情	tʃʰeŋ21	tʃʰeŋ21	cing4	P114		
-1992	程	程	tʃʰeŋ21	tʃʰeŋ21	cing4	P114		
-1993	請	请	tʃʰeŋ35	tʃʰeŋ35	cing2	P114		
-1994	秤	秤	tʃʰeŋ33	tʃʰeŋ33	cing3	P114	一杆秤	
-1995	升	升	ʃeŋ55	ʃeŋ55	sing1	P114		
-1996	乘	乘	ʃeŋ21	ʃeŋ21	sing4	P114		
-1997	繩	绳	ʃeŋ21	ʃeŋ21	sing4	P114		
-1998	承	承	ʃeŋ21	ʃeŋ21	sing4	P114		
-1999	成	成	ʃeŋ21	ʃeŋ21	sing4	P114		
-2000	城	城	ʃeŋ21	ʃeŋ21	sing4	P114		
-2001	盛	盛	ʃeŋ22	ʃeŋ22	sing6	P114	興～	原文誤作[ʃeŋ21]
-2002	勝	胜	ʃeŋ33	ʃeŋ33	sing3	P114	～敗	
-2003	聖	圣	ʃeŋ33	ʃeŋ33	sing3	P114		
-2004	剩	剩	ʃeŋ22	ʃeŋ22	sing6	P114		
-2005	驚	惊	keŋ55	keŋ55	ging1	P114		
-2006	經	经	keŋ55	keŋ55	ging1	P114		
-2007	境	境	keŋ35	keŋ35	ging2	P114		
-2008	景	景	keŋ35	keŋ35	ging2	P114		
-2009	敬	敬	keŋ33	keŋ33	ging3	P114		
-2010	勁	劲	keŋ33	keŋ33	ging3	P114	～敵；有～	「有～」原文誤作[kɛŋ33]
-2011	徑	径	keŋ33	keŋ33	ging3	P114		
-2012	傾	倾	kʰeŋ55	kʰeŋ55	king1	P114		
-2013	擎	擎	kʰeŋ21	kʰeŋ21	king4	P114		
-2014	瓊	琼	kʰeŋ21	kʰeŋ21	king4	P114		
-2015	凝	凝	ŋeŋ21	ŋeŋ21	nging4	P114		
-2016	興	兴	heŋ55	heŋ55	hing1	P114	～旺	
-2017	卿	卿	heŋ55	heŋ55	hing1	P114		
-2018	馨	馨	heŋ55	heŋ55	hing1	P114		
-2019	兄	兄	heŋ55	heŋ55	hing1	P114		
-2020	興	兴	heŋ33	heŋ33	hing3	P114	高～	
-2021	慶	庆	heŋ33	heŋ33	hing3	P114		
-2022	蠅	蝇	∅ieŋ55	jeŋ55	jing1	P114		
-2023	贏	赢	∅ieŋ21	jeŋ21	jing4	P114		
-2024	形	形	∅ieŋ21	jeŋ21	jing4	P114		
-2025	營	营	∅ieŋ21	jeŋ21	jing4	P114		
-2026	螢	萤	∅ieŋ21	jeŋ21	jing4	P114		
-2027	穎	颖	∅ieŋ35	jeŋ35	jing2	P114		
-2028	應	应	∅ieŋ55	jeŋ55	jing1	P114，115	～當	「應當」原文誤作[∅ieŋ33]，P115重複
-2029	應	应	∅ieŋ33	jeŋ33	jing3	P114，115	～用，～付	P115重複
-2030	永	永	∅ueŋ24	weŋ24	wing5	P114		原文誤作[∅ueŋ35]
-2031	娘	娘	nœŋ21	nœŋ21	noeng4	P114		
-2032	孃	娘	nœŋ21	nœŋ21	noeng4	P114		
-2033	涼	凉	lœŋ21	lœŋ21	loeng4	P114		
-2034	量	量	lœŋ21	lœŋ21	loeng4	P114	～長短	
-2035	亮	亮	lœŋ22	lœŋ22	loeng6	P114		原文誤作[lœŋ21]
-2036	諒	谅	lœŋ22	lœŋ22	loeng6	P114		原文誤作[lœŋ21]
-2037	量	量	lœŋ22	lœŋ22	loeng6	P114	數～	原文誤作[lœŋ21]
-2038	兩	两	lœŋ24	lœŋ24	loeng5	P114	～個	原文誤作[lœŋ35]
-2039	兩	两	lœŋ35	lœŋ35	loeng2	P114	幾～幾錢	
-2040	釀	酿	lœŋ22	lœŋ22	loeng6	P114		
-2041	糧	粮	lœŋ21	lœŋ21	loeng4	P114		原文誤作[lœŋ22]
-2042	粮	粮	lœŋ21	lœŋ21	loeng4	P114		原文誤作[lœŋ22]
-2043	相	相	ɬœŋ55	ɬœŋ55	sloeng1	P114	互～	
-2044	箱	箱	ɬœŋ55	ɬœŋ55	sloeng1	P114		
-2045	鑲	镶	ɬœŋ55	ɬœŋ55	sloeng1	P114		
-2046	想	想	ɬœŋ35	ɬœŋ35	sloeng2	P114		
-2047	相	相	ɬœŋ33	ɬœŋ33	sloeng3	P114	～貌	
-2048	漿	浆	tʃœŋ55	tʃœŋ55	zoeng1	P114		
-2049	張	张	tʃœŋ55	tʃœŋ55	zoeng1	P114		
-2050	章	章	tʃœŋ55	tʃœŋ55	zoeng1	P114		
-2051	蔣	蒋	tʃœŋ35	tʃœŋ35	zoeng2	P114		
-2052	獎	奖	tʃœŋ35	tʃœŋ35	zoeng2	P114		
-2053	長	长	tʃœŋ35	tʃœŋ35	zoeng2	P114	生～	
-2054	掌	掌	tʃœŋ35	tʃœŋ35	zoeng2	P114		
-2055	醬	酱	tʃœŋ33	tʃœŋ33	zoeng3	P114		
-2056	將	将	tʃœŋ33	tʃœŋ33	zoeng3	P114	大～	
-2057	漲	涨	tʃœŋ33	tʃœŋ33	zoeng3	P114		
-2058	賬	账	tʃœŋ33	tʃœŋ33	zoeng3	P114		
-2059	脹	胀	tʃœŋ33	tʃœŋ33	zoeng3	P114		
-2060	仗	仗	tʃœŋ33	tʃœŋ33	zoeng3	P114		
-2061	障	障	tʃœŋ33	tʃœŋ33	zoeng3	P114	保～	
-2062	匠	匠	tʃœŋ22	tʃœŋ22	zoeng6	P114		
-2063	象	象	tʃœŋ22	tʃœŋ22	zoeng6	P114	大～	
-2064	丈	丈	tʃœŋ22	tʃœŋ22	zoeng6	P114		
-2065	槍	枪	tʃʰœŋ55	tʃʰœŋ55	coeng1	P114		
-2066	昌	昌	tʃʰœŋ55	tʃʰœŋ55	coeng1	P114		
-2067	腔	腔	kʰœŋ55	kʰœŋ55	koeng1	P114		原文誤作[tʃhœŋ55]
-2068	牆	墙	tʃʰœŋ21	tʃʰœŋ21	coeng4	P114		
-2069	詳	详	tʃʰœŋ21	tʃʰœŋ21	coeng4	P114		
-2070	長	长	tʃʰœŋ21	tʃʰœŋ21	coeng4	P114	長～	
-2071	腸	肠	tʃʰœŋ21	tʃʰœŋ21	coeng4	P114		
-2072	搶	抢	tʃʰœŋ35	tʃʰœŋ35	coeng2	P114		
-2073	場	场	tʃʰœŋ21	tʃʰœŋ21	coeng4	P114		原文誤作[tʃhœŋ24]
-2074	暢	畅	tʃʰœŋ33	tʃʰœŋ33	coeng3	P114		
-2075	唱	唱	tʃʰœŋ33	tʃʰœŋ33	coeng3	P114		
-2076	商	商	ʃœŋ55	ʃœŋ55	soeng1	P114		
-2077	傷	伤	ʃœŋ55	ʃœŋ55	soeng1	P114		
-2078	雙	双	ʃœŋ55	ʃœŋ55	soeng1	P114		
-2079	常	常	ʃœŋ21	ʃœŋ21	soeng4	P114		
-2080	嘗	尝	ʃœŋ21	ʃœŋ21	soeng4	P114		
-2081	上	上	ʃœŋ22	ʃœŋ22	soeng6	P114	～面	原文誤作[ʃœŋ21]
-2082	賞	赏	ʃœŋ35	ʃœŋ35	soeng2	P114		
-2083	尚	尚	ʃœŋ35	ʃœŋ35	soeng2	P114		
-2084	上	上	ʃœŋ24	ʃœŋ24	soeng5	P114	～山	
-2085	姜	姜	kœŋ55	kœŋ55	goeng1	P114		
-2086	薑	姜	kœŋ55	kœŋ55	goeng1	P114		
-2087	疆	疆	kʰœŋ55	kʰœŋ55	koeng1	P114		
-2088	強	强	kʰœŋ21	kʰœŋ21	koeng4	P114	～大	原文誤作「1～強；2倔～」
-2089	強	强	kʰœŋ35	kʰœŋ35	koeng2	P114	勉～；倔～	原文誤作「1～強；2倔～」
-2090	強	强	kœŋ22	kœŋ22	goeng6	P114	倔～	原文誤作[khœŋ22]
-2091	香	香	hœŋ55	hœŋ55	hoeng1	P114		
-2092	鄉	乡	hœŋ55	hœŋ55	hoeng1	P114		
-2093	享	享	hœŋ35	hœŋ35	hoeng2	P114		
-2094	響	响	hœŋ35	hœŋ35	hoeng2	P114		
-2095	向	向	hœŋ33	hœŋ33	hoeng3	P114		
-2096	秧	秧	∅iœŋ55	jœŋ55	joeng1	P115		
-2097	羊	羊	∅iœŋ21	jœŋ21	joeng4	P115		
-2098	揚	扬	∅iœŋ21	jœŋ21	joeng4	P115		
-2099	瘍	疡	∅iœŋ21	jœŋ21	joeng4	P115		
-2100	養	养	∅iœŋ24	jœŋ24	joeng5	P115		
-2101	樣	样	∅iœŋ35	jœŋ35	joeng2	P115		原文誤作[∅iœŋ24]
-2102	讓	让	∅iœŋ22	jœŋ22	joeng6	P115		
-2103	英	英	∅ieŋ55	jeŋ55	jing1	P115		原文作[∅iŋ55]，与[∅ieŋ55]不統一
-2104	影	影	∅ieŋ35	jeŋ35	jing2	P115		原文作[∅iŋ35]，与[∅ieŋ35]不統一
-2105	映	映	∅ieŋ35	jeŋ35	jing2	P115		原文作[∅iŋ35]，与[∅ieŋ35]不統一
-2106	捧	捧	pʰuŋ35	pʰʊŋ35	pung2	P115		
-2107	蒙	蒙	muŋ21	mʊŋ21	mung4	P115		
-2108	丰	丰	fuŋ55	fʊŋ55	fung1	P115		
-2109	游	游	∅iɐu21	jɐu21	jau4	P111	逛	原文有音無字
-2110	夢	梦	muŋ22	mʊŋ22	mung6	P115		原文誤作[muŋ21]
-2111	懵	懵	muŋ35	mʊŋ35	mung2	P115		
-2112	風	风	fuŋ55	fʊŋ55	fung1	P115		
-2113	豐	丰	fuŋ55	fʊŋ55	fung1	P115		
-2114	封	封	fuŋ55	fʊŋ55	fung1	P115		
-2115	鋒	锋	fuŋ55	fʊŋ55	fung1	P115		
-2116	馮	冯	fuŋ21	fʊŋ21	fung4	P115		
-2117	鳳	凤	fuŋ22	fʊŋ22	fung6	P115		原文誤作[fuŋ21]
-2118	逢	逢	fuŋ21	fʊŋ21	fung4	P115		
-2119	諷	讽	fuŋ35	fʊŋ35	fung2	P115		
-2120	奉	奉	fuŋ22	fʊŋ22	fung6	P115		
-2121	東	东	tuŋ55	tʊŋ55	dung1	P115		
-2122	冬	冬	tuŋ55	tʊŋ55	dung1	P115		
-2123	棟	栋	tuŋ22	tʊŋ22	dung6	P115		原文誤作[tuŋ21]
-2124	懂	懂	tuŋ35	tʊŋ35	dung2	P115		
-2125	凍	冻	tuŋ33	tʊŋ33	dung3	P115		
-2126	動	动	tuŋ22	tʊŋ22	dung6	P115		
-2127	洞	洞	tuŋ22	tʊŋ22	dung6	P115		
-2128	通	通	tʰuŋ55	tʰʊŋ55	tung1	P115		
-2129	同	同	tʰuŋ21	tʰʊŋ21	tung4	P115		
-2130	童	童	tʰuŋ21	tʰʊŋ21	tung4	P115		
-2131	桶	桶	tʰuŋ35	tʰʊŋ35	tung2	P115		
-2132	統	统	tʰuŋ35	tʰʊŋ35	tung2	P115		
-2133	痛	痛	tʰuŋ33	tʰʊŋ33	tung3	P115		
-2134	齈	齈	nuŋ21	nʊŋ21	nung4	P115		原文誤作[nuŋ55]
-2135	農	农	nuŋ21	nʊŋ21	nung4	P115		
-2136	濃	浓	nuŋ21	nʊŋ21	nung4	P115		
-2137	聾	聋	luŋ21	lʊŋ21	lung4	P115		
-2138	弄	弄	luŋ22	lʊŋ22	lung6	P115		原文誤作[luŋ21]
-2139	隆	隆	luŋ21	lʊŋ21	lung4	P115		
-2140	龍	龙	luŋ21	lʊŋ21	lung4	P115		
-2141	籠	笼	luŋ24	lʊŋ24	lung5	P115		原文誤作[luŋ35]
-2142	攏	拢	luŋ35	lʊŋ35	lung2	P115		
-2143	壟	垄	luŋ24	lʊŋ24	lung5	P115		原文誤作[luŋ35]
-2144	壠	垄	luŋ24	lʊŋ24	lung5	P115		原文誤作[luŋ35]
-2145	松	松	ɬuŋ55	ɬʊŋ55	slung1	P115	～木	
-2146	嵩	嵩	ɬuŋ55	ɬʊŋ55	slung1	P115		
-2147	鬆	松	ɬuŋ55	ɬʊŋ55	slung1	P115	輕～	
-2148	慫	怂	ɬuŋ35	ɬʊŋ35	slung2	P115		原文誤作[ɬuŋ21]，而[ɬuŋ21]應該對應「㞞」字
-2149	送	送	ɬuŋ33	ɬʊŋ33	slung3	P115		
-2150	宋	宋	ɬuŋ33	ɬʊŋ33	slung3	P115		
-2151	椶	棕	tʃuŋ55	tʃʊŋ55	zung1	P115		
-2152	宗	宗	tʃuŋ55	tʃʊŋ55	zung1	P115		
-2153	綜	综	tʃuŋ55	tʃʊŋ55	zung1	P115		
-2154	中	中	tʃuŋ55	tʃʊŋ55	zung1	P115	當～	
-2155	終	终	tʃuŋ55	tʃʊŋ55	zung1	P115		
-2156	蹤	踪	tʃuŋ55	tʃʊŋ55	zung1	P115		
-2157	鍾	钟	tʃuŋ55	tʃʊŋ55	zung1	P115		
-2158	鐘	钟	tʃuŋ55	tʃʊŋ55	zung1	P115		
-2159	縱	纵	tʃuŋ22	tʃʊŋ22	zung6	P115		原文誤作[tʃuŋ21]
-2160	誦	诵	tʃuŋ22	tʃʊŋ22	zung6	P115		原文誤作[tʃuŋ21]
-2161	重	重	tʃuŋ22	tʃʊŋ22	zung6	P115	還	原文有音無字，誤作[tʃuŋ21]，俗寫「仲」字
-2162	頌	颂	tʃuŋ22	tʃʊŋ22	zung6	P115		原文誤作[tʃuŋ21]
-2163	總	总	tʃuŋ35	tʃʊŋ35	zung2	P115		
-2164	種	种	tʃuŋ35	tʃʊŋ35	zung2	P115	～類	
-2165	腫	肿	tʃuŋ35	tʃʊŋ35	zung2	P115		
-2166	糉	粽	tʃuŋ33	tʃʊŋ33	zung3	P115		
-2167	粽	粽	tʃuŋ33	tʃʊŋ33	zung3	P115		
-2168	中	中	tʃuŋ33	tʃʊŋ33	zung3	P115	射～	
-2169	衆	众	tʃuŋ33	tʃʊŋ33	zung3	P115		
-2170	眾	众	tʃuŋ33	tʃʊŋ33	zung3	P115		
-2171	種	种	tʃuŋ33	tʃʊŋ33	zung3	P115	～樹	
-2172	仲	仲	tʃuŋ22	tʃʊŋ22	zung6	P115		
-2173	聰	聪	tʃʰuŋ55	tʃʰʊŋ55	cung1	P115		
-2174	蔥	葱	tʃʰuŋ55	tʃʰʊŋ55	cung1	P115		
-2175	葱	葱	tʃʰuŋ55	tʃʰʊŋ55	cung1	P115		
-2176	充	充	tʃʰuŋ55	tʃʰʊŋ55	cung1	P115		
-2177	衝	冲	tʃʰuŋ55	tʃʰʊŋ55	cung1	P115		
-2178	叢	丛	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115		
-2179	蟲	虫	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115		
-2180	崇	崇	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115		
-2181	從	从	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115	跟～	
-2182	重	重	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115	～複	
-2183	寵	宠	tʃʰuŋ35	tʃʰʊŋ35	cung2	P115		
-2184	重	重	tʃʰuŋ24	tʃʰʊŋ24	cung5	P115	輕～	
-2185	銃	铳	tʃʰuŋ33	tʃʰʊŋ33	cung3	P115		
-2186	公	公	kuŋ55	kʊŋ55	gung1	P115		
-2187	工	工	kuŋ55	kʊŋ55	gung1	P115		
-2188	宮	宫	kuŋ55	kʊŋ55	gung1	P115		
-2189	恭	恭	kuŋ55	kʊŋ55	gung1	P115		
-2190	供	供	kuŋ55	kʊŋ55	gung1	P115	～給	
-2191	鞏	巩	kuŋ35	kʊŋ35	gung2	P115		
-2192	貢	贡	kuŋ33	kʊŋ33	gung3	P115		
-2193	汞	汞	kuŋ33	kʊŋ33	gung3	P115		
-2194	共	共	kuŋ22	kʊŋ22	gung6	P115		原文誤作[kuŋ33]
-2195	𫋐	𫋐	kuŋ33	kʊŋ33	gung3	P115	爬的意思	原文有音無字
-2196	窮	穷	kʰuŋ21	kʰʊŋ21	kung4	P115		
-2197	孔	孔	kʰuŋ35	kʰʊŋ35	kung2	P115		
-2198	恐	恐	kʰuŋ35	kʰʊŋ35	kung2	P115		
-2199	轟	轰	huŋ55	hʊŋ55	hung1	P115		
-2200	空	空	huŋ55	hʊŋ55	hung1	P115	～虛；～缺	
-2201	胸	胸	huŋ55	hʊŋ55	hung1	P115		
-2202	凶	凶	huŋ55	hʊŋ55	hung1	P115	吉～	
-2203	兇	凶	huŋ55	hʊŋ55	hung1	P115		
-2204	弘	弘	huŋ21	hʊŋ21	hung4	P115		
-2205	宏	宏	huŋ21	hʊŋ21	hung4	P115		
-2206	紅	红	huŋ21	hʊŋ21	hung4	P115		
-2207	洪	洪	huŋ21	hʊŋ21	hung4	P115		
-2208	雄	雄	huŋ21	hʊŋ21	hung4	P115		
-2209	孔	孔	huŋ35	hʊŋ35	hung2	P115		
-2210	恐	恐	huŋ35	hʊŋ35	hung2	P115		
-2211	控	控	huŋ33	hʊŋ33	hung3	P115		
-2212	翁	翁	∅uŋ55	∅ʊŋ55	ung1	P115		
-2213	雍	雍	∅iuŋ55	jʊŋ55	jung1	P115		
-2214	榮	荣	∅iuŋ21	jʊŋ21	jung4	P115		
-2215	絨	绒	∅iuŋ21	jʊŋ21	jung4	P115		
-2216	融	融	∅iuŋ21	jʊŋ21	jung4	P115		
-2217	容	容	∅iuŋ21	jʊŋ21	jung4	P115		
-2218	用	用	∅iuŋ22	jʊŋ22	jung6	P115		原文誤作[∅iuŋ21]
-2219	擁	拥	∅iuŋ35	jʊŋ35	jung2	P115		
-2220	勇	勇	∅iuŋ24	jʊŋ24	jung5	P115		原文誤作[∅iuŋ35]
-2221	答	答	tap3	tap3	daap3	P115		原文誤作[tap2]
-2222	踏	踏	tap2	tap2	daap6	P115		
-2223	沓	沓	tap2	tap2	daap6	P115		
-2224	搨	搨	tʰap3	tʰap3	taap3	P115		
-2225	塔	塔	tʰap3	tʰap3	taap3	P115		
-2226	焫	焫	nat3	nat3	naat3	P115	燒[ʃiu55]燒[ʃiu55]～～：指雞罵狗	原文有音無字，誤作[ʃiu55 ʃiu55 nap3 nap3]
-2227	納	纳	nap2	nap2	naap6	P115		
-2228	擸	擸	lap3	lap3	laap3	P115	挽的意思	原文有音無字，誤作[lap5]
-2229	拉	拉	lap3	lap3	laap3	P115	挽的意思	原文有音無字，誤作[lap5]
-2230	臘	腊	lap2	lap2	laap6	P115		
-2231	圾	圾	ɬap3	ɬap3	slaap3	P115	垃圾的意思	原文有音無字，誤作[ɬap5]
-2232	雜	杂	tʃap2	tʃap2	zaap6	P115		
-2233	閘	闸	tʃap2	tʃap2	zaap6	P115		
-2234	插	插	tʃʰap3	tʃʰap3	caap3	P115		
-2235	鴿	鸽	kap3	kap3	gaap3	P115		
-2236	甲	甲	kap3	kap3	gaap3	P115		
-2237	佮	佮	kap3	kap3	gaap3	P115	作伴	原文有音無字
-2238	裌	裌	kap2	kap2	gaap6	P115		
-2239	𧬈	𧬈	hɐp5	hɐp5	hap1	P115	欺負	原文有音無字，誤作[hap5]
-2240	狹	狭	hap3	hap3	haap3	P115		
-2241	合	合	hɐp2	hɐp2	hap6	P115		原文誤作[hap2]
-2242	峽	峡	hap2	hap2	haap6	P115		
-2243	鴨	鸭	∅ap3	∅ap3	aap3	P115		
-2244	八	八	pat3	pat3	baat3	P115		
-2245	拔	拔	pat2	pat2	baat6	P115		
-2246	抹	抹	mat3	mat3	maat3	P115		
-2247	襪	袜	mɐt2	mɐt2	mat6	P115		原文誤作[mat2]
-2248	法	法	fat3	fat3	faat3	P115		
-2249	發	发	fat3	fat3	faat3	P115		
-2250	髮	发	fat3	fat3	faat3	P115		
-2251	乏	乏	fat2	fat2	faat6	P115		
-2252	罰	罚	fat2	fat2	faat6	P115		
-2253	達	达	tat2	tat2	daat6	P115		
-2254	捺	捺	nat3	nat3	naat3	P115		
-2255	辣	辣	lat2	lat2	laat6	P115		
-2256	撒	撒	ɬat3	ɬat3	slaat3	P115		
-2257	薩	萨	ɬat3	ɬat3	slaat3	P115		
-2258	扎	扎	tʃat3	tʃat3	zaat3	P115		
-2259	紮	扎	tʃat3	tʃat3	zaat3	P115		原文作「扎」字
-2260	軋	轧	tʃat3	tʃat3	zaat3	P115		
-2261	擦	擦	tʃʰat3	tʃʰat3	caat3	P115		
-2262	察	察	tʃʰat3	tʃʰat3	caat3	P115		
-2263	刷	刷	tʃʰat3	tʃʰat3	caat3	P115		
-2264	殺	杀	ʃat3	ʃat3	saat3	P115		
-2265	壓	压	∅at3	∅at3	aat3	P115		
-2266	百	百	pak3	pak3	baak3	P115		
-2267	伯	伯	pak3	pak3	baak3	P115		
-2268	白	白	pak2	pak2	baak6	P115		
-2269	帕	帕	pʰak3	pʰak3	paak3	P115		
-2270	泊	泊	pʰak3	pʰak3	paak3	P115	梁山～	
-2271	迫	迫	pʰak3	pʰak3	paak3	P115		
-2272	拍	拍	pʰak3	pʰak3	paak3	P115		
-2273	魄	魄	pʰak3	pʰak3	paak3	P115		
-2274	陌	陌	mak2	mak2	maak6	P115		
-2275	窄	窄	tʃak3	tʃak3	zaak3	P115		
-2276	責	责	tʃak3	tʃak3	zaak3	P115		
-2277	澤	泽	tʃak2	tʃak2	zaak6	P115		
-2278	宅	宅	tʃak2	tʃak2	zaak6	P115		
-2279	摘	摘	tʃak2	tʃak2	zaak6	P115		
-2280	拆	拆	tʃʰak3	tʃʰak3	caak3	P115		
-2281	策	策	tʃʰak3	tʃʰak3	caak3	P115		原文誤作[tʃhak2]
-2282	冊	册	tʃʰak3	tʃʰak3	caak3	P115		原文誤作[tʃhak2]
-2283	賊	贼	tʃʰak2	tʃʰak2	caak6	P115	小偷	原文有音無字
-2284	格	格	kak3	kak3	gaak3	P115		
-2285	革	革	kak3	kak3	gaak3	P115		
-2286	隔	隔	kak3	kak3	gaak3	P115		
-2287	額	额	ŋak2	ŋak2	ngaak6	P115		
-2288	嚇	吓	hak3	hak3	haak3	P115	～一跳；恐～	
-2289	客	客	hak3	hak3	haak3	P115		
-2290	笠	笠	lɐp5	lɐp5	lap1	P115		
-2291	立	立	lɐp2	lɐp2	lap6	P115		
-2292	執	执	tʃɐp5	tʃɐp5	zap1	P115	～起來	原文作「拾」字
-2293	縶	絷	tʃɐp5	tʃɐp5	zap1	P115	縷	原文有音無字
-2294	汁	汁	tʃɐp5	tʃɐp5	zap1	P115		
-2295	集	集	tʃɐp2	tʃɐp2	zap6	P115		
-2296	習	习	tʃɐp2	tʃɐp2	zap6	P115		
-2297	溼	湿	ʃɐp5	ʃɐp5	sap1	P115		
-2298	濕	湿	ʃɐp5	ʃɐp5	sap1	P115		
-2299	十	十	ʃɐp2	ʃɐp2	sap6	P115		
-2300	急	急	kɐp5	kɐp5	gap1	P115		
-2301	及	及	kɐp2	kɐp2	gap6	P115		
-2302	磕	磕	kʰɐp5	kʰɐp5	kap1	P115		
-2303	級	级	kʰɐp5	kʰɐp5	kap1	P115		
-2304	吸	吸	kʰɐp5	kʰɐp5	kap1	P115		
-2305	筆	笔	pɐt5	pɐt5	bat1	P115		
-2306	畢	毕	pɐt5	pɐt5	bat1	P115		
-2307	不	不	pɐt5	pɐt5	bat1	P115		
-2308	弼	弼	pɐt2	pɐt2	bat6	P115		
-2309	匹	匹	pʰɐt5	pʰɐt5	pat1	P115		
-2310	密	密	mɐt2	mɐt2	mat6	P115		
-2311	物	物	mɐt2	mɐt2	mat6	P115		
-2312	佛	佛	fɐt2	fɐt2	fat6	P115		
-2313	突	突	tɐt2	tɐt2	dat6	P115		
-2314	肄	肄	lɐt2	lɐt2	lat6	P115		
-2315	栗	栗	lɐt2	lɐt2	lat6	P115		
-2316	律	律	lɐt2	lɐt2	lat6	P115		
-2317	率	率	lɐt2	lɐt2	lat6	P115		
-2318	質	质	tʃɐt5	tʃɐt5	zat1	P115		
-2319	疾	疾	tʃɐt2	tʃɐt2	zat6	P115		
-2320	侄	侄	tʃɐt2	tʃɐt2	zat6	P115		
-2321	姪	侄	tʃɐt2	tʃɐt2	zat6	P115		
-2322	膝	膝	tʃʰɐt5	tʃʰɐt5	cat1	P115		原文誤作[tʃhɐt2]
-2323	七	七	tʃʰɐt5	tʃʰɐt5	cat1	P115		
-2324	漆	漆	tʃʰɐt5	tʃʰɐt5	cat1	P115		
-2325	蚤	蚤	tʃu35	tʃu35	zu2	P115		原文誤作[ʃɐt5]
-2326	悉	悉	ɬɐt5	ɬɐt5	slat1	P115		原文誤作[ʃɐt5]
-2327	蝨	虱	ʃɐt5	ʃɐt5	sat1	P115		
-2328	失	失	ʃɐt5	ʃɐt5	sat1	P115		
-2329	室	室	ʃɐt5	ʃɐt5	sat1	P115		
-2330	實	实	ʃɐt2	ʃɐt2	sat6	P115		
-2331	吉	吉	kɐt5	kɐt5	gat1	P115		
-2332	橘	橘	kɐt5	kɐt5	gat1	P115		
-2333	咳	咳	kʰɐt5	kʰɐt5	kat1	P115		
-2334	乞	乞	hɐt5	hɐt5	hat1	P115		
-2335	亥	亥	hɔi22	hɔi22	hoi6	P115		原文誤作[hɐt2]
-2336	轄	辖	hɐt2	hɐt2	hat6	P115		
-2337	核	核	hɐt2	hɐt2	hat6	P115		
-2338	覈	核	hɐt2	hɐt2	hat6	P115	審～	
-2339	北	北	pɐk5	pɐk5	bak1	P115		
-2340	嘜	唛	mɐk5	mɐk5	mak1	P115	米～：米筒	原文有音無字
-2341	墨	墨	mɐk2	mɐk2	mak6	P115		
-2342	麥	麦	mɐk2	mɐk2	mak6	P115		
-2343	脈	脉	mɐk2	mɐk2	mak6	P115		
-2344	德	德	tɐk5	tɐk5	dak1	P116		
-2345	特	特	tɐk2	tɐk2	dak6	P116		
-2346	肋	肋	lɐk2	lɐk2	lak6	P116		
-2347	塞	塞	ɬɐk5	ɬɐk5	slak1	P116	阻～	
-2348	則	则	tʃɐk5	tʃɐk5	zak1	P116		
-2349	鯽	鲫	tʃɐk5	tʃɐk5	zak1	P116		
-2350	側	侧	tʃɐk5	tʃɐk5	zak1	P116		
-2351	測	测	tʃʰɐk5	tʃʰɐk5	cak1	P116		
-2352	賊	贼	tʃʰɐk2	tʃʰɐk2	cak6	P116		
-2353	刻	刻	kʰɐk5	kʰɐk5	kak1	P116	時～	
-2354	握	握	ŋɐk5	ŋɐk5	ngak1	P116		
-2355	軛	轭	ŋɐk5	ŋɐk5	ngak1	P116		
-2356	眲	眲	ŋɐk5	ŋɐk5	ngak1	P116	騙	原文有音無字
-2357	克	克	hɐk5	hɐk5	hak1	P116		
-2358	黑	黑	hɐk5	hɐk5	hak1	P116	黑白；滅	「滅」義原文有音無字，誤作[hɔk5]，應是「黑燈」的「黑」
-2359	嗒	嗒	tɛp5	tɛp5	dep1	P116	親	原文有音無字
-2360	鑷	镊	nɛp2	nɛp2	nep6	P116	鑷子	
-2361	𤗈	𤗈	ɬɛp3	ɬɛp3	slep3	P116	木～	原文作「屑」字
-2362	霅	霅	ɬɛp3	ɬɛp3	slep3	P116	哭～～：抽泣	原文有音無字。應作陽入
-2363	八	八	pɛt3	pɛt3	bet3	P116		
-2364	篾	篾	mɛt2	mɛt2	met6	P116		
-2365	逼	逼	pek5	pek5	bik1	P116		原文誤作[pɛk5]
-2366	碧	碧	pek5	pek5	bik1	P116		原文誤作[pɛk5]
-2367	璧	璧	pek5	pek5	bik1	P116		原文誤作[pɛk5]
-2368	壁	壁	pek5	pek5	bik1	P116		原文誤作[pɛk5]
-2369	闢	辟	pʰek5	pʰek5	pik1	P116		原文誤作[phɛk5]
-2370	辟	辟	pʰek5	pʰek5	pik1	P116		原文誤作[phɛk5]
-2371	劈	劈	pʰɛk3	pʰɛk3	pek3	P116		
-2372	擘	擘	mek5	mek5	mik1	P116	～菜：擇菜；「掰、剝」的意思；捻的意思	原文有音無字，誤作[mɛk5]
-2373	覓	觅	mek2	mek2	mik6	P116		原文誤作[mɛk2]
-2374	的	的	tek5	tek5	dik1	P116	目～	原文誤作[tɛk5]
-2375	滴	滴	tek5	tek5	dik1	P116		原文誤作[tɛk5]
-2376	趯	趯	tɛk3	tɛk3	dek3	P116	跑的意思	原文有音無字
-2377	笛	笛	tek2	tek2	dik6	P116		原文誤作[tɛk2]
-2378	敵	敌	tek2	tek2	dik6	P116		原文誤作[tɛk2]
-2379	踢	踢	tʰɛk3	tʰɛk3	tek3	P116		
-2380	叻	叻	lɛk5	lɛk5	lek1	P116	聰明	原文有音無字
-2381	力	力	lek2	lek2	lik6	P116		原文誤作[lɛk2]
-2382	歷	历	lek2	lek2	lik6	P116		原文誤作[lɛk2]
-2383	曆	历	lek2	lek2	lik6	P116		原文誤作[lɛk2]
-2384	息	息	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
-2385	惜	惜	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
-2386	釋	释	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
-2387	析	析	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
-2388	即	即	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
-2389	織	织	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
-2390	職	职	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
-2391	積	积	tʃek5	tʃek5	zik1	P116	面積；「J」的意思	
-2392	績	绩	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
-2393	直	直	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk3]
-2394	值	值	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk3]
-2395	脊	脊	tʃɛk3	tʃɛk3	zek3	P116		
-2396	隻	只	tʃɛk3	tʃɛk3	zek3	P116		
-2397	蟄	蛰	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2398	植	植	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2399	籍	籍	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2400	席	席	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2401	炙	炙	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2402	寂	寂	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2403	赤	赤	tʃʰek5	tʃʰek5	cik1	P116		原文誤作[tʃhɛk5]
-2404	戚	戚	tʃʰek5	tʃʰek5	cik1	P116		原文誤作[tʃhɛk5]
-2405	尺	尺	tʃʰɛk3	tʃʰɛk3	cek3	P116		
-2406	色	色	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
-2407	識	识	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
-2408	式	式	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
-2409	適	适	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
-2410	勺	勺	ʃɛk2	ʃɛk2	sek6	P116		
-2411	食	食	ʃek2	ʃek2	sik6	P116		原文誤作[ʃɛk2]
-2412	石	石	ʃɛk2	ʃɛk2	sek6	P116		
-2413	戟	戟	kek5	kek5	gik1	P116		原文誤作[kɛk5]
-2414	劇	剧	kek5	kek5	gik1	P116		「劇烈」訓讀「激烈」，原文誤作[kɛk5]
-2415	擊	击	kek5	kek5	gik1	P116		原文誤作[kɛk5]
-2416	極	极	kek2	kek2	gik6	P116		原文誤作[kɛk2]
-2417	屐	屐	kʰɛk5	kʰɛk5	kek1	P116		
-2418	激	激	kek5	kek5	gik1	P116	生氣	原文誤作[khɛk5]
-2419	級	级	kʰɛk5	kʰɛk5	kek1	P116	樓梯～：臺階	原文有音無字，記音疑誤
-2420	逆	逆	ŋek2	ŋek2	ngik6	P116	～風	原文誤作[ŋɛk2]
-2421	喫	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
-2422	吃	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
-2423	碟	碟	tip2	tip2	dip6	P116		
-2424	蝶	蝶	tip2	tip2	dip6	P116		
-2425	帖	帖	tʰip3	tʰip3	tip3	P116		
-2426	孽	孽	nip2	nip2	nip6	P116		原文誤作[nip3]
-2427	聶	聂	nip2	nip2	nip6	P116	姓	
-2428	業	业	nip2	nip2	nip6	P116		
-2429	獵	猎	lip2	lip2	lip6	P116		原文誤作[lip3]
-2430	接	接	tʃip3	tʃip3	zip3	P116		
-2431	摺	折	tʃip3	tʃip3	zip3	P116		
-2432	攝	摄	ʃip3	ʃip3	sip3	P116		
-2433	涉	涉	ʃip3	ʃip3	sip3	P116		
-2434	劫	劫	kip3	kip3	gip3	P116		
-2435	怯	怯	hip3	hip3	hip3	P116		
-2436	脅	胁	hip3	hip3	hip3	P116		
-2437	協	协	hip3	hip3	hip3	P116		
-2438	醃	腌	∅ip3	jip3	jip3	P116		
-2439	腌	腌	∅ip3	jip3	jip3	P116		
-2440	葉	叶	∅ip2	jip2	jip6	P116		
-2441	頁	页	∅ip2	jip2	jip6	P116		
-2442	啄	啄	tœk3	tœk3	doek3	P116		
-2443	虐	虐	nœk2	nœk2	noek6	P116		
-2444	略	略	lœk3	lœk3	loek3	P116		
-2445	掠	掠	lœk3	lœk3	loek3	P116		
-2446	削	削	ɬœk3	ɬœk3	sloek3	P116		
-2447	嚼	嚼	tʃœk3	tʃœk3	zoek3	P116		
-2448	着	着	tʃœk3	tʃœk3	zoek3	P116	～衣	
-2449	酌	酌	tʃœk3	tʃœk3	zoek3	P116		
-2450	桌	桌	tʃœk3	tʃœk3	zoek3	P116		
-2451	着	着	tʃœk2	tʃœk2	zoek6	P116	睡～	
-2452	雀	雀	tʃʰœk3	tʃʰœk3	coek3	P116		
-2453	鵲	鹊	tʃʰœk3	tʃʰœk3	coek3	P116		
-2454	腳	脚	kœk3	kœk3	goek3	P116		
-2455	卻	却	kʰœk3	kʰœk3	koek3	P116		
-2456	覺	觉	kʰœk3	kʰœk3	koek3	P116	知覺	
-2457	噦	哕	∅œk2	∅œk2	oek6	P116	乾噦	
-2458	入	入	∅iɐp2	jɐp2	jap6	P116		
-2459	割	割	kɔt3	kɔt3	got3	P116		
-2460	喝	喝	hɔt3	hɔt3	hot3	P116	喝酒	
-2461	渴	渴	hɔt3	hɔt3	hot3	P116		
-2462	豁	豁	hɔt2	hɔt2	hot6	P116	豁然	
-2463	劇	剧	kʰɛk2	kʰɛk2	kek6	P116	戲劇	原文誤作[khek2]
-2464	博	博	pɔk3	pɔk3	bok3	P116		
-2465	縛	缚	pɔk3	pɔk3	bok3	P116		
-2466	剝	剥	pɔk3	pɔk3	bok3	P116		
-2467	薄	薄	pɔk2	pɔk2	bok6	P116		
-2468	卜	卜	pʰuk5	pʰʊk5	puk1	P116		原文誤作[phɔk5]
-2469	朴	朴	pʰɔk3	pʰɔk3	pok3	P116		
-2470	樸	朴	pʰɔk3	pʰɔk3	pok3	P116		
-2471	撲	扑	pʰɔk3	pʰɔk3	pok3	P116		
-2472	僕	仆	pʰuk2	pʰʊk2	puk6	P116		原文誤作[phɔk2]
-2473	莫	莫	mɔk2	mɔk2	mok6	P116	約～	
-2474	膜	膜	mɔk2	mɔk2	mok6	P116		
-2475	幕	幕	mɔk2	mɔk2	mok6	P116		
-2476	寞	寞	mɔk2	mɔk2	mok6	P116		
-2477	陌	陌	mɐk2	mɐk2	mak6	P116		原文誤作[mɔk2]
-2478	戳	戳	tʃʰɔk3	tʃʰɔk3	cok3	P116		原文誤作[tɔk3]
-2479	鐸	铎	tɔk2	tɔk2	dok6	P116		
-2480	託	托	tʰɔk3	tʰɔk3	tok3	P116		
-2481	托	托	tʰɔk3	tʰɔk3	tok3	P116		
-2482	諾	诺	nɔk3	nɔk3	nok3	P116		
-2483	洛	洛	lɔk3	lɔk3	lok3	P116		
-2484	落	落	lɔk2	lɔk2	lok6	P116		
-2485	樂	乐	lɔk2	lɔk2	lok6	P116		
-2486	塑	塑	ɬɔk3	ɬɔk3	slok3	P116		
-2487	索	索	ɬɔk3	ɬɔk3	slok3	P116		
-2488	朔	朔	ɬɔk3	ɬɔk3	slok3	P116		
-2489	作	作	tʃɔk3	tʃɔk3	zok3	P116		
-2490	鑿	凿	tʃɔk2	tʃɔk2	zok6	P116		
-2491	綽	绰	tʃʰɔk3	tʃʰɔk3	cok3	P116		
-2492	角	角	kɔk3	kɔk3	gok3	P116		
-2493	國	国	kɔk3	kɔk3	gok3	P116		
-2494	各	各	kɔk2	kɔk2	gok6	P116		
-2495	郭	郭	kʰɔk3	kʰɔk3	kok3	P116		
-2496	廓	廓	kʰɔk3	kʰɔk3	kok3	P116		
-2497	藿	藿	kʰɔk3	kʰɔk3	kok3	P116		
-2498	確	确	kʰɔk3	kʰɔk3	kok3	P116		原文誤作[khɔk2]
-2499	鄂	鄂	ŋɔk2	ŋɔk2	ngok6	P116		
-2500	嶽	岳	ŋɔk2	ŋɔk2	ngok6	P116		
-2501	岳	岳	ŋɔk2	ŋɔk2	ngok6	P116		
-2502	哭	哭	huk5	hʊk5	huk1	P116		原文誤作[hɔk5]
-2503	殼	壳	hɔk3	hɔk3	hok3	P116		
-2504	鶴	鹤	hɔk2	hɔk2	hok6	P116		
-2505	學	学	hɔk2	hɔk2	hok6	P116		
-2506	屋	屋	∅uk5	∅ʊk5	uk1	P116		原文誤作[hɔk5]
-2507	惡	恶	∅ɔk3	∅ɔk3	ok3	P116		
-2508	鱉	鳖	pit3	pit3	bit3	P117		
-2509	鼈	鳖	pit3	pit3	bit3	P117		
-2510	別	别	pit2	pit2	bit6	P117	區～；離～	
-2511	撇	撇	pʰit3	pʰit3	pit3	P117		
-2512	匿	匿	nek2	nek2	nik6	P117		原文誤作[mit2]
-2513	滅	灭	mit2	mit2	mit6	P117		
-2514	跌	跌	tit3	tit3	dit3	P117		原文誤作[tit2]
-2515	鐵	铁	tʰit3	tʰit3	tit3	P117		
-2516	列	列	lit2	lit2	lit6	P117		原文誤作[lit3]
-2517	裂	裂	lit2	lit2	lit6	P117		原文誤作[lit3]
-2518	劣	劣	lit2	lit2	lit6	P117		
-2519	哲	哲	tʃit3	tʃit3	zit3	P117		
-2520	折	折	tʃit3	tʃit3	zit3	P117	～斷	
-2521	浙	浙	tʃit3	tʃit3	zit3	P117		
-2522	節	节	tʃit3	tʃit3	zit3	P117		
-2523	捷	捷	tʃit2	tʃit2	zit6	P117		
-2524	折	折	ʃit2	ʃit2	sit6	P117	弄～了	原文誤作[tʃit2]
-2525	截	截	tʃit2	tʃit2	zit6	P117		
-2526	絕	绝	tʃit2	tʃit2	zit6	P117		
-2527	撤	撤	tʃʰit3	tʃʰit3	cit3	P117		
-2528	設	设	tʃʰit3	tʃʰit3	cit3	P117		
-2529	妾	妾	tʃʰip3	tʃʰip3	cip3	P117		原文誤作[tʃhit2]
-2530	切	切	tʃʰit3	tʃʰit3	cit3	P117		原文誤作[tʃhit2]
-2531	舌	舌	ʃit2	ʃit2	sit6	P117		
-2532	傑	杰	kit2	kit2	git6	P117		
-2533	杰	杰	kit2	kit2	git6	P117		
-2534	結	结	kit3	kit3	git3	P117		原文誤作[kit2]
-2535	揭	揭	kʰit3	kʰit3	kit3	P117		
-2536	乙	乙	∅it3	jit3	jit3	P117		
-2537	熱	热	∅it2	jit2	jit6	P117		
-2538	木	木	muk2	mʊk2	muk6	P117		
-2539	目	目	muk2	mʊk2	muk6	P117		
-2540	督	督	tuk5	tʊk5	duk1	P117		
-2541	獨	独	tuk2	tʊk2	duk6	P117		
-2542	讀	读	tuk2	tʊk2	duk6	P117		
-2543	毒	毒	tuk2	tʊk2	duk6	P117		
-2544	鹿	鹿	luk2	lʊk2	luk6	P117		
-2545	六	六	luk2	lʊk2	luk6	P117		
-2546	綠	绿	luk2	lʊk2	luk6	P117		
-2547	錄	录	luk2	lʊk2	luk6	P117		
-2548	肅	肃	ɬuk5	ɬʊk5	sluk1	P117		
-2549	宿	宿	ɬuk5	ɬʊk5	sluk1	P117		原文重複記音[ɬuk/ɬok5]
-2550	竹	竹	tʃuk5	tʃʊk5	zuk1	P117		
-2551	燭	烛	tʃuk5	tʃʊk5	zuk1	P117		
-2552	續	续	tʃuk2	tʃʊk2	zuk6	P117		原文有作[tʃok2]，不符原文音系符號
-2553	族	族	tʃuk2	tʃʊk2	zuk6	P117		
-2554	軸	轴	tʃuk2	tʃʊk2	zuk6	P117		
-2555	速	速	tʃʰuk5	tʃʰʊk5	cuk1	P117		
-2556	促	促	tʃʰuk5	tʃʰʊk5	cuk1	P117		
-2557	觸	触	tʃʰuk5	tʃʰʊk5	cuk1	P117		
-2558	束	束	tʃʰuk5	tʃʰʊk5	cuk1	P117		
-2559	縮	缩	ʃuk5	ʃʊk5	suk1	P117		
-2560	叔	叔	ʃuk5	ʃʊk5	suk1	P117		
-2561	熟	熟	ʃuk2	ʃʊk2	suk6	P117		
-2562	俗	俗	ʃuk2	ʃʊk2	suk6	P117		
-2563	贖	赎	ʃuk2	ʃʊk2	suk6	P117		
-2564	屬	属	ʃuk2	ʃʊk2	suk6	P117		
-2565	谷	谷	kuk5	kʊk5	guk1	P117		
-2566	穀	谷	kuk5	kʊk5	guk1	P117		
-2567	菊	菊	kuk5	kʊk5	guk1	P117		
-2568	局	局	kuk2	kʊk2	guk6	P117		
-2569	窟	窟	khuk5	kʰʊk5	kuk1	P117		原文如此，疑誤
-2570	曲	曲	kʰuk5	kʰʊk5	kuk1	P117	1～折；2歌～	
-2571	麯	曲	kʰuk5	kʰʊk5	kuk1	P117		
-2572	麴	曲	kʰuk5	kʰʊk5	kuk1	P117		
-2573	玉	玉	∅iuk2	jʊk2	juk6	P117	～林	
-2574	獄	狱	∅iuk2	jʊk2	juk6	P117		
-2575	欲	欲	∅iuk2	jʊk2	juk6	P109，117		原文P109誤作[∅y22]
-2576	慾	欲	∅iuk2	jʊk2	juk6	P109，117		原文P109誤作[∅y22]
-2577	浴	浴	∅iuk2	jʊk2	juk6	P117		
-2578	鉢	钵	put3	put3	but3	P117		
-2579	缽	钵	put3	put3	but3	P117		
-2580	勃	勃	put2	put2	but6	P117		
-2581	潑	泼	pʰut3	pʰut3	put3	P117		
-2582	末	末	mut2	mut2	mut6	P117		
-2583	沒	没	mut2	mut2	mut6	P117	1沉～；2～有	
-2584	闊	阔	fut3	fut3	fut3	P117		原文誤作[fut2]
-2585	活	活	∅ut2	wut2	wut6	P117		
-2586	剝	剥	pʰuk5	pʰʊk5	puk1	P117	打開	原文有音無字，作[phok5]
-2587	摸	摸	muk5	mʊk5	muk1	P117	掏的意思	原文有音無字，誤作[mok3]
-2588	复	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
-2589	復	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
-2590	福	福	fuk5	fʊk5	fuk1	P117		原文作[fok5]
-2591	複	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
-2592	服	服	fuk2	fʊk2	fuk6	P117		原文作[fok2]
-2593	伏	伏	fuk2	fʊk2	fuk6	P117		原文作[fok2]
-2594	𧰵	𧰵	tuk5	tʊk5	duk1	P117	戳的意思	原文有音無字，作[tok5]
-2595	熝	熝	lʊk5	lʊk5	luk1	P117	燙	原文有音無字，誤作[lok2]，釋義誤作「湯」
-2596	粟	粟	ɬuk5	ɬʊk5	sluk1	P117		原文作[ɬok5]
-2597	粥	粥	tʃuk5	tʃʊk5	zuk1	P117		原文作[tʃok5]
-2598	足	足	tʃuk5	tʃʊk5	zuk1	P117		原文作[tʃok5]
-2599	捉	捉	tʃɔk3	tʃɔk3	zok3	P117		原文誤作[tʃok3]
-2600	濁	浊	tʃuk2	tʃʊk2	zuk6	P117		原文作[tʃok2]
-2601	畜	畜	tʃʰuk5	tʃʰʊk5	cuk1	P117	六～	原文作[tʃhok5]
-2602	奪	夺	tyt2	tyt2	dyut6	P117		
-2603	脫	脱	tʰyt3	tʰyt3	tyut3	P117		原文誤作[thyt2]
-2604	捋	捋	lyt3	lyt3	lyut3	P117		
-2605	薛	薛	ɬyt3	ɬyt3	slyut3	P117		
-2606	雪	雪	ɬyt3	ɬyt3	slyut3	P117		
-2607	出	出	tʃʰyt5	tʃʰyt5	cyut1	P117		
-2608	恤	恤	ɬyt5	ɬyt5	slyut1	P117		原文誤作[ʃyt5]
-2609	說	说	ʃyt3	ʃyt3	syut3	P117		原文誤作[ʃyt2]
-2610	決	决	kʰyt3	kʰyt3	kyut3	P117		
-2611	缺	缺	kʰyt3	kʰyt3	kyut3	P117		
-2612	歇	歇	hyt3	hyt3	hyut3	P117		
-2613	血	血	hyt3	hyt3	hyut3	P117		
-2614	閱	阅	∅yt2	jyt2	jyut6	P117		
-2615	月	月	∅yt2	jyt2	jyut6	P117		
-2616	越	越	∅yt2	jyt2	jyut6	P117		
-2617	粵	粤	∅yt2	jyt2	jyut6	P117		
-2618	穴	穴	∅yt2	jyt2	jyut6	P117		
-2619	約	约	∅iœk3	jœk3	joek3	P117		
-2620	弱	弱	∅iœk2	jœk2	joek6	P117		
-2621	藥	药	∅iœk2	jœk2	joek6	P117		
-2622	一	一	∅iɐt5	jɐt5	jat1	P117		
-2623	日	日	∅iɐt2	jɐt2	jat6	P117	～子	
-2624	逸	逸	∅iɐt2	jɐt2	jat6	P117		
-2625	郁	郁	∅iuk5	jʊk5	juk1	P117		原文作[∅iok5]
-2626	育	育	∅iuk5	jʊk5	juk1	P117		原文作[∅iok5]
-2627	逳	逳	∅iuk5	jʊk5	juk1	P117	動彈	原文有音無字，作[∅iok5]
-2628	肉	肉	∅iuk2	jʊk2	juk6	P117		原文作[∅iok2]
-2629	辱	辱	∅iuk2	jʊk2	juk6	P117		原文作[∅iok2]
-2630	括	括	kuat3	kʷat3	gwaat3	P117	包括	
-2631	刮	刮	kuat3	kʷat3	gwaat3	P117		
-2632	挖	挖	∅uat3	wat3	waat3	P117		原文誤作[∅uat5]
-2633	滑	滑	∅uat2	wat2	waat6	P117		
-2634	或	或	∅uak2	wak2	waak6	P117		
-2635	獲	获	∅uak2	wak2	waak6	P117		
-2636	穫	获	∅uak2	wak2	waak6	P117		
-2637	劃	划	∅uak2	wak2	waak6	P117		
-2638	卒	卒	tʃɐt5	tʃɐt5	zat1	P117	兵～	原文作[tʃuɐt5]
-2639	猝	猝	tʃɐt5	tʃɐt5	zat1	P117	倉～	原文作[tʃuɐt5]
-2640	朮	术	ʃɐt2	ʃɐt2	sat6	P117	白～	原文作[ʃuɐt2]
-2641	術	术	ʃɐt2	ʃɐt2	sat6	P117		原文作[ʃuɐt2]
-2642	骨	骨	kuɐt5	kʷɐt5	gwat1	P117	筋～；～頭	
-2643	掘	掘	kuɐt2	kʷɐt2	gwat6	P117		
-2644	屈	屈	∅uɐt5	wɐt5	wat1	P117		
-2645	爩	爩	∅uɐt5	wɐt5	wat1	P117	燻	原文作「熏」字
-2646	煀	煀	∅uɐt5	wɐt5	wat1	P117	燻	原文作「熏」字
-2647	核	核	∅uɐt2	wɐt2	wat6	P117	果子～	
-2648	憶	忆	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
-2649	億	亿	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
-2650	益	益	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
-2651	翼	翼	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
-2652	譯	译	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
-2653	易	易	∅iek2	jek2	jik6	P117	交～	原文誤作[∅iɛk2]
-2654	疫	疫	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
-2655	刮	刮	kuɛt3	kʷɛt3	gwet3	P117		
-2656	滑	滑	∅uɛt2	wɛt2	wet6	P117		
-2657	挖	挖	∅uɛt3	wɛt3	wet3	P117		原文誤作[∅uɛt2]
-2658	鑊	镬	∅uɔk2	wɔk2	wok6	P118	鍋	原文誤作[∅uɔk5]
-2659	沃	沃	∅uɔk3	wɔk3	wok3	P118		
-2660	銳	锐	∅iui24	jui24	jui5	P118		
-2661	瑞	瑞	ʃui22	ʃui22	sui6	P118		原文誤作[∅iui22]
-2662	拾	拾	tʃɐp5	tʃɐp5	zap1	P115	～起來	
-2663	痲	痲	ma21	ma21	maa4	P109		原文作「麻」字
-2664	畬	畬	ʃɛ55	ʃɛ55	se1	P109		原文作「畲」字
-2665	稜	棱	lɐŋ55	lɐŋ55	lang1	P113	在皮膚上抓出的痕跡	原文有音無字
-2666	瀰	弥	mɛ21	mɛ21	me4	P109	乳房	原文有音無字
-2667	㞞	𪨊	ɬuŋ21	ɬʊŋ21	slung4	P115		原文誤作「慫」字，而[ɬuŋ21]應該對應「㞞」字
-2668	癒	愈	∅y22	jy22	jyu6	P109		原文誤作[∅y21]
-2669	嚐	尝	ʃœŋ21	ʃœŋ21	soeng4	P114		
-2670	棯	棯	nim55	nim55	nim1	P111		原文作「捻」字
-2671	惠	惠	∅ui22	wui22	wui6	P110		原文誤作[∅ui21]
-2672	著	著	tʃœk3	tʃœk3	zoek3	P116	～衣	原文作「着」字
-2673	著	著	tʃœk2	tʃœk2	zoek6	P116	睡～	原文作「着」字
-2674	棕	棕	tʃuŋ55	tʃʊŋ55	zung1	P115		
-2675	掰	掰	mek5	mek5	mik1	P116	～菜：擇菜；「掰、剝」的意思；捻的意思	原文有音無字，誤作[mɛk5]
-2676	閒	闲	han21	han21	haan4	P112	〔文讀〕	
-2677	閒	闲	hɛn21	hɛn21	hen4	P113	〔白讀〕	
-2678	舔	舔	lɛm35	lɛm35	lem2	P113		原文作「舐」字
-2679	坅	坅	hɐm35	hɐm35	ham2	P113		原文作「埯」字，誤作[haŋ33]，本字「坅」
-2680	鈀	钯	pʰa21	pʰa21	paa4	P109		原文誤作[pha22]，原文作「耙」字
+1160	先	先	lin55	lin55	lin1	P111	先	原文有音無字。標音誤作[lim55]，釋義誤作「焉」
+1161	簾	帘	lim21	lim21	lim4	P111		
+1162	斂	敛	lim35	lim35	lim2	P111		
+1163	殮	殓	lim35	lim35	lim2	P111		
+1164	尖	尖	tʃim55	tʃim55	zim1	P111		
+1165	沾	沾	tʃim55	tʃim55	zim1	P111		
+1166	佔	占	tʃim33	tʃim33	zim3	P111		
+1167	漸	渐	tʃim22	tʃim22	zim6	P111		
+1168	殲	歼	tʃʰim55	tʃʰim55	cim1	P111	殲滅	
+1169	籤	签	tʃʰim55	tʃʰim55	cim1	P111		
+1170	簽	签	tʃʰim55	tʃʰim55	cim1	P111		
+1171	遷	迁	tʃʰim55	tʃʰim55	cim1	P111		
+1172	箋	笺	tʃʰim55	tʃʰim55	cim1	P111		
+1173	閃	闪	ʃim35	ʃim35	sim2	P111		
+1174	兼	兼	kim55	kim55	gim1	P111		
+1175	檢	检	kim35	kim35	gim2	P111		
+1176	劍	剑	kim33	kim33	gim3	P111		
+1177	儉	俭	kim22	kim22	gim6	P111		
+1178	謙	谦	him55	him55	him1	P111		
+1179	險	险	him35	him35	him2	P111		
+1180	欠	欠	him33	him33	him3	P111		
+1181	歉	歉	him33	him33	him3	P111		
+1182	淹	淹	∅im55	jim55	jim1	P111		
+1183	閹	阉	∅im55	jim55	jim1	P111		
+1184	炎	炎	∅im21	jim21	jim4	P111		
+1185	鹽	盐	∅im21	jim21	jim4	P111		
+1186	閻	阎	∅im21	jim21	jim4	P111		
+1187	嚴	严	∅im21	jim21	jim4	P111		
+1188	嫌	嫌	∅im21	jim21	jim4	P111		
+1189	掩	掩	∅im35	jim35	jim2	P111		
+1190	演	演	∅im35	jim35	jim2	P111		
+1191	染	染	∅im24	jim24	jim5	P111		
+1192	厭	厌	∅im33	jim33	jim3	P111		
+1193	檐	檐	∅im21	jim21	jim4	P111		原文誤作[∅im22]
+1194	簷	檐	∅im21	jim21	jim4	P111		原文誤作[∅im22]
+1195	邊	边	pin55	pin55	bin1	P111		
+1196	辮	辫	pin55	pin55	bin1	P111		
+1197	變	变	pin33	pin33	bin3	P111		
+1198	辨	辨	pin22	pin22	bin6	P111		
+1199	便	便	pin22	pin22	bin6	P111	方～	
+1200	編	编	pʰin55	pʰin55	pin1	P111		
+1201	篇	篇	pʰin55	pʰin55	pin1	P111		
+1202	蝙	蝙	pʰin55	pʰin55	pin1	P111		
+1203	便	便	pʰin21	pʰin21	pin4	P111	～宜	
+1204	騙	骗	pʰin33	pʰin33	pin3	P111		
+1205	遍	遍	pʰin33	pʰin33	pin3	P111		
+1206	片	片	pʰin33	pʰin33	pin3	P111		
+1207	棉	棉	min21	min21	min4	P111		
+1208	面	面	min22	min22	min6	P111		原文誤作[min21]
+1209	眠	眠	min21	min21	min4	P111		
+1210	免	免	min24	min24	min5	P111		原文誤作[min35]
+1211	麪	面	min22	min22	min6	P111		
+1212	麵	面	min22	min22	min6	P111		
+1213	顛	颠	tin55	tin55	din1	P111		
+1214	電	电	tin22	tin22	din6	P111		
+1215	殿	殿	tin22	tin22	din6	P111		
+1216	臀	臀	tin22	tin22	din6	P111		
+1217	天	天	tʰin55	tʰin55	tin1	P111		
+1218	田	田	tʰin21	tʰin21	tin4	P111		
+1219	填	填	tʰin21	tʰin21	tin4	P111		
+1220	年	年	nin21	nin21	nin4	P111		
+1221	連	连	lin21	lin21	lin4	P111		
+1222	憐	怜	lin21	lin21	lin4	P111		
+1223	蓮	莲	lin21	lin21	lin4	P111		原文誤作[lin22]
+1224	練	练	lin22	lin22	lin6	P111		
+1225	楝	楝	lin22	lin22	lin6	P111		
+1226	摙	摙	lin33	lin33	lin3	P111	打滾	原文有音無字
+1227	仙	仙	ɬin55	ɬin55	slin1	P111		
+1228	鮮	鲜	ɬin55	ɬin55	slin1	P111	新～	
+1229	軒	轩	hin55	hin55	hin1	P111		原文誤作[ɬin55]
+1230	先	先	ɬin55	ɬin55	slin1	P111		
+1231	癬	癣	ɬin35	ɬin35	slin2	P111		
+1232	線	线	ɬin33	ɬin33	slin3	P111		
+1233	綫	线	ɬin33	ɬin33	slin3	P111		
+1234	煎	煎	tʃin55	tʃin55	zin1	P111		
+1235	剪	剪	tʃin35	tʃin35	zin2	P111		
+1236	展	展	tʃin35	tʃin35	zin2	P111		
+1237	箭	箭	tʃin33	tʃin33	zin3	P111		
+1238	戰	战	tʃin33	tʃin33	zin3	P111		
+1239	薦	荐	tʃin33	tʃin33	zin3	P111		
+1240	賤	贱	tʃin22	tʃin22	zin6	P111		
+1241	千	千	tʃʰin55	tʃʰin55	cin1	P111		
+1242	錢	钱	tʃʰin21	tʃʰin21	cin4	P111		
+1243	前	前	tʃʰin21	tʃʰin21	cin4	P111		
+1244	淺	浅	tʃʰin35	tʃʰin35	cin2	P111		
+1245	賢	贤	∅in21	jin21	jin4	P111		原文誤作[ʃin21]
+1246	羨	羡	ʃin33	ʃin33	sin3	P111		
+1247	羡	羡	ʃin33	ʃin33	sin3	P111		
+1248	搧	搧	ʃin33	ʃin33	sin3	P111		
+1249	扇	扇	ʃin33	ʃin33	sin3	P111		
+1250	善	善	ʃin22	ʃin22	sin6	P111		
+1251	堅	坚	kin55	kin55	gin1	P111		
+1252	筧	笕	kin35	kin35	gin2	P111		
+1253	建	建	kin33	kin33	gin3	P111		
+1254	見	见	kin33	kin33	gin3	P111		
+1255	件	件	kin22	kin22	gin6	P111		
+1256	鍵	键	kin22	kin22	gin6	P111		
+1257	健	健	kin22	kin22	gin6	P111		
+1258	掀	掀	hin55	hin55	hin1	P111		
+1259	牽	牵	hin55	hin55	hin1	P111		
+1260	遣	遣	hin35	hin35	hin2	P111		
+1261	顯	显	hin35	hin35	hin2	P111		
+1262	憲	宪	hin33	hin33	hin3	P111		
+1263	蔫	蔫	∅in55	jin55	jin1	P111		
+1264	煙	烟	∅in55	jin55	jin1	P111		
+1265	菸	烟	∅in55	jin55	jin1	P111		
+1266	咽	咽	∅in55	jin55	jin1	P111		
+1267	然	然	∅in21	jin21	jin4	P111		
+1268	延	延	∅in21	jin21	jin4	P111		
+1269	言	言	∅in21	jin21	jin4	P111		
+1270	研	研	∅in21	jin21	jin4	P111		
+1271	豔	艳	∅in33	jin33	jin3	P111		
+1272	艷	艳	∅in33	jin33	jin3	P111		
+1273	堰	堰	∅in33	jin33	jin3	P111		
+1274	燕	燕	∅in33	jin33	jin3	P111		
+1275	宴	宴	∅in33	jin33	jin3	P111		
+1276	諺	谚	∅in22	jin22	jin6	P111		
+1277	硯	砚	∅in22	jin22	jin6	P111		
+1278	現	现	∅in22	jin22	jin6	P111		
+1279	搬	搬	pun55	pun55	bun1	P111		
+1280	本	本	pun35	pun35	bun2	P111		
+1281	半	半	pun33	pun33	bun3	P111		
+1282	伴	伴	pun22	pun22	bun6	P111		
+1283	潘	潘	pʰun55	pʰun55	pun1	P111		
+1284	盤	盘	pʰun21	pʰun21	pun4	P111		
+1285	盆	盆	pʰun21	pʰun21	pun4	P111		
+1286	判	判	pʰun33	pʰun33	pun3	P111		
+1287	叛	叛	pʰun33	pʰun33	pun3	P111		
+1288	門	门	mun21	mun21	mun4	P111		
+1289	瞞	瞒	mun21	mun21	mun4	P111		原文誤作[mun24]
+1290	滿	满	mun24	mun24	mun5	P111		
+1291	悶	闷	mun22	mun22	mun6	P111		
+1292	寬	宽	fun55	fun55	fun1	P111		
+1293	歡	欢	fun55	fun55	fun1	P111		
+1294	款	款	fun35	fun35	fun2	P111		
+1295	官	官	kun55	kun55	gun1	P112		
+1296	觀	观	kun55	kun55	gun1	P112	參～	
+1297	觀	观	kun33	kun33	gun3	P112	寺～	原文誤作[kun55]
+1298	管	管	kun35	kun35	gun2	P112		
+1299	貫	贯	kun33	kun33	gun3	P112		
+1300	罐	罐	kun33	kun33	gun3	P112		
+1301	換	换	∅un22	wun22	wun6	P112		原文誤作[∅un21]
+1302	碗	碗	∅un35	wun35	wun2	P112		
+1303	腕	腕	∅un35	wun35	wun2	P112		
+1304	煥	焕	∅un22	wun22	wun6	P112		
+1305	端	端	tyn55	tyn55	dyun1	P112		
+1306	短	短	tyn35	tyn35	dyun2	P112		
+1307	鍛	锻	tyn22	tyn22	dyun6	P112		
+1308	段	段	tyn22	tyn22	dyun6	P112		
+1309	團	团	tʰyn21	tʰyn21	tyun4	P112		
+1310	糰	团	tʰyn21	tʰyn21	tyun4	P112		
+1311	斷	断	tʰyn24	tʰyn24	tyun5	P112	決～；～絕	
+1312	暖	暖	nyn24	nyn24	nyun5	P112		原文誤作[nyn35]
+1313	嫩	嫩	nyn22	nyn22	nyun6	P112		
+1314	鸞	鸾	lyn21	lyn21	lyun4	P112		
+1315	亂	乱	lyn22	lyn22	lyun6	P112		原文誤作[lyn21]
+1316	戀	恋	lyn35	lyn35	lyun2	P112		
+1317	卵	卵	lyn24	lyn24	lyun5	P112		
+1318	酸	酸	ɬyn55	ɬyn55	slyun1	P112		
+1319	宣	宣	ɬyn55	ɬyn55	slyun1	P112		
+1320	喧	喧	ɬyn55	ɬyn55	slyun1	P112		
+1321	孫	孙	ɬyn55	ɬyn55	slyun1	P112		
+1322	選	选	ɬyn35	ɬyn35	slyun2	P112		
+1323	損	损	ɬyn35	ɬyn35	slyun2	P112		
+1324	筍	笋	ɬyn35	ɬyn35	slyun2	P112		
+1325	算	算	ɬyn33	ɬyn33	slyun3	P112		
+1326	蒜	蒜	ɬyn33	ɬyn33	slyun3	P112		
+1327	氈	毡	tʃyn55	tʃyn55	zyun1	P112		
+1328	鑽	钻	tʃyn55	tʃyn55	zyun1	P112	動詞	
+1329	專	专	tʃyn55	tʃyn55	zyun1	P112		
+1330	磚	砖	tʃyn55	tʃyn55	zyun1	P112		
+1331	尊	尊	tʃyn55	tʃyn55	zyun1	P112		
+1332	遵	遵	tʃyn55	tʃyn55	zyun1	P112		
+1333	轉	转	tʃyn35	tʃyn35	zyun2	P112	～送	
+1334	轉	转	tʃyn33	tʃyn33	zyun3	P112	～螺絲	原文誤作[tʃyn35]
+1335	鑽	钻	tʃyn33	tʃyn33	zyun3	P112	木工用具	
+1336	篆	篆	tʃyn22	tʃyn22	zyun6	P112		
+1337	川	川	tʃʰyn55	tʃʰyn55	cyun1	P112		
+1338	穿	穿	tʃʰyn55	tʃʰyn55	cyun1	P112		
+1339	村	村	tʃʰyn55	tʃʰyn55	cyun1	P112		
+1340	全	全	tʃʰyn21	tʃʰyn21	cyun4	P112		
+1341	傳	传	tʃʰyn21	tʃʰyn21	cyun4	P112	～達	
+1342	傳	传	tʃyn22	tʃyn22	zyun6	P112	～記	原文誤作[tʃhyn21]
+1343	存	存	tʃʰyn21	tʃʰyn21	cyun4	P112		
+1344	竄	窜	tʃʰyn33	tʃʰyn33	cyun3	P112		
+1345	篡	篡	tʃʰyn33	tʃʰyn33	cyun3	P112		
+1346	串	串	tʃʰyn33	tʃʰyn33	cyun3	P112		
+1347	寸	寸	tʃʰyn33	tʃʰyn33	cyun3	P112		
+1348	旋	旋	ʃyn21	ʃyn21	syun4	P112		
+1349	船	船	ʃyn21	ʃyn21	syun4	P112		
+1350	玄	玄	∅yn21	jyn21	jyun4	P112		原文誤作[ʃyn21]
+1351	絹	绢	kyn55	kyn55	gyun1	P112		
+1352	卷	卷	kyn35	kyn35	gyun2	P112		
+1353	捲	卷	kyn35	kyn35	gyun2	P112		
+1354	眷	眷	kyn33	kyn33	gyun3	P112		
+1355	券	券	kyn33	kyn33	gyun3	P112		
+1356	倦	倦	kyn22	kyn22	gyun6	P112		
+1357	捐	捐	kyn55	kyn55	gyun1	P112		
+1358	乾	乾	kʰyn21	kʰyn21	kyun4	P112	乾坤	
+1359	拳	拳	kʰyn21	kʰyn21	kyun4	P112		
+1360	權	权	kʰyn21	kʰyn21	kyun4	P112		
+1361	圈	圈	hyn55	hyn55	hyun1	P112		
+1362	勸	劝	hyn33	hyn33	hyun3	P112		
+1363	冤	冤	∅yn55	jyn55	jyun1	P112		
+1364	淵	渊	∅yn55	jyn55	jyun1	P112		
+1365	完	完	∅yn21	jyn21	jyun4	P112		
+1366	丸	丸	∅yn21	jyn21	jyun4	P112		
+1367	椽	椽	∅yn21	jyn21	jyun4	P112		
+1368	圓	圆	∅yn21	jyn21	jyun4	P112		
+1369	員	员	∅yn21	jyn21	jyun4	P112		
+1370	緣	缘	∅yn21	jyn21	jyun4	P112		
+1371	沿	沿	∅yn21	jyn21	jyun4	P112		
+1372	鉛	铅	∅yn21	jyn21	jyun4	P112		
+1373	元	元	∅yn21	jyn21	jyun4	P112		
+1374	原	原	∅yn21	jyn21	jyun4	P112		
+1375	願	愿	∅yn22	jyn22	jyun6	P112		原文誤作[∅yn21]
+1376	袁	袁	∅yn21	jyn21	jyun4	P112		
+1377	園	园	∅yn21	jyn21	jyun4	P112		
+1378	院	院	∅yn35	jyn35	jyun2	P112		
+1379	阮	阮	∅yn24	jyn24	jyun5	P112		原文誤作[∅yn35]
+1380	軟	软	∅yn24	jyn24	jyun5	P112		
+1381	遠	远	∅yn24	jyn24	jyun5	P112		
+1382	怨	怨	∅yn33	jyn33	jyun3	P112		
+1383	宛	宛	∅yn22	jyn22	jyun6	P112		
+1384	縣	县	∅yn22	jyn22	jyun6	P112		
+1385	耽	耽	tam55	tam55	daam1	P112		
+1386	鵮	鹐	tam55	tam55	daam1	P112	叼	原文有音無字
+1387	擔	担	tam55	tam55	daam1	P112	～任	
+1388	膽	胆	tam35	tam35	daam2	P112		
+1389	擔	担	tam33	tam33	daam3	P112	挑～	
+1390	貪	贪	tʰam55	tʰam55	taam1	P112		
+1391	譚	谭	tʰam21	tʰam21	taam4	P112		
+1392	談	谈	tʰam21	tʰam21	taam4	P112		
+1393	痰	痰	tʰam21	tʰam21	taam4	P112		
+1394	罈	坛	tʰam21	tʰam21	taam4	P112		
+1395	淡	淡	tʰam24	tʰam24	taam5	P112		原文誤作[tham35]
+1396	探	探	tʰam33	tʰam33	taam3	P112		
+1397	黮	黮	nɐm55	nɐm55	nam1	P112	～佬：鄉下人	原文有音無字，誤作[nam55]
+1398	南	南	nam21	nam21	naam4	P112		
+1399	藍	蓝	lam21	lam21	laam4	P112		
+1400	覽	览	lam35	lam35	laam2	P112		
+1401	纜	缆	lam24	lam24	laam5	P112		
+1402	三	三	ɬam55	ɬam55	slaam1	P112		
+1403	暫	暂	tʃam22	tʃam22	zaam6	P112		原文誤作[tʃam21]
+1404	斬	斩	tʃam35	tʃam35	zaam2	P112		
+1405	站	站	tʃam22	tʃam22	zaam6	P112	車～	
+1406	參	参	tʃʰam55	tʃʰam55	caam1	P112		
+1407	慘	惨	tʃʰam35	tʃʰam35	caam2	P112		
+1408	杉	杉	tʃʰam33	tʃʰam33	caam3	P112	杉樹；電燈～：電線杆	電線杆義原文有音無字，誤作[tʃhɐm33]
+1409	衫	衫	ʃam55	ʃam55	saam1	P112		
+1410	監	监	kam55	kam55	gaam1	P112		
+1411	感	感	kam35	kam35	gaam2	P112		
+1412	敢	敢	kam35	kam35	gaam2	P112		
+1413	減	减	kam35	kam35	gaam2	P112		
+1414	鑑	鉴	kam33	kam33	gaam3	P112		
+1415	艦	舰	lam22	lam22	laam6	P112		原文誤作[kam22]
+1416	勘	勘	kʰam55	kʰam55	kaam1	P112		
+1417	砍	砍	kʰam35	kʰam35	kaam2	P112		
+1418	巖	岩	ŋam21	ŋam21	ngaam4	P112		
+1419	岩	岩	ŋam21	ŋam21	ngaam4	P112		
+1420	函	函	ham21	ham21	haam4	P112		
+1421	鹹	咸	ham21	ham21	haam4	P112		
+1422	咸	咸	ham21	ham21	haam4	P112		
+1423	銜	衔	ham21	ham21	haam4	P112		
+1424	喊	喊	ham33	ham33	haam3	P112		
+1425	莧	苋	ham22	ham22	haam6	P112	～菜	
+1426	啱	啱	ŋam55	ŋam55	ngaam1	P112	～～：剛好	原文有音無字，誤作[∅am55]
+1427	班	班	pan55	pan55	baan1	P112		
+1428	辦	办	pan22	pan22	baan6	P112		原文誤作[pan21]
+1429	板	板	pan35	pan35	baan2	P112		
+1430	扮	扮	pan22	pan22	baan6	P112		
+1431	攀	攀	pʰan55	pʰan55	paan1	P112		
+1432	盼	盼	pʰan33	pʰan33	paan3	P112		
+1433	襻	襻	pʰan33	pʰan33	paan3	P112		
+1434	蠻	蛮	man21	man21	maan4	P112		
+1435	饅	馒	man21	man21	maan4	P112		
+1436	頑	顽	man21	man21	maan4	P112		
+1437	晚	晚	man24	man24	maan5	P112		
+1438	慢	慢	man22	man22	maan6	P112		
+1439	漫	漫	man22	man22	maan6	P112		
+1440	萬	万	man22	man22	maan6	P112		
+1441	藩	藩	fan55	fan55	faan1	P112		
+1442	番	番	fan55	fan55	faan1	P112	幾～	
+1443	帆	帆	fan21	fan21	faan4	P112		
+1444	煩	烦	fan21	fan21	faan4	P112		
+1445	繁	繁	fan21	fan21	faan4	P112		
+1446	反	反	fan35	fan35	faan2	P112		
+1447	泛	泛	fan33	fan33	faan3	P112		
+1448	範	范	fan33	fan33	faan3	P112		原文有誤作[fan55]
+1449	范	范	fan33	fan33	faan3	P112		原文有誤作[fan55]
+1450	販	贩	fan33	fan33	faan3	P112		
+1451	翻	翻	fan55	fan55	faan1	P112		原文誤作[fan33]
+1452	犯	犯	fan22	fan22	faan6	P112		
+1453	飯	饭	fan22	fan22	faan6	P112		
+1454	單	单	tan55	tan55	daan1	P112	～獨	
+1455	泹	泹	tan35	tan35	daan2	P112	焯	原文有音無字
+1456	旦	旦	tan33	tan33	daan3	P112		
+1457	誕	诞	tan33	tan33	daan3	P112		
+1458	彈	弹	tan22	tan22	daan6	P112	子～	
+1459	蛋	蛋	tan22	tan22	daan6	P112		
+1460	攤	摊	tʰan55	tʰan55	taan1	P112		
+1461	彈	弹	tʰan21	tʰan21	taan4	P112	～琴	
+1462	毯	毯	tʰan35	tʰan35	taan2	P112		
+1463	坦	坦	tʰan35	tʰan35	taan2	P112		
+1464	炭	炭	tʰan33	tʰan33	taan3	P112		
+1465	難	难	nan21	nan21	naan4	P112	～易	
+1466	難	难	nan22	nan22	naan6	P112	苦～	原文誤作[nan21]
+1467	攔	拦	lan21	lan21	laan4	P112		
+1468	欄	栏	lan21	lan21	laan4	P112		
+1469	爛	烂	lan22	lan22	laan6	P112		原文誤作[lan21]
+1470	懶	懒	lan24	lan24	laan5	P112		
+1471	濫	滥	lan22	lan22	laan6	P112		
+1472	散	散	ɬan35	ɬan35	slaan2	P112	鞋帶散了	
+1473	傘	伞	ɬan35	ɬan35	slaan2	P112		
+1474	散	散	ɬan33	ɬan33	slaan3	P112	分～	
+1475	饞	馋	tʃʰan21	tʃʰan21	caan4	P112		原文誤作[tʃan21]
+1476	殘	残	tʃʰan21	tʃʰan21	caan4	P112		原文誤作[tʃan21]
+1477	纏	缠	tʃʰin21	tʃʰin21	cin4	P112		原文誤作[tʃan21]
+1478	禪	禅	ʃin21	ʃin21	sin4	P112		原文誤作[tʃan21]
+1479	盞	盏	tʃan35	tʃan35	zaan2	P112		
+1480	棧	栈	tʃan35	tʃan35	zaan2	P112		
+1481	贊	赞	tʃan33	tʃan33	zaan3	P112		
+1482	讚	赞	tʃan33	tʃan33	zaan3	P112		
+1483	灒	𪷽	tʃan33	tʃan33	zaan3	P112		
+1484	賺	赚	tʃan22	tʃan22	zaan6	P112		
+1485	餐	餐	tʃʰan55	tʃʰan55	caan1	P112		
+1486	蠶	蚕	tʃʰan21	tʃʰan21	caan4	P112		
+1487	慚	惭	tʃʰan21	tʃʰan21	caan4	P112		
+1488	鏟	铲	tʃʰan35	tʃʰan35	caan2	P112		
+1489	產	产	tʃʰan35	tʃʰan35	caan2	P112		
+1490	燦	灿	tʃʰan33	tʃʰan33	caan3	P112		
+1491	顫	颤	tʃʰan33	tʃʰan33	caan3	P112		
+1492	山	山	ʃan55	ʃan55	saan1	P112		
+1493	刪	删	ʃan55	ʃan55	saan1	P112		
+1494	閂	闩	ʃan55	ʃan55	saan1	P112		
+1495	艱	艰	kan55	kan55	gaan1	P112		
+1496	間	间	kan55	kan55	gaan1	P112	〔文讀〕中～	原文誤作白讀
+1497	奸	奸	kan55	kan55	gaan1	P112		
+1498	姦	奸	kan55	kan55	gaan1	P112		
+1499	簡	简	kan35	kan35	gaan2	P112	〔文讀〕	原文誤作白讀
+1500	繭	茧	kan35	kan35	gaan2	P112		
+1501	揀	拣	kan35	kan35	gaan2	P112	〔文讀〕	原文誤作白讀，誤作[kan24]
+1502	間	间	kan33	kan33	gaan3	P112	～斷	
+1503	澗	涧	kan33	kan33	gaan3	P112		
+1504	顏	颜	ŋan21	ŋan21	ngaan4	P112		
+1505	雁	雁	ŋan22	ŋan22	ngaan6	P112		原文誤作[ŋan21]
+1506	眼	眼	ŋan24	ŋan24	ngaan5	P112		
+1507	閑	闲	han21	han21	haan4	P112	〔文讀〕	
+1508	限	限	han22	han22	haan6	P112		
+1509	晏	晏	∅an33	∅an33	aan3	P112		
+1510	鰥	鳏	kuan55	kʷan55	gwaan1	P112		
+1511	關	关	kuan55	kʷan55	gwaan1	P112		
+1512	慣	惯	kuan33	kʷan33	gwaan3	P112		
+1513	彎	弯	∅uan5	wan24	waan5	P112		
+1514	還	还	∅uan21	wan21	waan4	P112	～有；〔文讀〕～原	
+1515	環	环	∅uan21	wan21	waan4	P112		
+1516	宦	宦	∅uan22	wan22	waan6	P112		原文誤作[∅uan21]
+1517	玩	玩	∅uan35	wan35	waan2	P112	1古玩；2遊玩	
+1518	幻	幻	∅uan22	wan22	waan6	P112		
+1519	喃	喃	nam55	nam55	naam1	P112	～咇[pɛt2]咇[pɛt2]：嘮叨	原文有音無字，誤作[nɐm55 pɛ21 pɛ21]
+1520	林	林	lɐm21	lɐm21	lam4	P112		
+1521	臨	临	lɐm21	lɐm21	lam4	P112		
+1522	心	心	ɬɐm55	ɬɐm55	slam1	P112		
+1523	簪	簪	tʃam55	tʃam55	zaam1	P112		原文誤作[tʃɐm55]
+1524	陣	阵	tʃɐm22	tʃɐm22	zam6	P112	股	原文有音無字，誤作[tʃɐm55]
+1525	針	针	tʃɐm55	tʃɐm55	zam1	P112		
+1526	斟	斟	tʃɐm55	tʃɐm55	zam1	P112		
+1527	枕	枕	tʃɐm35	tʃɐm35	zam2	P112		
+1528	浸	浸	tʃɐm33	tʃɐm33	zam3	P112		
+1529	滲	渗	tʃɐm33	tʃɐm33	zam3	P112	水～透	訓讀「浸」
+1530	侵	侵	tʃʰɐm55	tʃʰɐm55	cam1	P112		
+1531	潛	潜	tʃʰɐm21	tʃʰɐm21	cam4	P112		
+1532	尋	寻	tʃʰɐm21	tʃʰɐm21	cam4	P112		
+1533	沉	沉	tʃʰɐm21	tʃʰɐm21	cam4	P112		
+1534	森	森	ʃɐm55	ʃɐm55	sam1	P112		
+1535	深	深	ʃɐm55	ʃɐm55	sam1	P112		
+1536	岑	岑	ʃɐm21	ʃɐm21	sam4	P112		
+1537	甚	甚	ʃɐm22	ʃɐm22	sam6	P112		原文誤作[ʃɐm21]
+1538	沈	沈	ʃɐm35	ʃɐm35	sam2	P112		
+1539	嬸	婶	ʃɐm35	ʃɐm35	sam2	P112		
+1540	甘	甘	kɐm55	kɐm55	gam1	P112		
+1541	金	金	kɐm55	kɐm55	gam1	P112		
+1542	錦	锦	kɐm35	kɐm35	gam2	P112		
+1543	禁	禁	kɐm33	kɐm33	gam3	P112	～不住；～止	
+1544	撳	揿	kɐm22	kɐm22	gam6	P112		
+1545	岑	岑	kʰɐm21	kʰɐm21	kam4	P112		
+1546	琴	琴	kʰɐm21	kʰɐm21	kam4	P112		
+1547	妗	妗	kʰɐm24	kʰɐm24	kam5	P112		
+1548	龕	龛	hɐm55	hɐm55	ham1	P112		
+1549	欽	钦	hɐm55	hɐm55	ham1	P112		
+1550	含	含	hɐm21	hɐm21	ham4	P112		
+1551	暗	暗	∅ɐm33	∅ɐm33	am3	P112		
+1552	音	音	∅iɐm55	jɐm55	jam1	P112		
+1553	壬	壬	∅iɐm21	jɐm21	jam4	P112		
+1554	任	任	∅iɐm22	jɐm22	jam6	P112	責任	原文誤作[∅iɐm21]
+1555	吟	吟	∅iɐm21	jɐm21	jam4	P112		
+1556	淫	淫	∅iɐm21	jɐm21	jam4	P112		
+1557	飲	饮	∅iɐm35	jɐm35	jam2	P112		
+1558	彬	彬	pɐn55	pɐn55	ban1	P112		
+1559	賓	宾	pɐn55	pɐn55	ban1	P112		
+1560	奔	奔	pɐn55	pɐn55	ban1	P112		
+1561	笨	笨	pɐn22	pɐn22	ban6	P112		
+1562	貧	贫	pʰɐn21	pʰɐn21	pan4	P112		
+1563	頻	频	pʰɐn21	pʰɐn21	pan4	P112		
+1564	品	品	pʰɐn35	pʰɐn35	pan2	P112		原文誤作[phɐn24]
+1565	噴	喷	pʰɐn33	pʰɐn33	pan3	P112	～水；～香	
+1566	蚊	蚊	mɐn55	mɐn55	man1	P112		
+1567	民	民	mɐn21	mɐn21	man4	P112		
+1568	文	文	mɐn21	mɐn21	man4	P112	～化	
+1569	聞	闻	mɐn21	mɐn21	man4	P112		
+1570	問	问	mɐn22	mɐn22	man6	P112		原文誤作[mɐn21]
+1571	璺	璺	mɐn22	mɐn22	man6	P112		原文誤作[mɐn21]
+1572	敏	敏	mɐn24	mɐn24	man5	P112		原文誤作[mɐn35]
+1573	刎	刎	mɐn24	mɐn24	man5	P112		
+1574	婚	婚	fɐn55	fɐn55	fan1	P112		
+1575	分	分	fɐn55	fɐn55	fan1	P112	～開	
+1576	芬	芬	fɐn55	fɐn55	fan1	P112		
+1577	焚	焚	fɐn21	fɐn21	fan4	P112		
+1578	墳	坟	fɐn21	fɐn21	fan4	P112		
+1579	份	份	fɐn22	fɐn22	fan6	P112		原文誤作[fɐn21]
+1580	粉	粉	fɐn35	fɐn35	fan2	P112		
+1581	糞	粪	fɐn33	fɐn33	fan3	P112		
+1582	憤	愤	fɐn33	fɐn33	fan3	P112		
+1583	訓	训	fɐn33	fɐn33	fan3	P112		
+1584	鈍	钝	tɐn22	tɐn22	dan6	P112		原文誤作[tɐn21]
+1585	盾	盾	tɐn22	tɐn22	dan6	P112	矛～	
+1586	吞	吞	tʰɐn55	tʰɐn55	tan1	P112，113	～下；雲～	「雲～」義原文P113作[thuɐn55]
+1587	撚	撚	nɐn35	nɐn35	nan2	P112	挪[nɔ21]挪[nɔ21]～～：磨磨蹭蹭	原文有音無字
+1588	溣	溣	lɐn35	lɐn35	lan2	P112	沾	原文有音無字
+1589	鄰	邻	lɐn21	lɐn21	lan4	P112		
+1590	鱗	鳞	lɐn21	lɐn21	lan4	P112		
+1591	侖	仑	lɐn21	lɐn21	lan4	P112		
+1592	崙	仑	lɐn21	lɐn21	lan4	P112		
+1593	輪	轮	lɐn21	lɐn21	lan4	P112		
+1594	論	论	lɐn22	lɐn22	lan6	P112		
+1595	辛	辛	ɬɐn55	ɬɐn55	slan1	P113		
+1596	新	新	ɬɐn55	ɬɐn55	slan1	P113		
+1597	遜	逊	ɬɐn33	ɬɐn33	slan3	P113		原文誤作[ɬɐn55]
+1598	信	信	ɬɐn33	ɬɐn33	slan3	P113		
+1599	訊	讯	ɬɐn33	ɬɐn33	slan3	P113		
+1600	迅	迅	ɬɐn33	ɬɐn33	slan3	P113		
+1601	津	津	tʃɐn55	tʃɐn55	zan1	P113		
+1602	珍	珍	tʃɐn55	tʃɐn55	zan1	P113		
+1603	臻	臻	tʃɐn55	tʃɐn55	zan1	P113		
+1604	真	真	tʃɐn55	tʃɐn55	zan1	P113		
+1605	儘	尽	tʃɐn22	tʃɐn22	zan6	P113		原文誤作[tʃɐn21]
+1606	進	进	tʃɐn33	tʃɐn33	zan3	P113		
+1607	鎮	镇	tʃɐn33	tʃɐn33	zan3	P113		
+1608	振	振	tʃɐn33	tʃɐn33	zan3	P113		
+1609	震	震	tʃɐn33	tʃɐn33	zan3	P113		
+1610	俊	俊	tʃɐn33	tʃɐn33	zan3	P113		
+1611	盡	尽	tʃɐn22	tʃɐn22	zan6	P113		
+1612	陣	阵	tʃɐn22	tʃɐn22	zan6	P113		
+1613	秦	秦	tʃʰɐn21	tʃʰɐn21	can4	P113		
+1614	陳	陈	tʃʰɐn21	tʃʰɐn21	can4	P113		
+1615	塵	尘	tʃʰɐn21	tʃʰɐn21	can4	P113		
+1616	臣	臣	tʃʰɐn21	tʃʰɐn21	can4	P113		
+1617	診	诊	tʃʰɐn35	tʃʰɐn35	can2	P113		
+1618	親	亲	tʃʰɐn33	tʃʰɐn33	can3	P113		
+1619	趁	趁	tʃʰɐn33	tʃʰɐn33	can3	P113		
+1620	襯	衬	tʃʰɐn33	tʃʰɐn33	can3	P113		
+1621	身	身	ʃɐn55	ʃɐn55	san1	P113		
+1622	申	申	ʃɐn55	ʃɐn55	san1	P113		
+1623	神	神	ʃɐn21	ʃɐn21	san4	P113		
+1624	辰	辰	ʃɐn21	ʃɐn21	san4	P113		
+1625	慎	慎	ʃɐn22	ʃɐn22	san6	P113		原文誤作[ʃɐn21]
+1626	榫	榫	ɬɐn35	ɬɐn35	slan2	P113		原文誤作[ʃɐn35]
+1627	腎	肾	ʃɐn24	ʃɐn24	san5	P113		
+1628	跟	跟	kɐn55	kɐn55	gan1	P113		
+1629	根	根	kɐn55	kɐn55	gan1	P113		
+1630	巾	巾	kɐn55	kɐn55	gan1	P113		
+1631	斤	斤	kɐn55	kɐn55	gan1	P113		
+1632	筋	筋	kɐn55	kɐn55	gan1	P113		
+1633	緊	紧	kɐn35	kɐn35	gan2	P113		
+1634	僅	仅	kɐn35	kɐn35	gan2	P113		
+1635	謹	谨	kɐn35	kɐn35	gan2	P113		
+1636	勤	勤	kʰɐn21	kʰɐn21	kan4	P113		
+1637	囤	囤	kʰɐn21	kʰɐn21	kan4	P113	囤	原文有音無字，誤作[kʰɐn21]，誤釋義爲「團」
+1638	芹	芹	kʰɐn21	kʰɐn21	kan4	P113		
+1639	近	近	kʰɐn24	kʰɐn24	kan5	P113		
+1640	銀	银	ŋɐn21	ŋɐn21	ngan4	P113		
+1641	欣	欣	hɐn55	hɐn55	han1	P113		
+1642	痕	痕	hɐn21	hɐn21	han4	P113		
+1643	恨	恨	hɐn22	hɐn22	han6	P113		原文誤作[hɐn21]
+1644	很	很	hɐn35	hɐn35	han2	P113		
+1645	恩	恩	∅ɐn55	∅ɐn55	an1	P113		
+1646	因	因	∅iɐn55	jɐn55	jan1	P113	～爲	
+1647	姻	姻	∅iɐn55	jɐn55	jan1	P113		
+1648	人	人	∅iɐn21	jɐn21	jan4	P113		
+1649	仁	仁	∅iɐn21	jɐn21	jan4	P113		
+1650	認	认	∅iɐn22	jɐn22	jan6	P113		原文誤作[∅iɐn21]
+1651	寅	寅	∅iɐn21	jɐn21	jan4	P113		
+1652	忍	忍	∅iɐn24	jɐn24	jan5	P113		
+1653	引	引	∅iɐn24	jɐn24	jan5	P113		
+1654	隱	隐	∅iɐn24	jɐn24	jan5	P113		
+1655	印	印	∅iɐn33	jɐn33	jan3	P113		
+1656	孕	孕	∅iɐn22	jɐn22	jan6	P113		
+1657	墩	墩	tɐn55	tɐn55	dan1	P113		原文作[tuɐn55]
+1658	頓	顿	tɐn22	tɐn22	dan6	P113		原文作[tuɐn22]
+1659	臀	臀	tʰɐn21	tʰɐn21	tan4	P113		原文作[thuɐn21]
+1660	屯	屯	tʰɐn21	tʰɐn21	tan4	P113		原文誤作[thuɐn33]
+1661	倫	伦	lɐn21	lɐn21	lan4	P113		原文作[luɐn21]
+1662	準	准	tʃɐn35	tʃɐn35	zan2	P113		原文作[tʃuɐn35]
+1663	准	准	tʃɐn35	tʃɐn35	zan2	P113		原文作[tʃuɐn35]
+1664	春	春	tʃʰɐn55	tʃʰɐn55	can1	P113		原文作[tʃhuɐn55]
+1665	蠢	蠢	tʃʰɐn35	tʃʰɐn35	can2	P113		原文作[tʃhuɐn35]
+1666	荀	荀	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
+1667	旬	旬	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
+1668	巡	巡	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
+1669	脣	唇	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
+1670	唇	唇	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
+1671	順	顺	ʃɐn22	ʃɐn22	san6	P113		原文誤作[ʃuɐn21]
+1672	舜	舜	ʃɐn22	ʃɐn22	san6	P113		原文誤作[ʃuɐn21]
+1673	純	纯	ʃɐn21	ʃɐn21	san4	P113		原文作[ʃuɐn21]
+1674	軍	军	kuɐn55	kʷɐn55	gwan1	P113		
+1675	滾	滚	kuɐn35	kʷɐn35	gwan2	P113		
+1676	棍	棍	kuɐn33	kʷɐn33	gwan3	P113		
+1677	昆	昆	kʰuɐn55	kʷʰɐn55	kwan1	P113		
+1678	崑	昆	kʰuɐn55	kʷʰɐn55	kwan1	P113		
+1679	坤	坤	kʰuɐn55	kʷʰɐn55	kwan1	P113		
+1680	均	均	kʰuɐn55	kʷʰɐn55	kwan1	P113		
+1681	郡	郡	kʰuɐn55	kʷʰɐn55	kwan1	P113		原文作[khuɐn55]
+1682	羣	群	kʰuɐn21	kʷʰɐn21	kwan4	P113		
+1683	群	群	kʰuɐn21	kʷʰɐn21	kwan4	P113		
+1684	捆	捆	kʰuɐn35	kʷʰɐn35	kwan2	P113		
+1685	綑	捆	kʰuɐn35	kʷʰɐn35	kwan2	P113		文作「捆」字
+1686	菌	菌	kʰuɐn24	kʷʰɐn24	kwan5	P113		
+1687	困	困	kʰuɐn33	kʷʰɐn33	kwan3	P113		
+1688	溫	温	∅uɐn55	wɐn55	wan1	P113		
+1689	瘟	瘟	∅uɐn55	wɐn55	wan1	P113		
+1690	葷	荤	∅uɐn55	wɐn55	wan1	P113		
+1691	魂	魂	∅uɐn21	wɐn21	wan4	P113		
+1692	餛	馄	∅uɐn21	wɐn21	wan4	P113		
+1693	混	混	∅uɐn22	wɐn22	wan6	P113		原文誤作[∅uɐn21]
+1694	勻	匀	∅uɐn21	wɐn21	wan4	P113		
+1695	雲	云	∅uɐn21	wɐn21	wan4	P113		
+1696	云	云	∅uɐn21	wɐn21	wan4	P113		
+1697	韻	韵	∅uɐn22	wɐn22	wan6	P113		原文誤作[∅uɐn21]
+1698	運	运	∅uɐn22	wɐn22	wan6	P113		原文誤作[∅uɐn21]
+1699	暈	晕	∅uɐn21	wɐn21	wan4	P113		
+1700	穩	稳	∅uɐn35	wɐn35	wan2	P113		
+1701	尹	尹	∅uɐn35	wɐn35	wan2	P113		
+1702	閏	闰	∅iɐn22	jɐn22	jan6	P113		原文誤作[∅uɐn22]
+1703	肝	肝	kɔn55	kɔn55	gon1	P113		
+1704	干	干	kɔn55	kɔn55	gon1	P113		
+1705	乾	干	kɔn55	kɔn55	gon1	P113	～溼	
+1706	桿	杆	kɔn35	kɔn35	gon2	P113		
+1707	趕	赶	kɔn35	kɔn35	gon2	P113		
+1708	幹	干	kɔn33	kɔn33	gon3	P113	～部	
+1709	岸	岸	ŋɔn22	ŋɔn22	ngon6	P113		
+1710	看	看	hɔn55	hɔn55	hon1	P113	～守	
+1711	寒	寒	hɔn21	hɔn21	hon4	P113		
+1712	汗	汗	hɔn22	hɔn22	hon6	P113		原文誤作[hɔn21]
+1713	刊	刊	hɔn35	hɔn35	hon2	P113		
+1714	旱	旱	hɔn24	hɔn24	hon5	P113		原文誤作[hɔn35]
+1715	看	看	hɔn33	hɔn33	hon3	P113	～見	
+1716	漢	汉	hɔn33	hɔn33	hon3	P113		
+1717	焊	焊	hɔn22	hɔn22	hon6	P113		
+1718	銲	焊	hɔn22	hɔn22	hon6	P113		原文作「焊」字
+1719	安	安	∅ɔn55	∅ɔn55	on1	P113		
+1720	按	按	∅ɔn33	∅ɔn33	on3	P113		
+1721	皿	皿	mɐn24	mɐn24	man5	P113		原文誤作[men24]
+1722	舐	舐	lɛm35	lɛm35	lem2	P113		
+1723	減	减	kɛm35	kɛm35	gem2	P113		
+1724	鉗	钳	kʰɛm21	kʰɛm21	kem4	P113		
+1725	鹹	咸	hɛm21	hɛm21	hem4	P113		
+1726	喊	喊	hɛm33	hɛm33	hem3	P113		
+1727	莧	苋	hɛm22	hɛm22	hem6	P113		
+1728	躽	躽	∅ɛn35	∅ɛn35	en2	P113	挺的意思	原文有音無字，誤作[nɛn24]
+1729	間	间	kɛn55	kɛn55	gen1	P113	〔白讀〕中～	
+1730	簡	简	kɛn35	kɛn35	gen2	P113	〔白讀〕	
+1731	揀	拣	kɛn35	kɛn35	gen2	P113	〔白讀〕	原文誤作[kɛn24]
+1732	閑	闲	hɛn21	hɛn21	hen4	P113	〔白讀〕	
+1733	還	还	∅uɛn21	wɛn21	wen4	P113	〔白讀〕～原	
+1734	龐	庞	pʰaŋ21	pʰaŋ21	paang4	P113		
+1735	彭	彭	pʰaŋ21	pʰaŋ21	paang4	P113		
+1736	棚	棚	pʰaŋ21	pʰaŋ21	paang4	P113		
+1737	抨	抨	pʰaŋ24	pʰaŋ24	paang5	P113	～行：攆走	原文有音無字，有誤作[phaŋ35]
+1738	盲	盲	maŋ21	maŋ21	maang4	P113		
+1739	猛	猛	maŋ24	maŋ24	maang5	P113		原文誤作[maŋ35]
+1740	孟	孟	maŋ24	maŋ24	maang5	P113		原文誤作[maŋ35]
+1741	𦀬	𦀬	laŋ55	laŋ55	laang1	P113	織～衫：織毛衣	原文有音無字
+1742	冷	冷	laŋ24	laŋ24	laang5	P113		原文誤作[laŋ35]
+1743	爭	争	tʃaŋ55	tʃaŋ55	zaang1	P113		
+1744	撐	撑	tʃʰaŋ55	tʃʰaŋ55	caang1	P113		
+1745	鐺	铛	tʃʰaŋ55	tʃʰaŋ55	caang1	P113	烙餅用具	
+1746	橙	橙	tʃʰaŋ35	tʃʰaŋ35	caang2	P113		原文誤作[tʃhaŋ24]
+1747	牚	牚	tʃʰaŋ33	tʃʰaŋ33	caang3	P113		
+1748	生	生	ʃaŋ55	ʃaŋ55	saang1	P113		
+1749	甥	甥	ʃaŋ55	ʃaŋ55	saang1	P113		
+1750	省	省	ʃaŋ35	ʃaŋ35	saang2	P113	節～	
+1751	耕	耕	kaŋ55	kaŋ55	gaang1	P113		
+1752	筐	筐	kʰuaŋ55	kʷʰaŋ55	kwaang1	P113		原文誤作[khaŋ55]
+1753	硬	硬	ŋaŋ22	ŋaŋ22	ngaang6	P113		原文誤作[ŋaŋ21]
+1754	坑	坑	haŋ55	haŋ55	haang1	P113	坑溝；爺～：老頭子	老頭子義原文有音無字，誤作[haŋ33]，此處併入「坑」字
+1755	垵	垵	hɐm35	hɐm35	ham2	P113		原文作「埯」字，誤作[haŋ33]，本字「坅」
+1756	埯	埯	hɐm35	hɐm35	ham2	P113		原文誤作[haŋ33]，本字「坅」
+1757	罌	罂	∅aŋ55	∅aŋ55	aang1	P113	豉油～：醬油壺	原文有音無字
+1758	梗	梗	kʰuaŋ35	kʷʰaŋ35	kwaang2	P113		
+1759	橫	横	∅uaŋ21	waŋ21	waang4	P113	～直	
+1760	崩	崩	pɐŋ55	pɐŋ55	bang1	P113		
+1761	烹	烹	pʰɐŋ55	pʰɐŋ55	pang1	P113		
+1762	朋	朋	pʰɐŋ21	pʰɐŋ21	pang4	P113		
+1763	憑	凭	pʰɐŋ21	pʰɐŋ21	pang4	P113		
+1764	蓬	蓬	pʰuŋ21	pʰʊŋ21	pung4	P113		原文誤作[phɐŋ21]
+1765	掹	掹	mɐŋ55	mɐŋ55	mang1	P113	～秧：拔秧	原文有音無字，P115誤作[muŋ55]
+1766	繃	绷	mɐŋ55	mɐŋ55	mang1	P113	～油：花油	原文有音無字。「繃」指傷口癒合，「繃油」指讓傷口癒合的花油
+1767	萌	萌	mɐŋ21	mɐŋ21	mang4	P113		
+1768	盟	盟	mɐŋ21	mɐŋ21	mang4	P113		
+1769	燈	灯	tɐŋ55	tɐŋ55	dang1	P113		
+1770	等	等	tɐŋ35	tɐŋ35	dang2	P113		
+1771	凳	凳	tɐŋ33	tɐŋ33	dang3	P113		
+1772	鄧	邓	tɐŋ22	tɐŋ22	dang6	P113		
+1773	藤	藤	tʰɐŋ21	tʰɐŋ21	tang4	P113		
+1774	硬	硬	ŋaŋ35	ŋaŋ35	ngaang2	P113	必	原文有音無字，誤作[nɐŋ35]
+1775	能	能	nɐŋ21	nɐŋ21	nang4	P113		
+1776	棱	棱	lɐŋ55	lɐŋ55	lang1	P113	在皮膚上抓出的痕跡	原文有音無字
+1777	增	增	tʃɐŋ55	tʃɐŋ55	zang1	P113		
+1778	僧	僧	tʃɐŋ55	tʃɐŋ55	zang1	P113		
+1779	贈	赠	tʃɐŋ22	tʃɐŋ22	zang6	P113		
+1780	曾	曾	tʃʰɐŋ21	tʃʰɐŋ21	cang4	P113	～經	原文誤作[tʃhɐŋ55]
+1781	層	层	tʃʰɐŋ21	tʃʰɐŋ21	cang4	P113		原文誤作[tʃhɐŋ55]
+1782	澄	澄	tʃʰɐŋ21	tʃʰɐŋ21	cang4	P113		原文誤作[tʃhɐŋ22]
+1783	㨘	㨘	ʃaŋ35	ʃaŋ35	saang2	P113	甩的意思	原文有音無字，誤作[ʃɐŋ55]
+1784	更	更	kɐŋ55	kɐŋ55	gang1	P113	～換	
+1785	更	更	kaŋ55	kaŋ55	gaang1	P113	五～	五更義誤作[kɐŋ55]
+1786	粳	粳	kɐŋ55	kɐŋ55	gang1	P113		
+1787	庚	庚	kɐŋ55	kɐŋ55	gang1	P113		
+1788	更	更	kɐŋ33	kɐŋ33	gang3	P113	～加	
+1789	哽	哽	kʰɐŋ35	kʰɐŋ35	kang2	P113		
+1790	鯁	鲠	kʰɐŋ35	kʰɐŋ35	kang2	P113		原文作「哽」字
+1791	骾	鲠	kʰɐŋ35	kʰɐŋ35	kang2	P113		原文作「哽」字
+1792	摼	摼	hɐŋ55	hɐŋ55	hang1	P113	用指關節敲	原文有音無字或作「敲」字
+1793	亨	亨	hɐŋ55	hɐŋ55	hang1	P113		
+1794	揈	揈	fɐŋ33	fɐŋ33	fang3	P113	甩的意思	原文有音無字，誤作[hɐŋ55]
+1795	行	行	hɔŋ21	hɔŋ21	hong4	P113	～列	原文誤作[hɐŋ21]
+1796	恆	恒	hɐŋ21	hɐŋ21	hang4	P113		
+1797	恒	恒	hɐŋ21	hɐŋ21	hang4	P113		
+1798	行	行	hɐŋ21	hɐŋ21	hang4	P113	～爲；品～	
+1799	杏	杏	hɐŋ22	hɐŋ22	hang6	P113		原文誤作[hɐŋ21]
+1800	幸	幸	hɐŋ22	hɐŋ22	hang6	P113		原文誤作[hɐŋ21]
+1801	肯	肯	hɐŋ35	hɐŋ35	hang2	P113		
+1802	餅	饼	pɛŋ35	pɛŋ35	beng2	P113		原文誤作[pɛŋ55]
+1803	病	病	pɛŋ22	pɛŋ22	beng6	P113		
+1804	拼	拼	pʰeŋ55	pʰeŋ55	ping1	P114		原文誤作[phɛŋ55]
+1805	平	平	pʰeŋ21	pʰeŋ21	ping4	P114		原文誤作[phɛŋ21]
+1806	評	评	pʰeŋ21	pʰeŋ21	ping4	P114		原文誤作[phɛŋ21]
+1807	明	明	meŋ21	meŋ21	ming4	P114		原文誤作[mɛŋ21]
+1808	名	名	mɛŋ21	mɛŋ21	meng4	P114		
+1809	命	命	mɛŋ22	mɛŋ22	meng6	P114		
+1810	釘	钉	tɛŋ55	tɛŋ55	deng1	P114	鐵～	
+1811	訂	订	tɛŋ22	tɛŋ22	deng6	P114		原文誤作[tɛŋ33]
+1812	聽	听	tʰɛŋ55	tʰɛŋ55	teng1	P114		
+1813	廳	厅	tʰɛŋ55	tʰɛŋ55	teng1	P114		
+1814	艇	艇	tʰɛŋ24	tʰɛŋ24	teng5	P114		原文誤作[thɛŋ35]
+1815	擰	拧	neŋ55	neŋ55	ning1	P114	～筆：握的意思	原文有音無字，誤作[nɛŋ55]
+1816	拎	拎	neŋ55	neŋ55	ning1	P114	～筆：握的意思	原文有音無字，誤作[nɛŋ55]
+1817	靈	灵	lɛŋ21	lɛŋ21	leng4	P114		
+1818	領	领	lɛŋ24	lɛŋ24	leng5	P114		
+1819	嶺	岭	lɛŋ24	lɛŋ24	leng5	P114		
+1820	醒	醒	ɬɛŋ35	ɬɛŋ35	sleng2	P114		
+1821	精	精	tʃɛŋ55	tʃɛŋ55	zeng1	P114		
+1822	清	清	tʃʰɛŋ55	tʃʰɛŋ55	ceng1	P114		原文誤作[tʃɛŋ55]
+1823	井	井	tʃɛŋ35	tʃɛŋ35	zeng2	P114		
+1824	青	青	tʃʰɛŋ55	tʃʰɛŋ55	ceng1	P114		
+1825	聲	声	ʃɛŋ55	ʃɛŋ55	seng1	P114		
+1826	頸	颈	kɛŋ35	kɛŋ35	geng2	P114		
+1827	鏡	镜	kɛŋ33	kɛŋ33	geng3	P114		
+1828	競	竞	keŋ33	keŋ33	ging3	P114		原文誤作[kɛŋ33]
+1829	輕	轻	hɛŋ55	hɛŋ55	heng1	P114	～重	
+1830	迎	迎	∅ieŋ21	jeŋ21	jing4	P114		原文誤作[∅iɛŋ21]
+1831	幫	帮	pɔŋ55	pɔŋ55	bong1	P114		
+1832	邦	邦	pɔŋ55	pɔŋ55	bong1	P114		
+1833	榜	榜	pɔŋ35	pɔŋ35	bong2	P114		
+1834	綁	绑	pɔŋ35	pɔŋ35	bong2	P114		
+1835	謗	谤	pɔŋ22	pɔŋ22	bong6	P114		
+1836	棒	棒	pɔŋ22	pɔŋ22	bong6	P114		
+1837	滂	滂	pʰɔŋ21	pʰɔŋ21	pong4	P114		
+1838	旁	旁	pʰɔŋ21	pʰɔŋ21	pong4	P114		
+1839	傍	傍	pʰɔŋ21	pʰɔŋ21	pong4	P114		
+1840	芒	芒	mɔŋ55	mɔŋ55	mong1	P114		
+1841	忙	忙	mɔŋ21	mɔŋ21	mong4	P114		
+1842	亡	亡	mɔŋ21	mɔŋ21	mong4	P114		
+1843	忘	忘	mɔŋ21	mɔŋ21	mong4	P114		
+1844	望	望	mɔŋ22	mɔŋ22	mong6	P114		原文誤作[mɔŋ21]
+1845	網	网	mɔŋ24	mɔŋ24	mong5	P114		原文誤作[mɔŋ35]
+1846	莽	莽	mɔŋ24	mɔŋ24	mong5	P114		
+1847	蟒	蟒	mɔŋ24	mɔŋ24	mong5	P114		
+1848	荒	荒	fɔŋ55	fɔŋ55	fong1	P114		
+1849	謊	谎	fɔŋ55	fɔŋ55	fong1	P114		
+1850	方	方	fɔŋ55	fɔŋ55	fong1	P114		
+1851	芳	芳	fɔŋ55	fɔŋ55	fong1	P114		
+1852	妨	妨	fɔŋ21	fɔŋ21	fong4	P114		
+1853	房	房	fɔŋ21	fɔŋ21	fong4	P114		
+1854	防	防	fɔŋ21	fɔŋ21	fong4	P114		
+1855	晃	晃	fɔŋ35	fɔŋ35	fong2	P114		
+1856	仿	仿	fɔŋ35	fɔŋ35	fong2	P114	相似	
+1857	倣	仿	fɔŋ35	fɔŋ35	fong2	P114	倣效	原文作「仿」字
+1858	紡	纺	fɔŋ35	fɔŋ35	fong2	P114		
+1859	訪	访	fɔŋ35	fɔŋ35	fong2	P114		
+1860	放	放	fɔŋ33	fɔŋ33	fong3	P114		
+1861	當	当	tɔŋ55	tɔŋ55	dong1	P114	～時	
+1862	黨	党	tɔŋ35	tɔŋ35	dong2	P114		
+1863	當	当	tɔŋ33	tɔŋ33	dong3	P114	～作	
+1864	蕩	荡	tɔŋ22	tɔŋ22	dong6	P114		原文誤作[tɔŋ33]
+1865	盪	荡	tɔŋ22	tɔŋ22	dong6	P114		原文誤作[tɔŋ33]
+1866	宕	宕	tɔŋ22	tɔŋ22	dong6	P114		原文誤作[tɔŋ33]
+1867	湯	汤	tʰɔŋ55	tʰɔŋ55	tong1	P114		
+1868	唐	唐	tʰɔŋ21	tʰɔŋ21	tong4	P114		
+1869	糖	糖	tʰɔŋ21	tʰɔŋ21	tong4	P114		
+1870	塘	塘	tʰɔŋ21	tʰɔŋ21	tong4	P114		
+1871	躺	躺	tʰɔŋ35	tʰɔŋ35	tong2	P114		
+1872	趟	趟	tʰɔŋ33	tʰɔŋ33	tong3	P114		
+1873	襠	裆	nɔŋ55	nɔŋ55	nong1	P114	褲～：褲襠	原文有音無字
+1874	囊	囊	nɔŋ21	nɔŋ21	nong4	P114		
+1875	瓤	瓤	nɔŋ21	nɔŋ21	nong4	P114		
+1876	仰	仰	ŋɔŋ24	ŋɔŋ24	ngong5	P114		原文誤作[nɔŋ24]
+1877	褦	褦	nɐŋ33	nɐŋ33	nang3	P114	交配的意思，狗𪐀[na55]～	原文誤作[na33 nɔŋ33]
+1878	廊	廊	lɔŋ21	lɔŋ21	long4	P114		
+1879	浪	浪	lɔŋ22	lɔŋ22	long6	P114		原文誤作[lɔŋ21]
+1880	郎	郎	lɔŋ21	lɔŋ21	long4	P114		原文誤作[lɔŋ35]
+1881	朗	朗	lɔŋ24	lɔŋ24	long5	P114		原文誤作[lɔŋ35]
+1882	桑	桑	ɬɔŋ55	ɬɔŋ55	slong1	P114		
+1883	霜	霜	ɬɔŋ55	ɬɔŋ55	slong1	P114		
+1884	磉	磉	ɬɔŋ35	ɬɔŋ35	slong2	P114		
+1885	爽	爽	ʃɔŋ35	ʃɔŋ35	song2	P114		原文誤作[ɬɔŋ35]
+1886	髒	脏	tʃɔŋ55	tʃɔŋ55	zong1	P114		
+1887	裝	装	tʃɔŋ55	tʃɔŋ55	zong1	P114		
+1888	撞	撞	tʃɔŋ22	tʃɔŋ22	zong6	P114		原文誤作[tʃɔŋ21]
+1889	葬	葬	tʃɔŋ33	tʃɔŋ33	zong3	P114		
+1890	壯	壮	tʃɔŋ33	tʃɔŋ33	zong3	P114		
+1891	狀	状	tʃɔŋ22	tʃɔŋ22	zong6	P114		
+1892	倉	仓	tʃʰɔŋ55	tʃʰɔŋ55	cong1	P114		
+1893	瘡	疮	tʃʰɔŋ55	tʃʰɔŋ55	cong1	P114		
+1894	窗	窗	tʃʰɔŋ55	tʃʰɔŋ55	cong1	P114		
+1895	藏	藏	tʃʰɔŋ21	tʃʰɔŋ21	cong4	P114	隱～	
+1896	牀	床	tʃʰɔŋ21	tʃʰɔŋ21	cong4	P114		
+1897	床	床	tʃʰɔŋ21	tʃʰɔŋ21	cong4	P114		
+1898	闖	闯	tʃʰɔŋ35	tʃʰɔŋ35	cong2	P114		
+1899	廠	厂	tʃʰɔŋ35	tʃʰɔŋ35	cong2	P114		
+1900	創	创	tʃʰɔŋ33	tʃʰɔŋ33	cong3	P114		
+1901	藏	藏	tʃɔŋ22	tʃɔŋ22	zong6	P114	西～	原文誤作[tʃhɔŋ22]
+1902	岡	冈	kɔŋ55	kɔŋ55	gong1	P114		
+1903	崗	岗	kɔŋ55	kɔŋ55	gong1	P114		
+1904	綱	纲	kɔŋ55	kɔŋ55	gong1	P114		
+1905	缸	缸	kɔŋ55	kɔŋ55	gong1	P114		
+1906	光	光	kɔŋ55	kɔŋ55	gong1	P114		
+1907	江	江	kɔŋ55	kɔŋ55	gong1	P114		
+1908	講	讲	kɔŋ35	kɔŋ35	gong2	P114		
+1909	港	港	kɔŋ35	kɔŋ35	gong2	P114		
+1910	廣	广	kɔŋ35	kɔŋ35	gong2	P114		原文誤作[kɔŋ24]
+1911	鋼	钢	kɔŋ33	kɔŋ33	gong3	P114		
+1912	槓	杠	kɔŋ33	kɔŋ33	gong3	P114		
+1913	杠	杠	kɔŋ33	kɔŋ33	gong3	P114		
+1914	降	降	kɔŋ33	kɔŋ33	gong3	P114		
+1915	狂	狂	kʰɔŋ21	kʰɔŋ21	kong4	P114		
+1916	扛	扛	kʰɔŋ21	kʰɔŋ21	kong4	P114		
+1917	抗	抗	kʰɔŋ33	kʰɔŋ33	kong3	P114		
+1918	曠	旷	kʰɔŋ33	kʰɔŋ33	kong3	P114		
+1919	擴	扩	kʰɔŋ33	kʰɔŋ33	kong3	P114		
+1920	況	况	kʰɔŋ33	kʰɔŋ33	kong3	P114		
+1921	礦	矿	kʰɔŋ33	kʰɔŋ33	kong3	P114		
+1922	昂	昂	ŋɔŋ21	ŋɔŋ21	ngong4	P114		原文誤作[ŋɔŋ35]
+1923	康	康	hɔŋ55	hɔŋ55	hong1	P114		
+1924	糠	糠	hɔŋ55	hɔŋ55	hong1	P114		
+1925	慷	慷	hɔŋ55	hɔŋ55	hong1	P114		
+1926	杭	杭	hɔŋ21	hɔŋ21	hong4	P114		
+1927	虹	虹	huŋ21	hʊŋ21	hung4	P114		原文誤作[hɔŋ21]
+1928	𣚺	𣚺	hɔŋ22	hɔŋ22	hong6	P114	～雞：未下蛋的小雞	原文有音無字，誤作[hɔŋ21]
+1929	吼	吼	huŋ35	hʊŋ35	hung2	P114		原文誤作[hɔŋ35]
+1930	項	项	hɔŋ35	hɔŋ35	hong2	P114		
+1931	巷	巷	hɔŋ35	hɔŋ35	hong2	P114		
+1932	汪	汪	∅uɔŋ55	wɔŋ55	wong1	P114	一汪水	
+1933	黃	黄	∅uɔŋ21	wɔŋ21	wong4	P114		
+1934	皇	皇	∅uɔŋ21	wɔŋ21	wong4	P114		
+1935	王	王	∅uɔŋ21	wɔŋ21	wong4	P114		
+1936	旺	旺	∅uɔŋ22	wɔŋ22	wong6	P114		原文誤作[∅uɔŋ21]
+1937	降	降	hɔŋ21	hɔŋ21	hong4	P114	投～	原文誤作[∅uɔŋ21]
+1938	枉	枉	∅uɔŋ35	wɔŋ35	wong2	P114		
+1939	往	往	∅uɔŋ24	wɔŋ24	wong5	P114		原文誤作[∅uɔŋ35]
+1940	冰	冰	peŋ55	peŋ55	bing1	P114		
+1941	兵	兵	peŋ55	peŋ55	bing1	P114		
+1942	丙	丙	peŋ35	peŋ35	bing2	P114		
+1943	并	并	peŋ33	peŋ33	bing3	P114	合～	
+1944	併	并	peŋ33	peŋ33	bing3	P114	合～	
+1945	瓶	瓶	pʰeŋ21	pʰeŋ21	ping4	P114		
+1946	屏	屏	pʰeŋ21	pʰeŋ21	ping4	P114	圍～	
+1947	萍	萍	pʰeŋ21	pʰeŋ21	ping4	P114		
+1948	聘	聘	pʰeŋ33	pʰeŋ33	ping3	P114		
+1949	并	并	peŋ22	peŋ22	bing6	P114	～行～講	原文誤作[pheŋ33]
+1950	並	并	peŋ22	peŋ22	bing6	P114	～行～講	原文誤作[pheŋ33]
+1951	銘	铭	meŋ21	meŋ21	ming4	P114		
+1952	命	命	meŋ22	meŋ22	ming6	P114		
+1953	捧	捧	phuŋ35	pʰʊŋ35	pung2	P114	～脬[phɛu55]：戴高帽子	原文有音無字，誤作[feŋ24]
+1954	定	定	teŋ22	teŋ22	ding6	P114		原文誤作[teŋ21]
+1955	頂	顶	teŋ35	teŋ35	ding2	P114		
+1956	停	停	tʰeŋ21	tʰeŋ21	ting4	P114		
+1957	庭	庭	tʰeŋ21	tʰeŋ21	ting4	P114		
+1958	寧	宁	neŋ21	neŋ21	ning4	P114		
+1959	凌	凌	leŋ21	leŋ21	ling4	P114		
+1960	令	令	leŋ22	leŋ22	ling6	P114		原文誤作[leŋ21]
+1961	靈	灵	leŋ21	leŋ21	ling4	P114		
+1962	零	零	leŋ21	leŋ21	ling4	P114		
+1963	領	领	leŋ24	leŋ24	ling5	P114		
+1964	另	另	leŋ22	leŋ22	ling6	P114		
+1965	姓	姓	ɬeŋ33	ɬeŋ33	sling3	P114		原文誤作[ɬeŋ55]
+1966	星	星	ɬeŋ55	ɬeŋ55	sling1	P114		
+1967	徵	征	tʃeŋ55	tʃeŋ55	zing1	P114		
+1968	征	征	tʃeŋ55	tʃeŋ55	zing1	P114		
+1969	蒸	蒸	tʃeŋ55	tʃeŋ55	zing1	P114		
+1970	精	精	tʃeŋ55	tʃeŋ55	zing1	P114		
+1971	睛	睛	tʃeŋ55	tʃeŋ55	zing1	P114		
+1972	清	清	tʃʰeŋ55	tʃʰeŋ55	cing1	P114		原文誤作[tʃeŋ55]
+1973	貞	贞	tʃeŋ55	tʃeŋ55	zing1	P114		
+1974	偵	侦	tʃeŋ55	tʃeŋ55	zing1	P114		
+1975	正	正	tʃeŋ55	tʃeŋ55	zing1	P114	～月	
+1976	晴	晴	tʃʰeŋ21	tʃʰeŋ21	cing4	P114		原文誤作[tʃeŋ21]
+1977	整	整	tʃeŋ35	tʃeŋ35	zing2	P114		
+1978	證	证	tʃeŋ33	tʃeŋ33	zing3	P114		
+1979	剩	剩	tʃeŋ22	tʃeŋ22	zing6	P114		原文誤作[tʃeŋ33]
+1980	正	正	tʃeŋ33	tʃeŋ33	zing3	P114	公～	
+1981	政	政	tʃeŋ33	tʃeŋ33	zing3	P114		
+1982	澄	澄	tʃʰeŋ21	tʃʰeŋ21	cing4	P114		原文誤作[tʃeŋ22]
+1983	靜	静	tʃeŋ22	tʃeŋ22	zing6	P114		
+1984	淨	净	tʃeŋ22	tʃeŋ22	zing6	P114		
+1985	凈	净	tʃeŋ22	tʃeŋ22	zing6	P114		
+1986	鄭	郑	tʃeŋ22	tʃeŋ22	zing6	P114		
+1987	稱	称	tʃʰeŋ55	tʃʰeŋ55	cing1	P114	～呼	
+1988	青	青	tʃʰeŋ55	tʃʰeŋ55	cing1	P114		
+1989	懲	惩	tʃʰeŋ21	tʃʰeŋ21	cing4	P114		
+1990	情	情	tʃʰeŋ21	tʃʰeŋ21	cing4	P114		
+1991	程	程	tʃʰeŋ21	tʃʰeŋ21	cing4	P114		
+1992	請	请	tʃʰeŋ35	tʃʰeŋ35	cing2	P114		
+1993	秤	秤	tʃʰeŋ33	tʃʰeŋ33	cing3	P114	一杆秤	
+1994	升	升	ʃeŋ55	ʃeŋ55	sing1	P114		
+1995	乘	乘	ʃeŋ21	ʃeŋ21	sing4	P114		
+1996	繩	绳	ʃeŋ21	ʃeŋ21	sing4	P114		
+1997	承	承	ʃeŋ21	ʃeŋ21	sing4	P114		
+1998	成	成	ʃeŋ21	ʃeŋ21	sing4	P114		
+1999	城	城	ʃeŋ21	ʃeŋ21	sing4	P114		
+2000	盛	盛	ʃeŋ22	ʃeŋ22	sing6	P114	興～	原文誤作[ʃeŋ21]
+2001	勝	胜	ʃeŋ33	ʃeŋ33	sing3	P114	～敗	
+2002	聖	圣	ʃeŋ33	ʃeŋ33	sing3	P114		
+2003	剩	剩	ʃeŋ22	ʃeŋ22	sing6	P114		
+2004	驚	惊	keŋ55	keŋ55	ging1	P114		
+2005	經	经	keŋ55	keŋ55	ging1	P114		
+2006	境	境	keŋ35	keŋ35	ging2	P114		
+2007	景	景	keŋ35	keŋ35	ging2	P114		
+2008	敬	敬	keŋ33	keŋ33	ging3	P114		
+2009	勁	劲	keŋ33	keŋ33	ging3	P114	～敵；有～	「有～」原文誤作[kɛŋ33]
+2010	徑	径	keŋ33	keŋ33	ging3	P114		
+2011	傾	倾	kʰeŋ55	kʰeŋ55	king1	P114		
+2012	擎	擎	kʰeŋ21	kʰeŋ21	king4	P114		
+2013	瓊	琼	kʰeŋ21	kʰeŋ21	king4	P114		
+2014	凝	凝	ŋeŋ21	ŋeŋ21	nging4	P114		
+2015	興	兴	heŋ55	heŋ55	hing1	P114	～旺	
+2016	卿	卿	heŋ55	heŋ55	hing1	P114		
+2017	馨	馨	heŋ55	heŋ55	hing1	P114		
+2018	兄	兄	heŋ55	heŋ55	hing1	P114		
+2019	興	兴	heŋ33	heŋ33	hing3	P114	高～	
+2020	慶	庆	heŋ33	heŋ33	hing3	P114		
+2021	蠅	蝇	∅ieŋ55	jeŋ55	jing1	P114		
+2022	贏	赢	∅ieŋ21	jeŋ21	jing4	P114		
+2023	形	形	∅ieŋ21	jeŋ21	jing4	P114		
+2024	營	营	∅ieŋ21	jeŋ21	jing4	P114		
+2025	螢	萤	∅ieŋ21	jeŋ21	jing4	P114		
+2026	穎	颖	∅ieŋ35	jeŋ35	jing2	P114		
+2027	應	应	∅ieŋ55	jeŋ55	jing1	P114，115	～當	「應當」原文誤作[∅ieŋ33]，P115重複
+2028	應	应	∅ieŋ33	jeŋ33	jing3	P114，115	～用，～付	P115重複
+2029	永	永	∅ueŋ24	weŋ24	wing5	P114		原文誤作[∅ueŋ35]
+2030	娘	娘	nœŋ21	nœŋ21	noeng4	P114		
+2031	孃	娘	nœŋ21	nœŋ21	noeng4	P114		
+2032	涼	凉	lœŋ21	lœŋ21	loeng4	P114		
+2033	量	量	lœŋ21	lœŋ21	loeng4	P114	～長短	
+2034	亮	亮	lœŋ22	lœŋ22	loeng6	P114		原文誤作[lœŋ21]
+2035	諒	谅	lœŋ22	lœŋ22	loeng6	P114		原文誤作[lœŋ21]
+2036	量	量	lœŋ22	lœŋ22	loeng6	P114	數～	原文誤作[lœŋ21]
+2037	兩	两	lœŋ24	lœŋ24	loeng5	P114	～個	原文誤作[lœŋ35]
+2038	兩	两	lœŋ35	lœŋ35	loeng2	P114	幾～幾錢	
+2039	釀	酿	lœŋ22	lœŋ22	loeng6	P114		
+2040	糧	粮	lœŋ21	lœŋ21	loeng4	P114		原文誤作[lœŋ22]
+2041	粮	粮	lœŋ21	lœŋ21	loeng4	P114		原文誤作[lœŋ22]
+2042	相	相	ɬœŋ55	ɬœŋ55	sloeng1	P114	互～	
+2043	箱	箱	ɬœŋ55	ɬœŋ55	sloeng1	P114		
+2044	鑲	镶	ɬœŋ55	ɬœŋ55	sloeng1	P114		
+2045	想	想	ɬœŋ35	ɬœŋ35	sloeng2	P114		
+2046	相	相	ɬœŋ33	ɬœŋ33	sloeng3	P114	～貌	
+2047	漿	浆	tʃœŋ55	tʃœŋ55	zoeng1	P114		
+2048	張	张	tʃœŋ55	tʃœŋ55	zoeng1	P114		
+2049	章	章	tʃœŋ55	tʃœŋ55	zoeng1	P114		
+2050	蔣	蒋	tʃœŋ35	tʃœŋ35	zoeng2	P114		
+2051	獎	奖	tʃœŋ35	tʃœŋ35	zoeng2	P114		
+2052	長	长	tʃœŋ35	tʃœŋ35	zoeng2	P114	生～	
+2053	掌	掌	tʃœŋ35	tʃœŋ35	zoeng2	P114		
+2054	醬	酱	tʃœŋ33	tʃœŋ33	zoeng3	P114		
+2055	將	将	tʃœŋ33	tʃœŋ33	zoeng3	P114	大～	
+2056	漲	涨	tʃœŋ33	tʃœŋ33	zoeng3	P114		
+2057	賬	账	tʃœŋ33	tʃœŋ33	zoeng3	P114		
+2058	脹	胀	tʃœŋ33	tʃœŋ33	zoeng3	P114		
+2059	仗	仗	tʃœŋ33	tʃœŋ33	zoeng3	P114		
+2060	障	障	tʃœŋ33	tʃœŋ33	zoeng3	P114	保～	
+2061	匠	匠	tʃœŋ22	tʃœŋ22	zoeng6	P114		
+2062	象	象	tʃœŋ22	tʃœŋ22	zoeng6	P114	大～	
+2063	丈	丈	tʃœŋ22	tʃœŋ22	zoeng6	P114		
+2064	槍	枪	tʃʰœŋ55	tʃʰœŋ55	coeng1	P114		
+2065	昌	昌	tʃʰœŋ55	tʃʰœŋ55	coeng1	P114		
+2066	腔	腔	kʰœŋ55	kʰœŋ55	koeng1	P114		原文誤作[tʃhœŋ55]
+2067	牆	墙	tʃʰœŋ21	tʃʰœŋ21	coeng4	P114		
+2068	詳	详	tʃʰœŋ21	tʃʰœŋ21	coeng4	P114		
+2069	長	长	tʃʰœŋ21	tʃʰœŋ21	coeng4	P114	長～	
+2070	腸	肠	tʃʰœŋ21	tʃʰœŋ21	coeng4	P114		
+2071	搶	抢	tʃʰœŋ35	tʃʰœŋ35	coeng2	P114		
+2072	場	场	tʃʰœŋ21	tʃʰœŋ21	coeng4	P114		原文誤作[tʃhœŋ24]
+2073	暢	畅	tʃʰœŋ33	tʃʰœŋ33	coeng3	P114		
+2074	唱	唱	tʃʰœŋ33	tʃʰœŋ33	coeng3	P114		
+2075	商	商	ʃœŋ55	ʃœŋ55	soeng1	P114		
+2076	傷	伤	ʃœŋ55	ʃœŋ55	soeng1	P114		
+2077	雙	双	ʃœŋ55	ʃœŋ55	soeng1	P114		
+2078	常	常	ʃœŋ21	ʃœŋ21	soeng4	P114		
+2079	嘗	尝	ʃœŋ21	ʃœŋ21	soeng4	P114		
+2080	上	上	ʃœŋ22	ʃœŋ22	soeng6	P114	～面	原文誤作[ʃœŋ21]
+2081	賞	赏	ʃœŋ35	ʃœŋ35	soeng2	P114		
+2082	尚	尚	ʃœŋ35	ʃœŋ35	soeng2	P114		
+2083	上	上	ʃœŋ24	ʃœŋ24	soeng5	P114	～山	
+2084	姜	姜	kœŋ55	kœŋ55	goeng1	P114		
+2085	薑	姜	kœŋ55	kœŋ55	goeng1	P114		
+2086	疆	疆	kʰœŋ55	kʰœŋ55	koeng1	P114		
+2087	強	强	kʰœŋ21	kʰœŋ21	koeng4	P114	～大	原文誤作「1～強；2倔～」
+2088	強	强	kʰœŋ35	kʰœŋ35	koeng2	P114	勉～；倔～	原文誤作「1～強；2倔～」
+2089	強	强	kœŋ22	kœŋ22	goeng6	P114	倔～	原文誤作[khœŋ22]
+2090	香	香	hœŋ55	hœŋ55	hoeng1	P114		
+2091	鄉	乡	hœŋ55	hœŋ55	hoeng1	P114		
+2092	享	享	hœŋ35	hœŋ35	hoeng2	P114		
+2093	響	响	hœŋ35	hœŋ35	hoeng2	P114		
+2094	向	向	hœŋ33	hœŋ33	hoeng3	P114		
+2095	秧	秧	∅iœŋ55	jœŋ55	joeng1	P115		
+2096	羊	羊	∅iœŋ21	jœŋ21	joeng4	P115		
+2097	揚	扬	∅iœŋ21	jœŋ21	joeng4	P115		
+2098	瘍	疡	∅iœŋ21	jœŋ21	joeng4	P115		
+2099	養	养	∅iœŋ24	jœŋ24	joeng5	P115		
+2100	樣	样	∅iœŋ35	jœŋ35	joeng2	P115		原文誤作[∅iœŋ24]
+2101	讓	让	∅iœŋ22	jœŋ22	joeng6	P115		
+2102	英	英	∅ieŋ55	jeŋ55	jing1	P115		原文作[∅iŋ55]，与[∅ieŋ55]不統一
+2103	影	影	∅ieŋ35	jeŋ35	jing2	P115		原文作[∅iŋ35]，与[∅ieŋ35]不統一
+2104	映	映	∅ieŋ35	jeŋ35	jing2	P115		原文作[∅iŋ35]，与[∅ieŋ35]不統一
+2105	捧	捧	pʰuŋ35	pʰʊŋ35	pung2	P115		
+2106	蒙	蒙	muŋ21	mʊŋ21	mung4	P115		
+2107	丰	丰	fuŋ55	fʊŋ55	fung1	P115		
+2108	游	游	∅iɐu21	jɐu21	jau4	P111	逛	原文有音無字
+2109	夢	梦	muŋ22	mʊŋ22	mung6	P115		原文誤作[muŋ21]
+2110	懵	懵	muŋ35	mʊŋ35	mung2	P115		
+2111	風	风	fuŋ55	fʊŋ55	fung1	P115		
+2112	豐	丰	fuŋ55	fʊŋ55	fung1	P115		
+2113	封	封	fuŋ55	fʊŋ55	fung1	P115		
+2114	鋒	锋	fuŋ55	fʊŋ55	fung1	P115		
+2115	馮	冯	fuŋ21	fʊŋ21	fung4	P115		
+2116	鳳	凤	fuŋ22	fʊŋ22	fung6	P115		原文誤作[fuŋ21]
+2117	逢	逢	fuŋ21	fʊŋ21	fung4	P115		
+2118	諷	讽	fuŋ35	fʊŋ35	fung2	P115		
+2119	奉	奉	fuŋ22	fʊŋ22	fung6	P115		
+2120	東	东	tuŋ55	tʊŋ55	dung1	P115		
+2121	冬	冬	tuŋ55	tʊŋ55	dung1	P115		
+2122	棟	栋	tuŋ22	tʊŋ22	dung6	P115		原文誤作[tuŋ21]
+2123	懂	懂	tuŋ35	tʊŋ35	dung2	P115		
+2124	凍	冻	tuŋ33	tʊŋ33	dung3	P115		
+2125	動	动	tuŋ22	tʊŋ22	dung6	P115		
+2126	洞	洞	tuŋ22	tʊŋ22	dung6	P115		
+2127	通	通	tʰuŋ55	tʰʊŋ55	tung1	P115		
+2128	同	同	tʰuŋ21	tʰʊŋ21	tung4	P115		
+2129	童	童	tʰuŋ21	tʰʊŋ21	tung4	P115		
+2130	桶	桶	tʰuŋ35	tʰʊŋ35	tung2	P115		
+2131	統	统	tʰuŋ35	tʰʊŋ35	tung2	P115		
+2132	痛	痛	tʰuŋ33	tʰʊŋ33	tung3	P115		
+2133	齈	齈	nuŋ21	nʊŋ21	nung4	P115		原文誤作[nuŋ55]
+2134	農	农	nuŋ21	nʊŋ21	nung4	P115		
+2135	濃	浓	nuŋ21	nʊŋ21	nung4	P115		
+2136	聾	聋	luŋ21	lʊŋ21	lung4	P115		
+2137	弄	弄	luŋ22	lʊŋ22	lung6	P115		原文誤作[luŋ21]
+2138	隆	隆	luŋ21	lʊŋ21	lung4	P115		
+2139	龍	龙	luŋ21	lʊŋ21	lung4	P115		
+2140	籠	笼	luŋ24	lʊŋ24	lung5	P115		原文誤作[luŋ35]
+2141	攏	拢	luŋ35	lʊŋ35	lung2	P115		
+2142	壟	垄	luŋ24	lʊŋ24	lung5	P115		原文誤作[luŋ35]
+2143	壠	垄	luŋ24	lʊŋ24	lung5	P115		原文誤作[luŋ35]
+2144	松	松	ɬuŋ55	ɬʊŋ55	slung1	P115	～木	
+2145	嵩	嵩	ɬuŋ55	ɬʊŋ55	slung1	P115		
+2146	鬆	松	ɬuŋ55	ɬʊŋ55	slung1	P115	輕～	
+2147	慫	怂	ɬuŋ35	ɬʊŋ35	slung2	P115		原文誤作[ɬuŋ21]，而[ɬuŋ21]應該對應「㞞」字
+2148	送	送	ɬuŋ33	ɬʊŋ33	slung3	P115		
+2149	宋	宋	ɬuŋ33	ɬʊŋ33	slung3	P115		
+2150	椶	棕	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2151	宗	宗	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2152	綜	综	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2153	中	中	tʃuŋ55	tʃʊŋ55	zung1	P115	當～	
+2154	終	终	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2155	蹤	踪	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2156	鍾	钟	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2157	鐘	钟	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2158	縱	纵	tʃuŋ22	tʃʊŋ22	zung6	P115		原文誤作[tʃuŋ21]
+2159	誦	诵	tʃuŋ22	tʃʊŋ22	zung6	P115		原文誤作[tʃuŋ21]
+2160	重	重	tʃuŋ22	tʃʊŋ22	zung6	P115	還	原文有音無字，誤作[tʃuŋ21]，俗寫「仲」字
+2161	頌	颂	tʃuŋ22	tʃʊŋ22	zung6	P115		原文誤作[tʃuŋ21]
+2162	總	总	tʃuŋ35	tʃʊŋ35	zung2	P115		
+2163	種	种	tʃuŋ35	tʃʊŋ35	zung2	P115	～類	
+2164	腫	肿	tʃuŋ35	tʃʊŋ35	zung2	P115		
+2165	糉	粽	tʃuŋ33	tʃʊŋ33	zung3	P115		
+2166	粽	粽	tʃuŋ33	tʃʊŋ33	zung3	P115		
+2167	中	中	tʃuŋ33	tʃʊŋ33	zung3	P115	射～	
+2168	衆	众	tʃuŋ33	tʃʊŋ33	zung3	P115		
+2169	眾	众	tʃuŋ33	tʃʊŋ33	zung3	P115		
+2170	種	种	tʃuŋ33	tʃʊŋ33	zung3	P115	～樹	
+2171	仲	仲	tʃuŋ22	tʃʊŋ22	zung6	P115		
+2172	聰	聪	tʃʰuŋ55	tʃʰʊŋ55	cung1	P115		
+2173	蔥	葱	tʃʰuŋ55	tʃʰʊŋ55	cung1	P115		
+2174	葱	葱	tʃʰuŋ55	tʃʰʊŋ55	cung1	P115		
+2175	充	充	tʃʰuŋ55	tʃʰʊŋ55	cung1	P115		
+2176	衝	冲	tʃʰuŋ55	tʃʰʊŋ55	cung1	P115		
+2177	叢	丛	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115		
+2178	蟲	虫	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115		
+2179	崇	崇	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115		
+2180	從	从	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115	跟～	
+2181	重	重	tʃʰuŋ21	tʃʰʊŋ21	cung4	P115	～複	
+2182	寵	宠	tʃʰuŋ35	tʃʰʊŋ35	cung2	P115		
+2183	重	重	tʃʰuŋ24	tʃʰʊŋ24	cung5	P115	輕～	
+2184	銃	铳	tʃʰuŋ33	tʃʰʊŋ33	cung3	P115		
+2185	公	公	kuŋ55	kʊŋ55	gung1	P115		
+2186	工	工	kuŋ55	kʊŋ55	gung1	P115		
+2187	宮	宫	kuŋ55	kʊŋ55	gung1	P115		
+2188	恭	恭	kuŋ55	kʊŋ55	gung1	P115		
+2189	供	供	kuŋ55	kʊŋ55	gung1	P115	～給	
+2190	鞏	巩	kuŋ35	kʊŋ35	gung2	P115		
+2191	貢	贡	kuŋ33	kʊŋ33	gung3	P115		
+2192	汞	汞	kuŋ33	kʊŋ33	gung3	P115		
+2193	共	共	kuŋ22	kʊŋ22	gung6	P115		原文誤作[kuŋ33]
+2194	𫋐	𫋐	kuŋ33	kʊŋ33	gung3	P115	爬的意思	原文有音無字
+2195	窮	穷	kʰuŋ21	kʰʊŋ21	kung4	P115		
+2196	孔	孔	kʰuŋ35	kʰʊŋ35	kung2	P115		
+2197	恐	恐	kʰuŋ35	kʰʊŋ35	kung2	P115		
+2198	轟	轰	huŋ55	hʊŋ55	hung1	P115		
+2199	空	空	huŋ55	hʊŋ55	hung1	P115	～虛；～缺	
+2200	胸	胸	huŋ55	hʊŋ55	hung1	P115		
+2201	凶	凶	huŋ55	hʊŋ55	hung1	P115	吉～	
+2202	兇	凶	huŋ55	hʊŋ55	hung1	P115		
+2203	弘	弘	huŋ21	hʊŋ21	hung4	P115		
+2204	宏	宏	huŋ21	hʊŋ21	hung4	P115		
+2205	紅	红	huŋ21	hʊŋ21	hung4	P115		
+2206	洪	洪	huŋ21	hʊŋ21	hung4	P115		
+2207	雄	雄	huŋ21	hʊŋ21	hung4	P115		
+2208	孔	孔	huŋ35	hʊŋ35	hung2	P115		
+2209	恐	恐	huŋ35	hʊŋ35	hung2	P115		
+2210	控	控	huŋ33	hʊŋ33	hung3	P115		
+2211	翁	翁	∅uŋ55	∅ʊŋ55	ung1	P115		
+2212	雍	雍	∅iuŋ55	jʊŋ55	jung1	P115		
+2213	榮	荣	∅iuŋ21	jʊŋ21	jung4	P115		
+2214	絨	绒	∅iuŋ21	jʊŋ21	jung4	P115		
+2215	融	融	∅iuŋ21	jʊŋ21	jung4	P115		
+2216	容	容	∅iuŋ21	jʊŋ21	jung4	P115		
+2217	用	用	∅iuŋ22	jʊŋ22	jung6	P115		原文誤作[∅iuŋ21]
+2218	擁	拥	∅iuŋ35	jʊŋ35	jung2	P115		
+2219	勇	勇	∅iuŋ24	jʊŋ24	jung5	P115		原文誤作[∅iuŋ35]
+2220	答	答	tap3	tap3	daap3	P115		原文誤作[tap2]
+2221	踏	踏	tap2	tap2	daap6	P115		
+2222	沓	沓	tap2	tap2	daap6	P115		
+2223	搨	搨	tʰap3	tʰap3	taap3	P115		
+2224	塔	塔	tʰap3	tʰap3	taap3	P115		
+2225	焫	焫	nat3	nat3	naat3	P115	燒[ʃiu55]燒[ʃiu55]～～：指雞罵狗	原文有音無字，誤作[ʃiu55 ʃiu55 nap3 nap3]
+2226	納	纳	nap2	nap2	naap6	P115		
+2227	擸	擸	lap3	lap3	laap3	P115	挽的意思	原文有音無字，誤作[lap5]
+2228	拉	拉	lap3	lap3	laap3	P115	挽的意思	原文有音無字，誤作[lap5]
+2229	臘	腊	lap2	lap2	laap6	P115		
+2230	圾	圾	ɬap3	ɬap3	slaap3	P115	垃圾的意思	原文有音無字，誤作[ɬap5]
+2231	雜	杂	tʃap2	tʃap2	zaap6	P115		
+2232	閘	闸	tʃap2	tʃap2	zaap6	P115		
+2233	插	插	tʃʰap3	tʃʰap3	caap3	P115		
+2234	鴿	鸽	kap3	kap3	gaap3	P115		
+2235	甲	甲	kap3	kap3	gaap3	P115		
+2236	佮	佮	kap3	kap3	gaap3	P115	作伴	原文有音無字
+2237	裌	裌	kap2	kap2	gaap6	P115		
+2238	𧬈	𧬈	hɐp5	hɐp5	hap1	P115	欺負	原文有音無字，誤作[hap5]
+2239	狹	狭	hap3	hap3	haap3	P115		
+2240	合	合	hɐp2	hɐp2	hap6	P115		原文誤作[hap2]
+2241	峽	峡	hap2	hap2	haap6	P115		
+2242	鴨	鸭	∅ap3	∅ap3	aap3	P115		
+2243	八	八	pat3	pat3	baat3	P115		
+2244	拔	拔	pat2	pat2	baat6	P115		
+2245	抹	抹	mat3	mat3	maat3	P115		
+2246	襪	袜	mɐt2	mɐt2	mat6	P115		原文誤作[mat2]
+2247	法	法	fat3	fat3	faat3	P115		
+2248	發	发	fat3	fat3	faat3	P115		
+2249	髮	发	fat3	fat3	faat3	P115		
+2250	乏	乏	fat2	fat2	faat6	P115		
+2251	罰	罚	fat2	fat2	faat6	P115		
+2252	達	达	tat2	tat2	daat6	P115		
+2253	捺	捺	nat3	nat3	naat3	P115		
+2254	辣	辣	lat2	lat2	laat6	P115		
+2255	撒	撒	ɬat3	ɬat3	slaat3	P115		
+2256	薩	萨	ɬat3	ɬat3	slaat3	P115		
+2257	扎	扎	tʃat3	tʃat3	zaat3	P115		
+2258	紮	扎	tʃat3	tʃat3	zaat3	P115		原文作「扎」字
+2259	軋	轧	tʃat3	tʃat3	zaat3	P115		
+2260	擦	擦	tʃʰat3	tʃʰat3	caat3	P115		
+2261	察	察	tʃʰat3	tʃʰat3	caat3	P115		
+2262	刷	刷	tʃʰat3	tʃʰat3	caat3	P115		
+2263	殺	杀	ʃat3	ʃat3	saat3	P115		
+2264	壓	压	∅at3	∅at3	aat3	P115		
+2265	百	百	pak3	pak3	baak3	P115		
+2266	伯	伯	pak3	pak3	baak3	P115		
+2267	白	白	pak2	pak2	baak6	P115		
+2268	帕	帕	pʰak3	pʰak3	paak3	P115		
+2269	泊	泊	pʰak3	pʰak3	paak3	P115	梁山～	
+2270	迫	迫	pʰak3	pʰak3	paak3	P115		
+2271	拍	拍	pʰak3	pʰak3	paak3	P115		
+2272	魄	魄	pʰak3	pʰak3	paak3	P115		
+2273	陌	陌	mak2	mak2	maak6	P115		
+2274	窄	窄	tʃak3	tʃak3	zaak3	P115		
+2275	責	责	tʃak3	tʃak3	zaak3	P115		
+2276	澤	泽	tʃak2	tʃak2	zaak6	P115		
+2277	宅	宅	tʃak2	tʃak2	zaak6	P115		
+2278	摘	摘	tʃak2	tʃak2	zaak6	P115		
+2279	拆	拆	tʃʰak3	tʃʰak3	caak3	P115		
+2280	策	策	tʃʰak3	tʃʰak3	caak3	P115		原文誤作[tʃhak2]
+2281	冊	册	tʃʰak3	tʃʰak3	caak3	P115		原文誤作[tʃhak2]
+2282	賊	贼	tʃʰak2	tʃʰak2	caak6	P115	小偷	原文有音無字
+2283	格	格	kak3	kak3	gaak3	P115		
+2284	革	革	kak3	kak3	gaak3	P115		
+2285	隔	隔	kak3	kak3	gaak3	P115		
+2286	額	额	ŋak2	ŋak2	ngaak6	P115		
+2287	嚇	吓	hak3	hak3	haak3	P115	～一跳；恐～	
+2288	客	客	hak3	hak3	haak3	P115		
+2289	笠	笠	lɐp5	lɐp5	lap1	P115		
+2290	立	立	lɐp2	lɐp2	lap6	P115		
+2291	執	执	tʃɐp5	tʃɐp5	zap1	P115	～起來	原文作「拾」字
+2292	縶	絷	tʃɐp5	tʃɐp5	zap1	P115	縷	原文有音無字
+2293	汁	汁	tʃɐp5	tʃɐp5	zap1	P115		
+2294	集	集	tʃɐp2	tʃɐp2	zap6	P115		
+2295	習	习	tʃɐp2	tʃɐp2	zap6	P115		
+2296	溼	湿	ʃɐp5	ʃɐp5	sap1	P115		
+2297	濕	湿	ʃɐp5	ʃɐp5	sap1	P115		
+2298	十	十	ʃɐp2	ʃɐp2	sap6	P115		
+2299	急	急	kɐp5	kɐp5	gap1	P115		
+2300	及	及	kɐp2	kɐp2	gap6	P115		
+2301	磕	磕	kʰɐp5	kʰɐp5	kap1	P115		
+2302	級	级	kʰɐp5	kʰɐp5	kap1	P115		
+2303	吸	吸	kʰɐp5	kʰɐp5	kap1	P115		
+2304	筆	笔	pɐt5	pɐt5	bat1	P115		
+2305	畢	毕	pɐt5	pɐt5	bat1	P115		
+2306	不	不	pɐt5	pɐt5	bat1	P115		
+2307	弼	弼	pɐt2	pɐt2	bat6	P115		
+2308	匹	匹	pʰɐt5	pʰɐt5	pat1	P115		
+2309	密	密	mɐt2	mɐt2	mat6	P115		
+2310	物	物	mɐt2	mɐt2	mat6	P115		
+2311	佛	佛	fɐt2	fɐt2	fat6	P115		
+2312	突	突	tɐt2	tɐt2	dat6	P115		
+2313	肄	肄	lɐt2	lɐt2	lat6	P115		
+2314	栗	栗	lɐt2	lɐt2	lat6	P115		
+2315	律	律	lɐt2	lɐt2	lat6	P115		
+2316	率	率	lɐt2	lɐt2	lat6	P115		
+2317	質	质	tʃɐt5	tʃɐt5	zat1	P115		
+2318	疾	疾	tʃɐt2	tʃɐt2	zat6	P115		
+2319	侄	侄	tʃɐt2	tʃɐt2	zat6	P115		
+2320	姪	侄	tʃɐt2	tʃɐt2	zat6	P115		
+2321	膝	膝	tʃʰɐt5	tʃʰɐt5	cat1	P115		原文誤作[tʃhɐt2]
+2322	七	七	tʃʰɐt5	tʃʰɐt5	cat1	P115		
+2323	漆	漆	tʃʰɐt5	tʃʰɐt5	cat1	P115		
+2324	蚤	蚤	tʃu35	tʃu35	zu2	P115		原文誤作[ʃɐt5]
+2325	悉	悉	ɬɐt5	ɬɐt5	slat1	P115		原文誤作[ʃɐt5]
+2326	蝨	虱	ʃɐt5	ʃɐt5	sat1	P115		
+2327	失	失	ʃɐt5	ʃɐt5	sat1	P115		
+2328	室	室	ʃɐt5	ʃɐt5	sat1	P115		
+2329	實	实	ʃɐt2	ʃɐt2	sat6	P115		
+2330	吉	吉	kɐt5	kɐt5	gat1	P115		
+2331	橘	橘	kɐt5	kɐt5	gat1	P115		
+2332	咳	咳	kʰɐt5	kʰɐt5	kat1	P115		
+2333	乞	乞	hɐt5	hɐt5	hat1	P115		
+2334	亥	亥	hɔi22	hɔi22	hoi6	P115		原文誤作[hɐt2]
+2335	轄	辖	hɐt2	hɐt2	hat6	P115		
+2336	核	核	hɐt2	hɐt2	hat6	P115		
+2337	覈	核	hɐt2	hɐt2	hat6	P115	審～	
+2338	北	北	pɐk5	pɐk5	bak1	P115		
+2339	嘜	唛	mɐk5	mɐk5	mak1	P115	米～：米筒	原文有音無字
+2340	墨	墨	mɐk2	mɐk2	mak6	P115		
+2341	麥	麦	mɐk2	mɐk2	mak6	P115		
+2342	脈	脉	mɐk2	mɐk2	mak6	P115		
+2343	德	德	tɐk5	tɐk5	dak1	P116		
+2344	特	特	tɐk2	tɐk2	dak6	P116		
+2345	肋	肋	lɐk2	lɐk2	lak6	P116		
+2346	塞	塞	ɬɐk5	ɬɐk5	slak1	P116	阻～	
+2347	則	则	tʃɐk5	tʃɐk5	zak1	P116		
+2348	鯽	鲫	tʃɐk5	tʃɐk5	zak1	P116		
+2349	側	侧	tʃɐk5	tʃɐk5	zak1	P116		
+2350	測	测	tʃʰɐk5	tʃʰɐk5	cak1	P116		
+2351	賊	贼	tʃʰɐk2	tʃʰɐk2	cak6	P116		
+2352	刻	刻	kʰɐk5	kʰɐk5	kak1	P116	時～	
+2353	握	握	ŋɐk5	ŋɐk5	ngak1	P116		
+2354	軛	轭	ŋɐk5	ŋɐk5	ngak1	P116		
+2355	眲	眲	ŋɐk5	ŋɐk5	ngak1	P116	騙	原文有音無字
+2356	克	克	hɐk5	hɐk5	hak1	P116		
+2357	黑	黑	hɐk5	hɐk5	hak1	P116	黑白；滅	「滅」義原文有音無字，誤作[hɔk5]，應是「黑燈」的「黑」
+2358	嗒	嗒	tɛp5	tɛp5	dep1	P116	親	原文有音無字
+2359	鑷	镊	nɛp2	nɛp2	nep6	P116	鑷子	
+2360	𤗈	𤗈	ɬɛp3	ɬɛp3	slep3	P116	木～	原文作「屑」字
+2361	霅	霅	ɬɛp3	ɬɛp3	slep3	P116	哭～～：抽泣	原文有音無字。應作陽入
+2362	八	八	pɛt3	pɛt3	bet3	P116		
+2363	篾	篾	mɛt2	mɛt2	met6	P116		
+2364	逼	逼	pek5	pek5	bik1	P116		原文誤作[pɛk5]
+2365	碧	碧	pek5	pek5	bik1	P116		原文誤作[pɛk5]
+2366	璧	璧	pek5	pek5	bik1	P116		原文誤作[pɛk5]
+2367	壁	壁	pek5	pek5	bik1	P116		原文誤作[pɛk5]
+2368	闢	辟	pʰek5	pʰek5	pik1	P116		原文誤作[phɛk5]
+2369	辟	辟	pʰek5	pʰek5	pik1	P116		原文誤作[phɛk5]
+2370	劈	劈	pʰɛk3	pʰɛk3	pek3	P116		
+2371	擘	擘	mek5	mek5	mik1	P116	～菜：擇菜；「掰、剝」的意思；捻的意思	原文有音無字，誤作[mɛk5]
+2372	覓	觅	mek2	mek2	mik6	P116		原文誤作[mɛk2]
+2373	的	的	tek5	tek5	dik1	P116	目～	原文誤作[tɛk5]
+2374	滴	滴	tek5	tek5	dik1	P116		原文誤作[tɛk5]
+2375	趯	趯	tɛk3	tɛk3	dek3	P116	跑的意思	原文有音無字
+2376	笛	笛	tek2	tek2	dik6	P116		原文誤作[tɛk2]
+2377	敵	敌	tek2	tek2	dik6	P116		原文誤作[tɛk2]
+2378	踢	踢	tʰɛk3	tʰɛk3	tek3	P116		
+2379	叻	叻	lɛk5	lɛk5	lek1	P116	聰明	原文有音無字
+2380	力	力	lek2	lek2	lik6	P116		原文誤作[lɛk2]
+2381	歷	历	lek2	lek2	lik6	P116		原文誤作[lɛk2]
+2382	曆	历	lek2	lek2	lik6	P116		原文誤作[lɛk2]
+2383	息	息	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
+2384	惜	惜	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
+2385	釋	释	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
+2386	析	析	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
+2387	即	即	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
+2388	織	织	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
+2389	職	职	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
+2390	積	积	tʃek5	tʃek5	zik1	P116	面積；「J」的意思	
+2391	績	绩	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
+2392	直	直	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk3]
+2393	值	值	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk3]
+2394	脊	脊	tʃɛk3	tʃɛk3	zek3	P116		
+2395	隻	只	tʃɛk3	tʃɛk3	zek3	P116		
+2396	蟄	蛰	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2397	植	植	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2398	籍	籍	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2399	席	席	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2400	炙	炙	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2401	寂	寂	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2402	赤	赤	tʃʰek5	tʃʰek5	cik1	P116		原文誤作[tʃhɛk5]
+2403	戚	戚	tʃʰek5	tʃʰek5	cik1	P116		原文誤作[tʃhɛk5]
+2404	尺	尺	tʃʰɛk3	tʃʰɛk3	cek3	P116		
+2405	色	色	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
+2406	識	识	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
+2407	式	式	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
+2408	適	适	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
+2409	勺	勺	ʃɛk2	ʃɛk2	sek6	P116		
+2410	食	食	ʃek2	ʃek2	sik6	P116		原文誤作[ʃɛk2]
+2411	石	石	ʃɛk2	ʃɛk2	sek6	P116		
+2412	戟	戟	kek5	kek5	gik1	P116		原文誤作[kɛk5]
+2413	劇	剧	kek5	kek5	gik1	P116		「劇烈」訓讀「激烈」，原文誤作[kɛk5]
+2414	擊	击	kek5	kek5	gik1	P116		原文誤作[kɛk5]
+2415	極	极	kek2	kek2	gik6	P116		原文誤作[kɛk2]
+2416	屐	屐	kʰɛk5	kʰɛk5	kek1	P116		
+2417	激	激	kek5	kek5	gik1	P116	生氣	原文誤作[khɛk5]
+2418	級	级	kʰɛk5	kʰɛk5	kek1	P116	樓梯～：臺階	原文有音無字，記音疑誤
+2419	逆	逆	ŋek2	ŋek2	ngik6	P116	～風	原文誤作[ŋɛk2]
+2420	喫	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
+2421	吃	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
+2422	碟	碟	tip2	tip2	dip6	P116		
+2423	蝶	蝶	tip2	tip2	dip6	P116		
+2424	帖	帖	tʰip3	tʰip3	tip3	P116		
+2425	孽	孽	nip2	nip2	nip6	P116		原文誤作[nip3]
+2426	聶	聂	nip2	nip2	nip6	P116	姓	
+2427	業	业	nip2	nip2	nip6	P116		
+2428	獵	猎	lip2	lip2	lip6	P116		原文誤作[lip3]
+2429	接	接	tʃip3	tʃip3	zip3	P116		
+2430	摺	折	tʃip3	tʃip3	zip3	P116		
+2431	攝	摄	ʃip3	ʃip3	sip3	P116		
+2432	涉	涉	ʃip3	ʃip3	sip3	P116		
+2433	劫	劫	kip3	kip3	gip3	P116		
+2434	怯	怯	hip3	hip3	hip3	P116		
+2435	脅	胁	hip3	hip3	hip3	P116		
+2436	協	协	hip3	hip3	hip3	P116		
+2437	醃	腌	∅ip3	jip3	jip3	P116		
+2438	腌	腌	∅ip3	jip3	jip3	P116		
+2439	葉	叶	∅ip2	jip2	jip6	P116		
+2440	頁	页	∅ip2	jip2	jip6	P116		
+2441	啄	啄	tœk3	tœk3	doek3	P116		
+2442	虐	虐	nœk2	nœk2	noek6	P116		
+2443	略	略	lœk3	lœk3	loek3	P116		
+2444	掠	掠	lœk3	lœk3	loek3	P116		
+2445	削	削	ɬœk3	ɬœk3	sloek3	P116		
+2446	嚼	嚼	tʃœk3	tʃœk3	zoek3	P116		
+2447	着	着	tʃœk3	tʃœk3	zoek3	P116	～衣	
+2448	酌	酌	tʃœk3	tʃœk3	zoek3	P116		
+2449	桌	桌	tʃœk3	tʃœk3	zoek3	P116		
+2450	着	着	tʃœk2	tʃœk2	zoek6	P116	睡～	
+2451	雀	雀	tʃʰœk3	tʃʰœk3	coek3	P116		
+2452	鵲	鹊	tʃʰœk3	tʃʰœk3	coek3	P116		
+2453	腳	脚	kœk3	kœk3	goek3	P116		
+2454	卻	却	kʰœk3	kʰœk3	koek3	P116		
+2455	覺	觉	kʰœk3	kʰœk3	koek3	P116	知覺	
+2456	噦	哕	∅œk2	∅œk2	oek6	P116	乾噦	
+2457	入	入	∅iɐp2	jɐp2	jap6	P116		
+2458	割	割	kɔt3	kɔt3	got3	P116		
+2459	喝	喝	hɔt3	hɔt3	hot3	P116	喝酒	
+2460	渴	渴	hɔt3	hɔt3	hot3	P116		
+2461	豁	豁	hɔt2	hɔt2	hot6	P116	豁然	
+2462	劇	剧	kʰɛk2	kʰɛk2	kek6	P116	戲劇	原文誤作[khek2]
+2463	博	博	pɔk3	pɔk3	bok3	P116		
+2464	縛	缚	pɔk3	pɔk3	bok3	P116		
+2465	剝	剥	pɔk3	pɔk3	bok3	P116		
+2466	薄	薄	pɔk2	pɔk2	bok6	P116		
+2467	卜	卜	pʰuk5	pʰʊk5	puk1	P116		原文誤作[phɔk5]
+2468	朴	朴	pʰɔk3	pʰɔk3	pok3	P116		
+2469	樸	朴	pʰɔk3	pʰɔk3	pok3	P116		
+2470	撲	扑	pʰɔk3	pʰɔk3	pok3	P116		
+2471	僕	仆	pʰuk2	pʰʊk2	puk6	P116		原文誤作[phɔk2]
+2472	莫	莫	mɔk2	mɔk2	mok6	P116	約～	
+2473	膜	膜	mɔk2	mɔk2	mok6	P116		
+2474	幕	幕	mɔk2	mɔk2	mok6	P116		
+2475	寞	寞	mɔk2	mɔk2	mok6	P116		
+2476	陌	陌	mɐk2	mɐk2	mak6	P116		原文誤作[mɔk2]
+2477	戳	戳	tʃʰɔk3	tʃʰɔk3	cok3	P116		原文誤作[tɔk3]
+2478	鐸	铎	tɔk2	tɔk2	dok6	P116		
+2479	託	托	tʰɔk3	tʰɔk3	tok3	P116		
+2480	托	托	tʰɔk3	tʰɔk3	tok3	P116		
+2481	諾	诺	nɔk3	nɔk3	nok3	P116		
+2482	洛	洛	lɔk3	lɔk3	lok3	P116		
+2483	落	落	lɔk2	lɔk2	lok6	P116		
+2484	樂	乐	lɔk2	lɔk2	lok6	P116		
+2485	塑	塑	ɬɔk3	ɬɔk3	slok3	P116		
+2486	索	索	ɬɔk3	ɬɔk3	slok3	P116		
+2487	朔	朔	ɬɔk3	ɬɔk3	slok3	P116		
+2488	作	作	tʃɔk3	tʃɔk3	zok3	P116		
+2489	鑿	凿	tʃɔk2	tʃɔk2	zok6	P116		
+2490	綽	绰	tʃʰɔk3	tʃʰɔk3	cok3	P116		
+2491	角	角	kɔk3	kɔk3	gok3	P116		
+2492	國	国	kɔk3	kɔk3	gok3	P116		
+2493	各	各	kɔk2	kɔk2	gok6	P116		
+2494	郭	郭	kʰɔk3	kʰɔk3	kok3	P116		
+2495	廓	廓	kʰɔk3	kʰɔk3	kok3	P116		
+2496	藿	藿	kʰɔk3	kʰɔk3	kok3	P116		
+2497	確	确	kʰɔk3	kʰɔk3	kok3	P116		原文誤作[khɔk2]
+2498	鄂	鄂	ŋɔk2	ŋɔk2	ngok6	P116		
+2499	嶽	岳	ŋɔk2	ŋɔk2	ngok6	P116		
+2500	岳	岳	ŋɔk2	ŋɔk2	ngok6	P116		
+2501	哭	哭	huk5	hʊk5	huk1	P116		原文誤作[hɔk5]
+2502	殼	壳	hɔk3	hɔk3	hok3	P116		
+2503	鶴	鹤	hɔk2	hɔk2	hok6	P116		
+2504	學	学	hɔk2	hɔk2	hok6	P116		
+2505	屋	屋	∅uk5	∅ʊk5	uk1	P116		原文誤作[hɔk5]
+2506	惡	恶	∅ɔk3	∅ɔk3	ok3	P116		
+2507	鱉	鳖	pit3	pit3	bit3	P117		
+2508	鼈	鳖	pit3	pit3	bit3	P117		
+2509	別	别	pit2	pit2	bit6	P117	區～；離～	
+2510	撇	撇	pʰit3	pʰit3	pit3	P117		
+2511	匿	匿	nek2	nek2	nik6	P117		原文誤作[mit2]
+2512	滅	灭	mit2	mit2	mit6	P117		
+2513	跌	跌	tit3	tit3	dit3	P117		原文誤作[tit2]
+2514	鐵	铁	tʰit3	tʰit3	tit3	P117		
+2515	列	列	lit2	lit2	lit6	P117		原文誤作[lit3]
+2516	裂	裂	lit2	lit2	lit6	P117		原文誤作[lit3]
+2517	劣	劣	lit2	lit2	lit6	P117		
+2518	哲	哲	tʃit3	tʃit3	zit3	P117		
+2519	折	折	tʃit3	tʃit3	zit3	P117	～斷	
+2520	浙	浙	tʃit3	tʃit3	zit3	P117		
+2521	節	节	tʃit3	tʃit3	zit3	P117		
+2522	捷	捷	tʃit2	tʃit2	zit6	P117		
+2523	折	折	ʃit2	ʃit2	sit6	P117	弄～了	原文誤作[tʃit2]
+2524	截	截	tʃit2	tʃit2	zit6	P117		
+2525	絕	绝	tʃit2	tʃit2	zit6	P117		
+2526	撤	撤	tʃʰit3	tʃʰit3	cit3	P117		
+2527	設	设	tʃʰit3	tʃʰit3	cit3	P117		
+2528	妾	妾	tʃʰip3	tʃʰip3	cip3	P117		原文誤作[tʃhit2]
+2529	切	切	tʃʰit3	tʃʰit3	cit3	P117		原文誤作[tʃhit2]
+2530	舌	舌	ʃit2	ʃit2	sit6	P117		
+2531	傑	杰	kit2	kit2	git6	P117		
+2532	杰	杰	kit2	kit2	git6	P117		
+2533	結	结	kit3	kit3	git3	P117		原文誤作[kit2]
+2534	揭	揭	kʰit3	kʰit3	kit3	P117		
+2535	乙	乙	∅it3	jit3	jit3	P117		
+2536	熱	热	∅it2	jit2	jit6	P117		
+2537	木	木	muk2	mʊk2	muk6	P117		
+2538	目	目	muk2	mʊk2	muk6	P117		
+2539	督	督	tuk5	tʊk5	duk1	P117		
+2540	獨	独	tuk2	tʊk2	duk6	P117		
+2541	讀	读	tuk2	tʊk2	duk6	P117		
+2542	毒	毒	tuk2	tʊk2	duk6	P117		
+2543	鹿	鹿	luk2	lʊk2	luk6	P117		
+2544	六	六	luk2	lʊk2	luk6	P117		
+2545	綠	绿	luk2	lʊk2	luk6	P117		
+2546	錄	录	luk2	lʊk2	luk6	P117		
+2547	肅	肃	ɬuk5	ɬʊk5	sluk1	P117		
+2548	宿	宿	ɬuk5	ɬʊk5	sluk1	P117		原文重複記音[ɬuk/ɬok5]
+2549	竹	竹	tʃuk5	tʃʊk5	zuk1	P117		
+2550	燭	烛	tʃuk5	tʃʊk5	zuk1	P117		
+2551	續	续	tʃuk2	tʃʊk2	zuk6	P117		原文有作[tʃok2]，不符原文音系符號
+2552	族	族	tʃuk2	tʃʊk2	zuk6	P117		
+2553	軸	轴	tʃuk2	tʃʊk2	zuk6	P117		
+2554	速	速	tʃʰuk5	tʃʰʊk5	cuk1	P117		
+2555	促	促	tʃʰuk5	tʃʰʊk5	cuk1	P117		
+2556	觸	触	tʃʰuk5	tʃʰʊk5	cuk1	P117		
+2557	束	束	tʃʰuk5	tʃʰʊk5	cuk1	P117		
+2558	縮	缩	ʃuk5	ʃʊk5	suk1	P117		
+2559	叔	叔	ʃuk5	ʃʊk5	suk1	P117		
+2560	熟	熟	ʃuk2	ʃʊk2	suk6	P117		
+2561	俗	俗	ʃuk2	ʃʊk2	suk6	P117		
+2562	贖	赎	ʃuk2	ʃʊk2	suk6	P117		
+2563	屬	属	ʃuk2	ʃʊk2	suk6	P117		
+2564	谷	谷	kuk5	kʊk5	guk1	P117		
+2565	穀	谷	kuk5	kʊk5	guk1	P117		
+2566	菊	菊	kuk5	kʊk5	guk1	P117		
+2567	局	局	kuk2	kʊk2	guk6	P117		
+2568	窟	窟	khuk5	kʰʊk5	kuk1	P117		原文如此，疑誤
+2569	曲	曲	kʰuk5	kʰʊk5	kuk1	P117	1～折；2歌～	
+2570	麯	曲	kʰuk5	kʰʊk5	kuk1	P117		
+2571	麴	曲	kʰuk5	kʰʊk5	kuk1	P117		
+2572	玉	玉	∅iuk2	jʊk2	juk6	P117	～林	
+2573	獄	狱	∅iuk2	jʊk2	juk6	P117		
+2574	欲	欲	∅iuk2	jʊk2	juk6	P109，117		原文P109誤作[∅y22]
+2575	慾	欲	∅iuk2	jʊk2	juk6	P109，117		原文P109誤作[∅y22]
+2576	浴	浴	∅iuk2	jʊk2	juk6	P117		
+2577	鉢	钵	put3	put3	but3	P117		
+2578	缽	钵	put3	put3	but3	P117		
+2579	勃	勃	put2	put2	but6	P117		
+2580	潑	泼	pʰut3	pʰut3	put3	P117		
+2581	末	末	mut2	mut2	mut6	P117		
+2582	沒	没	mut2	mut2	mut6	P117	1沉～；2～有	
+2583	闊	阔	fut3	fut3	fut3	P117		原文誤作[fut2]
+2584	活	活	∅ut2	wut2	wut6	P117		
+2585	剝	剥	pʰuk5	pʰʊk5	puk1	P117	打開	原文有音無字，作[phok5]
+2586	摸	摸	muk5	mʊk5	muk1	P117	掏的意思	原文有音無字，誤作[mok3]
+2587	复	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
+2588	復	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
+2589	福	福	fuk5	fʊk5	fuk1	P117		原文作[fok5]
+2590	複	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
+2591	服	服	fuk2	fʊk2	fuk6	P117		原文作[fok2]
+2592	伏	伏	fuk2	fʊk2	fuk6	P117		原文作[fok2]
+2593	𧰵	𧰵	tuk5	tʊk5	duk1	P117	戳的意思	原文有音無字，作[tok5]
+2594	熝	熝	lʊk5	lʊk5	luk1	P117	燙	原文有音無字，誤作[lok2]，釋義誤作「湯」
+2595	粟	粟	ɬuk5	ɬʊk5	sluk1	P117		原文作[ɬok5]
+2596	粥	粥	tʃuk5	tʃʊk5	zuk1	P117		原文作[tʃok5]
+2597	足	足	tʃuk5	tʃʊk5	zuk1	P117		原文作[tʃok5]
+2598	捉	捉	tʃɔk3	tʃɔk3	zok3	P117		原文誤作[tʃok3]
+2599	濁	浊	tʃuk2	tʃʊk2	zuk6	P117		原文作[tʃok2]
+2600	畜	畜	tʃʰuk5	tʃʰʊk5	cuk1	P117	六～	原文作[tʃhok5]
+2601	奪	夺	tyt2	tyt2	dyut6	P117		
+2602	脫	脱	tʰyt3	tʰyt3	tyut3	P117		原文誤作[thyt2]
+2603	捋	捋	lyt3	lyt3	lyut3	P117		
+2604	薛	薛	ɬyt3	ɬyt3	slyut3	P117		
+2605	雪	雪	ɬyt3	ɬyt3	slyut3	P117		
+2606	出	出	tʃʰyt5	tʃʰyt5	cyut1	P117		
+2607	恤	恤	ɬyt5	ɬyt5	slyut1	P117		原文誤作[ʃyt5]
+2608	說	说	ʃyt3	ʃyt3	syut3	P117		原文誤作[ʃyt2]
+2609	決	决	kʰyt3	kʰyt3	kyut3	P117		
+2610	缺	缺	kʰyt3	kʰyt3	kyut3	P117		
+2611	歇	歇	hyt3	hyt3	hyut3	P117		
+2612	血	血	hyt3	hyt3	hyut3	P117		
+2613	閱	阅	∅yt2	jyt2	jyut6	P117		
+2614	月	月	∅yt2	jyt2	jyut6	P117		
+2615	越	越	∅yt2	jyt2	jyut6	P117		
+2616	粵	粤	∅yt2	jyt2	jyut6	P117		
+2617	穴	穴	∅yt2	jyt2	jyut6	P117		
+2618	約	约	∅iœk3	jœk3	joek3	P117		
+2619	弱	弱	∅iœk2	jœk2	joek6	P117		
+2620	藥	药	∅iœk2	jœk2	joek6	P117		
+2621	一	一	∅iɐt5	jɐt5	jat1	P117		
+2622	日	日	∅iɐt2	jɐt2	jat6	P117	～子	
+2623	逸	逸	∅iɐt2	jɐt2	jat6	P117		
+2624	郁	郁	∅iuk5	jʊk5	juk1	P117		原文作[∅iok5]
+2625	育	育	∅iuk5	jʊk5	juk1	P117		原文作[∅iok5]
+2626	逳	逳	∅iuk5	jʊk5	juk1	P117	動彈	原文有音無字，作[∅iok5]
+2627	肉	肉	∅iuk2	jʊk2	juk6	P117		原文作[∅iok2]
+2628	辱	辱	∅iuk2	jʊk2	juk6	P117		原文作[∅iok2]
+2629	括	括	kuat3	kʷat3	gwaat3	P117	包括	
+2630	刮	刮	kuat3	kʷat3	gwaat3	P117		
+2631	挖	挖	∅uat3	wat3	waat3	P117		原文誤作[∅uat5]
+2632	滑	滑	∅uat2	wat2	waat6	P117		
+2633	或	或	∅uak2	wak2	waak6	P117		
+2634	獲	获	∅uak2	wak2	waak6	P117		
+2635	穫	获	∅uak2	wak2	waak6	P117		
+2636	劃	划	∅uak2	wak2	waak6	P117		
+2637	卒	卒	tʃɐt5	tʃɐt5	zat1	P117	兵～	原文作[tʃuɐt5]
+2638	猝	猝	tʃɐt5	tʃɐt5	zat1	P117	倉～	原文作[tʃuɐt5]
+2639	朮	术	ʃɐt2	ʃɐt2	sat6	P117	白～	原文作[ʃuɐt2]
+2640	術	术	ʃɐt2	ʃɐt2	sat6	P117		原文作[ʃuɐt2]
+2641	骨	骨	kuɐt5	kʷɐt5	gwat1	P117	筋～；～頭	
+2642	掘	掘	kuɐt2	kʷɐt2	gwat6	P117		
+2643	屈	屈	∅uɐt5	wɐt5	wat1	P117		
+2644	爩	爩	∅uɐt5	wɐt5	wat1	P117	燻	原文作「熏」字
+2645	煀	煀	∅uɐt5	wɐt5	wat1	P117	燻	原文作「熏」字
+2646	核	核	∅uɐt2	wɐt2	wat6	P117	果子～	
+2647	憶	忆	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
+2648	億	亿	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
+2649	益	益	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
+2650	翼	翼	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
+2651	譯	译	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
+2652	易	易	∅iek2	jek2	jik6	P117	交～	原文誤作[∅iɛk2]
+2653	疫	疫	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
+2654	刮	刮	kuɛt3	kʷɛt3	gwet3	P117		
+2655	滑	滑	∅uɛt2	wɛt2	wet6	P117		
+2656	挖	挖	∅uɛt3	wɛt3	wet3	P117		原文誤作[∅uɛt2]
+2657	鑊	镬	∅uɔk2	wɔk2	wok6	P118	鍋	原文誤作[∅uɔk5]
+2658	沃	沃	∅uɔk3	wɔk3	wok3	P118		
+2659	銳	锐	∅iui24	jui24	jui5	P118		
+2660	瑞	瑞	ʃui22	ʃui22	sui6	P118		原文誤作[∅iui22]
+2661	拾	拾	tʃɐp5	tʃɐp5	zap1	P115	～起來	
+2662	痲	痲	ma21	ma21	maa4	P109		原文作「麻」字
+2663	畬	畬	ʃɛ55	ʃɛ55	se1	P109		原文作「畲」字
+2664	稜	棱	lɐŋ55	lɐŋ55	lang1	P113	在皮膚上抓出的痕跡	原文有音無字
+2665	瀰	弥	mɛ21	mɛ21	me4	P109	乳房	原文有音無字
+2666	㞞	𪨊	ɬuŋ21	ɬʊŋ21	slung4	P115		原文誤作「慫」字，而[ɬuŋ21]應該對應「㞞」字
+2667	癒	愈	∅y22	jy22	jyu6	P109		原文誤作[∅y21]
+2668	嚐	尝	ʃœŋ21	ʃœŋ21	soeng4	P114		
+2669	棯	棯	nim55	nim55	nim1	P111		原文作「捻」字
+2670	惠	惠	∅ui22	wui22	wui6	P110		原文誤作[∅ui21]
+2671	著	著	tʃœk3	tʃœk3	zoek3	P116	～衣	原文作「着」字
+2672	著	著	tʃœk2	tʃœk2	zoek6	P116	睡～	原文作「着」字
+2673	棕	棕	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2674	掰	掰	mek5	mek5	mik1	P116	～菜：擇菜；「掰、剝」的意思；捻的意思	原文有音無字，誤作[mɛk5]
+2675	閒	闲	han21	han21	haan4	P112	〔文讀〕	
+2676	閒	闲	hɛn21	hɛn21	hen4	P113	〔白讀〕	
+2677	舔	舔	lɛm35	lɛm35	lem2	P113		原文作「舐」字
+2678	坅	坅	hɐm35	hɐm35	ham2	P113		原文作「埯」字，誤作[haŋ33]，本字「坅」
+2679	鈀	钯	pʰa21	pʰa21	paa4	P109		原文誤作[pha22]，原文作「耙」字
