@@ -781,7 +781,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 780	黎	黎	lɐi21	lɐi21	lai4	P110		
 781	麗	丽	lɐi22	lɐi22	lai6	P110		原文誤作[lɐi21]
 782	禮	礼	lɐi24	lɐi24	lai5	P110		
-783	拽	拽	jɐi22	jɐi22	jai22	P110	牽	原文有音無字，誤作[lɐi33]
+783	拽	拽	jɐi22	jɐi22	jai6	P110	牽	原文有音無字，誤作[lɐi33]
 784	荔	荔	lɐi22	lɐi22	lai6	P110		
 785	吏	吏	li22	li22	li6	P110		原文誤作[lɐi22]
 786	西	西	ɬɐi55	ɬɐi55	slai1	P110		
