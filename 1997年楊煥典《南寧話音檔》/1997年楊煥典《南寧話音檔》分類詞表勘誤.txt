@@ -1,0 +1,228 @@
+ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
+1	一、自然現象/太陽	日頭	日头	jɐt2 tʰɐu21	jɐt2 tʰɐu21	jat6 tau4	P17	太陽1	
+2	一、自然現象/太陽	熱頭	热头	jit2 tʰɐu21	jit2 tʰɐu21	jit6 tau4	P17	太陽2	
+3	一、自然現象/月亮	月光	月光	jyt2 kɔŋ55	jyt2 kɔŋ55	jyut6 gong1	P17	月亮	
+4	一、自然現象/星星	天星	天星	tʰin55 ɬɛŋ55	tʰin55 ɬɛŋ55	tin1 sleng1	P17	星星	
+5	一、自然現象/颳風	翻風	翻风	fan55 foŋ55	fan55 foŋ55	faan1 fung1	P17	颳風	
+6	一、自然現象/打雷	打雷	打雷	ta35 lui21	ta35 lui21	daa2 lui4	P17	打雷	
+7	一、自然現象/閃電	閃電	闪电	sim35 tin22	sim35 tin22	sim2 din6	P17	閃電	
+8	一、自然現象/下雨	落雨	落雨	lɔk2 jy24	lɔk2 jy24	lok6 jyu5	P17	下雨	
+9	一、自然現象/結冰	結冰	结冰	kit3 peŋ55	kit3 peŋ55	git3 bing1	P17	結冰	
+10	一、自然現象/冰雹	冰雹	冰雹	peŋ55 pʰau55	peŋ55 pʰau55	bing1 paau1	P17	冰雹	
+11	一、自然現象/虹	虹	虹	kɔŋ33	kɔŋ33	gong3	P17	虹	
+12	二、時令、時節/除夕	年三十晚	年三十晚	nin21 ɬam33 sɐp2 man24	nin21 ɬam33 sɐp2 man24	nin4 slaam3 sap6 maan5	P17	除夕	
+13	二、時令、時節/端午節	五月初五	五月初五	ŋ̍24 jyt2 tsʰɔ55 ŋ̍24	ŋ̍24 jyt2 tsʰɔ55 ŋ̍24	ng5 jyut6 co1 ng5	P17	端午節	
+14	二、時令、時節/中秋節	八月十五	八月十五	pɛt3 jyt2 sɐp2 m̩24	pɛt3 jyt2 sɐp2 m̩24	bet3 jyut6 sap6 m5	P17	中秋節	
+15	二、時令、時節/今年	今年	今年	kɐm55 nin21	kɐm55 nin21	gam1 nin4	P17	今年	
+16	二、時令、時節/去年	舊年	旧年	kɐu22 nin21	kɐu22 nin21	gau6 nin4	P17	去年	
+17	二、時令、時節/明年	明年	明年	meŋ21 nin21	meŋ21 nin21	ming4 nin4	P17	明年	
+18	二、時令、時節/星期天	禮拜日	礼拜日	lɐi24 pai33 jɐt2	lɐi24 pai33 jɐt2	lai5 baai3 jat6	P18	星期天	
+19	二、時令、時節/今天	今日	今日	kɐm55 jɐt2	kɐm55 jɐt2	gam1 jat6	P18	今天	
+20	二、時令、時節/明天	聽日	听日	tʰeŋ55 jɐt2	tʰeŋ55 jɐt2	ting1 jat6	P17	明天	原文[tʰeŋ55]有音無字
+21	二、時令、時節/昨天	昨日	昨日	tsɔ22 jɐt2	tsɔ22 jɐt2	zo6 jat6	P17	昨天	原文[tsɔ22]有音無字
+22	三、植物/麥子	麥	麦	mɐk2	mɐk2	mak6	P18	麥子	
+23	三、植物/大米	米	米	mɐi24	mɐi24	mai5	P18	大米	
+24	三、植物/蠶豆	蠶豆	蚕豆	tsʰan21 tɐu22	tsʰan21 tɐu22	caan4 dau6	P18	蠶豆	
+25	三、植物/白薯	番薯	番薯	fan55 sy21	fan55 sy21	faan1 syu4	P18	白薯	
+26	三、植物/馬鈴薯	馬鈴薯	马铃薯	ma24 leŋ21 sy21	ma24 leŋ21 sy21	maa5 ling4 syu4	P18	馬鈴薯	
+27	三、植物/茄子	矮瓜	矮瓜	ɐi35 kʷa55	∅ɐi35 kʷa55	ai2 gwaa1	P18	茄子	
+28	三、植物/南瓜	南瓜	南瓜	nam21 kʷa55	nam21 kʷa55	naam4 gwaa1	P18	南瓜	
+29	三、植物/西紅柿	番茄	番茄	fan55 kʰɛ21	fan55 kʰɛ21	faan1 ke4	P18	西紅柿1	
+30	三、植物/西紅柿	金錢桔	金钱桔	kɐm55 tsʰin21 kɐt5	kɐm55 tsʰin21 kɐt5	gam1 cin4 gat1	P18	西紅柿2	
+31	三、植物/向日葵	向日葵	向日葵	hœŋ33 jɐt2 kʷʰɐi21	hœŋ33 jɐt2 kʷʰɐi21	hoeng3 jat6 kwai4	P18	向日葵	
+32	三、植物/菠菜	菠菜	菠菜	pɔ55 tsʰɔi33	pɔ55 tsʰɔi33	bo1 coi3	P18	菠菜	
+33	三、植物/捲心菜	椰菜	椰菜	jɛ21 tsʰɔi33	jɛ21 tsʰɔi33	je4 coi3	P18	捲心菜	
+34	四、動物/豬	豬	猪	tsy55	tsy55	zyu1	P18	豬	
+35	四、動物/公豬	豬公	猪公	tsy55 koŋ55	tsy55 koŋ55	zyu1 gung1	P18	公豬1（專用於交配）	
+36	四、動物/公豬	公豬	公猪	koŋ55 tsy55	koŋ55 tsy55	gung1 zyu1	P18	公豬2	
+37	四、動物/母豬	豬乸	猪乸	tsy55 na35	tsy55 na35	zyu1 naa2	P18	母豬1（專用於產崽）	
+38	四、動物/母豬	母豬	母猪	mu24 tsy55	mu24 tsy55	mu5 zyu1	P18	母豬2	
+39	四、動物/公雞	雞公	鸡公	kɐi55 koŋ55	kɐi55 koŋ55	gai1 gung1	P18	公雞1	
+40	四、動物/公雞	公雞	公鸡	koŋ55 kɐi55	koŋ55 kɐi55	gung1 gai1	P18	公雞2	
+41	四、動物/母雞	雞乸	鸡乸	kɐi55 na35	kɐi55 na35	gai1 naa2	P18	母雞1	
+42	四、動物/母雞	母雞	母鸡	mu24 kɐi55	mu24 kɐi55	mu5 gai1	P18	母雞2	
+43	四、動物/老鼠	老鼠	老鼠	lu24 sy35	lu24 sy35	lu5 syu2	P18	老鼠	
+44	四、動物/麻雀	麻雀	麻雀	ma21 tsʰœk3	ma21 tsʰœk3	maa4 coek3	P18	麻雀	
+45	四、動物/臭蟲	木蝨	木虱	mok2 sɐt5	mok2 sɐt5	muk6 sat1	P19	臭蟲	
+46	五、房舍/房子（整所）	屋	屋	ok5	∅ok5	uk1	P19	房子（整所）	
+47	五、房舍/房子（單間）	房	房	fɔŋ21	fɔŋ21	fong4	P19	房子（單間）	
+48	五、房舍/廁所	廁所	厕所	tsʰɐk5 ɬɔ35	tsʰɐk5 ɬɔ35	cak1 slo2	P19	廁所1	
+49	五、房舍/廁所	屎坑	屎坑	si35 haŋ55	si35 haŋ55	si2 haang1	P19	廁所2	
+50	五、房舍/門坎	門坎	门坎	mun21 kʰam35	mun21 kʰam35	mun4 kaam2	P19	門坎	
+51	五、房舍/樓梯	樓梯	楼梯	lɐu21 tʰɐi55	lɐu21 tʰɐi55	lau4 tai1	P19	樓梯	
+52	五、房舍/窗戶	窗	窗	tsʰɔŋ55	tsʰɔŋ55	cong1	P19	窗戶	
+53	五、房舍/桌子	檯	台	tʰɔi21	tʰɔi21	toi4	P19	桌子	
+54	五、房舍/廚房	廚房	厨房	tsʰy21 fɔŋ21	tsʰy21 fɔŋ21	cyu4 fong4	P19	廚房	
+55	五、房舍/煙囪	煙通	烟通	jin55 tʰoŋ55	jin55 tʰoŋ55	jin1 tung1	P19	煙囪	
+56	九、稱謂/男人	男人	男人	nam21 jɐn21	nam21 jɐn21	naam4 jan4	P21	男人1	
+57	九、稱謂/男人	-佬	-佬	-lu35	-lu35	-lu2	P21	男人2	
+58	九、稱謂/女人	女人	女人	ny24 jɐn21	ny24 jɐn21	nyu5 jan4	P21	女人1	
+59	九、稱謂/女人	-婆	-婆	-pʰɔ21	-pʰɔ21	-po4	P21	女人2	
+60	九、稱謂/女人	女人婆	女人婆	ny24 jɐn21 pʰɔ21	ny24 jɐn21 pʰɔ21	nyu5 jan4 po4	P21	女人3	
+61	九、稱謂/男孩子	男仔	男仔	tsɐi35	tsɐi35	zai2	P21	男孩子	
+62	九、稱謂/女孩子	女仔	女仔	ny35 tsɐi35	ny35 tsɐi35	nyu2 zai2	P21	女孩子1	
+63	九、稱謂/女孩子	妹仔	妹仔	mui55 tsɐi35	mui55 tsɐi35	mui1 zai2	P21	女孩子2	
+64	九、稱謂/老頭兒	老大	老大	lu24 tai35	lu24 tai35	lu5 daai2	P21	老頭兒（尊稱）	原文[tai35]有音無字
+65	九、稱謂/老頭兒	老嘢	老嘢	lu24 jɛ24	lu24 jɛ24	lu5 je5	P22	老頭兒（貶稱）	原文[jɛ24]有音無字
+66	九、稱謂/醫生	醫生	医生	ji55 saŋ55	ji55 saŋ55	ji1 saang1	P22	醫生	
+67	九、稱謂/廚師	廚房佬	厨房佬	tsʰy21 fɔŋ21 lu35	tsʰy21 fɔŋ21 lu35	cyu4 fong4 lu2	P22	廚師	
+68	九、稱謂/乞丐	乞兒	乞儿	hɐt5 ji55	hɐt5 ji55	hat1 ji1	P22	乞丐	
+69	九、稱謂/保姆	保姆	保姆	pu35 mu24	pu35 mu24	bu2 mu5	P22	保姆	
+70	七、親屬/父親	阿叔	阿叔	a33 sok5	∅a33 sok5	aa3 suk1	P20	父親（避諱稱）	
+71	七、親屬/父親	老嘢	老嘢	lu24 jɛ24	lu24 jɛ24	lu5 je5	P20	父親3（背稱）	原文[jɛ24]有音無字
+72	七、親屬/父親	老竇	老窦	lu24 tɐu22	lu24 tɐu22	lu5 dau6	P20	父親2（背稱）	原文作「老豆」
+73	七、親屬/父親	阿爸	阿爸	a33 pa55	∅a33 pa55	aa3 baa1	P20	父親1（面稱）	
+74	七、親屬/母親	老乸	老乸	lu24 na35	lu24 na35	lu5 naa2	P20	母親2（背稱）	
+75	七、親屬/母親	阿媽	阿妈	a33 ma55	∅a33 ma55	aa3 maa1	P20	母親1（面稱）	
+76	七、親屬/母親	老孃	老娘	lau55 nɛŋ55	lau55 nɛŋ55	laau1 neng1	P20	母親3（背稱）	
+77	七、親屬/母親	阿嬸	阿婶	a33 sɐm35	∅a33 sɐm35	aa3 sam2	P20	母親4（避諱稱）	
+78	七、親屬/伯父	大伯	大伯	tai22 pak3	tai22 pak3	daai6 baak3	P20	伯父1	
+79	七、親屬/伯父	阿伯	阿伯	a33 pak3	∅a33 pak3	aa3 baak3	P20	伯父2	
+80	七、親屬/伯父	伯爺	伯爷	pak3 jɛ21	pak3 jɛ21	baak3 je4	P20	伯父3	
+81	七、親屬/伯母	伯孃	伯娘	pak3 nœŋ21	pak3 nœŋ21	baak3 noeng4	P20	伯母	
+82	七、親屬/叔父	阿叔	阿叔	a33 sok5	∅a33 sok5	aa3 suk1	P20	叔父	
+83	七、親屬/叔母	阿嬸	阿婶	a33 sɐm35	∅a33 sɐm35	aa3 sam2	P20	叔母	
+84	七、親屬/祖父	爺爺	爷爷	jɛ21 jɛ35	jɛ21 jɛ35	je4 je2	P20	祖父	
+85	七、親屬/祖母	奶奶	奶奶	nai21 nai35	nai21 nai35	naai4 naai2	P20	祖母	
+86	七、親屬/外祖父	外公	外公	ŋɔi22 koŋ55	ŋɔi22 koŋ55	ngoi6 gung1	P20	外祖父	
+87	七、親屬/外祖母	外婆	外婆	ŋɔi22 pʰɔ21	ŋɔi22 pʰɔ21	ngoi6 po4	P20	外祖母	
+88	七、親屬/兒子	仔	仔	tsɐi35	tsɐi35	zai2	P20	兒子	
+89	七、親屬/女兒	女	女	ny35	ny35	nyu2	P20	女兒	
+90	七、親屬/舅舅	舅父	舅父	kʰɐu24 fu35	kʰɐu24 fu35	kau5 fu2	P20	舅舅	
+91	七、親屬/舅母	妗母	妗母	kʰɐm24 mu35	kʰɐm24 mu35	kam5 mu2	P20	舅母	
+92	七、親屬/丈夫	老公	老公	lu24 koŋ55	lu24 koŋ55	lu5 gung1	P20	丈夫	
+93	七、親屬/妻子	老婆	老婆	lu24 pʰɔ21	lu24 pʰɔ21	lu5 po4	P20	妻子	
+94	六、身體/頭	頭	头	tʰɐu21	tʰɐu21	tau4	P19	頭	
+95	六、身體/脖子	頸	颈	kɛŋ35	kɛŋ35	geng2	P19	脖子	
+96	六、身體/臉	面	面	min22	min22	min6	P19	臉	
+97	六、身體/鼻子	鼻哥	鼻哥	pi22 kɔ55	pi22 kɔ55	bi6 go1	P19	鼻子	
+98	六、身體/左手	左手	左手	tsɔ35 sɐu35	tsɔ35 sɐu35	zo2 sau2	P19	左手1	
+99	六、身體/左手	反手	反手	fan35 sɐu35	fan35 sɐu35	faan2 sau2	P19	左手2	
+100	六、身體/右手	右手	右手	jɐu22 sɐu35	jɐu22 sɐu35	jau6 sau2	P19	右手1	
+101	六、身體/右手	正手	正手	tseŋ33 sɐu35	tseŋ33 sɐu35	zing3 sau2	P19	右手2	
+102	六、身體/手指頭	手指頭	手指头	sɐu35 tsi35 tʰɐu21	sɐu35 tsi35 tʰɐu21	sau2 zi2 tau4	P19	手指頭	
+103	六、身體/拳頭	拳頭	拳头	kʰyn21 tʰɐu21	kʰyn21 tʰɐu21	kyun4 tau4	P19	拳頭1	
+104	六、身體/拳頭	拳槌	拳槌	kʰyn21 tsʰui21	kʰyn21 tsʰui21	kyun4 cui4	P19	拳頭2	
+105	六、身體/指甲	指甲	指甲	tsi35 kɛp3	tsi35 kɛp3	zi2 gep3	P19	指甲	
+106	六、身體/腿	腿	腿	tʰui35	tʰui35	tui2	P20	腿1	
+107	六、身體/腿	髀	髀	pi35	pi35	bi2	P20	腿2	原文有音無字
+108	六、身體/膝蓋	膝頭哥	膝头哥	ɬɐt5 tʰɐu21 kɔ55	ɬɐt5 tʰɐu21 kɔ55	slat1 tau4 go1	P19	膝蓋	
+109	十、疾病/病了	病啊	病啊	pɛŋ22 a33	pɛŋ22 a33	beng6 aa3	P22	病了	
+110	十、疾病/瀉肚	屙肚	屙肚	ɔ55 tʰu24	∅ɔ55 tʰu24	o1 tu5	P22	瀉肚1	原文作「痾肚」
+111	十、疾病/瀉肚	肚屙	肚屙	tʰu24 ɔ55	tʰu24 ɔ55	tu5 o1	P22	瀉肚2	原文作「肚痾」
+112	十、疾病/傷風	傷風	伤风	sœŋ55 foŋ55	sœŋ55 foŋ55	soeng1 fung1	P22	傷風1	
+113	十、疾病/傷風	感冒	感冒	kam35 mau22	kam35 mau22	gaam2 maau6	P22	傷風2	
+114	十、疾病/傷風	涼着	凉着	lœŋ21 tsœk2	lœŋ21 tsœk2	loeng4 zoek6	P22	傷風3	
+115	十、疾病/瘸子	跛腳	跛脚	pɐi55 kœk3	pɐi55 kœk3	bai1 goek3	P22	瘸子	原文[pɐi55]有音無字
+116	十、疾病/駝背	駝背	驼背	tʰɔ21 pui33	tʰɔ21 pui33	to4 bui3	P22	駝背	
+117	十、疾病/死了	死哂	死哂	ɬi35 ɬai33	ɬi35 ɬai33	sli2 slaai3	P22	死了1	
+118	十、疾病/死了	過哂	过哂	kɔ33 ɬai33	kɔ33 ɬai33	go3 slaai3	P22	死了2	
+119	十、疾病/死了	去世哂	去世哂	hy33 sɐi33 ɬai33	hy33 sɐi33 ɬai33	hyu3 sai3 slaai3	P22	死了3	
+120	十、疾病/看病	睇病	睇病	tʰɐi35 pɛŋ22	tʰɐi35 pɛŋ22	tai2 beng6	P22	看病	
+121	八、飯食/麪條	麪條	面条	min22 tʰiu21	min22 tʰiu21	min6 tiu4	P21	麪條1	
+122	八、飯食/麪	麪	面	min22	min22	min6	P21	麪條2	
+123	八、飯食/餛飩	雲吞	云吞	wɐn21 tʰɐn55	wɐn21 tʰɐn55	wan4 tan1	P21	餛飩	
+124	八、飯食/饅頭	饅頭	馒头	man22 tʰɐu21	man22 tʰɐu21	maan6 tau4	P21	饅頭（無餡）	
+125	八、飯食/包子	包	包	pau55	pau55	baau1	P21	包子1（有餡）	
+126	八、飯食/包子	包	包	pɛu55	pɛu55	beu1	P21	包子2（有餡）	
+127	八、飯食/鹽	鹽	盐	jim21	jim21	jim4	P21	鹽	
+128	八、飯食/豉油	豉油	豉油	si22 jɐu21	si22 jɐu21	si6 jau4	P21	豉油1	原文「豉」作陽平，受後字調類化
+129	八、飯食/豉油	生曬	生晒	saŋ55 sai33	saŋ55 sai33	saang1 saai3	P21	豉油2	
+130	八、飯食/豉油	生抽	生抽	saŋ55 tsʰɐu55	saŋ55 tsʰɐu55	saang1 cau1	P21	豉油3	
+131	八、飯食/醋	醋	醋	tsʰu33	tsʰu33	cu3	P21	醋1	
+132	八、飯食/醋	七醋	七醋	tsʰɐt5 tsʰu33	tsʰɐt5 tsʰu33	cat1 cu3	P21	醋2	
+133	八、飯食/早飯	過早	过早	kɔ33 tsu35	kɔ33 tsu35	go3 zu2	P21	早飯	
+134	八、飯食/午飯	晏飯	晏饭	an33 fan22	∅an33 fan22	aan3 faan6	P21	午飯1	
+135	八、飯食/午飯	中飯	中饭	tsoŋ55 fan22	tsoŋ55 fan22	zung1 faan6	P21	午飯2	
+136	八、飯食/晚飯	夜飯	夜饭	jɛ22 fan22	jɛ22 fan22	je6 faan6	P21	晚飯	
+137	八、飯食/筷子	筷手	筷手	fai33 sɐu35	fai33 sɐu35	faai3 sau2	P21	筷子	
+138	八、飯食/勺兒	殼	壳	hɔk3	hɔk3	hok3	P21	勺兒	
+139	十四、形容詞/甜	甜	甜	tʰim21	tʰim21	tim4	P24	甜	
+140	十四、形容詞/酸	酸	酸	ɬyn55	ɬyn55	slyun1	P24	甜	
+141	十四、形容詞/好（不壞）	好	好	hu35	hu35	hu2	P24	酸	
+142	十四、形容詞/細	細	细	ɬɐi33	ɬɐi33	slai3	P24	細1	
+143	十四、形容詞/細	幼	幼	jɐu33	jɐu33	jau3	P24	細2	
+144	十四、形容詞/粗	粗	粗	tsʰu55	tsʰu55	cu1	P24	粗	
+145	十四、形容詞/冷	冷	冷	laŋ24	laŋ24	laang5	P24	冷1	
+146	十四、形容詞/冷	凍	冻	toŋ33	toŋ33	dung3	P24	冷2	
+147	十四、形容詞/熱	熱	热	jit2	jit2	jit6	P24	熱	
+148	十四、形容詞/臭	臭	臭	tsʰɐu33	tsʰɐu33	cau3	P24	臭	
+149	十四、形容詞/香	香	香	hœŋ55	hœŋ55	hoeng1	P24	香	
+150	十四、形容詞/乾淨	乾淨	干净	kɔn55 tsɛŋ22	kɔn55 tsɛŋ22	gon1 zeng6	P24	乾淨	
+151	十四、形容詞/便宜	平	平	pʰɛŋ21	pʰɛŋ21	peng4	P24	便宜	
+152	十四、形容詞/長	長	长	tsʰœŋ21	tsʰœŋ21	coeng4	P24	長	
+153	十四、形容詞/短	短	短	tyn35	tyn35	dyun2	P24	短	
+154	十四、形容詞/髒	邋遢	邋遢	lat2 tʰat3	lat2 tʰat3	laat6 taat3	P24	髒	
+155	十四、形容詞/鹹	鹹	咸	ham21	ham21	haam4	P24	鹹1.1	
+156	十四、形容詞/鹹	鹹	咸	hɛm21	hɛm21	hem4	P24	鹹1.2	
+157	十四、形容詞/淡	淡	淡	tʰam24	tʰam24	taam5	P24	淡（不鹹）	
+158	十四、形容詞/胖	肥	肥	fi21	fi21	fi4	P24	胖	
+159	十四、形容詞/瘦	瘦	瘦	sɐu33	sɐu33	sau3	P24	瘦	
+160	十三、方位詞/上頭	上高	上高	sœŋ22 ku55	sœŋ22 ku55	soeng6 gu1	P23	上頭	
+161	十三、方位詞/下頭	底下	底下	tɐi35 ha22	tɐi35 ha22	dai2 haa6	P23	下頭1	
+162	十三、方位詞/下頭	下底	下底	ha22 tɐi35	ha22 tɐi35	haa6 dai2	P23	下頭2	
+163	十三、方位詞/左邊	左邊	左边	tsɔ35 pin22	tsɔ35 pin22	zo2 bin6	P23	左邊	
+164	十三、方位詞/右邊	右邊	右边	jɐu22 pin22	jɐu22 pin22	jau6 bin6	P23	右邊	
+165	十三、方位詞/左邊	左便	左便	tsɔ35 pin22	tsɔ35 pin22	zo2 bin6	P23	左邊	原文作「左邊」
+166	十三、方位詞/右邊	右便	右便	jɐu22 pin22	jɐu22 pin22	jau6 bin6	P23	右邊	原文作「右邊」
+167	十三、方位詞/當中	中間	中间	tsoŋ55 kɛn55	tsoŋ55 kɛn55	zung1 gen1	P23	當中	
+168	十三、方位詞/裏面	裏底	里底	li24 tɐi35	li24 tɐi35	li5 dai2	P24	裏面	
+169	十三、方位詞/外面	外底	外底	ŋɔi22 tɐi35	ŋɔi22 tɐi35	ngoi6 dai2	P24	外面	
+170	十一、代詞/誰	邊個	边个	pin55 kɔ33	pin55 kɔ33	bin1 go3	P23	誰	
+171	十一、代詞/自己	自己	自己	tsɿ22 ki35	tsɿ22 ki35	zy6 gi2	P22	自己	
+172	十一、代詞/我	我	我	ŋɔ24	ŋɔ24	ngo5	P22	我	
+173	十一、代詞/你	你	你	ni24	ni24	ni5	P22	你	
+174	十一、代詞/他	佢	佢	kʰy24	kʰy24	kyu5	P22	他	
+175	十一、代詞/你們	你哋	你哋	ni24 ti22	ni24 ti22	ni5 di6	P22	你們	
+176	十一、代詞/他們	佢哋	佢哋	kʰy24 ti22	kʰy24 ti22	kyu5 di6	P22	他們	
+177	十一、代詞/我們	我哋	我哋	ŋɔ24 ti22	ŋɔ24 ti22	ngo5 di6	P22	我們	
+178	十一、代詞/咱們	我哋	我哋	ŋɔ24 ti22	ŋɔ24 ti22	ngo5 di6	P22	咱們	
+179	十一、代詞/這個	阿隻	阿只	a33 kɔ33	∅a33 kɔ33	aa3 go3	P23	這個	原文[a33]有音無字
+180	十一、代詞/那個	嚕隻	噜只	lu55 kɔ33	lu55 kɔ33	lu1 go3	P23	那個	原文[lu55]有音無字
+181	十一、代詞/哪一個	邊隻	边只	pin55 tsɛk3	pin55 tsɛk3	bin1 zek3	P23	哪個	
+182	十一、代詞/這裏	阿啲	阿啲	a33 ti55	∅a33 ti55	aa3 di1	P23	這裏	原文有音無字
+183	十一、代詞/那裏	嚕啲	噜啲	lu55 ti55	lu55 ti55	lu1 di1	P23	那裏	原文有音無字
+184	十一、代詞/哪裏	邊啲	边啲	pin55 ti55	pin55 ti55	bin1 di1	P23	哪裏	原文有音無字
+185	十一、代詞/怎麼樣	同點	同点	tʰoŋ21 tim35	tʰoŋ21 tim35	tung4 dim2	P23	怎麼樣1	
+186	十一、代詞/怎麼樣	點樣	点样	tim35 jœŋ35	tim35 jœŋ35	dim2 joeng2	P23	怎麼樣2	
+187	十一、代詞/什麼	乜嘢	乜嘢	mɐt5 jɛ24	mɐt5 jɛ24	mat1 je5	P23	什麼1	原文有音無字
+188	十一、代詞/什麼	咩嘢	咩嘢	mɛ55 ɛ24	mɛ55 ɛ24	me1 e5	P23	什麼2	原文有音無字
+189	十五、副詞、連詞、介詞/剛（～來）	啱	啱	ŋam55	ŋam55	ngaam1	P24	剛（～來）	
+190	十五、副詞、連詞、介詞/剛（～合適）	啱	啱	ŋam55	ŋam55	ngaam1	P24	剛（～合適）	
+191	十五、副詞、連詞、介詞/正好	啱好	啱好	ŋam55 hu35	ŋam55 hu35	ngaam1 hu2	P24	正好	
+192	十五、副詞、連詞、介詞/故意	特登	特登	tɐk2 tɐŋ55	tɐk2 tɐŋ55	dak6 dang1	P25	故意1	
+193	十五、副詞、連詞、介詞/故意	登公	登公	tɐŋ55 koŋ55	tɐŋ55 koŋ55	dang1 gung1	P25	故意2	
+194	十五、副詞、連詞、介詞/拿	擰	拧	neŋ55	neŋ55	ning1	P25	拿1	原文有音無字
+195	十五、副詞、連詞、介詞/拿	使	使	sɐi35	sɐi35	sai2	P25	拿2	
+196	十五、副詞、連詞、介詞/替	幫	帮	pɔŋ55	pɔŋ55	bong1	P25	替	
+197	十五、副詞、連詞、介詞/和	同	同	tʰoŋ21	tʰoŋ21	tung4	P24	和	
+198	十五、副詞、連詞、介詞/只	只	只	tsi35	tsi35	zi2	P24	只	
+199	十五、副詞、連詞、介詞/從	從	从	tsʰoŋ21	tsʰoŋ21	cung4	P24	從	
+200	十二、量詞/一位客人	一位客人	一位客人	jɐt5 wɐi35 hak3 jɐn21	jɐt5 wɐi35 hak3 jɐn21	jat1 wai2 haak3 jan4	P23	一位客人	
+201	十二、量詞/一頭牛	一隻牛	一只牛	jɐt5 tsɛk3 ŋɐu21	jɐt5 tsɛk3 ŋɐu21	jat1 zek3 ngau4	P23	一頭牛	原文詞頭誤作「一條牛」
+202	十二、量詞/一口豬	一隻豬	一只猪	jɐt5 tsɛk3 tsy55	jɐt5 tsɛk3 tsy55	jat1 zek3 zyu1	P23	一口豬	
+203	十二、量詞/一輛車	一架車	一架车	jɐt5 kʰa33 tsʰɛ55	jɐt5 kʰa33 tsʰɛ55	jat1 kaa3 ce1	P23	一輛車	
+204	十二、量詞/一牀被	一翻被	一翻被	jɐt5 fan55 pʰi24	jɐt5 fan55 pʰi24	jat1 faan1 pi5	P23	一牀被	
+205	十二、量詞/一雙鞋	一對鞋	一对鞋	jɐt5 tui33 hai21	jɐt5 tui33 hai21	jat1 dui3 haai4	P23	一雙鞋	
+206	十二、量詞/聽一會兒	聽一陣	听一阵	tʰɛŋ55 jɐt5 tsɐn22	tʰɛŋ55 jɐt5 tsɐn22	teng1 jat1 zan6	P23	聽一會兒	
+207	十二、量詞/打一下	打一下	打一下	ta35 jɐt5 ha24	ta35 jɐt5 ha24	daa2 jat1 haa5	P23	打一下	
+208	十六、數詞/兩里	兩里	两里	lœŋ24 li24	lœŋ24 li24	loeng5 li5	P25	兩里	
+209	十六、數詞/第一	第一	第一	tɐi22 jɐt5	tɐi22 jɐt5	dai6 jat1	P25	第一	
+210	十六、數詞/第二	第二	第二	tɐi22 ji22	tɐi22 ji22	dai6 ji6	P25	第二	
+211	十六、數詞/一	一	一	jɐt5	jɐt5	jat1	P25	一	
+212	十六、數詞/二	二	二	ji22	ji22	ji6	P25	二	
+213	十六、數詞/三	三	三	ɬam55	ɬam55	slaam1	P25	三	
+214	十六、數詞/四	四	四	ɬi33	ɬi33	sli3	P25	四	
+215	十六、數詞/五	五	五	ŋ̍24	ŋ̍24	ng5	P25	五	
+216	十六、數詞/六	六	六	lok2	lok2	luk6	P25	六	
+217	十六、數詞/七	七	七	tsʰɐt5	tsʰɐt5	cat1	P25	七	
+218	十六、數詞/八	八	八	pat3	pat3	baat3	P25	八1.1	
+219	十六、數詞/八	八	八	pɛt3	pɛt3	bet3	P25	八1.2	
+220	十六、數詞/九	九	九	kɐu35	kɐu35	gau2	P25	九	
+221	十六、數詞/十	十	十	sɐp2	sɐp2	sap6	P25	十	
+222	十六、數詞/十一	十一	十一	sɐp2 jɐt5	sɐp2 jɐt5	sap6 jat1	P25	十一	
+223	十六、數詞/十二	十二	十二	sɐp2 ji22	sɐp2 ji22	sap6 ji6	P25	十二	
+224	十六、數詞/二十	二十	二十	ji22 sɐp2	ji22 sɐp2	ji6 sap6	P25	二十	
+225	十六、數詞/二十一	二十一	二十一	ji22 a22 jɐt5	ji22 a22 jɐt5	ji6 aa6 jat1	P25	二十一	
+226	十六、數詞/一百二十一	百二十一	百二十一	pak3 ji22 a22 jɐt5	pak3 ji22 a22 jɐt5	baak3 ji6 aa6 jat1	P25	一百二十一	
+227	十六、數詞/二兩	二兩	二两	ji22 lœŋ35	ji22 lœŋ35	ji6 loeng2	P25	二兩	
