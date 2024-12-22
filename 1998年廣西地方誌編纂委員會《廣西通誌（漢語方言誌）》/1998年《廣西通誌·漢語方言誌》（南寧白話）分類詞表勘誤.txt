@@ -28,7 +28,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 27	一、天文（2）/毛毛雨	微微雨	微微雨	mi55 mi55 jy24	mi55 mi55 jy24	mi1 mi1 jyu5	P22	毛毛雨	
 28	一、天文（2）/大雨	大雨	大雨	tai22 jy24	tai22 jy24	daai6 jyu5	P22	大雨1	
 29	一、天文（2）/大雨	暴雨	暴雨	pu22 jy24	pu22 jy24	bu6 jyu5	P22	大雨2	
-30	一、天文（2）/連陰雨	漚雨天	沤雨天	ɐu33 jy24 tʰin55	∅ɐu33 jy24 tʰin55	au3 jyu5 tin1	P22	連陰雨	
+30	一、天文（2）/連陰雨	漚雨天	沤雨天	ɐu33 jy24 tʰin55	ɐu33 jy24 tʰin55	au3 jyu5 tin1	P22	連陰雨	
 31	一、天文（2）/雨停了	雨停哂	雨停哂	jy24 tʰeŋ21 ɬai33	jy24 tʰeŋ21 ɬai33	jyu5 ting4 slaai3	P22	雨停了	
 32	一、天文（2）/雙虹	雙虹	双虹	sœŋ55 kɔŋ33	sœŋ55 kɔŋ33	soeng1 gong3	P22	雙虹	原文釋義只有「虹」字
 33	一、天文（2）/淋雨	淋雨	淋雨	lɐm21 jy24	lɐm21 jy24	lam4 jyu5	P22	淋雨	
@@ -215,7 +215,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 214	三、時令時間（4）/閏月	閏月	闰月	jɐn22 jyt2	jɐn22 jyt2	jan6 jyut6	P24	閏月	
 215	三、時令時間（4）/月初	月頭	月头	jyt2 tɐu21	jyt2 tɐu21	jyut6 dau4	P24	月初	
 216	三、時令時間（4）/月底	月底	月底	jyt2 tɐi35	jyt2 tɐi35	jyut6 dai2	P24	月底	
-217	三、時令時間（4）/一個月	一個月	一个月	a55 kɔ33 jyt2	∅a55 kɔ33 jyt2	aa1 go3 jyut6	P25	一個月1.2	
+217	三、時令時間（4）/一個月	一個月	一个月	a55 kɔ33 jyt2	a55 kɔ33 jyt2	aa1 go3 jyut6	P25	一個月1.2	
 218	三、時令時間（4）/一個月	一個月	一个月	jɐt5 kɔ33 jyt2	jɐt5 kɔ33 jyt2	jat1 go3 jyut6	P25	一個月1.1	
 219	三、時令時間（4）/上個月	上個月	上个月	sœŋ22 kɔ33 jyt2	sœŋ22 kɔ33 jyt2	soeng6 go3 jyut6	P24	上個月	
 220	三、時令時間（4）/這個月	今個月	今个月	kɐm55 kɔ33 jyt2	kɐm55 kɔ33 jyt2	gam1 go3 jyut6	P24	這個月	
@@ -250,7 +250,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 249	三、時令時間（5）/星期一	禮拜一	礼拜一	lɐi24 pai33 jɐt5	lɐi24 pai33 jɐt5	lai5 baai3 jat1	P24	星期一	
 250	三、時令時間（5）/整天	論日	论日	lɐn22 jɐt2	lɐn22 jɐt2	lan6 jat6	P25	整天2	原文作「輪」字
 251	三、時令時間（5）/整天	成日	成日	sɛŋ21 jɐt2	sɛŋ21 jɐt2	seng4 jat6	P25	整天1	
-252	三、時令時間（5）/整天	一日	一日	a55 jɐt2	∅a55 jɐt2	aa1 jat6	P25	一天1.2	
+252	三、時令時間（5）/整天	一日	一日	a55 jɐt2	a55 jɐt2	aa1 jat6	P25	一天1.2	
 253	三、時令時間（5）/整天	一日	一日	jɐt5 jɐt2	jɐt5 jɐt2	jat1 jat6	P25	一天1.1	
 254	三、時令時間（5）/每天	日日	日日	jɐt2 jɐt2	jɐt2 jɐt2	jat6 jat6	P25	每天	
 255	三、時令時間（5）/十幾天	十零日	十零日	sɐp2 lɛŋ21 jɐt2	sɐp2 lɛŋ21 jɐt2	sap6 leng4 jat6	P25	十幾天	
@@ -260,7 +260,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 259	三、時令時間（5）/上午	朝早	朝早	tsiu55 tsu35	tsiu55 tsu35	ziu1 zu2	P24	上午3	
 260	三、時令時間（5）/上午	上晝	上昼	sœŋ22 tsɐu33	sœŋ22 tsɐu33	soeng6 zau3	P24	上午2	
 261	三、時令時間（5）/上午	上午	上午	sœŋ22 ŋ̍24	sœŋ22 ŋ̍24	soeng6 ng5	P24	上午1	
-262	三、時令時間（5）/下午	晏晝	晏昼	an33 tsɐu33	∅an33 tsɐu33	aan3 zau3	P24	下午3	
+262	三、時令時間（5）/下午	晏晝	晏昼	an33 tsɐu33	an33 tsɐu33	aan3 zau3	P24	下午3	
 263	三、時令時間（5）/下午	下晝	下昼	ha22 tsɐu33	ha22 tsɐu33	haa6 zau3	P24	下午2	
 264	三、時令時間（5）/下午	下午	下午	ha22 ŋ̍24	ha22 ŋ̍24	haa6 ng5	P24	下午1	
 265	三、時令時間（5）/半天	半日	半日	pun33 jɐt2	pun33 jɐt2	bun3 jat6	P24	半天	
@@ -268,7 +268,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 267	三、時令時間（5）/清晨	朝頭早	朝头早	tsiu55 tʰɐu21 tsu35	tsiu55 tʰɐu21 tsu35	ziu1 tau4 zu2	P24	清晨	
 268	三、時令時間（5）/天亮	天光	天光	tʰin55 kɔŋ55	tʰin55 kɔŋ55	tin1 gong1	P24	天亮	
 269	三、時令時間（5）/午前	朝早	朝早	tsiu55 tsu35	tsiu55 tsu35	ziu1 zu2	P24	午前	原文將「朝早」與「朝頭早」歸入一列，釋義「清晨」
-270	三、時令時間（5）/中午	晏晝	晏昼	an33 tsɐu33	∅an33 tsɐu33	aan3 zau3	P24	中午	
+270	三、時令時間（5）/中午	晏晝	晏昼	an33 tsɐu33	an33 tsɐu33	aan3 zau3	P24	中午	
 271	三、時令時間（5）/白天	白日	白日	pak2 jɐt2	pak2 jɐt2	baak6 jat6	P24	白天1	
 272	三、時令時間（5）/白天	日頭	日头	jɐt2 tʰɐu55	jɐt2 tʰɐu55	jat6 tau1	P24	白天2	
 273	三、時令時間（5）/哪天	邊日	边日	pin55 jɐt2	pin55 jɐt2	bin1 jat6	P25	哪天	
@@ -294,15 +294,15 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 293	三、時令時間（6）/過去	舊底時	旧底时	kɐu22 tɐi35 si21	kɐu22 tɐi35 si21	gau6 dai2 si4	P26	過去3	
 294	三、時令時間（6）/現在	而家	而家	ji21 ka55	ji21 ka55	ji4 gaa1	P25	現在1.1	
 295	三、時令時間（6）/現在	而家	而家	ji21 kʰa55	ji21 kʰa55	ji4 kaa1	P25	現在1.2	原文作「卡」字
-296	三、時令時間（6）/這段時候	阿排時	阿排时	a33 pʰai21 si21	∅a33 pʰai21 si21	aa3 paai4 si4	P26	這段時間1	
-297	三、時令時間（6）/這段時候	阿㬍	阿㬍	a33 pɔk3	∅a33 pɔk3	aa3 bok3	P26	這段時間2	原文作「博」字
+296	三、時令時間（6）/這段時候	阿排時	阿排时	a33 pʰai21 si21	a33 pʰai21 si21	aa3 paai4 si4	P26	這段時間1	
+297	三、時令時間（6）/這段時候	阿㬍	阿㬍	a33 pɔk3	a33 pɔk3	aa3 bok3	P26	這段時間2	原文作「博」字
 298	三、時令時間（6）/那段時間	嚕陣時	噜阵时	lu55 tsɐn22 si21	lu55 tsɐn22 si21	lu1 zan6 si4	P26	那時候	
 299	三、時令時間（6）/後來	收尾	收尾	sɐu55 mi55	sɐu55 mi55	sau1 mi1	P26	後來2.1	
 300	三、時令時間（6）/後來	收尾	收尾	sɐu55 mi24	sɐu55 mi24	sau1 mi5	P26	後來2.2	
 301	三、時令時間（6）/後來	蔑尾	蔑尾	mɛt5 mi24	mɛt5 mi24	met1 mi5	P26	後來1	原文[mɛt5]有音無字
 302	三、時令時間（6）/從今以後	今後	今后	kɐm55 hɐu22	kɐm55 hɐu22	gam1 hau6	P26	以後	
 303	三、時令時間（6）/平時	閒時	闲时	hɛn21 si21	hɛn21 si21	hen4 si4	P26	平時	
-304	三、時令時間（6）/一會兒	一陣間	一阵间	a55 tsɐn22 kɛn55	∅a55 tsɐn22 kɛn55	aa1 zan6 gen1	P26	一會兒	原文作「阿」字
+304	三、時令時間（6）/一會兒	一陣間	一阵间	a55 tsɐn22 kɛn55	a55 tsɐn22 kɛn55	aa1 zan6 gen1	P26	一會兒	原文作「阿」字
 305	三、時令時間（6）/很久	好耐	好耐	hu35 nɔi22	hu35 nɔi22	hu2 noi6	P26	很久	原文「耐」字誤作[nɔi21]
 306	三、時令時間（6）/多久	幾耐	几耐	ki35 nɔi22	ki35 nɔi22	gi2 noi6	P26	多久	
 307	三、時令時間（6）/什麼時候	幾時	几时	ki35 si21	ki35 si21	gi2 si4	P26	什麼時候	
@@ -544,7 +544,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 543	五、植物（3）/槐花	槐花	槐花	wai21 fa55	wai21 fa55	waai4 faa1	P29	槐花	
 544	五、植物（3）/紅豆樹	相思樹	相思树	ɬœŋ55 si55 sy22	ɬœŋ55 si55 sy22	sloeng1 si1 syu6	P29	相思樹	
 545	五、植物（3）/相思子	紅豆	红豆	hoŋ21 tɐu22	hoŋ21 tɐu22	hung4 dau6	P29	紅豆	
-546	五、植物（3）/桉樹	桉樹	桉树	ɔn55 sy22	∅ɔn55 sy22	on1 syu6	P29	桉樹	
+546	五、植物（3）/桉樹	桉樹	桉树	ɔn55 sy22	ɔn55 sy22	on1 syu6	P29	桉樹	
 547	五、植物（3）/夾竹桃	夾竹桃	夹竹桃	kap3 tsok5 tʰu21	kap3 tsok5 tʰu21	gaap3 zuk1 tu4	P30	夾竹桃	
 548	五、植物（3）/樟腦	樟腦	樟脑	tsœŋ55 nu24	tsœŋ55 nu24	zoeng1 nu5	P23	樟腦	
 549	五、植物（3）/楓樹	黑飯樹	黑饭树	hɐk5 fan22 sy22	hɐk5 fan22 sy22	hak1 faan6 syu6	P29	楓樹2	
@@ -664,11 +664,11 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 663	五、植物（5）/摘花	摘花	摘花	tsak2 fa55	tsak2 fa55	zaak6 faa1	P29	採花	
 664	五、植物（5）/種花	種花	種花	tsoŋ33 fa55	tsoŋ33 fa55	zung3 faa1	P29	栽花	
 665	五、植物（5）/一朵花	一朵花	一朵花	jɐt5 tɔ35 fa55	jɐt5 tɔ35 fa55	jat1 do2 faa1	P29	（採）一朵花1.3	
-666	五、植物（5）/一朵花	一朵花	一朵花	a55 tɔ35 fa55	∅a55 tɔ35 fa55	aa1 do2 faa1	P29	（採）一朵花1.4	
+666	五、植物（5）/一朵花	一朵花	一朵花	a55 tɔ35 fa55	a55 tɔ35 fa55	aa1 do2 faa1	P29	（採）一朵花1.4	
 667	五、植物（5）/一朵花	一朵花	一朵花	jɐt5 tœ35 fa55	jɐt5 tœ35 fa55	jat1 doe2 faa1	P29	（採）一朵花1.1	
-668	五、植物（5）/一朵花	一朵花	一朵花	a55 tœ35 fa55	∅a55 tœ35 fa55	aa1 doe2 faa1	P29	（採）一朵花1.2	
+668	五、植物（5）/一朵花	一朵花	一朵花	a55 tœ35 fa55	a55 tœ35 fa55	aa1 doe2 faa1	P29	（採）一朵花1.2	
 669	五、植物（5）/一樖花	一樖花	一樖花	jɐt5 pʰɔ55 fa55	jɐt5 pʰɔ55 fa55	jat1 po1 faa1	P29	（種）一棵花1.1	原文作「坡」字
-670	五、植物（5）/一樖花	一樖花	一樖花	a55 pʰɔ55 fa55	∅a55 pʰɔ55 fa55	aa1 po1 faa1	P29	（種）一棵花1.2	原文作「坡」字
+670	五、植物（5）/一樖花	一樖花	一樖花	a55 pʰɔ55 fa55	a55 pʰɔ55 fa55	aa1 po1 faa1	P29	（種）一棵花1.2	原文作「坡」字
 671	五、植物（5）/花蕾	花咕嘟	花咕嘟	fa55 ku55 tu55	fa55 ku55 tu55	faa1 gu1 du1	P29	花骨朵	
 672	五、植物（5）/花瓣兒	花瓣	花瓣	fa55 pan22	fa55 pan22	faa1 baan6	P29	花瓣	
 673	五、植物（5）/花蕊	花心	花心	fa55 ɬɐm55	fa55 ɬɐm55	faa1 slam1	P29	花蕊	
@@ -744,18 +744,18 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 743	六、動物（1）/小雞兒	雞仔	鸡仔	kɐi55 tsɐi35	kɐi55 tsɐi35	gai1 zai2	P32	雞雛	
 744	六、動物（1）/雞蛋	雞蛋	鸡蛋	kɐi55 tan22	kɐi55 tan22	gai1 daan6	P31，49	雞蛋	
 745	六、動物（1）/下蛋	生蛋	生蛋	saŋ55 tan22	saŋ55 tan22	saang1 daan6	P31	下蛋1	
-746	六、動物（1）/下蛋	屙蛋	屙蛋	ɔ55 tan22	∅ɔ55 tan22	o1 daan6	P32	下蛋2	
+746	六、動物（1）/下蛋	屙蛋	屙蛋	ɔ55 tan22	ɔ55 tan22	o1 daan6	P32	下蛋2	
 747	六、動物（1）/孵蛋	菢雞崽	菢鸡崽	pu22 kɐi55 tsɐi35	pu22 kɐi55 tsɐi35	bu6 gai1 zai2	P32	孵蛋	原文作「菢雞仔」
 748	六、動物（1）/孵蛋	菢雞仔	菢鸡仔	pu22 kɐi55 tsɐi35	pu22 kɐi55 tsɐi35	bu6 gai1 zai2	P32	孵蛋	
 749	六、動物（1）/雞冠	雞冠	鸡冠	kɐi55 kun55	kɐi55 kun55	gai1 gun1	P32	雞冠	
 750	六、動物（1）/雞爪子	雞爪	鸡爪	kɐi55 tsau35	kɐi55 tsau35	gai1 zaau2	P31	雞爪子	
 751	六、動物（1）/抓辮子	抓雞腳	抓鸡脚	tsa55 kɐi55 kœk3	tsa55 kɐi55 kœk3	zaa1 gai1 goek3	P56	抓辮子	原文歸類爲「交際」類
-752	六、動物（1）/鴨	鴨	鸭	ap3	∅ap3	aap3	P32	鴨子	
-753	六、動物（1）/公鴨	鴨公	鸭公	ap3 koŋ55	∅ap3 koŋ55	aap3 gung1	P32	公鴨	
-754	六、動物（1）/母鴨	鴨乸	鸭乸	ap3 na35	∅ap3 na35	aap3 naa2	P32	母鴨	
-755	六、動物（1）/小鴨子	鴨崽	鸭崽	ap3 tsɐi35	∅ap3 tsɐi35	aap3 zai2	P32	小鴨1	
-756	六、動物（1）/小鴨子	鴨苗	鸭苗	ap3 miu21	∅ap3 miu21	aap3 miu4	P32	小鴨2	
-757	六、動物（1）/鴨蛋	鴨蛋	鸭蛋	ap3 tan22	∅ap3 tan22	aap3 daan6	P32	鴨蛋	
+752	六、動物（1）/鴨	鴨	鸭	ap3	ap3	aap3	P32	鴨子	
+753	六、動物（1）/公鴨	鴨公	鸭公	ap3 koŋ55	ap3 koŋ55	aap3 gung1	P32	公鴨	
+754	六、動物（1）/母鴨	鴨乸	鸭乸	ap3 na35	ap3 na35	aap3 naa2	P32	母鴨	
+755	六、動物（1）/小鴨子	鴨崽	鸭崽	ap3 tsɐi35	ap3 tsɐi35	aap3 zai2	P32	小鴨1	
+756	六、動物（1）/小鴨子	鴨苗	鸭苗	ap3 miu21	ap3 miu21	aap3 miu4	P32	小鴨2	
+757	六、動物（1）/鴨蛋	鴨蛋	鸭蛋	ap3 tan22	ap3 tan22	aap3 daan6	P32	鴨蛋	
 758	六、動物（1）/趕鴨子上架	抨鴨上樹	抨鸭上树	pʰaŋ24 ap3 sœŋ24 sy22	pʰaŋ24 ap3 sœŋ24 sy22	paang5 aap3 soeng5 syu6	P32	打鴨子上架	
 759	六、動物（1）/鵝	鵝	鹅	ŋɔ21	ŋɔ21	ngo4	P32	鵝	
 760	六、動物（1）/小鵝兒	鵝崽	鹅崽	ŋɔ21 tsɐi35	ŋɔ21 tsɐi35	ngo4 zai2	P32	小鵝	
@@ -792,7 +792,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 791	六、動物（2）/雁	雁	雁	ŋan22	ŋan22	ngaan6	P32	雁2	
 792	六、動物（2）/斑鳩	斑鳩	斑鸠	pan55 kɐu55	pan55 kɐu55	baan1 gau1	P32	斑鳩	
 793	六、動物（2）/鴿子	白鴿	白鸽	pak2 kɐp3	pak2 kɐp3	baak6 gap3	P32	鴿子	
-794	六、動物（2）/鵪鶉	鵪鶉	鹌鹑	ɐm55 tsʰɐn55	∅ɐm55 tsʰɐn55	am1 can1	P32	鵪鶉	
+794	六、動物（2）/鵪鶉	鵪鶉	鹌鹑	ɐm55 tsʰɐn55	ɐm55 tsʰɐn55	am1 can1	P32	鵪鶉	
 795	六、動物（2）/鷓鴣	鷓鴣	鹧鸪	tsɛ33 ku55	tsɛ33 ku55	ze3 gu1	P32	鷓鴣	
 796	六、動物（2）/啄木鳥	啄木鳥	啄木鸟	tœk3 mok2 niu24	tœk3 mok2 niu24	doek3 muk6 niu5	P32	啄木鳥	
 797	六、動物（2）/貓頭鷹	貓頭鷹	猫头鹰	mɛu55 tʰɐu21 jeŋ55	mɛu55 tʰɐu21 jeŋ55	meu1 tau4 jing1	P32	貓頭鷹	
@@ -939,16 +939,16 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 938	六、動物（4）/螺螄	石螺	石螺	sɛk2 lɔ21	sɛk2 lɔ21	sek6 lo4	P34	石螺（江裏的）	
 939	六、動物（4）/蚌	蚌	蚌	pʰɔŋ24	pʰɔŋ24	pong5	P34	蚌	
 940	六、動物（4）/蜆	蜆	蚬	hɛn35	hɛn35	hen2	P34	蛤蜊	
-941	七、房舍（1）/住宅	屋	屋	ok5	∅ok5	uk1	P34	住宅、房子（全所）、屋子（單間）	
-942	七、房舍（1）/（整座）房子	屋	屋	ok5	∅ok5	uk1	P34	家1	
-943	七、房舍（1）/（整座）房子	屋起	屋起	ok5 hi35	∅ok5 hi35	uk1 hi2	P34	家2	
-944	七、房舍（1）/（整座）房子	屋底	屋底	ok5 tɐi35	∅ok5 tɐi35	uk1 dai2	P34	家3	
+941	七、房舍（1）/住宅	屋	屋	ok5	ok5	uk1	P34	住宅、房子（全所）、屋子（單間）	
+942	七、房舍（1）/（整座）房子	屋	屋	ok5	ok5	uk1	P34	家1	
+943	七、房舍（1）/（整座）房子	屋起	屋起	ok5 hi35	ok5 hi35	uk1 hi2	P34	家2	
+944	七、房舍（1）/（整座）房子	屋底	屋底	ok5 tɐi35	ok5 tɐi35	uk1 dai2	P34	家3	
 945	七、房舍（1）/（整座）房子	竇口	窦口	tɐu33 hɐu35	tɐu33 hɐu35	dau3 hau2	P34	家4	
 946	七、房舍（1）/天井	天井	天井	tʰin55 tsɛŋ35	tʰin55 tsɛŋ35	tin1 zeng2	P34	天井	
 947	七、房舍（1）/兩進（院子）	兩進	两进	lœŋ24 tsɐn33	lœŋ24 tsɐn33	loeng5 zan3	P34	兩進（院子）	
 948	七、房舍（1）/三進（院子）	三進	三进	ɬam55 tsɐn33	ɬam55 tsɐn33	slaam1 zan3	P34	三進（院子）	
-949	七、房舍（1）/進深	屋深	屋深	ok5 sɐm55	∅ok5 sɐm55	uk1 sam1	P34	進深	
-950	七、房舍（1）/面寬	屋闊	屋阔	ok5 fut3	∅ok5 fut3	uk1 fut3	P34	面寬	
+949	七、房舍（1）/進深	屋深	屋深	ok5 sɐm55	ok5 sɐm55	uk1 sam1	P34	進深	
+950	七、房舍（1）/面寬	屋闊	屋阔	ok5 fut3	ok5 fut3	uk1 fut3	P34	面寬	
 951	七、房舍（1）/院牆	圍牆	围墙	wɐi21 tsʰœŋ21	wɐi21 tsʰœŋ21	wai4 coeng4	P34	院牆	
 952	七、房舍（1）/影壁	照壁	照壁	tsiu33 pek5	tsiu33 pek5	ziu3 bik1	P34	影壁	
 953	七、房舍（1）/籬笆	籬笆	篱笆	li21 pa55	li21 pa55	li4 baa1	P34	籬笆	
@@ -968,11 +968,11 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 967	七、房舍（1）/陽臺	曬臺	晒台	sai33 tʰɔi21	sai33 tʰɔi21	saai3 toi4	P35	陽臺2	
 968	七、房舍（1）/陽臺	陽臺	阳台	jœŋ21 tʰɔi21	jœŋ21 tʰɔi21	joeng4 toi4	P35	陽臺1	
 969	七、房舍（2）/瓦頂	瓦頂	瓦顶	ŋa24 tɛŋ35	ŋa24 tɛŋ35	ngaa5 deng2	P35	瓦頂	
-970	七、房舍（2）/房檐兒	屋檐	屋檐	ok5 jim21	∅ok5 jim21	uk1 jim4	P35	屋檐1	
+970	七、房舍（2）/房檐兒	屋檐	屋檐	ok5 jim21	ok5 jim21	uk1 jim4	P35	屋檐1	
 971	七、房舍（2）/房檐兒	瓦檐	瓦檐	ŋa24 jɐm21	ŋa24 jɐm21	ngaa5 jam4	P35	屋檐2	
 972	七、房舍（2）/山牆	封山	封山	foŋ55 san55	foŋ55 san55	fung1 saan1	P35	山牆	
 973	七、房舍（2）/大樑	大樑	大梁	tai22 lœŋ21	tai22 lœŋ21	daai6 loeng4	P35	樑2	
-974	七、房舍（2）/大樑	屋樑	屋梁	ok5 lœŋ21	∅ok5 lœŋ21	uk1 loeng4	P35	樑1	
+974	七、房舍（2）/大樑	屋樑	屋梁	ok5 lœŋ21	ok5 lœŋ21	uk1 loeng4	P35	樑1	
 975	七、房舍（2）/檁	瓦桁	瓦桁	ŋa24 hɐŋ21	ŋa24 hɐŋ21	ngaa5 hang4	P35	檁子	原文作「瓦衡」
 976	七、房舍（2）/椽子	桷子	桷子	kɔk3 tsi35	kɔk3 tsi35	gok3 zi2	P35	椽子	
 977	七、房舍（2）/柱	柱	柱	tsʰy24	tsʰy24	cyu5	P35	柱	
@@ -1032,15 +1032,15 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1031	八、器具、用品（1）/抽屜	櫃桶	柜桶	kʷɐi22 tʰoŋ35	kʷɐi22 tʰoŋ35	gwai6 tung2	P36	抽屜	
 1032	八、器具、用品（1）/茶几	茶几	茶几	tsʰa21 ki55	tsʰa21 ki55	caa4 gi1	P36	茶几	
 1033	八、器具、用品（1）/椅子	椅	椅	ji35	ji35	ji2	P36	椅子1	
-1034	八、器具、用品（1）/椅子	挨披凳	挨披凳	ai55 pʰɛ55 tɐŋ33	∅ai55 pʰɛ55 tɐŋ33	aai1 pe1 dang3	P36	椅子2	原文[pʰɛ55]有音無字
+1034	八、器具、用品（1）/椅子	挨披凳	挨披凳	ai55 pʰɛ55 tɐŋ33	ai55 pʰɛ55 tɐŋ33	aai1 pe1 dang3	P36	椅子2	原文[pʰɛ55]有音無字
 1035	八、器具、用品（1）/椅子背兒	靠背	靠背	kʰau33 pui33	kʰau33 pui33	kaau3 bui3	P36	椅子背兒	
 1036	八、器具、用品（1）/扶手	扶手	扶手	fu21 sɐu35	fu21 sɐu35	fu4 sau2	P36	扶手	
 1037	八、器具、用品（1）/板凳	長凳	长凳	tsʰœŋ21 tɐŋ33	tsʰœŋ21 tɐŋ33	coeng4 dang3	P36	長凳	
 1038	八、器具、用品（1）/方凳	獨頭凳	独头凳	tok2 tʰɐu21 tɐŋ33	tok2 tʰɐu21 tɐŋ33	duk6 tau4 dang3	P36	方凳1	
 1039	八、器具、用品（1）/方凳	獨凳	独凳	tok2 tɐŋ33	tok2 tɐŋ33	duk6 dang3	P36	方凳2	
 1040	八、器具、用品（1）/小板凳兒	凳崽	凳崽	tɐŋ33 tsɐi35	tɐŋ33 tsɐi35	dang3 zai2	P36	小板凳2	原文作「凳仔」
-1041	八、器具、用品（1）/小板凳兒	矮凳	矮凳	ɐi35 tɐŋ33	∅ɐi35 tɐŋ33	ai2 dang3	P36	小板凳1.2	
-1042	八、器具、用品（1）/小板凳兒	矮凳	矮凳	ɐi55 tɐŋ33	∅ɐi55 tɐŋ33	ai1 dang3	P36	小板凳1.1	
+1041	八、器具、用品（1）/小板凳兒	矮凳	矮凳	ɐi35 tɐŋ33	ɐi35 tɐŋ33	ai2 dang3	P36	小板凳1.2	
+1042	八、器具、用品（1）/小板凳兒	矮凳	矮凳	ɐi55 tɐŋ33	ɐi55 tɐŋ33	ai1 dang3	P36	小板凳1.1	
 1043	八、器具、用品（1）/小板凳兒	凳仔	凳仔	tɐŋ33 tsɐi35	tɐŋ33 tsɐi35	dang3 zai2	P36	小板凳2	
 1044	八、器具、用品（1）/馬紮	馬紮	马扎	ma24 tsap2	ma24 tsap2	maa5 zaap6	P36	馬閘兒	原文作「馬閘」
 1045	八、器具、用品（1）/馬紮	馬閘	马闸	ma24 tsap2	ma24 tsap2	maa5 zaap6	P36	馬閘兒	
@@ -1090,7 +1090,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1089	八、器具、用品（3）/稻稈	禾稈	禾秆	wɔ21 kɔn35	wɔ21 kɔn35	wo4 gon2	P37	稻稈1	
 1090	八、器具、用品（3）/刨花	刨花	刨花	pʰɛu21 fa55	pʰɛu21 fa55	peu4 faa1	P37	刨花兒	
 1091	八、器具、用品（3）/火柴	火柴	火柴	fɔ35 tsʰai21	fɔ35 tsʰai21	fo2 caai4	P37	火柴	
-1092	八、器具、用品（3）/鍋	罌煲	罂煲	aŋ55 pu55	∅aŋ55 pu55	aang1 bu1	P36	飯鍋2	
+1092	八、器具、用品（3）/鍋	罌煲	罂煲	aŋ55 pu55	aŋ55 pu55	aang1 bu1	P36	飯鍋2	
 1093	八、器具、用品（3）/飯煲	飯煲	饭煲	fan22 pu55	fan22 pu55	faan6 bu1	P36	飯鍋1	
 1094	八、器具、用品（3）/鍋鏟	鑊鏟	镬铲	wɔk2 tsʰɛn35	wɔk2 tsʰɛn35	wok6 cen2	P36	鍋鏟	
 1095	八、器具、用品（3）/鍋灰	鑊黸	镬黸	wɔk2 lu55	wɔk2 lu55	wok6 lu1	P36	鍋灰子	原文[lu55]有音無字
@@ -1110,8 +1110,8 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1109	八、器具、用品（3）/酒瓶	酒樽	酒樽	tsɐu35 tsyn55	tsɐu35 tsyn55	zau2 zyun1	P37	酒瓶1.2	
 1110	八、器具、用品（3）/罈子	塔	塔	tʰap3	tʰap3	taap3	P36	罐子4	
 1111	八、器具、用品（3）/罈子	埕	埕	tsʰeŋ21	tsʰeŋ21	cing4	P36	罐子3	
-1112	八、器具、用品（3）/罐子	罌	罂	aŋ55	∅aŋ55	aang1	P36	罐子1	
-1113	八、器具、用品（3）/罐子	甕	瓮	oŋ33	∅oŋ33	ung3	P36	罐子2	
+1112	八、器具、用品（3）/罐子	罌	罂	aŋ55	aŋ55	aang1	P36	罐子1	
+1113	八、器具、用品（3）/罐子	甕	瓮	oŋ33	oŋ33	ung3	P36	罐子2	
 1114	八、器具、用品（3）/瓢	殼	壳	hɔk3	hɔk3	hok3	P37	勺子	
 1115	八、器具、用品（3）/瓢	水殼	水壳	sui35 hɔk3	sui35 hɔk3	sui2 hok3	P36	瓢	
 1116	八、器具、用品（3）/笊籬	撈籬	捞篱	lau55 li55	lau55 li55	laau1 li1	P36	笊籬、漏勺	
@@ -1390,18 +1390,18 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1389	十、親屬（1）/長輩	老一趟	老一趟	lu24 a55 tʰɔŋ33	lu24 a55 tʰɔŋ33	lu5 aa1 tong3	P41	長輩3	原文「一」字未標調
 1390	十、親屬（1）/長輩	老輩	老辈	lu24 pui33	lu24 pui33	lu5 bui3	P41	長輩2	
 1391	十、親屬（1）/祖父	爺爺	爷爷	jɛ21 jɛ35	jɛ21 jɛ35	je4 je2	P40	祖父2	
-1392	十、親屬（1）/祖父	阿公	阿公	a33 koŋ55	∅a33 koŋ55	aa3 gung1	P40	祖父1	
+1392	十、親屬（1）/祖父	阿公	阿公	a33 koŋ55	a33 koŋ55	aa3 gung1	P40	祖父1	
 1393	十、親屬（1）/祖母	奶奶	奶奶	nai21 nai35	nai21 nai35	naai4 naai2	P40	祖母2	
-1394	十、親屬（1）/祖母	阿婆	阿婆	a33 pʰɔ21	∅a33 pʰɔ21	aa3 po4	P40	祖母1	
-1395	十、親屬（1）/外祖父	阿公	阿公	a33 koŋ55	∅a33 koŋ55	aa3 gung1	P40	外祖父1	
+1394	十、親屬（1）/祖母	阿婆	阿婆	a33 pʰɔ21	a33 pʰɔ21	aa3 po4	P40	祖母1	
+1395	十、親屬（1）/外祖父	阿公	阿公	a33 koŋ55	a33 koŋ55	aa3 gung1	P40	外祖父1	
 1396	十、親屬（1）/外祖母	婆婆	婆婆	pʰɔ21 pʰɔ35	pʰɔ21 pʰɔ35	po4 po2	P40	外祖母2	
-1397	十、親屬（1）/外祖母	阿婆	阿婆	a33 pʰɔ21	∅a33 pʰɔ21	aa3 po4	P40	外祖母1	
-1398	十、親屬（1）/父親	阿爸	阿爸	a33 pa55	∅a33 pa55	aa3 baa1	P39	父親2.1，（阿）爸	
+1397	十、親屬（1）/外祖母	阿婆	阿婆	a33 pʰɔ21	a33 pʰɔ21	aa3 po4	P40	外祖母1	
+1398	十、親屬（1）/父親	阿爸	阿爸	a33 pa55	a33 pa55	aa3 baa1	P39	父親2.1，（阿）爸	
 1399	十、親屬（1）/父親	爸	爸	pa55	pa55	baa1	P39	父親2.2，（阿）爸	
 1400	十、親屬（1）/父親	爸爸	爸爸	pa21 pa55	pa21 pa55	baa4 baa1	P39	父親1（當面稱父母，名目繁多，各地如此。「爸、媽」是新名詞，過去有叫叔、叔公、嬸、哥、姐的，現僅錄普通稱呼）	
 1401	十、親屬（1）/父親	老竇	老窦	lu24 tɐu22	lu24 tɐu22	lu5 dau6	P39	父親3	原文「豆」爲同音替代字
 1402	十、親屬（1）/父親	老嘢	老嘢	lu24 jɛ24	lu24 jɛ24	lu5 je5	P39	父親4	
-1403	十、親屬（1）/母親	阿媽	阿妈	a33 ma55	∅a33 ma55	aa3 maa1	P39	母親2.1，（阿）媽	
+1403	十、親屬（1）/母親	阿媽	阿妈	a33 ma55	a33 ma55	aa3 maa1	P39	母親2.1，（阿）媽	
 1404	十、親屬（1）/母親	媽	妈	ma55	ma55	maa1	P39	母親2.2，（阿）媽	
 1405	十、親屬（1）/母親	媽媽	妈妈	ma21 ma55	ma21 ma55	maa4 maa1	P39	母親1（當面稱父母，名目繁多，各地如此。「爸、媽」是新名詞，過去有叫叔、叔公、嬸、哥、姐的，現僅錄普通稱呼）	
 1406	十、親屬（1）/母親	老乸	老乸	lu24 na35	lu24 na35	lu5 naa2	P39	母親3	
@@ -1409,23 +1409,23 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1408	十、親屬（1）/岳母	外母乸	外母乸	ŋɔi22 mu24 na35	ŋɔi22 mu24 na35	ngoi6 mu5 naa2	P40	岳母	
 1409	十、親屬（1）/繼父	後老竇	后老窦	hɐu22 lu24 tɐu22	hɐu22 lu24 tɐu22	hau6 lu5 dau6	P41	後爹	原文「豆」爲同音替代字
 1410	十、親屬（1）/繼母	後乸	后乸	hɐu22 na35	hɐu22 na35	hau6 naa2	P41	後媽	
-1411	十、親屬（1）/伯父	阿伯	阿伯	a33 pak3	∅a33 pak3	aa3 baak3	P40	伯父1	
+1411	十、親屬（1）/伯父	阿伯	阿伯	a33 pak3	a33 pak3	aa3 baak3	P40	伯父1	
 1412	十、親屬（1）/伯父	伯爺	伯爷	pak3 jɛ21	pak3 jɛ21	baak3 je4	P40	伯父2	
 1413	十、親屬（1）/伯母	伯母	伯母	pak3 mu35	pak3 mu35	baak3 mu2	P40	伯母1	原文「母」字記作原調[mu24]，此處應爲變調，故據2008版改
 1414	十、親屬（1）/伯母	伯孃	伯娘	pak3 nœŋ21	pak3 nœŋ21	baak3 noeng4	P40	伯母2	
-1415	十、親屬（1）/叔父	阿叔	阿叔	a33 sok5	∅a33 sok5	aa3 suk1	P40	叔父1	
+1415	十、親屬（1）/叔父	阿叔	阿叔	a33 sok5	a33 sok5	aa3 suk1	P40	叔父1	
 1416	十、親屬（1）/叔父	叔	叔	sok5	sok5	suk1	P40	叔父2，（幾）叔	
-1417	十、親屬（1）/叔母	阿嬸	阿婶	a33 sɐm35	∅a33 sɐm35	aa3 sam2	P40	叔母1	
+1417	十、親屬（1）/叔母	阿嬸	阿婶	a33 sɐm35	a33 sɐm35	aa3 sam2	P40	叔母1	
 1418	十、親屬（1）/叔母	嬸	婶	sɐm35	sɐm35	sam2	P40	叔母2，（幾）嬸	
 1419	十、親屬（1）/舅父	舅父	舅父	kʰɐu24 fu35	kʰɐu24 fu35	kau5 fu2	P40	舅父1	
-1420	十、親屬（1）/舅父	阿父	阿父	a33 fu22	∅a33 fu22	aa3 fu6	P40	舅父2	
+1420	十、親屬（1）/舅父	阿父	阿父	a33 fu22	a33 fu22	aa3 fu6	P40	舅父2	
 1421	十、親屬（1）/舅母	妗母	妗母	kʰɐm24 mu24	kʰɐm24 mu24	kam5 mu5	P40	舅母	
 1422	十、親屬（1）/姑媽	姑媽	姑妈	ku55 ma55	ku55 ma55	gu1 maa1	P40	姑1	
-1423	十、親屬（1）/姑姑	阿姑	阿姑	a33 ku55	∅a33 ku55	aa3 gu1	P40	姑2	
-1424	十、親屬（1）/姨媽	阿母	阿母	a33 mu35	∅a33 mu35	aa3 mu2	P40	姨2	
+1423	十、親屬（1）/姑姑	阿姑	阿姑	a33 ku55	a33 ku55	aa3 gu1	P40	姑2	
+1424	十、親屬（1）/姨媽	阿母	阿母	a33 mu35	a33 mu35	aa3 mu2	P40	姨2	
 1425	十、親屬（1）/姨媽	姨母	姨母	ji21 mu24	ji21 mu24	ji4 mu5	P40	姨1	
-1426	十、親屬（1）/姨孃	阿姨	阿姨	a33 ji55	∅a33 ji55	aa3 ji1	P40	姨3	
-1427	十、親屬（1）/姨孃	阿孃	阿孃	a33 nœŋ55	∅a33 nœŋ55	aa3 noeng1	P40	姨4	
+1426	十、親屬（1）/姨孃	阿姨	阿姨	a33 ji55	a33 ji55	aa3 ji1	P40	姨3	
+1427	十、親屬（1）/姨孃	阿孃	阿孃	a33 nœŋ55	a33 nœŋ55	aa3 noeng1	P40	姨4	
 1428	十、親屬（1）/姑夫	姑丈	姑丈	ku55 tsœŋ22	ku55 tsœŋ22	gu1 zoeng6	P40	姑父1.2	本調
 1429	十、親屬（1）/姑夫	姑丈	姑丈	ku55 tsœŋ35	ku55 tsœŋ35	gu1 zoeng2	P40	姑父1.1	變調
 1430	十、親屬（1）/姨夫	姨丈	姨丈	ji21 tsœŋ35	ji21 tsœŋ35	ji4 zoeng2	P40	姨父1.1	變調
@@ -1455,10 +1455,10 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1454	十、親屬（2）/弟兄	兄弟	兄弟	heŋ55 tɐi22	heŋ55 tɐi22	hing1 dai6	P40	弟兄	
 1455	十、親屬（2）/姊妹	姊妹	姊妹	tsɿ35 mui22	tsɿ35 mui22	zy2 mui6	P40	姊妹	
 1456	十、親屬（2）/姊妹	姐妹	姐妹	tsɛ35 mui22	tsɛ35 mui22	ze2 mui6	P40	姐妹	
-1457	十、親屬（2）/哥哥	阿哥	阿哥	a33 kɔ55	∅a33 kɔ55	aa3 go1	P40	哥哥2	
+1457	十、親屬（2）/哥哥	阿哥	阿哥	a33 kɔ55	a33 kɔ55	aa3 go1	P40	哥哥2	
 1458	十、親屬（2）/哥哥	哥哥	哥哥	kɔ21 kɔ55	kɔ21 kɔ55	go4 go1	P40	哥哥1	
 1459	十、親屬（2）/哥哥	大佬	大佬	tai22 lu35	tai22 lu35	daai6 lu2	P40	哥哥3	
-1460	十、親屬（2）/弟弟	阿弟	阿弟	a33 ti35	∅a33 ti35	aa3 di2	P40	弟2	
+1460	十、親屬（2）/弟弟	阿弟	阿弟	a33 ti35	a33 ti35	aa3 di2	P40	弟2	
 1461	十、親屬（2）/弟弟	弟弟	弟弟	ti21 ti35	ti21 ti35	di4 di2	P40	弟1.1	原文前字未變調，此處修正
 1462	十、親屬（2）/弟弟	弟弟	弟弟	tɐi21 tɐi35	tɐi21 tɐi35	dai4 dai2	P40	弟1.2	原文前字未變調，此處修正
 1463	十、親屬（2）/弟弟	細佬	细佬	ɬɐi33 lu35	ɬɐi33 lu35	slai3 lu2	P40	弟3	
@@ -1467,7 +1467,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1466	十、親屬（2）/姐姐	家	家	ka55	ka55	gaa1	P40	姐姐3	
 1467	十、親屬（2）/姐姐	家姐	家姐	ka55 tsɛ55	ka55 tsɛ55	gaa1 ze1	P40	姐姐2	
 1468	十、親屬（2）/姐姐	大姐	大姐	tai22 tsɛ35	tai22 tsɛ35	daai6 ze2	P40	姐姐4	
-1469	十、親屬（2）/妹妹	阿妹	阿妹	a33 mui35	∅a33 mui35	aa3 mui2	P40	妹妹2	
+1469	十、親屬（2）/妹妹	阿妹	阿妹	a33 mui35	a33 mui35	aa3 mui2	P40	妹妹2	
 1470	十、親屬（2）/妹妹	妹妹	妹妹	mui21 mui35	mui21 mui35	mui4 mui2	P40	妹妹1	原文前字未變調，此處修正
 1471	十、親屬（2）/妹妹	細妹	细妹	ɬɐi33 mui22	ɬɐi33 mui22	slai3 mui6	P40	妹妹3	
 1472	十、親屬（2）/堂兄弟	叔伯兄弟	叔伯兄弟	sok5 pak3 heŋ55 tɐi22	sok5 pak3 heŋ55 tɐi22	suk1 baak3 hing1 dai6	P40	堂兄弟	
@@ -1680,7 +1680,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1679	十一、身體（2）/腳跟兒	腳踭	脚踭	kœk3 tsaŋ55	kœk3 tsaŋ55	goek3 zaang1	P43	腳跟1	
 1680	十一、身體（2）/腳跟兒	腳䐁	脚䐁	kœk3 tok5	kœk3 tok5	goek3 duk1	P43	腳跟2	原文作「腳督」
 1681	十一、身體（2）/腳印兒	腳印	脚印	kœk3 jɐn33	kœk3 jɐn33	goek3 jan3	P43	腳印	
-1682	十一、身體（2）/平底足	鴨乸腳	鸭乸脚	ap3 na35 kœk3	∅ap3 na35 kœk3	aap3 naa2 goek3	P43	平板腳	
+1682	十一、身體（2）/平底足	鴨乸腳	鸭乸脚	ap3 na35 kœk3	ap3 na35 kœk3	aap3 naa2 goek3	P43	平板腳	
 1683	十一、身體（2）/雞眼	雞眼	鸡眼	kɐi55 ŋɛn24	kɐi55 ŋɛn24	gai1 ngen5	P43	雞眼	
 1684	十一、身體（2）/心口兒	心口	心口	ɬɐm55 hɐu35	ɬɐm55 hɐu35	slam1 hau2	P43	心口兒	
 1685	十一、身體（2）/胸脯	胸口	胸口	hoŋ55 hɐu35	hoŋ55 hɐu35	hung1 hau2	P43	胸脯	
@@ -1714,8 +1714,8 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1713	十二、疾病、醫療（1）/號脈	把脈	把脉	pa35 mɐk2	pa35 mɐk2	baa2 mak6	P45	號脈	
 1714	十二、疾病、醫療（1）/開藥方子	開單	开单	hɔi55 tan55	hɔi55 tan55	hoi1 daan1	P45	開方子1	
 1715	十二、疾病、醫療（1）/開藥方子	開藥方	开药方	hɔi55 jœk2 fɔŋ55	hɔi55 jœk2 fɔŋ55	hoi1 joek6 fong1	P45	開方子2	
-1716	十二、疾病、醫療（1）/一劑藥	一劑藥	一剂药	a55 tsɐi55 jœk2	∅a55 tsɐi55 jœk2	aa1 zai1 joek6	P45	一劑藥1	原文「一」字未標調
-1717	十二、疾病、醫療（1）/一劑藥	一服藥	一服药	a55 fok2 jœk2	∅a55 fok2 jœk2	aa1 fuk6 joek6	P45	一劑藥2	原文「一」字未標調
+1716	十二、疾病、醫療（1）/一劑藥	一劑藥	一剂药	a55 tsɐi55 jœk2	a55 tsɐi55 jœk2	aa1 zai1 joek6	P45	一劑藥1	原文「一」字未標調
+1717	十二、疾病、醫療（1）/一劑藥	一服藥	一服药	a55 fok2 jœk2	a55 fok2 jœk2	aa1 fuk6 joek6	P45	一劑藥2	原文「一」字未標調
 1718	十二、疾病、醫療（1）/偏方兒	偏方	偏方	pʰin55 fɔŋ55	pʰin55 fɔŋ55	pin1 fong1	P45	偏方	
 1719	十二、疾病、醫療（1）/抓藥	執藥	执药	tsɐp5 jœk2	tsɐp5 jœk2	zap1 joek6	P45	抓藥	
 1720	十二、疾病、醫療（1）/（中）藥鋪	藥材鋪	药材铺	jœk2 tsʰɔi21 pʰu33	jœk2 tsʰɔi21 pʰu33	joek6 coi4 pu3	P45	藥鋪	
@@ -1726,7 +1726,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1725	十二、疾病、醫療（1）/煎藥	煲藥	煲药	pu55 jœk2	pu55 jœk2	bu1 joek6	P45	煎藥	
 1726	十二、疾病、醫療（1）/藥膏	藥膏	药膏	jœk2 ku55	jœk2 ku55	joek6 gu1	P45	藥膏（西藥）	
 1727	十二、疾病、醫療（1）/上藥	搽藥	搽药	tsʰa21 jœk2	tsʰa21 jœk2	caa4 joek6	P45	搽藥	
-1728	十二、疾病、醫療（1）/敷藥	搕藥	搕药	ɐp5 jœk2	∅ɐp5 jœk2	ap1 joek6	P45	敷藥	原文[ɐp5]有音無字
+1728	十二、疾病、醫療（1）/敷藥	搕藥	搕药	ɐp5 jœk2	ɐp5 jœk2	ap1 joek6	P45	敷藥	原文[ɐp5]有音無字
 1729	十二、疾病、醫療（1）/發汗	發表	发表	fat3 piu35	fat3 piu35	faat3 biu2	P45	表汗	
 1730	十二、疾病、醫療（1）/祛風	去風	去风	hy33 foŋ55	hy33 foŋ55	hyu3 fung1	P45	除風2	
 1731	十二、疾病、醫療（1）/祛風	祛風	祛风	kʰy55 foŋ55	kʰy55 foŋ55	kyu1 fung1	P45	除風1	
@@ -1763,7 +1763,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1762	十二、疾病、醫療（2）/頭疼	頭痛	头痛	tʰɐu21 tʰoŋ33	tʰɐu21 tʰoŋ33	tau4 tung3	P44	頭痛	
 1763	十二、疾病、醫療（2）/噁心	心悶	心闷	ɬɐm55 mun22	ɬɐm55 mun22	slam1 mun6	P44	噁心2	
 1764	十二、疾病、醫療（2）/噁心	想嘔	想呕	ɬœŋ35 ɐu35	ɬœŋ35 ɐu35	sloeng2 au2	P44	噁心1	
-1765	十二、疾病、醫療（2）/嘔吐	嘔	呕	ɐu35	∅ɐu35	au2	P44	吐了	
+1765	十二、疾病、醫療（2）/嘔吐	嘔	呕	ɐu35	ɐu35	au2	P44	吐了	
 1766	十二、疾病、醫療（2）/疝氣	疝氣	疝气	san33 hi33	san33 hi33	saan3 hi3	P44	疝氣	
 1767	十二、疾病、醫療（2）/瘧疾	瘧疾	疟疾	jœk2 tsɐt2	jœk2 tsɐt2	joek6 zat6	P44	發瘧子1	
 1768	十二、疾病、醫療（2）/發瘧子	發冷發熱	发冷发热	fat3 laŋ24 fat3 jit2	fat3 laŋ24 fat3 jit2	faat3 laang5 faat3 jit6	P44	發瘧子2	
@@ -1780,7 +1780,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1779	十二、疾病、醫療（3）/跌傷	跌傷	跌伤	tit3 sœŋ55	tit3 sœŋ55	dit3 soeng1	P44	摔傷	
 1780	十二、疾病、醫療（3）/碰傷	碰傷	碰伤	pʰoŋ33 sœŋ55	pʰoŋ33 sœŋ55	pung3 soeng1	P44	碰傷	
 1781	十二、疾病、醫療（3）/蹭破皮兒	撻皮	挞皮	tʰat3 pʰi21	tʰat3 pʰi21	taat3 pi4	P44	蹭破皮	
-1782	十二、疾病、醫療（3）/灌膿	漚膿	漚脓	ɐu33 noŋ21	∅ɐu33 noŋ21	au3 nung4	P44	化膿1	
+1782	十二、疾病、醫療（3）/灌膿	漚膿	漚脓	ɐu33 noŋ21	ɐu33 noŋ21	au3 nung4	P44	化膿1	
 1783	十二、疾病、醫療（3）/灌膿	熟膿	熟脓	sok2 noŋ21	sok2 noŋ21	suk6 nung4	P44	化膿2	
 1784	十二、疾病、醫療（3）/結痂	結疤	结疤	kit3 pa55	kit3 pa55	git3 baa1	P44	結痂1	
 1785	十二、疾病、醫療（3）/結痂	結𥀬	结𥀬	kit3 jim35	kit3 jim35	git3 jim2	P44	結痂2	原文[jim35]有音无字
@@ -1896,7 +1896,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1895	十三、衣服、穿戴（2）/帽檐兒	帽檐	帽檐	mu22 jim35	mu22 jim35	mu6 jim2	P46	帽檐兒	原文標作「簷」的變調[21-35]
 1896	十三、衣服、穿戴（3）/首飾	首飾	首饰	sɐu35 sek5	sɐu35 sek5	sau2 sik1	P45	首飾1	
 1897	十三、衣服、穿戴（3）/首飾	金器	金器	kɐm55 hi33	kɐm55 hi33	gam1 hi3	P45	首飾2	
-1898	十三、衣服、穿戴（3）/鐲子	軛	轭	ak3	∅ak3	aak3	P46	鐲子	
+1898	十三、衣服、穿戴（3）/鐲子	軛	轭	ak3	ak3	aak3	P46	鐲子	
 1899	十三、衣服、穿戴（3）/戒指	戒子	戒子	kai33 tsɿ35	kai33 tsɿ35	gaai3 zy2	P46	戒指	
 1900	十三、衣服、穿戴（3）/項鏈	頸鏈	颈链	kɛŋ35 lin35	kɛŋ35 lin35	geng2 lin2	P46	項鏈	
 1901	十三、衣服、穿戴（3）/項圈	頸圈	颈圈	kɛŋ35 hyn55	kɛŋ35 hyn55	geng2 hyun1	P46	項圈	
@@ -1929,7 +1929,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1928	十四、飲食（1）/便飯	便飯	便饭	pin22 fan22	pin22 fan22	bin6 faan6	P47	便飯	
 1929	十四、飲食（1）/吃飯	食飯	食饭	sek2 fan22	sek2 fan22	sik6 faan6	P54	吃飯	
 1930	十四、飲食（1）/早飯	過早	过早	kɔ33 tsu35	kɔ33 tsu35	go3 zu2	P47	早飯	
-1931	十四、飲食（1）/午飯	晏飯	晏饭	an33 fan22	∅an33 fan22	aan3 faan6	P47	午飯	
+1931	十四、飲食（1）/午飯	晏飯	晏饭	an33 fan22	an33 fan22	aan3 faan6	P47	午飯	
 1932	十四、飲食（1）/晚飯	夜飯	夜饭	jɛ22 fan22	jɛ22 fan22	je6 faan6	P47	晚飯	
 1933	十四、飲食（1）/食物	嘢	嘢	jɛ24	jɛ24	je5	P47	食品、東西	
 1934	十四、飲食（1）/零食	消口	消口	ɬiu55 hɐu35	ɬiu55 hɐu35	sliu1 hau2	P47	零食2	
@@ -1974,9 +1974,9 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1973	十四、飲食（2）/油炸鬼	油餈	油糍	jɐu21 tsʰɿ21	jɐu21 tsʰɿ21	jau4 cy4	P48	油炸鬼2	
 1974	十四、飲食（2）/麻花	麻花	麻花	ma21 fa55	ma21 fa55	maa4 faa1	P48	麻花兒	
 1975	十四、飲食（2）/米花	米花	米花	mɐi24 fa55	mɐi24 fa55	mai5 faa1	P48	米花	
-1976	十四、飲食（3）/麪粉	灰面	灰面	fui55 min22	fui55 min22	fui1 min6	P47	麪粉2	
+1976	十四、飲食（3）/麪粉	灰麪	灰面	fui55 min22	fui55 min22	fui1 min6	P47	麪粉2	
 1977	十四、飲食（3）/麪粉	麪粉	面粉	min22 fɐn35	min22 fɐn35	min6 fan2	P47	麪粉1	
-1978	十四、飲食（3）/麪條兒	面	面	min22	min22	min6	P47	麪條2	
+1978	十四、飲食（3）/麪條兒	麪	面	min22	min22	min6	P47	麪條2	
 1979	十四、飲食（3）/麪條兒	麪條	面条	min22 tʰiu21	min22 tʰiu21	min6 tiu4	P47	麪條1	
 1980	十四、飲食（3）/麪疙瘩	雞頭子	鸡头子	kɐi55 tʰɐu21 tsɿ35	kɐi55 tʰɐu21 tsɿ35	gai1 tau4 zy2	P47	麪疙瘩2	
 1981	十四、飲食（3）/麪疙瘩	麪疙𤶸	面疙𤶸	min22 kɐt5 na55	min22 kɐt5 na55	min6 gat1 naa1	P47	麪疙瘩1	
@@ -2209,7 +2209,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2208	十五、紅白大事（1）/續絃	續娶	续娶	tsok2 tsʰy35	tsok2 tsʰy35	zuk6 cyu2	P51	續絃	原文作「續取」
 2209	十五、紅白大事（1）/填房	填房	填房	tʰin21 fɔŋ21	tʰin21 fɔŋ21	tin4 fong4	P51	填房	
 2210	十五、紅白大事（1）/懷孕了	有身	有身	jɐu24 sɐn55	jɐu24 sɐn55	jau5 san1	P51	懷孕1	
-2211	十五、紅白大事（1）/懷孕了	漚崽	沤崽	ɐu33 tsɐi35	∅ɐu33 tsɐi35	au3 zai2	P51	懷孕2	
+2211	十五、紅白大事（1）/懷孕了	漚崽	沤崽	ɐu33 tsɐi35	ɐu33 tsɐi35	au3 zai2	P51	懷孕2	
 2212	十五、紅白大事（1）/懷孕了	肚大	肚大	tʰu24 tai22	tʰu24 tai22	tu5 daai6	P51	懷孕3	
 2213	十五、紅白大事（1）/懷孕了	有喜	有喜	jɐu24 hi35	jɐu24 hi35	jau5 hi2	P51	懷孕4	
 2214	十五、紅白大事（1）/孕婦	大肚婆	大肚婆	tai22 tʰu24 pʰɔ21	tai22 tʰu24 pʰɔ21	daai6 tu5 po4	P51	孕婦	
@@ -2277,7 +2277,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2276	十五、紅白大事（2）/擡棺材的	土公佬	土公佬	tʰu35 koŋ55 lu35	tʰu35 koŋ55 lu35	tu2 gung1 lu2	P58	擡棺材的2	
 2277	十五、紅白大事（2）/開坑	開坑	开坑	hɔi55 haŋ55	hɔi55 haŋ55	hoi1 haang1	P52	破土	
 2278	十五、紅白大事（2）/葬	葬	葬	tsɔŋ33	tsɔŋ33	zong3	P52	下葬1	
-2279	十五、紅白大事（2）/葬	壅	壅	oŋ55	∅oŋ55	ung1	P52	下葬2	
+2279	十五、紅白大事（2）/葬	壅	壅	oŋ55	oŋ55	ung1	P52	下葬2	
 2280	十五、紅白大事（2）/紙錢	雞錢	鸡钱	kɐi55 tsʰin21	kɐi55 tsʰin21	gai1 cin4	P52	紙錢	
 2281	十五、紅白大事（2）/墳墓	墳山	坟山	fɐn21 san55	fɐn21 san55	fan4 saan1	P52	墳墓	
 2282	十五、紅白大事（2）/上墳	拜山	拜山	pai33 san55	pai33 san55	baai3 saan1	P52	掃墓	
@@ -2304,7 +2304,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2303	十五、紅白大事（3）/觀世音	觀音	观音	kun55 jɐm55	kun55 jɐm55	gun1 jam1	P52	觀音1	
 2304	十五、紅白大事（3）/觀世音	觀音菩薩	观音菩萨	kun55 jɐm55 pʰɔ21 ɬat3	kun55 jɐm55 pʰɔ21 ɬat3	gun1 jam1 po4 slaat3	P52	觀音2	
 2305	十五、紅白大事（3）/廟	廟	庙	miu22	miu22	miu6	P52	廟	
-2306	十五、紅白大事（3）/庵	庵	庵	ɐm55	∅ɐm55	am1	P52	庵	
+2306	十五、紅白大事（3）/庵	庵	庵	ɐm55	ɐm55	am1	P52	庵	
 2307	十五、紅白大事（3）/土地廟	土地廟	土地庙	tu35 ti22 miu22	tu35 ti22 miu22	du2 di6 miu6	P52	土地廟	
 2308	十五、紅白大事（3）/土地神	土地公	土地公	tu35 ti22 koŋ55	tu35 ti22 koŋ55	du2 di6 gung1	P52	土地	
 2309	十五、紅白大事（3）/財神爺	財神爺	财神爷	tsʰɔi21 sɐn21 jɛ21	tsʰɔi21 sɐn21 jɛ21	coi4 san4 je4	P52	財神爺	
@@ -2382,7 +2382,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2381	十六、日常生活（2）/發麪	發麪粉	发面粉	fat3 min22 fɐn35	fat3 min22 fɐn35	faat3 min6 fan2	P50	發麪	
 2382	十六、日常生活（2）/和麪	搋麪粉	搋面粉	tsʰai55 min22 fɐn35	tsʰai55 min22 fɐn35	caai1 min6 fan2	P50	和麪	
 2383	十六、日常生活（2）/擀麪條	擀麪	擀面	kɔn35 min22	kɔn35 min22	gon2 min6	P50	擀麪條	
-2384	十六、日常生活（2）/下麪條	熝面	熝面	lok5 min22	lok5 min22	luk1 min6	P50	煮麪條	
+2384	十六、日常生活（2）/下麪條	熝麪	熝面	lok5 min22	lok5 min22	luk1 min6	P50	煮麪條	
 2385	十六、日常生活（2）/切麪條	切麪	切面	tsʰit3 min22	tsʰit3 min22	cit3 min6	P50	切麪條	
 2386	十六、日常生活（2）/過涼	過冷河	过冷河	kɔ33 laŋ24 hɔ21	kɔ33 laŋ24 hɔ21	go3 laang5 ho4	P47	麪條煮熟後過涼水	
 2387	十六、日常生活（2）/蒸饅頭	蒸饅頭	蒸馒头	tseŋ55 man22 tʰɐu21	tseŋ55 man22 tʰɐu21	zing1 maan6 tau4	P50	蒸饅頭	
@@ -2445,10 +2445,10 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2444	十六、日常生活（3）/洗澡	洗身	洗身	ɬɐi35 sɐn55	ɬɐi35 sɐn55	slai2 san1	P54	洗澡2	
 2445	十六、日常生活（3）/擦澡	抹身	抹身	mat3 sɐn55	mat3 sɐn55	maat3 san1	P54	擦身	
 2446	十六、日常生活（3）/洗腳	洗腳	洗脚	ɬɐi35 kœk3	ɬɐi35 kœk3	slai2 goek3	P54	洗腳	
-2447	十六、日常生活（3）/小便	屙尿	屙尿	ɔ55 niu22	∅ɔ55 niu22	o1 niu6	P54	小便	
-2448	十六、日常生活（3）/大便	屙屎	屙屎	ɔ55 si35	∅ɔ55 si35	o1 si2	P54	大便1	
+2447	十六、日常生活（3）/小便	屙尿	屙尿	ɔ55 niu22	ɔ55 niu22	o1 niu6	P54	小便	
+2448	十六、日常生活（3）/大便	屙屎	屙屎	ɔ55 si35	ɔ55 si35	o1 si2	P54	大便1	
 2449	十六、日常生活（3）/大便	出恭	出恭	tsʰyt5 koŋ55	tsʰyt5 koŋ55	cyut1 gung1	P54	大便2	
-2450	十六、日常生活（3）/便祕	屙硬屎	屙硬屎	ɔ55 ŋaŋ22 si35	∅ɔ55 ŋaŋ22 si35	o1 ngaang6 si2	P45	便祕2	原文作「痾」字
+2450	十六、日常生活（3）/便祕	屙硬屎	屙硬屎	ɔ55 ŋaŋ22 si35	ɔ55 ŋaŋ22 si35	o1 ngaang6 si2	P45	便祕2	原文作「痾」字
 2451	十六、日常生活（3）/便祕	結恭	结恭	kit3 koŋ55	kit3 koŋ55	git3 gung1	P45	便祕1	
 2452	十六、日常生活（3）/乘涼	乘涼	乘凉	seŋ21 lœŋ21	seŋ21 lœŋ21	sing4 loeng4	P54	乘涼	
 2453	十六、日常生活（3）/曬太陽	曬熱頭	晒热头	sai33 jit2 tʰɐu21	sai33 jit2 tʰɐu21	saai3 jit6 tau4	P54	曬太陽	
@@ -2548,7 +2548,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2547	十七、訟事/課子	稅	税	sui33	sui33	sui3	P53	課子	
 2548	十七、訟事/地租	地租	地租	ti22 tsu55	ti22 tsu55	di6 zu1	P53	地租	
 2549	十七、訟事/地契	地契	地契	ti22 kʰɐi33	ti22 kʰɐi33	di6 kai3	P53	地契	
-2550	十七、訟事/房契	屋契	屋契	ok5 kʰɐi33	∅ok5 kʰɐi33	uk1 kai3	P53	房契	
+2550	十七、訟事/房契	屋契	屋契	ok5 kʰɐi33	ok5 kʰɐi33	uk1 kai3	P53	房契	
 2551	十七、訟事/納稅	納稅	纳税	nap2 sui33	nap2 sui33	naap6 sui3	P53	交稅	
 2552	十七、訟事/執照	執照	执照	tsɐp5 tsiu33	tsɐp5 tsiu33	zap1 ziu3	P53	執照	
 2553	十七、訟事/營業執照	牌照	牌照	pʰai21 tsiu33	pʰai21 tsiu33	paai4 ziu3	P53	牌照	
@@ -2595,8 +2595,8 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2594	十八、交際/擺酒席	擺酒	摆酒	pai35 tsɐu35	pai35 tsɐu35	baai2 zau2	P55	擺酒席1	
 2595	十八、交際/擺酒席	請酒	请酒	tsʰeŋ35 tsɐu35	tsʰeŋ35 tsɐu35	cing2 zau2	P55	擺酒席2	
 2596	十八、交際/擺酒席	請飲	请饮	tsʰeŋ35 jɐm35	tsʰeŋ35 jɐm35	cing2 jam2	P55	擺酒席3	
-2597	十八、交際/一桌酒席	一檯	一台	a55 tʰɔi21	∅a55 tʰɔi21	aa1 toi4	P55，69	一檯1（酒）	原文P55「一」字誤作[a33]
-2598	十八、交際/一桌酒席	一檯酒	一台酒	a55 tʰɔi21 tsɐu35	∅a55 tʰɔi21 tsɐu35	aa1 toi4 zau2	P69	一檯2（酒）	原文P69「酒」字誤作[sɐu35]
+2597	十八、交際/一桌酒席	一檯	一台	a55 tʰɔi21	a55 tʰɔi21	aa1 toi4	P55，69	一檯1（酒）	原文P55「一」字誤作[a33]
+2598	十八、交際/一桌酒席	一檯酒	一台酒	a55 tʰɔi21 tsɐu35	a55 tʰɔi21 tsɐu35	aa1 toi4 zau2	P69	一檯2（酒）	原文P69「酒」字誤作[sɐu35]
 2599	十八、交際/請帖	請帖	请帖	tsʰeŋ35 tʰip3	tsʰeŋ35 tʰip3	cing2 tip3	P55	請柬	
 2600	十八、交際/下請帖	發請帖	发请帖	fat3 tsʰeŋ35 tʰip3	fat3 tsʰeŋ35 tʰip3	faat3 cing2 tip3	P55	下請帖1	
 2601	十八、交際/下請帖	落請帖	落请帖	lɔk2 tsʰeŋ35 tʰip3	lɔk2 tsʰeŋ35 tʰip3	lok6 cing2 tip3	P55	下請帖2	
@@ -2779,9 +2779,9 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2778	十九、商業、交通（3）/零用	零用	零用	leŋ21 joŋ22	leŋ21 joŋ22	ling4 jung6	P57	零用1	
 2779	十九、商業、交通（3）/零用	零使	零使	leŋ21 sɐi35	leŋ21 sɐi35	ling4 sai2	P57	零用2	
 2780	十九、商業、交通（3）/鈔票	銀紙	银纸	ŋɐn21 tsi35	ŋɐn21 tsi35	ngan4 zi2	P57	票子	
-2781	十九、商業、交通（3）/一角錢	一毫子	一毫子	a55 hu21 tsɿ35	∅a55 hu21 tsɿ35	aa1 hu4 zy2	P57	一毛錢	
-2782	十九、商業、交通（3）/一塊錢	一文錢	一文钱	a55 mɐn55 tsʰin21	∅a55 mɐn55 tsʰin21	aa1 man1 cin4	P57	一塊錢1	
-2783	十九、商業、交通（3）/一塊錢	一文銀	一文银	a55 mɐn55 ŋɐn21	∅a55 mɐn55 ŋɐn21	aa1 man1 ngan4	P57	一塊錢2	
+2781	十九、商業、交通（3）/一角錢	一毫子	一毫子	a55 hu21 tsɿ35	a55 hu21 tsɿ35	aa1 hu4 zy2	P57	一毛錢	
+2782	十九、商業、交通（3）/一塊錢	一文錢	一文钱	a55 mɐn55 tsʰin21	a55 mɐn55 tsʰin21	aa1 man1 cin4	P57	一塊錢1	
+2783	十九、商業、交通（3）/一塊錢	一文銀	一文银	a55 mɐn55 ŋɐn21	a55 mɐn55 ŋɐn21	aa1 man1 ngan4	P57	一塊錢2	
 2784	十九、商業、交通（3）/算盤	算盤	算盘	ɬyn33 pʰun21	ɬyn33 pʰun21	slyun3 pun4	P57	算盤	
 2785	十九、商業、交通（3）/天平	天平	天平	tʰin55 pʰeŋ21	tʰin55 pʰeŋ21	tin1 ping4	P57	天秤	
 2786	十九、商業、交通（3）/盤秤	盤秤	盘秤	pʰun21 tsʰeŋ33	pʰun21 tsʰeŋ33	pun4 cing3	P57	盤秤	原文作「盤稱」
@@ -2895,7 +2895,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2894	二十、文化教育（3）/滿分	滿分	满分	mun24 fɐn55	mun24 fɐn55	mun5 fan1	P59	滿分1	
 2895	二十、文化教育（3）/滿分	一百分	一百分	jɐt5 pak3 fɐn55	jɐt5 pak3 fɐn55	jat1 baak3 fan1	P59	滿分2	
 2896	二十、文化教育（3）/零分	零蛋	零蛋	leŋ21 tan22	leŋ21 tan22	ling4 daan6	P59	零分1	
-2897	二十、文化教育（3）/零分	鴨蛋	鸭蛋	ap3 tan22	∅ap3 tan22	aap3 daan6	P59	零分2	
+2897	二十、文化教育（3）/零分	鴨蛋	鸭蛋	ap3 tan22	ap3 tan22	aap3 daan6	P59	零分2	
 2898	二十、文化教育（3）/發榜	出榜	出榜	tsʰyt5 pɔŋ35	tsʰyt5 pɔŋ35	cyut1 bong2	P59	發榜	
 2899	二十、文化教育（3）/頭名	第一名	第一名	tɐi22 jɐt5 meŋ21	tɐi22 jɐt5 meŋ21	dai6 jat1 ming4	P59	頭名2	
 2900	二十、文化教育（3）/頭名	頭一名	头一名	tʰɐu21 a55 mɛŋ21	tʰɐu21 a55 mɛŋ21	tau4 aa1 meng4	P59	頭名1	
@@ -2916,14 +2916,14 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2915	二十、文化教育（4）/起稿子	打草稿	打草稿	ta35 tsʰu35 ku35	ta35 tsʰu35 ku35	daa2 cu2 gu2	P59	打個稿兒	
 2916	二十、文化教育（4）/謄清	謄清	誊清	tʰɐŋ21 tsʰeŋ55	tʰɐŋ21 tsʰeŋ55	tang4 cing1	P59	謄清1	
 2917	二十、文化教育（4）/謄清	抄正	抄正	tsʰɛu55 tseŋ33	tsʰɛu55 tseŋ33	ceu1 zing3	P59	謄清2	
-2918	二十、文化教育（4）/一點	一點	一点	a55 tim35	∅a55 tim35	aa1 dim2	P60	一點	
-2919	二十、文化教育（4）/一橫	一橫	一横	a55 waŋ21	∅a55 waŋ21	aa1 waang4	P60	一橫	
-2920	二十、文化教育（4）/一豎	一直	一直	a55 tsek2	∅a55 tsek2	aa1 zik6	P60	一豎	
-2921	二十、文化教育（4）/一撇	一撇	一撇	a55 pʰit3	∅a55 pʰit3	aa1 pit3	P60	一撇	
-2922	二十、文化教育（4）/一捺	一捺	一捺	a55 nat3	∅a55 nat3	aa1 naat3	P60	一捺	
-2923	二十、文化教育（4）/一勾	一勾	一勾	a55 ŋɐu55	∅a55 ŋɐu55	aa1 ngau1	P60	一勾	
-2924	二十、文化教育（4）/一挑	一剔	一剔	a55 tʰɛk3	∅a55 tʰɛk3	aa1 tek3	P60	一挑	原文作「一踢」
-2925	二十、文化教育（4）/一畫	一畫	一画	a55 wak2	∅a55 wak2	aa1 waak6	P60	一畫	
+2918	二十、文化教育（4）/一點	一點	一点	a55 tim35	a55 tim35	aa1 dim2	P60	一點	
+2919	二十、文化教育（4）/一橫	一橫	一横	a55 waŋ21	a55 waŋ21	aa1 waang4	P60	一橫	
+2920	二十、文化教育（4）/一豎	一直	一直	a55 tsek2	a55 tsek2	aa1 zik6	P60	一豎	
+2921	二十、文化教育（4）/一撇	一撇	一撇	a55 pʰit3	a55 pʰit3	aa1 pit3	P60	一撇	
+2922	二十、文化教育（4）/一捺	一捺	一捺	a55 nat3	a55 nat3	aa1 naat3	P60	一捺	
+2923	二十、文化教育（4）/一勾	一勾	一勾	a55 ŋɐu55	a55 ŋɐu55	aa1 ngau1	P60	一勾	
+2924	二十、文化教育（4）/一挑	一剔	一剔	a55 tʰɛk3	a55 tʰɛk3	aa1 tek3	P60	一挑	原文作「一踢」
+2925	二十、文化教育（4）/一畫	一畫	一画	a55 wak2	a55 wak2	aa1 waak6	P60	一畫	
 2926	二十、文化教育（4）/偏旁兒	偏旁	偏旁	pʰin55 pʰɔŋ21	pʰin55 pʰɔŋ21	pin1 pong4	P60	偏旁	
 2927	二十、文化教育（4）/立人兒（亻）	單人旁	单人旁	tan55 jɐn21 pʰɔŋ21	tan55 jɐn21 pʰɔŋ21	daan1 jan4 pong4	P60	單人旁	
 2928	二十、文化教育（4）/雙立人兒（彳）	雙人旁	双人旁	sœŋ55 jɐn21 pʰɔŋ21	sœŋ55 jɐn21 pʰɔŋ21	soeng1 jan4 pong4	P60	雙立人兒	
@@ -3115,14 +3115,14 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3114	二十二、動作（1）/叉着手兒	翹住手	翘住手	kʰɛu55 tsy22 sɐu35	kʰɛu55 tsy22 sɐu35	keu1 zyu6 sau2	P62	背着手、叉着手	原文作「蹺住手」
 3115	二十二、動作（1）/撥拉	擓	㧟	kʷʰɛ33	kʷʰɛ33	kwe3	P62	扒拉	原文有音無字
 3116	二十二、動作（1）/蓋	冚	冚	kʰɐm35	kʰɐm35	kam2	P62	蓋	原文有音無字
-3117	二十二、動作（1）/捂住	揞住	揞住	ɐm35 tsy22	∅ɐm35 tsy22	am2 zyu6	P62	捂住	
+3117	二十二、動作（1）/捂住	揞住	揞住	ɐm35 tsy22	ɐm35 tsy22	am2 zyu6	P62	捂住	
 3118	二十二、動作（1）/張開	打開	打开	ta35 hɔi55	ta35 hɔi55	daa2 hoi1	P62	張開	
 3119	二十二、動作（1）/撕破	擘爛	擘烂	mek5 lan22	mek5 lan22	mik1 laan6	P62	撕破	原文[mek5]有音無字
 3120	二十二、動作（1）/戳	𧰵	𧰵	tok5	tok5	duk1	P62	戳1	原文作「督」字
 3121	二十二、動作（1）/戳	㓤	㓤	kɐt5	kɐt5	gat1	P62	戳2	原文有音無字
 3122	二十二、動作（1）/披上	摟住	搂住	lɐu55 tsy22	lɐu55 tsy22	lau1 zyu6	P62	披上	原文[lɐu55]有音無字
 3123	二十二、動作（1）/摟抱着	攬住	揽住	lam35 tsy22	lam35 tsy22	laam2 zyu6	P62	摟住	
-3124	二十二、動作（1）/折斷	拗斷	拗断	ɛu35 tʰyn24	∅ɛu35 tʰyn24	eu2 tyun5	P62	折斷	
+3124	二十二、動作（1）/折斷	拗斷	拗断	ɛu35 tʰyn24	ɛu35 tʰyn24	eu2 tyun5	P62	折斷	
 3125	二十二、動作（1）/拿	擰	拧	neŋ55	neŋ55	ning1	P64	拿1	
 3126	二十二、動作（1）/拿	抓	抓	ja55	ja55	jaa1	P64	拿2	原文有音無字
 3127	二十二、動作（1）/抓	抓	抓	ja55	ja55	jaa1	P64	取2	原文有音無字
@@ -3193,7 +3193,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3192	二十二、動作（1）/伸腰	抻懶腰	抻懒腰	tsʰɐn55 lan24 jiu55	tsʰɐn55 lan24 jiu55	can1 laan5 jiu1	P63	伸腰2	
 3193	二十二、動作（1）/撐腰（支持）	撐腰	撑腰	tsʰaŋ55 jiu55	tsʰaŋ55 jiu55	caang1 jiu1	P63	撐腰（支持）	
 3194	二十二、動作（1）/跨	𨂾	𨂾	nam33	nam33	naam3	P63	跨	原文作「𨈇」字
-3195	二十二、動作（1）/挺胸	躽胸	躽胸	ɛn35 hoŋ55	∅ɛn35 hoŋ55	en2 hung1	P63	挺胸	原文[ɛn35]有音无字
+3195	二十二、動作（1）/挺胸	躽胸	躽胸	ɛn35 hoŋ55	ɛn35 hoŋ55	en2 hung1	P63	挺胸	原文[ɛn35]有音无字
 3196	二十二、動作（1）/捶背	䂿背脊	䂿背脊	tɐp2 pui33 tsɛk3	tɐp2 pui33 tsɛk3	dap6 bui3 zek3	P58	槌背1	
 3197	二十二、動作（1）/捶背	䂿骨	䂿骨	tɐp2 kʷɐt5	tɐp2 kʷɐt5	dap6 gwat1	P58	槌背2	
 3198	二十二、動作（1）/擤鼻涕	擤鼻涕	擤鼻涕	ɬɐŋ33 pi22 tʰɐi33	ɬɐŋ33 pi22 tʰɐi33	slang3 bi6 tai3	P63	擤鼻涕	
@@ -3236,7 +3236,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3235	二十二、動作（2）/掛念	掛住	挂住	kʷa33 tsy22	kʷa33 tsy22	gwaa3 zyu6	P65	掛念2	原文「住」字誤作[tsy21]
 3236	二十二、動作（2）/掛念	掛心	挂心	kʷa33 ɬɐm55	kʷa33 ɬɐm55	gwaa3 slam1	P65	掛念3	
 3237	二十二、動作（2）/放心	放心	放心	fɔŋ33 ɬɐm55	fɔŋ33 ɬɐm55	fong3 slam1	P65	放心1	
-3238	二十二、動作（2）/放心	安樂	安乐	ɔn55 lɔk2	∅ɔn55 lɔk2	on1 lok6	P65	放心3	
+3238	二十二、動作（2）/放心	安樂	安乐	ɔn55 lɔk2	ɔn55 lɔk2	on1 lok6	P65	放心3	
 3239	二十二、動作（2）/放心	澹定	澹定	tam22 teŋ22	tam22 teŋ22	daam6 ding6	P65	放心2	原文[tam22]有音無字
 3240	二十二、動作（2）/盼望	巴望	巴望	ma55 moŋ35	ma55 moŋ35	maa1 mung2	P65	盼望1	原文作「嗎懵」
 3241	二十二、動作（2）/盼望	望	望	mɔŋ22	mɔŋ22	mong6	P65	盼望2	
@@ -3255,7 +3255,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3254	二十二、動作（2）/討厭	憎	憎	tsɐŋ55	tsɐŋ55	zang1	P65	討厭、恨3	
 3255	二十二、動作（2）/討厭	恨	恨	hɐn22	hɐn22	han6	P65	討厭、恨1	
 3256	二十二、動作（2）/可惡	可惡	可恶	hɔ35 wu33	hɔ35 wu33	ho2 wu3	P65	可惡	
-3257	二十二、動作（2）/慪氣	翳氣	翳气	ɐi33 hi33	∅ɐi33 hi33	ai3 hi3	P65	慪氣1	原文[ɐi33]有音無字
+3257	二十二、動作（2）/慪氣	翳氣	翳气	ɐi33 hi33	ɐi33 hi33	ai3 hi3	P65	慪氣1	原文[ɐi33]有音無字
 3258	二十二、動作（2）/慪氣	鼓住泡氣	鼓住泡气	ku35 tsy22 pʰau55 hi33	ku35 tsy22 pʰau55 hi33	gu2 zyu6 paau1 hi3	P65	憋氣	
 3259	二十二、動作（2）/傷神	霎氣	霎气	sap3 hi33	sap3 hi33	saap3 hi3	P64	操心	原文[ʃap3]有音無字
 3260	二十二、動作（2）/傷神	㵤氣	㵤气	sap3 hi33	sap3 hi33	saap3 hi3	P64	操心	原文[ʃap3]有音無字
@@ -3275,7 +3275,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3274	二十二、動作（2）/裝糊塗	詐傻	诈傻	tsa33 ɬɔ21	tsa33 ɬɔ21	zaa3 slo4	P55	裝傻2	
 3275	二十二、動作（2）/愛惜	儆惜	儆惜	kɛŋ22 ɬɛk3	kɛŋ22 ɬɛk3	geng6 slek3	P65	愛惜2	原文[kɛŋ22]有音無字
 3276	二十二、動作（2）/疼愛	痛	痛	tʰoŋ33	tʰoŋ33	tung3	P65	疼愛	
-3277	二十二、動作（2）/喜歡	愛	爱	ɔi33	∅ɔi33	oi3	P65	喜歡（～看書）	
+3277	二十二、動作（2）/喜歡	愛	爱	ɔi33	ɔi33	oi3	P65	喜歡（～看書）	
 3278	二十二、動作（2）/嬌慣	慣世	惯世	kʷɛn33 sɐi33	kʷɛn33 sɐi33	gwen3 sai3	P64	嬌慣	
 3279	二十二、動作（2）/遷就	遷就	迁就	tsʰim55 tsɐu22	tsʰim55 tsɐu22	cim1 zau6	P64	遷就1	
 3280	二十二、動作（2）/遷就	就	就	tsɐu22	tsɐu22	zau6	P64	遷就2	
@@ -3297,13 +3297,13 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3296	二十二、動作（3）/告訴	講畀···聽	讲畀···听	kɔŋ35 pi35···tʰɛŋ55	kɔŋ35 pi35···tʰɛŋ55	gong2 bi2···teng1	P63	告訴1	
 3297	二十二、動作（3）/告訴	話知	话知	wa22 tsi55	wa22 tsi55	waa6 zi1	P63	告訴2	
 3298	二十二、動作（3）/說悄悄話	偷偷講	偷偷讲	tʰɐu55 tʰɐu55 kɔŋ35	tʰɐu55 tʰɐu55 kɔŋ35	tau1 tau1 gong2	P63	說悄悄話	
-3299	二十二、動作（3）/擡槓	拗	拗	ɛu33	∅ɛu33	eu3	P63	擡槓2	
-3300	二十二、動作（3）/擡槓	拗頸	拗颈	ɛu33 kɛŋ35	∅ɛu33 kɛŋ35	eu3 geng2	P63	擡槓1	
+3299	二十二、動作（3）/擡槓	拗	拗	ɛu33	ɛu33	eu3	P63	擡槓2	
+3300	二十二、動作（3）/擡槓	拗頸	拗颈	ɛu33 kɛŋ35	ɛu33 kɛŋ35	eu3 geng2	P63	擡槓1	
 3301	二十二、動作（3）/頂嘴	頂頸	顶颈	teŋ35 kɛŋ35	teŋ35 kɛŋ35	ding2 geng2	P63	頂嘴	
 3302	二十二、動作（3）/吵架	爭交	争交	tsaŋ55 kɛu55	tsaŋ55 kɛu55	zaang1 geu1	P63	吵架1	
-3303	二十二、動作（3）/吵架	嗌交	嗌交	ai33 kɛu55	∅ai33 kɛu55	aai3 geu1	P63	吵架2	
+3303	二十二、動作（3）/吵架	嗌交	嗌交	ai33 kɛu55	ai33 kɛu55	aai3 geu1	P63	吵架2	
 3304	二十二、動作（3）/打架	打交	打交	ta35 kɛu55	ta35 kɛu55	daa2 geu1	P63	打架	
-3305	二十二、動作（3）/罵	嗌	嗌	ai33	∅ai33	aai3	P63	罵	
+3305	二十二、動作（3）/罵	嗌	嗌	ai33	ai33	aai3	P63	罵	
 3306	二十二、動作（3）/捱罵	捱嗌	挨嗌	ŋai21 ai33	ŋai21 ai33	ngaai4 aai3	P63	捱罵	
 3307	二十二、動作（3）/找茬兒	惹人	惹人	jɛ24 jɐn21	jɛ24 jɐn21	je5 jan4	P63	找茬兒	
 3308	二十二、動作（3）/指桑罵槐	燒燒焫焫	烧烧焫焫	siu55 siu55 nat3 nat3	siu55 siu55 nat3 nat3	siu1 siu1 naat3 naat3	P63	指桑罵槐	原文作「燒燒捺捺」
@@ -3311,9 +3311,9 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3310	二十二、動作（3）/嘮叨	吟沉	吟沉	ŋɐm21 tsʰɐm21	ŋɐm21 tsʰɐm21	ngam4 cam4	P63	嘮叨1	原文[ŋɐm21]有音無字
 3311	二十二、動作（3）/嘮叨	沉醉	沉醉	tsʰɐm21 tsui33	tsʰɐm21 tsui33	cam4 zui3	P63	嘮叨2	
 3312	二十二、動作（3）/叫	喊	喊	hɛm33	hɛm33	hem3	P63	喊1，～他來	
-3313	二十二、動作（3）/叫	吆	吆	ɛu55	∅ɛu55	eu1	P63	喊2	原文有音無字
+3313	二十二、動作（3）/叫	吆	吆	ɛu55	ɛu55	eu1	P63	喊2	原文有音無字
 3314	二十二、動作（3）/叫	喊	喊	hɛm33	hɛm33	hem3	P63	叫喊2	
-3315	二十二、動作（3）/叫	吆	吆	ɛu55	∅ɛu55	eu1	P63	叫喊1	原文有音無字
+3315	二十二、動作（3）/叫	吆	吆	ɛu55	ɛu55	eu1	P63	叫喊1	原文有音無字
 3316	二十二、動作（3）/叫呱呱	喊喳喳	喊喳喳	hɛm33 tsa55 tsa55	hɛm33 tsa55 tsa55	hem3 zaa1 zaa1	P63	嚷嚷	
 3317	二十三、位置/上面	上高	上高	sœŋ22 ku55	sœŋ22 ku55	soeng6 gu1	P65	上頭	
 3318	二十三、位置/下面	下底	下底	ha22 tɐi35	ha22 tɐi35	haa6 dai2	P65	下頭1	
@@ -3386,12 +3386,12 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3385	二十四、代詞等/大家	大齊	大齐	tai22 tsʰɐi21	tai22 tsʰɐi21	daai6 cai4	P66	大家2	
 3386	二十四、代詞等/自己	自己	自己	tsɿ22 ki35	tsɿ22 ki35	zy6 gi2	P66	自己	
 3387	二十四、代詞等/誰	邊個	边个	pin55 kɔ33	pin55 kɔ33	bin1 go3	P66	誰	
-3388	二十四、代詞等/這些	阿啲	阿啲	a33 ti55	∅a33 ti55	aa3 di1	P66	這些	
+3388	二十四、代詞等/這些	阿啲	阿啲	a33 ti55	a33 ti55	aa3 di1	P66	這些	
 3389	二十四、代詞等/那些	嚕啲	噜啲	lu55 ti55	lu55 ti55	lu1 di1	P66	那些	
 3390	二十四、代詞等/哪些	邊啲	边啲	pin55 ti55	pin55 ti55	bin1 di1	P66	哪些	
-3391	二十四、代詞等/這種	阿種	阿种	a33 tsoŋ35	∅a33 tsoŋ35	aa3 zung2	P66	這種	原文標音作[a-tsoŋ35]
-3392	二十四、代詞等/這裏	阿啲	阿啲	a33 ti55	∅a33 ti55	aa3 di1	P66	這裏	
-3393	二十四、代詞等/這裏	阿便	阿便	a33 pin22	∅a33 pin22	aa3 bin6	P66	這邊	
+3391	二十四、代詞等/這種	阿種	阿种	a33 tsoŋ35	a33 tsoŋ35	aa3 zung2	P66	這種	原文標音作[a-tsoŋ35]
+3392	二十四、代詞等/這裏	阿啲	阿啲	a33 ti55	a33 ti55	aa3 di1	P66	這裏	
+3393	二十四、代詞等/這裏	阿便	阿便	a33 pin22	a33 pin22	aa3 bin6	P66	這邊	
 3394	二十四、代詞等/那裏	嚕啲	噜啲	lu55 ti55	lu55 ti55	lu1 di1	P66	那裏1	
 3395	二十四、代詞等/那裏	嚕笪定	噜笪定	lu55 tat3 tɛŋ22	lu55 tat3 tɛŋ22	lu1 daat3 deng6	P66	那裏2	原文[tat3]有音無字
 3396	二十四、代詞等/那裏	嚕便	噜便	lu55 pin22	lu55 pin22	lu1 bin6	P66	那邊	
@@ -3464,14 +3464,14 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3463	二十五、形容詞/結實，耐用	禁	禁	kʰɐm55	kʰɐm55	kam1	P67	結實（物）	原文有音無字
 3464	二十五、形容詞/地道	正斗	正斗	tseŋ33 tɐu35	tseŋ33 tɐu35	zing3 dau2	P68	地道	
 3465	二十五、形容詞/零亂	立亂	立乱	lɐp2 lyn22	lɐp2 lyn22	lap6 lyun6	P68	凌亂	
-3466	二十五、形容詞/晚	晏	晏	an33	∅an33	aan3	P68	晚	
+3466	二十五、形容詞/晚	晏	晏	an33	an33	aan3	P68	晚	
 3467	二十五、形容詞/小	細	细	ɬɐi33	ɬɐi33	slai3	P67	小	
 3468	二十五、形容詞/寬	闊	阔	fut3	fut3	fut3	P67	寬	
 3469	二十五、形容詞/窄	窄	窄	tsak3	tsak3	zaak3	P67	窄	
 3470	二十五、形容詞/凸	凸	凸	tɐt2	tɐt2	dat6	P68	凸	
 3471	二十五、形容詞/凹	凹	凹	mɐp5	mɐp5	map1	P68	凹	
 3472	二十五、形容詞/枯萎	𣩢	𣩢	lɛu33	lɛu33	leu3	P68	枯，蔫	原文有音無字
-3473	二十五、形容詞/陰暗潮溼	浥汁	浥汁	ɐp5 tsɐp5	∅ɐp5 tsɐp5	ap1 zap1	P68	潮溼不乾凈	原文有音無字
+3473	二十五、形容詞/陰暗潮溼	浥汁	浥汁	ɐp5 tsɐp5	ɐp5 tsɐp5	ap1 zap1	P68	潮溼不乾凈	原文有音無字
 3474	二十五、形容詞/滑	滑	滑	wɛt2	wɛt2	wet6	P67	光滑1	
 3475	二十五、形容詞/滑	滑溜	滑溜	wɛt2 lɐu22	wɛt2 lɐu22	wet6 lau6	P67	光滑2	原文作「滑流」，誤作[lɐu21]，應作「滑溜[lɐu22]」
 3476	二十五、形容詞/細	幼	幼	jɐu33	jɐu33	jau3	P67	細	
@@ -3504,7 +3504,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3503	二十五、形容詞/能幹	本事	本事	pun35 sɿ22	pun35 sɿ22	bun2 sy6	P67	真行，能幹2	
 3504	二十五、形容詞/能幹	使得	使得	sɐi35 tɐk5	sɐi35 tɐk5	sai2 dak1	P67	真行，能幹3	
 3505	二十五、形容詞/不行	冇得	冇得	mu24 tɐk5	mu24 tɐk5	mu5 dak1	P67	不行1（那傢伙～）	
-3506	二十五、形容詞/不行	蹭蹬	蹭蹬	ɐŋ33 nɐŋ22	∅ɐŋ33 nɐŋ22	ang3 nang6	P68	膿包2	原文有音無字，作「囗[ɐŋ33]能」，但對比平話應作[ɐŋ33 nɐŋ22]
+3506	二十五、形容詞/不行	蹭蹬	蹭蹬	ɐŋ33 nɐŋ22	ɐŋ33 nɐŋ22	ang3 nang6	P68	膿包2	原文有音無字，作「囗[ɐŋ33]能」，但對比平話應作[ɐŋ33 nɐŋ22]
 3507	二十五、形容詞/膿包	廢柴	废柴	fɐi33 tsʰai21	fɐi33 tsʰai21	fai3 caai4	P68	膿包1	
 3508	二十五、形容詞/笨	頹	颓	tʰui21	tʰui21	tui4	P68	笨1	
 3509	二十五、形容詞/笨	蠢	蠢	tsʰɐn35	tsʰɐn35	can2	P68	笨2	
@@ -3578,7 +3578,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3577	二十六、副詞、介詞等/當面	當面	当面	tɔŋ55 min22	tɔŋ55 min22	dong1 min6	P68	當面	
 3578	二十六、副詞、介詞等/背地	背後	背后	pui33 hɐu22	pui33 hɐu22	bui3 hau6	P68	背地	
 3579	二十六、副詞、介詞等/一塊兒	大齊	大齐	tai22 tsʰɐi21	tai22 tsʰɐi21	daai6 cai4	P68	一塊兒1	
-3580	二十六、副詞、介詞等/一塊兒	一起	一起	a55 hi35	∅a55 hi35	aa1 hi2	P68	一塊兒2	
+3580	二十六、副詞、介詞等/一塊兒	一起	一起	a55 hi35	a55 hi35	aa1 hi2	P68	一塊兒2	
 3581	二十六、副詞、介詞等/一塊兒	做隊	做队	tsu33 tui22	tsu33 tui22	zu3 dui6	P68	一塊兒3	
 3582	二十六、副詞、介詞等/肯定	梗	梗	kɐŋ35	kɐŋ35	gang2	P69	肯定1	原文作「耿」字，本爲「箇肯」的合音
 3583	二十六、副詞、介詞等/肯定	硬	硬	ŋaŋ35	ŋaŋ35	ngaang2	P69	肯定2	
@@ -3633,103 +3633,103 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3632	二十七、連詞/與	湊埋	凑埋	tsʰɐu33 mai21	tsʰɐu33 mai21	cau3 maai4	P64	佮伴兒3	
 3633	二十七、連詞/與	做隊	做队	tsu33 tui22	tsu33 tui22	zu3 dui6	P64	佮伴兒1	
 3634	二十七、連詞/佮合	佮	佮	kɐp3	kɐp3	gap3	P64	佮合	
-3635	二十八、量詞/一把（刀）	一把	一把	a55 pa35	∅a55 pa35	aa1 baa2	P69	一把（～刀、～剪子）	
-3636	二十八、量詞/一桿（秤）	一把	一把	a55 pa35	∅a55 pa35	aa1 baa2	P69	一桿（～秤）	原文作「一桿（～稱）」
-3637	二十八、量詞/一口（缸）	一隻	一只	a55 tsɛk3	∅a55 tsɛk3	aa1 zek3	P69	一口（～缸）	
-3638	二十八、量詞/一把（米）	一抓	一抓	a55 ja55	∅a55 ja55	aa1 jaa1	P70	一把（～米）	原文[ja55]有音無字
-3639	二十八、量詞/一夥兒（人）	一幫	一帮	a55 pɔŋ55	∅a55 pɔŋ55	aa1 bong1	P70	一夥兒	
-3640	二十八、量詞/一本（書）	一本	一本	a55 pun35	∅a55 pun35	aa1 bun2	P69	一本（～書）	
-3641	二十八、量詞/一層（樓）	一層	一层	a55 tsʰɐŋ21	∅a55 tsʰɐŋ21	aa1 cang4	P70	一層（～樓）	
-3642	二十八、量詞/一場（雨、電影）	一場	一场	a55 tsʰœŋ21	∅a55 tsʰœŋ21	aa1 coeng4	P69	一場（～雨、～電影）	
-3643	二十八、量詞/一齣（戲）	一齣	一出	a55 tsʰyt5	∅a55 tsʰyt5	aa1 cyut1	P69	一齣（～戲）	
-3644	二十八、量詞/一牀（被子、毯）	一番	一番	a55 fan55	∅a55 fan55	aa1 faan1	P69	一張（～蓆子）	
-3645	二十八、量詞/一道（河）	一條	一条	a55 tʰiu21	∅a55 tʰiu21	aa1 tiu4	P69	一道1（～河）	
-3646	二十八、量詞/一道（河）	一蔸	一蔸	a55 tɐu55	∅a55 tɐu55	aa1 dau1	P69	一道2（～河）	原文未列後接詞彙
-3647	二十八、量詞/一檔子（事）	一單	一单	a55 tan55	∅a55 tan55	aa1 daan1	P69	一件1（～事）	
-3648	二十八、量詞/一檔子（事）	一件	一件	a55 kin22	∅a55 kin22	aa1 gin6	P70	一件2（～事）	
-3649	二十八、量詞/一嘟嚕（葡萄）	一唪	一唪	a55 poŋ22	∅a55 poŋ22	aa1 bung6	P70	一串（～葡萄）	原文[poŋ22]有音無字
-3650	二十八、量詞/一肚子（氣）	一肚	一肚	a55 tʰu24	∅a55 tʰu24	aa1 tu5	P70	一肚子（～壞水）	
-3651	二十八、量詞/一對（鞋、花瓶）	一對	一对	a55 tui33	∅a55 tui33	aa1 dui3	P70	一對（～鞋、～花瓶）	
-3652	二十八、量詞/一朵（花兒）	一朵	一朵	a55 tɔ35	∅a55 tɔ35	aa1 do2	P69	一朵（花）	
-3653	二十八、量詞/一頓（飯）	一餐	一餐	a55 tsʰan55	∅a55 tsʰan55	aa1 caan1	P69	一頓（～飯、打～）	
-3654	二十八、量詞/一封（信）	一封	一封	a55 foŋ55	∅a55 foŋ55	aa1 fung1	P69	一封（～信）	
-3655	二十八、量詞/一服（藥）	一服	一服	a55 fok2	∅a55 fok2	aa1 fuk6	P69	一服1（～藥）	
-3656	二十八、量詞/一服（藥）	一劑	一剂	a55 tsɐi55	∅a55 tsɐi55	aa1 zai1	P69	一服2（～藥）	
-3657	二十八、量詞/一根（竹、棍等）	一碌	一碌	a55 lok5	∅a55 lok5	aa1 luk1	P70	一條、一根（～棍、～甘蔗）	原文作「一轆」
-3658	二十八、量詞/一根（竹、棍等）	一條	一条	a55 tʰiu21	∅a55 tʰiu21	aa1 tiu4	P69	一根（竹、棍等）	原文未列後接詞彙
-3659	二十八、量詞/一根（頭髮）	一蔸	一蔸	a55 tɐu55	∅a55 tɐu55	aa1 dau1	P69	一根1（頭髮）	原文作「一兜」，未列後接詞彙
-3660	二十八、量詞/一根（頭髮）	一條	一条	a55 tʰiu21	∅a55 tʰiu21	aa1 tiu4	P69	一根2（頭髮）	原文未列後接詞彙
-3661	二十八、量詞/一股（味兒）	一條氣	一条气	a55 tʰiu21 hi33	∅a55 tʰiu21 hi33	aa1 tiu4 hi3	P69	一股（～氣）	
-3662	二十八、量詞/一掛（鞭炮）	一串	一串	a55 tsʰyn33	∅a55 tsʰyn33	aa1 cyun3	P70	一掛（～鞭炮）	
-3663	二十八、量詞/一管（筆）	一支	一支	a55 tsi55	∅a55 tsi55	aa1 zi1	P69	一管（～筆）	
-3664	二十八、量詞/一行（字）	一行	一行	a55 hɔŋ21	∅a55 hɔŋ21	aa1 hong4	P70	一行1（～字）	
-3665	二十八、量詞/一行（字）	一排	一排	a55 pʰai21	∅a55 pʰai21	aa1 paai4	P70	一行2（～字）	
-3666	二十八、量詞/一件兒（衣裳）	一件	一件	a55 kin22	∅a55 kin22	aa1 gin6	P70	一件（～衣裳）	
-3667	二十八、量詞/一節（甘蔗）	一橛	一橛	a55 kʰɛt5	∅a55 kʰɛt5	aa1 ket1	P70	一截（～甘蔗）	原文[kʰɛt5]有音無字
-3668	二十八、量詞/一節（甘蔗）	一節	一节	a55 tsit3	∅a55 tsit3	aa1 zit3	P70	一節（～竹子）	
-3669	二十八、量詞/一捲兒（紙）	一筒	一筒	a55 tʰoŋ21	∅a55 tʰoŋ21	aa1 tung4	P70	一捲兒（～紙）	
-3670	二十八、量詞/一棵（樹）	一棵	一棵	a55 pʰɔ55	∅a55 pʰɔ55	aa1 po1	P29，69	一棵1.1（樹）	原文作「坡」字
-3671	二十八、量詞/一棵（樹）	一蔸	一蔸	a55 tɐu55	∅a55 tɐu55	aa1 dau1	P29，69	一棵2.1（樹）	原文作「兜」字
+3635	二十八、量詞/一把（刀）	一把	一把	a55 pa35	a55 pa35	aa1 baa2	P69	一把（～刀、～剪子）	
+3636	二十八、量詞/一桿（秤）	一把	一把	a55 pa35	a55 pa35	aa1 baa2	P69	一桿（～秤）	原文作「一桿（～稱）」
+3637	二十八、量詞/一口（缸）	一隻	一只	a55 tsɛk3	a55 tsɛk3	aa1 zek3	P69	一口（～缸）	
+3638	二十八、量詞/一把（米）	一抓	一抓	a55 ja55	a55 ja55	aa1 jaa1	P70	一把（～米）	原文[ja55]有音無字
+3639	二十八、量詞/一夥兒（人）	一幫	一帮	a55 pɔŋ55	a55 pɔŋ55	aa1 bong1	P70	一夥兒	
+3640	二十八、量詞/一本（書）	一本	一本	a55 pun35	a55 pun35	aa1 bun2	P69	一本（～書）	
+3641	二十八、量詞/一層（樓）	一層	一层	a55 tsʰɐŋ21	a55 tsʰɐŋ21	aa1 cang4	P70	一層（～樓）	
+3642	二十八、量詞/一場（雨、電影）	一場	一场	a55 tsʰœŋ21	a55 tsʰœŋ21	aa1 coeng4	P69	一場（～雨、～電影）	
+3643	二十八、量詞/一齣（戲）	一齣	一出	a55 tsʰyt5	a55 tsʰyt5	aa1 cyut1	P69	一齣（～戲）	
+3644	二十八、量詞/一牀（被子、毯）	一番	一番	a55 fan55	a55 fan55	aa1 faan1	P69	一張（～蓆子）	
+3645	二十八、量詞/一道（河）	一條	一条	a55 tʰiu21	a55 tʰiu21	aa1 tiu4	P69	一道1（～河）	
+3646	二十八、量詞/一道（河）	一蔸	一蔸	a55 tɐu55	a55 tɐu55	aa1 dau1	P69	一道2（～河）	原文未列後接詞彙
+3647	二十八、量詞/一檔子（事）	一單	一单	a55 tan55	a55 tan55	aa1 daan1	P69	一件1（～事）	
+3648	二十八、量詞/一檔子（事）	一件	一件	a55 kin22	a55 kin22	aa1 gin6	P70	一件2（～事）	
+3649	二十八、量詞/一嘟嚕（葡萄）	一唪	一唪	a55 poŋ22	a55 poŋ22	aa1 bung6	P70	一串（～葡萄）	原文[poŋ22]有音無字
+3650	二十八、量詞/一肚子（氣）	一肚	一肚	a55 tʰu24	a55 tʰu24	aa1 tu5	P70	一肚子（～壞水）	
+3651	二十八、量詞/一對（鞋、花瓶）	一對	一对	a55 tui33	a55 tui33	aa1 dui3	P70	一對（～鞋、～花瓶）	
+3652	二十八、量詞/一朵（花兒）	一朵	一朵	a55 tɔ35	a55 tɔ35	aa1 do2	P69	一朵（花）	
+3653	二十八、量詞/一頓（飯）	一餐	一餐	a55 tsʰan55	a55 tsʰan55	aa1 caan1	P69	一頓（～飯、打～）	
+3654	二十八、量詞/一封（信）	一封	一封	a55 foŋ55	a55 foŋ55	aa1 fung1	P69	一封（～信）	
+3655	二十八、量詞/一服（藥）	一服	一服	a55 fok2	a55 fok2	aa1 fuk6	P69	一服1（～藥）	
+3656	二十八、量詞/一服（藥）	一劑	一剂	a55 tsɐi55	a55 tsɐi55	aa1 zai1	P69	一服2（～藥）	
+3657	二十八、量詞/一根（竹、棍等）	一碌	一碌	a55 lok5	a55 lok5	aa1 luk1	P70	一條、一根（～棍、～甘蔗）	原文作「一轆」
+3658	二十八、量詞/一根（竹、棍等）	一條	一条	a55 tʰiu21	a55 tʰiu21	aa1 tiu4	P69	一根（竹、棍等）	原文未列後接詞彙
+3659	二十八、量詞/一根（頭髮）	一蔸	一蔸	a55 tɐu55	a55 tɐu55	aa1 dau1	P69	一根1（頭髮）	原文作「一兜」，未列後接詞彙
+3660	二十八、量詞/一根（頭髮）	一條	一条	a55 tʰiu21	a55 tʰiu21	aa1 tiu4	P69	一根2（頭髮）	原文未列後接詞彙
+3661	二十八、量詞/一股（味兒）	一條氣	一条气	a55 tʰiu21 hi33	a55 tʰiu21 hi33	aa1 tiu4 hi3	P69	一股（～氣）	
+3662	二十八、量詞/一掛（鞭炮）	一串	一串	a55 tsʰyn33	a55 tsʰyn33	aa1 cyun3	P70	一掛（～鞭炮）	
+3663	二十八、量詞/一管（筆）	一支	一支	a55 tsi55	a55 tsi55	aa1 zi1	P69	一管（～筆）	
+3664	二十八、量詞/一行（字）	一行	一行	a55 hɔŋ21	a55 hɔŋ21	aa1 hong4	P70	一行1（～字）	
+3665	二十八、量詞/一行（字）	一排	一排	a55 pʰai21	a55 pʰai21	aa1 paai4	P70	一行2（～字）	
+3666	二十八、量詞/一件兒（衣裳）	一件	一件	a55 kin22	a55 kin22	aa1 gin6	P70	一件（～衣裳）	
+3667	二十八、量詞/一節（甘蔗）	一橛	一橛	a55 kʰɛt5	a55 kʰɛt5	aa1 ket1	P70	一截（～甘蔗）	原文[kʰɛt5]有音無字
+3668	二十八、量詞/一節（甘蔗）	一節	一节	a55 tsit3	a55 tsit3	aa1 zit3	P70	一節（～竹子）	
+3669	二十八、量詞/一捲兒（紙）	一筒	一筒	a55 tʰoŋ21	a55 tʰoŋ21	aa1 tung4	P70	一捲兒（～紙）	
+3670	二十八、量詞/一棵（樹）	一棵	一棵	a55 pʰɔ55	a55 pʰɔ55	aa1 po1	P29，69	一棵1.1（樹）	原文作「坡」字
+3671	二十八、量詞/一棵（樹）	一蔸	一蔸	a55 tɐu55	a55 tɐu55	aa1 dau1	P29，69	一棵2.1（樹）	原文作「兜」字
 3672	二十八、量詞/一棵（樹）	一棵	一棵	jɐt5 pʰɔ55	jɐt5 pʰɔ55	jat1 po1	P29	一棵1.2（樹）	原文作「坡」字
 3673	二十八、量詞/一棵（樹）	一蔸	一蔸	jɐt5 tɐu55	jɐt5 tɐu55	jat1 dau1	P29	一棵2.2（樹）	原文作「兜」字
-3674	二十八、量詞/一顆（米）	一粒	一粒	a55 nɐp5	∅a55 nɐp5	aa1 nap1	P69	一顆（米）	原文未列後接詞彙
-3675	二十八、量詞/一顆（牙齒）	一粒	一粒	a55 nɐp5	∅a55 nɐp5	aa1 nap1	P69	一顆（牙齒）	原文未列後接詞彙
-3676	二十八、量詞/一粒	一粒	一粒	a55 nɐp5	∅a55 nɐp5	aa1 nap1	P69	一粒	
-3677	二十八、量詞/一口（飯、菜、水）	一啖	一啖	a55 tam22	∅a55 tam22	aa1 daam6	P69	一口（～飯）	
-3678	二十八、量詞/一口兒（人）	一個	一个	a55 kɔ33	∅a55 kɔ33	aa1 go3	P70	一口1（～人）	
-3679	二十八、量詞/一口兒（人）	一丁	一丁	a55 teŋ55	∅a55 teŋ55	aa1 ding1	P70	一口2（～友）	原文「友」字未變調，此處不錄入「友」字
-3680	二十八、量詞/一口兒（人）	一條	一条	a55 tʰiu21	∅a55 tʰiu21	aa1 tiu4	P70	一口3（～友）	原文「友」字未變調，此處不錄入「友」字
-3681	二十八、量詞/一塊（磚）	一塊	一块	a55 fai33	∅a55 fai33	aa1 faai3	P70	一塊1（～磚）	
-3682	二十八、量詞/一塊（磚）	一䊆	一䊆	a55 kɐu22	∅a55 kɐu22	aa1 gau6	P70	一塊2（～磚）	原文作「嚿」字
-3683	二十八、量詞/一塊（布）	一粒	一粒	a55 nɐp5	∅a55 nɐp5	aa1 nap1	P69	一塊（～布）	
-3684	二十八、量詞/一捆（行李）	一穙	一穙	a55 pok2	∅a55 pok2	aa1 buk6	P70	一捆（～行李）	原文[pok2]有音無字
-3685	二十八、量詞/一臉（土）	一面	一面	a55 min22	∅a55 min22	aa1 min6	P70	一臉1（～灰塵）	
+3674	二十八、量詞/一顆（米）	一粒	一粒	a55 nɐp5	a55 nɐp5	aa1 nap1	P69	一顆（米）	原文未列後接詞彙
+3675	二十八、量詞/一顆（牙齒）	一粒	一粒	a55 nɐp5	a55 nɐp5	aa1 nap1	P69	一顆（牙齒）	原文未列後接詞彙
+3676	二十八、量詞/一粒	一粒	一粒	a55 nɐp5	a55 nɐp5	aa1 nap1	P69	一粒	
+3677	二十八、量詞/一口（飯、菜、水）	一啖	一啖	a55 tam22	a55 tam22	aa1 daam6	P69	一口（～飯）	
+3678	二十八、量詞/一口兒（人）	一個	一个	a55 kɔ33	a55 kɔ33	aa1 go3	P70	一口1（～人）	
+3679	二十八、量詞/一口兒（人）	一丁	一丁	a55 teŋ55	a55 teŋ55	aa1 ding1	P70	一口2（～友）	原文「友」字未變調，此處不錄入「友」字
+3680	二十八、量詞/一口兒（人）	一條	一条	a55 tʰiu21	a55 tʰiu21	aa1 tiu4	P70	一口3（～友）	原文「友」字未變調，此處不錄入「友」字
+3681	二十八、量詞/一塊（磚）	一塊	一块	a55 fai33	a55 fai33	aa1 faai3	P70	一塊1（～磚）	
+3682	二十八、量詞/一塊（磚）	一䊆	一䊆	a55 kɐu22	a55 kɐu22	aa1 gau6	P70	一塊2（～磚）	原文作「嚿」字
+3683	二十八、量詞/一塊（布）	一粒	一粒	a55 nɐp5	a55 nɐp5	aa1 nap1	P69	一塊（～布）	
+3684	二十八、量詞/一捆（行李）	一穙	一穙	a55 pok2	a55 pok2	aa1 buk6	P70	一捆（～行李）	原文[pok2]有音無字
+3685	二十八、量詞/一臉（土）	一面	一面	a55 min22	a55 min22	aa1 min6	P70	一臉1（～灰塵）	
 3686	二十八、量詞/一臉（土）	滿面	满面	mun24 min22	mun24 min22	mun5 min6	P70	一臉2（～灰塵）	
-3687	二十八、量詞/一臉（汗）	一頭	一头	a55 tʰɐu21	∅a55 tʰɐu21	aa1 tau4	P70	一臉（～汗）	
-3688	二十八、量詞/一輛（車）	一架	一架	a55 kʰa33	∅a55 kʰa33	aa1 kaa3	P69	一輛（～車）	
-3689	二十八、量詞/一枚（針）	一口	一口	a55 hɐu35	∅a55 hɐu35	aa1 hau2	P70	一根1（～針）	
-3690	二十八、量詞/一枚（針）	一眼	一眼	a55 ŋɛn24	∅a55 ŋɛn24	aa1 ngen5	P70	一根2（～針）	
-3691	二十八、量詞/一瓶子（醋）	一樽	一樽	a55 tsɐn55	∅a55 tsɐn55	aa1 zan1	P70	一瓶1（～酒）	
-3692	二十八、量詞/一瓶子（醋）	一支	一支	a55 tsi55	∅a55 tsi55	aa1 zi1	P70	一瓶2（～酒）	
-3693	二十八、量詞/一扇（門、窗）	一扇	一扇	a55 sin33	∅a55 sin33	aa1 sin3	P70	一扇（～門、～窗）	
-3694	二十八、量詞/一身（棉衣）	一套	一套	a55 tʰu33	∅a55 tʰu33	aa1 tu3	P69	一身（～制服）	
-3695	二十八、量詞/一絲兒（肉）	一粒兒	一粒儿	a55 nɐp5 ji55	∅a55 nɐp5 ji55	aa1 nap1 ji1	P71	一些、一點2	原文作「粒兒」
-3696	二十八、量詞/一所（房子）	一座	一座	a55 tsɔ22	∅a55 tsɔ22	aa1 zo6	P70	一所（～房子）	
-3697	二十八、量詞/一頭（牛）	一隻	一只	a55 tsɛk3	∅a55 tsɛk3	aa1 zek3	P69	一頭（～牛）	原文釋義誤作「一條」
-3698	二十八、量詞/一臺（收音機、電視）	一架	一架	a55 kʰa33	∅a55 kʰa33	aa1 kaa3	P69	一臺（～電視機）	
-3699	二十八、量詞/一條（褲子）	一條	一条	a55 tʰiu21	∅a55 tʰiu21	aa1 tiu4	P69	一條1（褲子）	原文未列後接詞彙
-3700	二十八、量詞/一條（褲子）	一蔸	一蔸	a55 tɐu55	∅a55 tɐu55	aa1 dau1	P69	一條2（褲子）	原文未列後接詞彙
-3701	二十八、量詞/一條（裙、圍裙）	一條	一条	a55 tʰiu21	∅a55 tʰiu21	aa1 tiu4	P69	一條1（裙、圍裙）	原文未列後接詞彙
-3702	二十八、量詞/一條（裙、圍裙）	一蔸	一蔸	a55 tɐu55	∅a55 tɐu55	aa1 dau1	P69	一條2（裙、圍裙）	原文未列後接詞彙
-3703	二十八、量詞/一條（手巾）	一條	一条	a55 tʰiu21	∅a55 tʰiu21	aa1 tiu4	P69	一條1（手巾）	原文未列後接詞彙
-3704	二十八、量詞/一條（手巾）	一蔸	一蔸	a55 tɐu55	∅a55 tɐu55	aa1 dau1	P69	一條2（手巾）	原文未列後接詞彙
-3705	二十八、量詞/一條（頸）	一條頸	一条颈	a55 tʰiu21 kɛŋ35	∅a55 tʰiu21 kɛŋ35	aa1 tiu4 geng2	P69	一條1（頸），脖子	原文未列後接詞彙
-3706	二十八、量詞/一條（頸）	一蔸	一蔸	a55 tɐu55	∅a55 tɐu55	aa1 dau1	P69	一條2（頸）	原文未列後接詞彙
-3707	二十八、量詞/一條（蛇）	一條	一条	a55 tʰiu21	∅a55 tʰiu21	aa1 tiu4	P69	一條1（蛇）	原文未列後接詞彙
-3708	二十八、量詞/一條（蛇）	一蔸	一蔸	a55 tɐu55	∅a55 tɐu55	aa1 dau1	P69	一條2（蛇）	原文未列後接詞彙
-3709	二十八、量詞/一個（菜）	一味	一味	a55 mi35	∅a55 mi35	aa1 mi2	P69	一個（～菜）	
+3687	二十八、量詞/一臉（汗）	一頭	一头	a55 tʰɐu21	a55 tʰɐu21	aa1 tau4	P70	一臉（～汗）	
+3688	二十八、量詞/一輛（車）	一架	一架	a55 kʰa33	a55 kʰa33	aa1 kaa3	P69	一輛（～車）	
+3689	二十八、量詞/一枚（針）	一口	一口	a55 hɐu35	a55 hɐu35	aa1 hau2	P70	一根1（～針）	
+3690	二十八、量詞/一枚（針）	一眼	一眼	a55 ŋɛn24	a55 ŋɛn24	aa1 ngen5	P70	一根2（～針）	
+3691	二十八、量詞/一瓶子（醋）	一樽	一樽	a55 tsɐn55	a55 tsɐn55	aa1 zan1	P70	一瓶1（～酒）	
+3692	二十八、量詞/一瓶子（醋）	一支	一支	a55 tsi55	a55 tsi55	aa1 zi1	P70	一瓶2（～酒）	
+3693	二十八、量詞/一扇（門、窗）	一扇	一扇	a55 sin33	a55 sin33	aa1 sin3	P70	一扇（～門、～窗）	
+3694	二十八、量詞/一身（棉衣）	一套	一套	a55 tʰu33	a55 tʰu33	aa1 tu3	P69	一身（～制服）	
+3695	二十八、量詞/一絲兒（肉）	一粒兒	一粒儿	a55 nɐp5 ji55	a55 nɐp5 ji55	aa1 nap1 ji1	P71	一些、一點2	原文作「粒兒」
+3696	二十八、量詞/一所（房子）	一座	一座	a55 tsɔ22	a55 tsɔ22	aa1 zo6	P70	一所（～房子）	
+3697	二十八、量詞/一頭（牛）	一隻	一只	a55 tsɛk3	a55 tsɛk3	aa1 zek3	P69	一頭（～牛）	原文釋義誤作「一條」
+3698	二十八、量詞/一臺（收音機、電視）	一架	一架	a55 kʰa33	a55 kʰa33	aa1 kaa3	P69	一臺（～電視機）	
+3699	二十八、量詞/一條（褲子）	一條	一条	a55 tʰiu21	a55 tʰiu21	aa1 tiu4	P69	一條1（褲子）	原文未列後接詞彙
+3700	二十八、量詞/一條（褲子）	一蔸	一蔸	a55 tɐu55	a55 tɐu55	aa1 dau1	P69	一條2（褲子）	原文未列後接詞彙
+3701	二十八、量詞/一條（裙、圍裙）	一條	一条	a55 tʰiu21	a55 tʰiu21	aa1 tiu4	P69	一條1（裙、圍裙）	原文未列後接詞彙
+3702	二十八、量詞/一條（裙、圍裙）	一蔸	一蔸	a55 tɐu55	a55 tɐu55	aa1 dau1	P69	一條2（裙、圍裙）	原文未列後接詞彙
+3703	二十八、量詞/一條（手巾）	一條	一条	a55 tʰiu21	a55 tʰiu21	aa1 tiu4	P69	一條1（手巾）	原文未列後接詞彙
+3704	二十八、量詞/一條（手巾）	一蔸	一蔸	a55 tɐu55	a55 tɐu55	aa1 dau1	P69	一條2（手巾）	原文未列後接詞彙
+3705	二十八、量詞/一條（頸）	一條頸	一条颈	a55 tʰiu21 kɛŋ35	a55 tʰiu21 kɛŋ35	aa1 tiu4 geng2	P69	一條1（頸），脖子	原文未列後接詞彙
+3706	二十八、量詞/一條（頸）	一蔸	一蔸	a55 tɐu55	a55 tɐu55	aa1 dau1	P69	一條2（頸）	原文未列後接詞彙
+3707	二十八、量詞/一條（蛇）	一條	一条	a55 tʰiu21	a55 tʰiu21	aa1 tiu4	P69	一條1（蛇）	原文未列後接詞彙
+3708	二十八、量詞/一條（蛇）	一蔸	一蔸	a55 tɐu55	a55 tɐu55	aa1 dau1	P69	一條2（蛇）	原文未列後接詞彙
+3709	二十八、量詞/一個（菜）	一味	一味	a55 mi35	a55 mi35	aa1 mi2	P69	一個（～菜）	
 3710	二十八、量詞/一道（菜）	一道	一道	jɐt5 tu22	jɐt5 tu22	jat1 du6	P69	一道（～菜）	
-3711	二十八、量詞/一窩（蜂、鳥、禽畜）	一竇	一窦	a55 tɐu33	∅a55 tɐu33	aa1 dau3	P70	一窩	
-3712	二十八、量詞/一子兒（香）	一子	一子	a55 tsɿ35	∅a55 tsɿ35	aa1 zy2	P69	一子兒（～麪）	
-3713	二十八、量詞/一隻（手）	一隻	一只	a55 tsɛk3	∅a55 tsɛk3	aa1 zek3	P69	一隻（～手）	
-3714	二十八、量詞/一盞（燈）	一盞	一盏	a55 tsɛn35	∅a55 tsɛn35	aa1 zen2	P69	一盞1（～燈）	
-3715	二十八、量詞/一盞（燈）	一眼	一眼	a55 ŋɛn35	∅a55 ŋɛn35	aa1 ngen2	P69	一盞2（～燈）	
-3716	二十八、量詞/一張（桌子）	一張	一张	a55 tsœŋ55	∅a55 tsœŋ55	aa1 zoeng1	P69	一張1（～桌子）	
-3717	二十八、量詞/一張（桌子）	一張檯	一张台	a55 tsœŋ55 tʰɔi21	∅a55 tsœŋ55 tʰɔi21	aa1 zoeng1 toi4	P69	一張2（～桌子）	
-3718	二十八、量詞/一桌（酒席）	一檯	一台	a55 tʰɔi21	∅a55 tʰɔi21	aa1 toi4	P69	一桌（～酒席）	
-3719	二十八、量詞/一座（橋）	一條	一条	a55 tʰiu21	∅a55 tʰiu21	aa1 tiu4	P69	一座1（～橋）	
-3720	二十八、量詞/一座（橋）	一蔸	一蔸	a55 tɐu55	∅a55 tɐu55	aa1 dau1	P69	一座2（～橋）	
-3721	二十八、量詞/一拃	一抸	一抸	a55 jap3	∅a55 jap3	aa1 jaap3	P70	一拃	原文[jap3]有音無字
-3722	二十八、量詞/一虎口	一抸	一抸	a55 jap3	∅a55 jap3	aa1 jaap3	P70	一虎口	原文[jap3]有音無字
-3723	二十八、量詞/一庹	一弸	一弸	a55 pʰaŋ55	∅a55 pʰaŋ55	aa1 paang1	P70	一庹（兩臂平伸之長）	原文[pʰaŋ55]有音無字
+3711	二十八、量詞/一窩（蜂、鳥、禽畜）	一竇	一窦	a55 tɐu33	a55 tɐu33	aa1 dau3	P70	一窩	
+3712	二十八、量詞/一子兒（香）	一子	一子	a55 tsɿ35	a55 tsɿ35	aa1 zy2	P69	一子兒（～麪）	
+3713	二十八、量詞/一隻（手）	一隻	一只	a55 tsɛk3	a55 tsɛk3	aa1 zek3	P69	一隻（～手）	
+3714	二十八、量詞/一盞（燈）	一盞	一盏	a55 tsɛn35	a55 tsɛn35	aa1 zen2	P69	一盞1（～燈）	
+3715	二十八、量詞/一盞（燈）	一眼	一眼	a55 ŋɛn35	a55 ŋɛn35	aa1 ngen2	P69	一盞2（～燈）	
+3716	二十八、量詞/一張（桌子）	一張	一张	a55 tsœŋ55	a55 tsœŋ55	aa1 zoeng1	P69	一張1（～桌子）	
+3717	二十八、量詞/一張（桌子）	一張檯	一张台	a55 tsœŋ55 tʰɔi21	a55 tsœŋ55 tʰɔi21	aa1 zoeng1 toi4	P69	一張2（～桌子）	
+3718	二十八、量詞/一桌（酒席）	一檯	一台	a55 tʰɔi21	a55 tʰɔi21	aa1 toi4	P69	一桌（～酒席）	
+3719	二十八、量詞/一座（橋）	一條	一条	a55 tʰiu21	a55 tʰiu21	aa1 tiu4	P69	一座1（～橋）	
+3720	二十八、量詞/一座（橋）	一蔸	一蔸	a55 tɐu55	a55 tɐu55	aa1 dau1	P69	一座2（～橋）	
+3721	二十八、量詞/一拃	一抸	一抸	a55 jap3	a55 jap3	aa1 jaap3	P70	一拃	原文[jap3]有音無字
+3722	二十八、量詞/一虎口	一抸	一抸	a55 jap3	a55 jap3	aa1 jaap3	P70	一虎口	原文[jap3]有音無字
+3723	二十八、量詞/一庹	一弸	一弸	a55 pʰaŋ55	a55 pʰaŋ55	aa1 paang1	P70	一庹（兩臂平伸之長）	原文[pʰaŋ55]有音無字
 3724	二十八、量詞/八成兒	八成	八成	pɛt3 tsʰeŋ21	pɛt3 tsʰeŋ21	bet3 cing4	P71	八成兒	
-3725	二十八、量詞/（走）一趟	一趟	一趟	a55 tʰɔŋ33	∅a55 tʰɔŋ33	aa1 tong3	P70	一趟（走～）	
-3726	二十八、量詞/（打）一下	一下	一下	a55 ha24	∅a55 ha24	aa1 haa5	P70	一下（打～）	
-3727	二十八、量詞/（打）一拳	一槌	一槌	a55 tsʰui21	∅a55 tsʰui21	aa1 cui4	P70	一拳（打～），（䂿[tɐp2]）一槌	原文[tɐp2]作「𢱕」字，此處用「䂿」
-3728	二十八、量詞/（看）一眼	一眼	一眼	a55 ŋɛn24	∅a55 ŋɛn24	aa1 ngen5	P70	一眼（看～），（望、睇）一眼	
-3729	二十八、量詞/（打）一巴掌	一巴掌	一巴掌	a55 pa55 tsœŋ35	∅a55 pa55 tsœŋ35	aa1 baa1 zoeng2	P70	一巴掌（打～），（撻[tʰat3]）一巴掌	
-3730	二十八、量詞/（談）一會兒	一陣	一阵	a55 tsɐn22	∅a55 tsɐn22	aa1 zan6	P70	一會兒（歇～），（㪗）一陣	
-3731	二十八、量詞/（下）一陣（雨）	一陣	一阵	a55 tsɐn22	∅a55 tsɐn22	aa1 zan6	P70	（下）一陣（雨），（落）一陣（雨）	原文「雨」字標音，此處不收「雨」字
+3725	二十八、量詞/（走）一趟	一趟	一趟	a55 tʰɔŋ33	a55 tʰɔŋ33	aa1 tong3	P70	一趟（走～）	
+3726	二十八、量詞/（打）一下	一下	一下	a55 ha24	a55 ha24	aa1 haa5	P70	一下（打～）	
+3727	二十八、量詞/（打）一拳	一槌	一槌	a55 tsʰui21	a55 tsʰui21	aa1 cui4	P70	一拳（打～），（䂿[tɐp2]）一槌	原文[tɐp2]作「𢱕」字，此處用「䂿」
+3728	二十八、量詞/（看）一眼	一眼	一眼	a55 ŋɛn24	a55 ŋɛn24	aa1 ngen5	P70	一眼（看～），（望、睇）一眼	
+3729	二十八、量詞/（打）一巴掌	一巴掌	一巴掌	a55 pa55 tsœŋ35	a55 pa55 tsœŋ35	aa1 baa1 zoeng2	P70	一巴掌（打～），（撻[tʰat3]）一巴掌	
+3730	二十八、量詞/（談）一會兒	一陣	一阵	a55 tsɐn22	a55 tsɐn22	aa1 zan6	P70	一會兒（歇～），（㪗）一陣	
+3731	二十八、量詞/（下）一陣（雨）	一陣	一阵	a55 tsɐn22	a55 tsɐn22	aa1 zan6	P70	（下）一陣（雨），（落）一陣（雨）	原文「雨」字標音，此處不收「雨」字
 3732	二十八、量詞/個把兩個	個把兩個	个把两个	kɔ33 pa35 lœŋ24 kɔ33	kɔ33 pa35 lœŋ24 kɔ33	go3 baa2 loeng5 go3	P66	個把兩個1	
 3733	二十八、量詞/個把兩個	隻把兩隻	只把两只	tsɛk3 pa35 lœŋ24 tsɛk3	tsɛk3 pa35 lœŋ24 tsɛk3	zek3 baa2 loeng5 zek3	P66	個把兩個2	
 3734	二十八、量詞/萬把塊錢	萬把文	万把文	man22 pa35 mɐn55	man22 pa35 mɐn55	maan6 baa2 man1	P66	萬把塊錢	
@@ -3758,9 +3758,9 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3757	三十、數字等/二十	二十	二十	ji22 sɐp2	ji22 sɐp2	ji6 sap6	P70	二十	
 3758	三十、數字等/二十二	廿二	廿二	ja22 ji22	ja22 ji22	jaa6 ji6	P70	二十二	
 3759	三十、數字等/三十	三十	三十	ɬam55 sɐp2	ɬam55 sɐp2	slaam1 sap6	P70	三十	
-3760	三十、數字等/三十三	卅三	卅三	ɬa55 a22 ɬam55	ɬa55 a22 ɬam55	slaa1 aa6 slaam1	P70	三十三	
+3760	三十、數字等/三十三	三十三	三十三	ɬa55 a22 ɬam55	ɬa55 a22 ɬam55	slaa1 aa6 slaam1	P70	三十三	原文作「卅三」
 3761	三十、數字等/四十	四十	四十	ɬi33 sɐp2	ɬi33 sɐp2	sli3 sap6	P70	四十	
-3762	三十、數字等/四十四	卌四	卌四	ɬi33 a22 ɬi33	ɬi33 a22 ɬi33	sli3 aa6 sli3	P70	四十四	原文作「四十四」
+3762	三十、數字等/四十四	四十四	四十四	ɬi33 a22 ɬi33	ɬi33 a22 ɬi33	sli3 aa6 sli3	P70	四十四	
 3763	三十、數字等/五十	五十	五十	ŋ̍24 sɐp2	ŋ̍24 sɐp2	ng5 sap6	P70	五十	
 3764	三十、數字等/五十五	五十五	五十五	ŋ̍24 a22 ŋ̍24	ŋ̍24 a22 ŋ̍24	ng5 aa6 ng5	P70	五十五	
 3765	三十、數字等/六十	六十	六十	lok2 sɐp2	lok2 sɐp2	luk6 sap6	P70	六十	
@@ -3771,7 +3771,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3770	三十、數字等/八十八	八十八	八十八	pɛt3 a22 pɛt3	pɛt3 a22 pɛt3	bet3 aa6 bet3	P70	八十八	原文前一個「八」字誤作[pɛ3]
 3771	三十、數字等/九十	九十	九十	kɐu35 sɐp2	kɐu35 sɐp2	gau2 sap6	P70	九十	
 3772	三十、數字等/九十九	九十九	九十九	kɐu35 a22 kɐu35	kɐu35 a22 kɐu35	gau2 aa6 gau2	P70	九十九	
-3773	三十、數字等/一百	一百	一百	a55 pak3	∅a55 pak3	aa1 baak3	P71	一百	
+3773	三十、數字等/一百	一百	一百	a55 pak3	a55 pak3	aa1 baak3	P71	一百	
 3774	三十、數字等/一百零四	百零四	百零四	pak3 leŋ21 ɬi33	pak3 leŋ21 ɬi33	baak3 ling4 sli3	P71	一百零四	
 3775	三十、數字等/一百一十	百一	百一	pak3 jɐt5	pak3 jɐt5	baak3 jat1	P71	一百一十	
 3776	三十、數字等/一千零二十	千零二十	千零二十	tsʰin55 leŋ21 ji22 sɐp2	tsʰin55 leŋ21 ji22 sɐp2	cin1 ling4 ji6 sap6	P71	一千零二十	
@@ -3784,7 +3784,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3783	三十、數字等/二尺二	兩尺二	两尺二	lœŋ24 tsʰɛk3 ji22	lœŋ24 tsʰɛk3 ji22	loeng5 cek3 ji6	P71	二尺二	
 3784	三十、數字等/幾個	幾多隻	几多只	ki35 tɔ55 tsɛk3	ki35 tɔ55 tsɛk3	gi2 do1 zek3	P71	幾個	
 3785	三十、數字等/好幾個	幾隻	几只	ki35 tsɛk3	ki35 tsɛk3	gi2 zek3	P71	幾個	
-3786	三十、數字等/一些些	一啲	一啲	a55 ti55	∅a55 ti55	aa1 di1	P71	一些、一點1	原文只有「啲」字
+3786	三十、數字等/一些些	一啲	一啲	a55 ti55	a55 ti55	aa1 di1	P71	一些、一點1	原文只有「啲」字
 3787	三十、數字等/十多個	十幾隻	十几只	sɐp2 ki35 tsɛk3	sɐp2 ki35 tsɛk3	sap6 gi2 zek3	P71	十幾個	
 3788	三十、數字等/十多個	十零隻	十零只	sɐp2 lɛŋ21 tsɛk3	sɐp2 lɛŋ21 tsɛk3	sap6 leng4 zek3	P71	十來個	
 3789	三十、數字等/數千個	千零	千零	tsʰin55 lɛŋ21	tsʰin55 lɛŋ21	cin1 leng4	P71	千把2	
@@ -3796,7 +3796,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3795	三十、數字等/成千	論千	论千	lɐn22 tsʰin55	lɐn22 tsʰin55	lan6 cin1	P71	成千2	
 3796	三十、數字等/上萬	過萬	过万	kɔ33 man22	kɔ33 man22	go3 maan6	P71	上萬	
 3797	三十、數字等/千萬不可以	千祈冇	千祈冇	tsʰin55 kʰi21 mu24	tsʰin55 kʰi21 mu24	cin1 ki4 mu5	P71	千萬不可以	原文作「千其冇」
-3798	三十、數字等/一倍	一倍	一倍	a55 pʰui24	∅a55 pʰui24	aa1 pui5	P71	一倍	
+3798	三十、數字等/一倍	一倍	一倍	a55 pʰui24	a55 pʰui24	aa1 pui5	P71	一倍	
 3799	三十、數字等/一大半兒	大半	大半	tai22 pun33	tai22 pun33	daai6 bun3	P71	一大半兒	
 3800	三十、數字等/兩個半	兩隻半	两只半	lœŋ24 tsɛk3 pun33	lœŋ24 tsɛk3 pun33	loeng5 zek3 bun3	P71	兩個半	
 3801	三十、數字等/五千左右	五千左右	五千左右	ŋ̍24 tsʰin55 tsɔ35 jɐu22	ŋ̍24 tsʰin55 tsɔ35 jɐu22	ng5 cin1 zo2 jau6	P71	五千上下	
