@@ -10,7 +10,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 9	一、自然現象/結冰	結冰	结冰	kit3 peŋ55	kit3 peŋ55	git3 bing1	P17	結冰	
 10	一、自然現象/冰雹	冰雹	冰雹	peŋ55 pʰau55	peŋ55 pʰau55	bing1 paau1	P17	冰雹	
 11	一、自然現象/虹	虹	虹	kɔŋ33	kɔŋ33	gong3	P17	虹	
-12	二、時令、時節/除夕	年三十晚	年三十晚	nin21 ɬam33 sɐp2 man24	nin21 ɬam33 ʃɐp2 man24	nin4 slaam3 sap6 maan5	P17	除夕	
+12	二、時令、時節/除夕	年三十晚	年三十晚	nin21 ɬam55 sɐp2 man24	nin21 ɬam55 ʃɐp2 man24	nin4 slaam1 sap6 maan5	P17	除夕	
 13	二、時令、時節/端午節	五月初五	五月初五	ŋ̍24 jyt2 tsʰɔ55 ŋ̍24	ŋ̍24 jyt2 tʃʰɔ55 ŋ̍24	ng5 jyut6 co1 ng5	P17	端午節	
 14	二、時令、時節/中秋節	八月十五	八月十五	pɛt3 jyt2 sɐp2 m̩24	pɛt3 jyt2 ʃɐp2 m̩24	bet3 jyut6 sap6 m5	P17	中秋節	
 15	二、時令、時節/今年	今年	今年	kɐm55 nin21	kɐm55 nin21	gam1 nin4	P17	今年	
@@ -59,7 +59,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 58	九、稱謂/女人	女人	女人	ny24 jɐn21	ny24 jɐn21	nyu5 jan4	P21	女人1	
 59	九、稱謂/女人	-婆	-婆	-pʰɔ21	-pʰɔ21	-po4	P21	女人2	
 60	九、稱謂/女人	女人婆	女人婆	ny24 jɐn21 pʰɔ21	ny24 jɐn21 pʰɔ21	nyu5 jan4 po4	P21	女人3	
-61	九、稱謂/男孩子	男仔	男仔	tsɐi35	tʃɐi35	zai2	P21	男孩子	
+61	九、稱謂/男孩子	男仔	男仔	nam21 tsɐi35	nam21 tʃɐi35	naam4 zai2	P21	男孩子	
 62	九、稱謂/女孩子	女仔	女仔	ny35 tsɐi35	ny35 tʃɐi35	nyu2 zai2	P21	女孩子1	
 63	九、稱謂/女孩子	妹仔	妹仔	mui55 tsɐi35	mui55 tʃɐi35	mui1 zai2	P21	女孩子2	
 64	九、稱謂/老頭兒	老大	老大	lu24 tai35	lu24 tai35	lu5 daai2	P21	老頭兒（尊稱）	原文[tai35]有音無字
@@ -226,3 +226,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 225	十六、數詞/二十一	二十一	二十一	ji22 a22 jɐt5	ji22 a22 jɐt5	ji6 aa6 jat1	P25	二十一	
 226	十六、數詞/一百二十一	百二十一	百二十一	pak3 ji22 a22 jɐt5	pak3 ji22 a22 jɐt5	baak3 ji6 aa6 jat1	P25	一百二十一	
 227	十六、數詞/二兩	二兩	二两	ji22 lœŋ35	ji22 lœŋ35	ji6 loeng2	P25	二兩	
+228	九、稱謂/男孩子	男崽	男崽	nam21 tsɐi35	nam21 tʃɐi35	naam4 zai2	P21	男孩子	原文作「男仔」
+229	九、稱謂/女孩子	女崽	女崽	ny35 tsɐi35	ny35 tʃɐi35	nyu2 zai2	P21	女孩子1	原文作「女仔」
+230	九、稱謂/女孩子	妹崽	妹崽	mui55 tsɐi35	mui55 tʃɐi35	mui1 zai2	P21	女孩子2	原文作「妹仔」
+231	七、親屬/兒子	崽	崽	tsɐi35	tʃɐi35	zai2	P20	兒子	原文作「仔」

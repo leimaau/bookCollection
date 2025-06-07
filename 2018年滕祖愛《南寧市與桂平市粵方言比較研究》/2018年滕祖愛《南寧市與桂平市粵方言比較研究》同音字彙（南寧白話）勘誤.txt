@@ -1926,7 +1926,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1925	慷	慷	hɔŋ55	hɔŋ55	hong1	P114		
 1926	杭	杭	hɔŋ21	hɔŋ21	hong4	P114		
 1927	虹	虹	huŋ21	hʊŋ21	hung4	P114		原文誤作[hɔŋ21]
-1928	𣚺	𣚺	hɔŋ22	hɔŋ22	hong6	P114	～雞：未下蛋的小雞	原文有音無字，誤作[hɔŋ21]
+1928	項	项	hɔŋ22	hɔŋ22	hong6	P114	～雞：未下蛋的小雞	原文有音無字，誤作[hɔŋ21]
 1929	吼	吼	huŋ35	hʊŋ35	hung2	P114		原文誤作[hɔŋ35]
 1930	項	项	hɔŋ35	hɔŋ35	hong2	P114		
 1931	巷	巷	hɔŋ35	hɔŋ35	hong2	P114		
@@ -2131,7 +2131,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2130	桶	桶	tʰuŋ35	tʰʊŋ35	tung2	P115		
 2131	統	统	tʰuŋ35	tʰʊŋ35	tung2	P115		
 2132	痛	痛	tʰuŋ33	tʰʊŋ33	tung3	P115		
-2133	齈	齈	nuŋ21	nʊŋ21	nung4	P115		原文誤作[nuŋ55]
+2133	齈	齈	nuŋ55	nʊŋ55	nung1	P115		
 2134	農	农	nuŋ21	nʊŋ21	nung4	P115		
 2135	濃	浓	nuŋ21	nʊŋ21	nung4	P115		
 2136	聾	聋	luŋ21	lʊŋ21	lung4	P115		

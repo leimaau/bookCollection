@@ -61,7 +61,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 60	一、自然/磁石	攝石	摄石	ʃip3 ʃɛk2	ʃip3 ʃɛk2	sip3 sek6	P1110	磁石	
 61	一、自然/煤	煤	煤	mui21	mui21	mui4	P1112	煤	
 62	一、自然/煤油	火水油	火水油	fɔ35 ʃui35 iɐu21	fɔ35 ʃui35 jɐu21	fo2 sui2 jau4	P1112	煤油	
-63	一、自然/火焰	火焰	火焰	fɔ35 im21	fɔ35 jim21	fo2 jim4	P1112	火焰	原文「焰」字作[jim21]
+63	一、自然/火焰	火焰	火焰	fɔ35 im21	fɔ35 jim21	fo2 jim4	P1112	火焰	原文如此，「焰」應作[jim22]
 64	一、自然/火煙	火煙	火烟	fɔ35 in55	fɔ35 jin55	fo2 jin1	P1114	火煙	
 65	一、自然/地方	定	定	tɛŋ22	tɛŋ22	deng6	P1114	地方	原文有音無字
 66	一、自然/城鎮	城鎮	城镇	ʃiŋ21 tʃɐn33	ʃeŋ21 tʃɐn33	sing4 zan3	P1114	城鎮	
@@ -72,7 +72,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 71	一、自然/小路	西路	西路	ɬɐi55 lu22	ɬɐi55 lu22	slai1 lu6	P1118	小路	
 72	一、自然/縫兒	罅	罅	lɛ33	lɛ33	le3	P1118	縫兒	原文有音無字
 73	二、時令/春節	過年	过年	kɔ33 nin21	kɔ33 nin21	go3 nin4	P1120	春節	
-74	二、時令/除夕	年三十晚	年三十晚	nin21 ɬam33 ʃɐp2 man23	nin21 ɬam33 ʃɐp2 man24	nin4 slaam3 sap6 maan5	P1120	除夕	
+74	二、時令/除夕	年三十晚	年三十晚	nin21 ɬam55 ʃɐp2 man23	nin21 ɬam55 ʃɐp2 man24	nin4 slaam1 sap6 maan5	P1120	除夕	
 75	二、時令/元旦	元旦	元旦	yn21 tan33	jyn21 tan33	jyun4 daan3	P1120	元旦	
 76	二、時令/元宵節	十五	十五	ʃɐp2 ŋ̍23	ʃɐp2 ŋ̍24	sap6 ng5	P1122	元宵節	
 77	二、時令/元宵	水圓	水圆	ʃui35 yn21	ʃui35 jyn21	sui2 jyun4	P1122	元宵	
@@ -103,7 +103,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 102	二、時令/後天	後日	后日	hɐu22 iɐt2	hɐu22 jɐt2	hau6 jat6	P1138	後天	
 103	二、時令/大後天	大後日	大后日	tai22 hɐu22 iɐt2	tai22 hɐu22 jɐt2	daai6 hau6 jat6	P1140	大後天	原文「大」字誤作[tʰai22]
 104	二、時令/昨天	昨日	昨日	tʃɔ22 iɐt2	tʃɔ22 jɐt2	zo6 jat6	P1140	昨天	原文[tʃɔ22]有音無字
-105	二、時令/前天	前日	前日	tʃʰin21 iɐt5	tʃʰin21 jɐt5	cin4 jat1	P1140	前天	
+105	二、時令/前天	前日	前日	tʃʰin21 iɐt2	tʃʰin21 jɐt2	cin4 jat6	P1140	前天	
 106	二、時令/大前天	大前日	大前日	tai22 tʃʰin21 iɐt2	tai22 tʃʰin21 jɐt2	daai6 cin4 jat6	P1142	大前天	
 107	二、時令/上午	上午	上午	ʃœŋ22 ŋ̍23	ʃœŋ22 ŋ̍24	soeng6 ng5	P1142	上午	
 108	二、時令/下午	下午	下午	ha22 ŋ̍23	ha22 ŋ̍24	haa6 ng5	P1142	下午	
@@ -120,9 +120,9 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 119	二、時令/後天晚上	後晚	后晚	hɐu22 man23	hɐu22 man24	hau6 maan5	P1150	後天晚上	
 120	二、時令/昨天晚上	昨晚	昨晚	tʃɔ22 man23	tʃɔ22 man24	zo6 maan5	P1150	昨天晚上	原文[tʃɔ22]有音無字
 121	二、時令/前天晚上	前晚	前晚	tʃʰin21 man23	tʃʰin21 man24	cin4 maan5	P1152	前天晚上	
-122	二、時令/整夜	冚晚	冚晚	hɐm21 man23	hɐm21 man24	ham4 maan5	P1152	整夜	原文[hɐm21]有音無字
-123	二、時令/整天	冚日	冚日	hɐm21 iɐt2	hɐm21 jɐt2	ham4 jat6	P1152	整天	原文[hɐm21]有音無字
-124	二、時令/整年	冚年	冚年	hɐm21 nin21	hɐm21 nin21	ham4 nin4	P1154	整年	原文[hɐm21]有音無字
+122	二、時令/整夜	冚晚	冚晚	hɐm21 man23	hɐm21 man24	ham4 maan5	P1152	整夜	原文[hɐm21]有音無字，應讀[hɐm22]
+123	二、時令/整天	冚日	冚日	hɐm21 iɐt2	hɐm21 jɐt2	ham4 jat6	P1152	整天	原文[hɐm21]有音無字，應讀[hɐm22]
+124	二、時令/整年	冚年	冚年	hɐm21 nin21	hɐm21 nin21	ham4 nin4	P1154	整年	原文[hɐm21]有音無字，應讀[hɐm22]
 125	二、時令/哪天	邊日	边日	pin55 iɐt2	pin55 jɐt2	bin1 jat6	P1154	哪天	原文[pin55]有音無字
 126	二、時令/多少天？	幾多日	几多日	ki35 tɔ55 iɐt2	ki35 tɔ55 jɐt2	gi2 do1 jat6	P1154	多少天？	
 127	二、時令/哪個月？	邊個月	边个月	pin55 kɔ33 yt2	pin55 kɔ33 jyt2	bin1 go3 jyut6	P1156	哪個月？	原文[pin55]有音無字
@@ -215,12 +215,12 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 214	四、植物/木杉	杉木	杉木	tʃʰam33 muk2	tʃʰam33 mʊk2	caam3 muk6	P1214	木杉	
 215	四、植物/桑樹	桑樹	桑树	ɬɔŋ55 ʃy22	ɬɔŋ55 ʃy22	slong1 syu6	P1214	桑樹	
 216	四、植物/桑棗	桑果	桑果	ɬɔŋ55 kɔ35	ɬɔŋ55 kɔ35	slong1 go2	P1214	桑棗	
-217	四、植物/柳絮	柳絮	柳絮	lɐu23 ʃy22	lɐu24 ʃy22	lau5 syu6	P1216	柳絮	
+217	四、植物/柳樹	柳樹	柳树	lɐu23 ʃy22	lɐu24 ʃy22	lau5 syu6	P1216	柳樹	
 218	四、植物/苦楝	苦楝	苦楝	fu35 lin55	fu35 lin55	fu2 lin1	P1216	苦楝	
 219	四、植物/榕樹	榕樹	榕树	iuŋ21 ʃy22	jʊŋ21 ʃy22	jung4 syu6	P1216	榕樹	
 220	四、植物/竹子	竹	竹	tʃuk5	tʃʊk5	zuk1	P1218	竹子	
 221	四、植物/竹筍	竹筍	竹笋	tʃuk5 ɬɐn35	tʃʊk5 ɬɐn35	zuk1 slan2	P1218	竹筍	
-222	四、植物/竹竿	竹竿	竹竿	tʃuk5 kɔn35	tʃʊk5 kɔn35	zuk1 gon2	P1218	竹竿	原文如此，誤讀「桿」音
+222	四、植物/竹竿	竹桿	竹杆	tʃuk5 kɔn35	tʃʊk5 kɔn35	zuk1 gon2	P1218	竹竿	原文字頭爲「竹竿」，但訓讀「竹桿」
 223	四、植物/栽花	種花	种花	tʃuŋ33 ua55	tʃʊŋ33 wa55	zung3 waa1	P1220	栽花	
 224	四、植物/花蕾	花苞	花苞	ua55 pɛu55	wa55 pɛu55	waa1 beu1	P1220	花蕾	
 225	四、植物/菊花	菊花	菊花	kuk5 ua55	kʊk5 wa55	guk1 waa1	P1220	菊花	
@@ -268,7 +268,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 267	五、動物/黃牛	黃牛	黄牛	uɔŋ21 ŋɐu21	wɔŋ21 ŋɐu21	wong4 ngau4	P1248	黃牛	
 268	五、動物/水牛	水牛	水牛	ʃui35 ŋɐu21	ʃui35 ŋɐu21	sui2 ngau4	P1250	水牛	
 269	五、動物/狗	狗	狗	kɐu35	kɐu35	gau2	P1250	狗	
-270	五、動物/公狗	公狗	公狗	kɐu35 kuŋ55	kɐu35 kʊŋ55	gau2 gung1	P1250	公狗	
+270	五、動物/公狗	狗公	狗公	kɐu35 kuŋ55	kɐu35 kʊŋ55	gau2 gung1	P1250	公狗	
 271	五、動物/母狗	狗乸	狗乸	kɐu35 na35	kɐu35 na35	gau2 naa2	P1252	母狗	原文[na35]有音無字
 272	五、動物/瘋狗	瘋狗	疯狗	fuŋ55 kɐu35	fʊŋ55 kɐu35	fung1 gau2	P1252	瘋狗	
 273	五、動物/貓	貓	猫	mɛu55	mɛu55	meu1	P1252	貓	
@@ -295,7 +295,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 294	五、動物/老虎	老虎	老虎	lu23 fu35	lu24 fu35	lu5 fu2	P1266	老虎	
 295	五、動物/母老虎	老虎乸	老虎乸	lu23 fu35 na35	lu24 fu35 na35	lu5 fu2 naa2	P1268	母老虎	原文[na35]有音無字
 296	五、動物/狼	狼	狼	lɔŋ21	lɔŋ21	long4	P1268	狼	
-297	五、動物/猴子	獁騮	犸骝	ma55 lɐu55	ma55 lɐu55	maa1 lau1	P1268	猴子	
+297	五、動物/猴子	馬騮	马骝	ma55 lɐu55	ma55 lɐu55	maa1 lau1	P1268	猴子	原文作「獁騮」
 298	五、動物/熊	熊	熊	iuŋ21	jʊŋ21	jung4	P1270	熊	
 299	五、動物/狐狸	狐狸	狐狸	u21 li21	wu21 li21	wu4 li4	P1270	狐狸	
 300	五、動物/狐狸精	狐狸精	狐狸精	u21 li21 tʃiŋ55	wu21 li21 tʃeŋ55	wu4 li4 zing1	P1270	狐狸精	
@@ -430,7 +430,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 429	六、房舍/煙囪	煙通	烟通	in55 tʰuŋ55	jin55 tʰʊŋ55	jin1 tung1	P1356	煙囪	
 430	六、房舍/飯鍋	飯煲	饭煲	fan22 pu55	fan22 pu55	faan6 bu1	P1358	飯鍋	
 431	六、房舍/鍋蓋	煲蓋	煲盖	pu55 kɔi33	pu55 kɔi33	bu1 goi3	P1358	鍋蓋	
-432	六、房舍/燒火棍	撈火棍	捞火棍	lɛu55 fɔ35 kʷɐn33	lɛu55 fɔ35 kʷɐn33	leu1 fo2 gwan3	P1358	燒火棍	
+432	六、房舍/燒火棍	撈火棍	捞火棍	lɛu55 fɔ35 kʷɐn33	lɛu55 fɔ35 kʷɐn33	leu1 fo2 gwan3	P1358	燒火棍	應作「撩火棍」
 433	六、房舍/火鉗	火鉗	火钳	fɔ35 kʰɛm21	fɔ35 kʰɛm21	fo2 kem4	P1360	火鉗	
 434	六、房舍/鍋鏟	鑊鏟	镬铲	uɔk2 tʃʰɛn35	wɔk2 tʃʰɛn35	wok6 cen2	P1360	鍋鏟	
 435	六、房舍/水瓢	水殼	水壳	ʃui35 hɔk3	ʃui35 hɔk3	sui2 hok3	P1360	水瓢	
@@ -552,8 +552,8 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 551	八、人體/後腦勺兒	後腦勺兒	后脑勺儿	hɐu22 nu23	hɐu22 nu24	hau6 nu5	P1436	後腦勺兒	
 552	八、人體/脖子	頸	颈	kɛŋ35	kɛŋ35	geng2	P1438	脖子	
 553	八、人體/頭髮	頭髮	头发	tʰɐu21 fat3	tʰɐu21 fat3	tau4 faat3	P1438	頭髮	
-554	八、人體/脫頭髮	甩脫髮	甩脱发	lɐt5 tʰɐu21 fat3	lɐt5 tʰɐu21 fat3	lat1 tau4 faat3	P1438	脫頭髮	原文[lɐt5]有音無字，本字「㪐」
-555	八、人體/脫頭髮	㪐脫髮	㪐脱发	lɐt5 tʰɐu21 fat3	lɐt5 tʰɐu21 fat3	lat1 tau4 faat3	P1438	脫頭髮	原文[lɐt5]有音無字
+554	八、人體/脫頭髮	甩頭髮	甩头发	lɐt5 tʰɐu21 fat3	lɐt5 tʰɐu21 fat3	lat1 tau4 faat3	P1438	脫頭髮	原文[lɐt5]有音無字，本字「㪐」
+555	八、人體/脫頭髮	㪐頭髮	㪐头发	lɐt5 tʰɐu21 fat3	lɐt5 tʰɐu21 fat3	lat1 tau4 faat3	P1438	脫頭髮	原文[lɐt5]有音無字
 556	八、人體/頭屑	頭皮	头皮	tʰɐu21 pʰi21	tʰɐu21 pʰi21	tau4 pi4	P1440	頭屑	
 557	八、人體/前額	額頭	额头	ŋɐk2 tʰɐu21	ŋɐk2 tʰɐu21	ngak6 tau4	P1440	前額	
 558	八、人體/囟腦門兒	頭頂	头顶	tʰɐu21 tɛŋ35	tʰɐu21 tɛŋ35	tau4 deng2	P1440	囟腦門兒	
@@ -611,7 +611,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 610	八、人體/腿	腳	脚	kœk3	kœk3	goek3	P1476	腿	
 611	八、人體/大腿	大髀	大髀	tai22 pi35	tai22 pi35	daai6 bi2	P1476	大腿	原文[pi35]有音無字
 612	八、人體/膝蓋	膝頭哥	膝头哥	ɬɐt5 tʰɐu21 kɔ55	ɬɐt5 tʰɐu21 kɔ55	slat1 tau4 go1	P1476	膝蓋	
-613	八、人體/屁股	屎胐	屎胐	ʃi35 fɐt5	ʃi35 fɐt5	si2 fat1	P1478	屁股	原文[fɐt5]有音無字
+613	八、人體/屁股	屎窟	屎窟	ʃi35 fɐt5	ʃi35 fɐt5	si2 fat1	P1478	屁股	原文[fɐt5]有音無字
 614	八、人體/雞巴（男生殖器）	腏	腏	tʃʰɔt2	tʃʰɔt2	cot6	P1478	雞巴（男生殖器）	原文有音無字
 615	八、人體/屄（女生殖器）	㞓	㞓	hɐi55	hɐi55	hai1	P1478	屄（女生殖器）	原文有音無字
 616	八、人體/肏	屌	屌	tiu35	tiu35	diu2	P1480	肏	原文有音無字
@@ -742,7 +742,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 741	十一、飲食/鹽	鹽	盐	im21	jim21	jim4	P1562	鹽	
 742	十一、飲食/豉油	豉油	豉油	ʃi21 iɐu21	ʃi21 jɐu21	si4 jau4	P1562	豉油	原文[ʃi21]有音無字，「豉」受後字調類化爲陽平
 743	十一、飲食/醋	七醋	七醋	tʃʰɐt5 tʃʰu33	tʃʰɐt5 tʃʰu33	cat1 cu3	P1564	醋	原文[tʃʰɐt5]有音無字
-744	十一、飲食/紅糖	紅糖	红糖	uɔŋ21 tʰɔŋ21	wɔŋ21 tʰɔŋ21	wong4 tong4	P1564	紅糖	
+744	十一、飲食/紅糖	黃糖	黄糖	uɔŋ21 tʰɔŋ21	wɔŋ21 tʰɔŋ21	wong4 tong4	P1564	紅糖	
 745	十一、飲食/白糖	白糖	白糖	pak2 tʰɔŋ21	pak2 tʰɔŋ21	baak6 tong4	P1564	白糖	
 746	十一、飲食/冰糖	冰糖	冰糖	piŋ55 tʰɔŋ21	peŋ55 tʰɔŋ21	bing1 tong4	P1566	冰糖	
 747	十一、飲食/麥芽糖	麥芽糖	麦芽糖	mɐk2 ŋa21 tʰɔŋ21	mɐk2 ŋa21 tʰɔŋ21	mak6 ngaa4 tong4	P1566	麥芽糖	
@@ -783,7 +783,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 782	十一、飲食/喝茶	飲茶	饮茶	iɐm35 tʃʰa21	jɐm35 tʃʰa21	jam2 caa4	P1590	喝茶	
 783	十一、飲食/喝酒	飲酒	饮酒	iɐm35 tʃɐu35	jɐm35 tʃɐu35	jam2 zau2	P1590	喝酒	
 784	十一、飲食/吸菸	燒菸	烧烟	ʃiu55 in55	ʃiu55 jin55	siu1 jin1	P1590	吸菸	
-785	十一、飲食/香菸	烟崽	烟崽	in55 tʃɐi35	jin55 tʃɐi35	jin1 zai2	P1592	香菸	
+785	十一、飲食/香菸	菸崽	烟崽	in55 tʃɐi35	jin55 tʃɐi35	jin1 zai2	P1592	香菸	
 786	十一、飲食/旱菸桿	菸筒斗	烟筒斗	in55 tʰuŋ21 tɐu35	jin55 tʰʊŋ21 tɐu35	jin1 tung4 dau2	P1592	旱菸桿	
 787	十一、飲食/水菸筒	水菸筒	水烟筒	ʃui35 in55 tʰuŋ21	ʃui35 jin55 tʰʊŋ21	sui2 jin1 tung4	P1592	水菸筒	
 788	十一、飲食/噎住	哽着	哽着	kʰɐŋ35 tʃœk2	kʰɐŋ35 tʃœk2	kang2 zoek6	P1594	噎住	原文[kʰɐŋ35]有音無字
@@ -804,11 +804,11 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 803	十二、起居/梳辮子	捹孖辮	捹孖辫	pɐn33 ma55 pin55	pɐn33 ma55 pin55	ban3 maa1 bin1	P1604	梳辮子	原文[pɐn33 ma55]有音無字
 804	十二、起居/剪指甲	剪指甲	剪指甲	tʃin35 tʃi35 kap3	tʃin35 tʃi35 kap3	zin2 zi2 gaap3	P1604	剪指甲	
 805	十二、起居/刮鬍子	剃鬚	剃须	tʰɐi33 ɬu55	tʰɐi33 ɬu55	tai3 slu1	P1604	刮鬍子	原文[ɬu55]有音無字
-806	十二、起居/掏耳朵	撈耳朵	捞耳朵	lu55 i23 tɔ35	lu55 ji24 tɔ35	lu1 ji5 do2	P1606	掏耳朵	
+806	十二、起居/掏耳朵	撈耳朵	捞耳朵	lu55 i23 tɔ35	lu55 ji24 tɔ35	lu1 ji5 do2	P1606	掏耳朵	原文如此，疑誤，應作「撩[lɛu55]耳朵」
 807	十二、起居/上班	上班	上班	ʃœŋ23 pan55	ʃœŋ24 pan55	soeng5 baan1	P1606	上班	
 808	十二、起居/下班	落班	落班	lɔk2 pan55	lɔk2 pan55	lok6 baan1	P1606	下班	
 809	十二、起居/出門	出門	出门	tʃʰyt5 mun21	tʃʰyt5 mun21	cyut1 mun4	P1608	出門	
-810	十二、起居/回家	返屋	返屋	fan35 uk5	fan35 ʊk5	faan2 uk1	P1608	回家	
+810	十二、起居/回家	返屋	返屋	fan55 uk5	fan55 ʊk5	faan1 uk1	P1608	回家	
 811	十二、起居/玩耍	耍	耍	ʃa35	ʃa35	saa2	P1608	玩耍	
 812	十二、起居/逛	逛	逛	kɔŋ22	kɔŋ22	gong6	P1610	逛	
 813	十二、起居/散散步	散散步	散散步	ɬan33 ɬan33 pu22	ɬan33 ɬan33 pu22	slaan3 slaan3 bu6	P1610	散散步	
@@ -830,7 +830,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 829	十二、起居/坐下	坐落來	坐落来	tʃʰɔ23 lɔk2 lɔi21	tʃʰɔ24 lɔk2 lɔi21	co5 lok6 loi4	P1620	坐下	
 830	十二、起居/躺下	睡落來	睡落来	ʃui22 lɔk2 lɔi21	ʃui22 lɔk2 lɔi21	sui6 lok6 loi4	P1622	躺下	
 831	十二、起居/睡覺	睡覺	睡觉	ʃui22 kɛu33	ʃui22 kɛu33	sui6 geu3	P1622	睡覺	
-832	十二、起居/午睡	睡晏覺	睡晏觉	ʃui35 an33 kɛu33	ʃui35 an33 kɛu33	sui2 aan3 geu3	P1622	午睡	
+832	十二、起居/午睡	睡晏覺	睡晏觉	ʃui22 an33 kɛu33	ʃui22 an33 kɛu33	sui6 aan3 geu3	P1622	午睡	
 833	十二、起居/睡了	睡了	睡了	ʃui22 liu23	ʃui22 liu24	sui6 liu5	P1624	睡了	
 834	十二、起居/打呼嚕	打鼻鼾	打鼻鼾	ta35 pi22 hɔn22	ta35 pi22 hɔn22	daa2 bi6 hon6	P1624	打呼嚕	
 835	十二、起居/仰睡	仰睡	仰睡	iœŋ23 ʃui22	jœŋ24 ʃui22	joeng5 sui6	P1624	仰睡	
@@ -861,13 +861,13 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 860	十三、交際/失信	失口齒	失口齿	ʃɐt5 hɐu35 tʃʰi35	ʃɐt5 hɐu35 tʃʰi35	sat1 hau2 ci2	P1642	失信	
 861	十三、交際/虧待	虧待	亏待	kʷʰɐi55 tɔi22	kʷʰɐi55 tɔi22	kwai1 doi6	P1642	虧待	
 862	十三、交際/裝病	裝病	装病	tʃɔŋ55 pɛŋ22	tʃɔŋ55 pɛŋ22	zong1 beng6	P1642	裝病	
-863	十三、交際/（兩人）不和	冇和	冇和	mu23 uɔ23	mu24 wɔ24	mu5 wo5	P1644	（兩人）不和	原文[mu23]有音無字
-864	十三、交際/（氣憤）不平	冇忿頸	冇忿颈	mu23 fɐn22 kɛŋ23	mu24 fɐn22 kɛŋ24	mu5 fan6 geng5	P1644	（氣憤）不平	原文[mu23 fɐn22]有音無字
+863	十三、交際/（兩人）不和	冇和	冇和	mu23 uɔ21	mu24 wɔ21	mu5 wo4	P1644	（兩人）不和	原文[mu23]有音無字
+864	十三、交際/（氣憤）不平	冇忿頸	冇忿颈	mu23 fɐn22 kɛŋ35	mu24 fɐn22 kɛŋ35	mu5 fan6 geng2	P1644	（氣憤）不平	原文[mu23 fɐn22]有音無字
 865	十三、交際/背黑鍋	孭鑊	孭镬	mɛ55 uɔk2	mɛ55 wɔk2	me1 wok6	P1644	背黑鍋	
 866	十三、交際/插嘴	多口	多口	tɔ55 hɐu35	tɔ55 hɐu35	do1 hau2	P1646	插嘴	
 867	十三、交際/挑毛病	抓雞腳	抓鸡脚	tʃa55 kɐi55 kœk3	tʃa55 kɐi55 kœk3	zaa1 gai1 goek3	P1646	挑毛病	
 868	十三、交際/做作	沙洲	沙洲	ʃa55 tʃɐu55	ʃa55 tʃɐu55	saa1 zau1	P1646	做作	原文[ʃa55 tʃɐu55]有音無字
-869	十三、交際/擺架子	擺架𢲲	摆架𢲲	pai35 kʰa33 lɔŋ33	pai35 kʰa33 lɔŋ33	baai2 kaa3 long3	P1648	擺架子	
+869	十三、交際/擺架子	擺架閬	摆架阆	pai35 kʰa33 lɔŋ33	pai35 kʰa33 lɔŋ33	baai2 kaa3 long3	P1648	擺架子	
 870	十三、交際/裝傻	裝癡	装痴	tʃɔŋ55 tʃʰi55	tʃɔŋ55 tʃʰi55	zong1 ci1	P1648	裝傻	
 871	十三、交際/鑽空子	食殺崽	食杀崽	ʃik2 ʃat3 tʃɐi35	ʃek2 ʃat3 tʃɐi35	sik6 saat3 zai2	P1648	鑽空子	
 872	十三、交際/爭吵	爭交	争交	tʃaŋ55 kɛu55	tʃaŋ55 kɛu55	zaang1 geu1	P1650	爭吵	
@@ -910,7 +910,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 909	十四、婚喪/死	死	死	ɬi35	ɬi35	sli2	P1674	死	
 910	十四、婚喪/棺材	棺材	棺材	kun55 tʃʰɔi21	kun55 tʃʰɔi21	gun1 coi4	P1674	棺材	
 911	十四、婚喪/帶孝	帶孝	带孝	tai33 hau33	tai33 hau33	daai3 haau3	P1674	帶孝	
-912	十四、婚喪/牌位	神祇牌	神祇牌	ʃɐn21 tʃi35 pʰai21	ʃɐn21 tʃi35 pʰai21	san4 zi2 paai4	P1676	牌位	
+912	十四、婚喪/牌位	神祉牌	神祉牌	ʃɐn21 tʃi35 pʰai21	ʃɐn21 tʃi35 pʰai21	san4 zi2 paai4	P1676	牌位	原文作「神祇牌」
 913	十四、婚喪/出殯	出喪	出丧	tʃʰyt5 ɬɔŋ55	tʃʰyt5 ɬɔŋ55	cyut1 slong1	P1676	出殯	
 914	十四、婚喪/送葬	送喪	送丧	ɬuŋ33 ɬɔŋ55	ɬʊŋ33 ɬɔŋ55	slung3 slong1	P1676	送葬	
 915	十四、婚喪/淹死	浸死	浸死	tʃɐm33 ɬi35	tʃɐm33 ɬi35	zam3 sli2	P1678	淹死	
@@ -953,7 +953,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 952	十五、商業/帳目	帳目	帐目	tʃœŋ33 muk2	tʃœŋ33 mʊk2	zoeng3 muk6	P1702	帳目	
 953	十五、商業/記帳	記帳	记帐	ki33 tʃœŋ33	ki33 tʃœŋ33	gi3 zoeng3	P1702	記帳	
 954	十五、商業/賒帳	賒帳	赊帐	ʃɛ55 tʃœŋ33	ʃɛ55 tʃœŋ33	se1 zoeng3	P1704	賒帳	
-955	十五、商業/要帳	要帳	要帐	tʃui55 tʃai33	tʃui55 tʃai33	zui1 zaai3	P1704	要帳	
+955	十五、商業/要帳	追債	追债	tʃui55 tʃai33	tʃui55 tʃai33	zui1 zaai3	P1704	要帳	
 956	十五、商業/減價	減價	减价	kɛm35 ka33	kɛm35 ka33	gem2 gaa3	P1704	減價	
 957	十五、商業/款項	款項	款项	fun35 hɔŋ22	fun35 hɔŋ22	fun2 hong6	P1706	款項	
 958	十五、商業/存款（動詞）	存款	存款	tʃʰyn21 fun35	tʃʰyn21 fun35	cyun4 fun2	P1706	存款（動詞）	原文「存」字誤作[tʃyn21]
@@ -982,7 +982,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 981	十五、商業/租房子	租屋	租屋	tʃu55 uk5	tʃu55 ʊk5	zu1 uk1	P1722	租房子	
 982	十五、商業/布鋪	布店	布店	pu33 tim33	pu33 tim33	bu3 dim3	P1722	布鋪	
 983	十五、商業/瓷器鋪	缸瓦鋪	缸瓦铺	kɔŋ55 ŋa23 pʰu33	kɔŋ55 ŋa24 pʰu33	gong1 ngaa5 pu3	P1722	瓷器鋪	
-984	十五、商業/雜貨店	雜貨店	杂货店	tʃap2 fɔ33 pʰu33	tʃap2 fɔ33 pʰu33	zaap6 fo3 pu3	P1724	雜貨店	
+984	十五、商業/雜貨店	雜貨鋪	杂货铺	tʃap2 fɔ33 pʰu33	tʃap2 fɔ33 pʰu33	zaap6 fo3 pu3	P1724	雜貨店	
 985	十五、商業/飯館	飯店	饭店	fan22 tim33	fan22 tim33	faan6 dim3	P1724	飯館	
 986	十五、商業/旅館	客棧	客栈	hak3 tʃan35	hak3 tʃan35	haak3 zaan2	P1724	旅館	
 987	十五、商業/茶葉鋪	茶葉鋪	茶叶铺	tʃʰa21 ip2 pʰu33	tʃʰa21 jip2 pʰu33	caa4 jip6 pu3	P1726	茶葉鋪	
@@ -1006,7 +1006,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1005	十五、商業/乞丐	乞兒	乞儿	hɐt5 i55	hɐt5 ji55	hat1 ji1	P1738	乞丐	
 1006	十五、商業/土匪	土匪	土匪	tʰu35 fi35	tʰu35 fi35	tu2 fi2	P1738	土匪	
 1007	十五、商業/小偷	賊	贼	tʃʰɐk2	tʃʰɐk2	cak6	P1738	小偷	
-1008	十五、商業/妓女	老妓	老妓	lu23 ki35	lu24 ki35	lu5 gi2	P1740	妓女	
+1008	十五、商業/妓女	老妓	老妓	lu23 ki35	lu24 ki35	lu5 gi2	P1740	妓女	應作「老舉」，「舉」爲「妓女」的合音，此處讀成齊齒化
 1009	十五、商業/鴇母	龜婆	龟婆	kʷɐi55 pʰɔ21	kʷɐi55 pʰɔ21	gwai1 po4	P1740	鴇母	
 1010	十五、商業/高利貸者	收債佬	收债佬	ʃɐu55 tʃai33 lu35	ʃɐu55 tʃai33 lu35	sau1 zaai3 lu2	P1740	高利貸者	
 1011	十六、文化/讀書人	讀書人	读书人	tuk2 ʃy55 iɐn21	tʊk2 ʃy55 jɐn21	duk6 syu1 jan4	P1742	讀書人	
@@ -1014,7 +1014,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1013	十六、文化/學校	學校	学校	huk2 hau22	hʊk2 hau22	huk6 haau6	P1742	學校	
 1014	十六、文化/上學	去學校	去学校	hy33 huk2 hau22	hy33 hʊk2 hau22	hyu3 huk6 haau6	P1744	上學	
 1015	十六、文化/評卷子	改卷	改卷	kɔi35 kyn35	kɔi35 kyn35	goi2 gyun2	P1744	評卷子	
-1016	十六、文化/頭名	頭騎	头骑	tʰɐu55 kɛ22	tʰɐu55 kɛ22	tau1 ge6	P1744	頭名	原文[kɛ22]有音無字
+1016	十六、文化/頭名	頭騎	头骑	tʰɐu21 kɛ22	tʰɐu21 kɛ22	tau4 ge6	P1744	頭名	原文[kɛ22]有音無字
 1017	十六、文化/末名	蔑名	蔑名	mɛt5 miŋ21	mɛt5 meŋ21	met1 ming4	P1746	末名	原文[mɛt5]有音無字
 1018	十六、文化/考取	考得	考得	hau35 tɐk5	hau35 tɐk5	haau2 dak1	P1746	考取	
 1019	十六、文化/沒考取	冇考得	冇考得	mu23 hau35 tɐk5	mu24 hau35 tɐk5	mu5 haau2 dak1	P1746	沒考取	原文[mu23]有音無字
@@ -1063,7 +1063,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1062	十六、文化/看粵劇	睇粵劇	睇粤剧	tʰɐi35 yt2 kʰɛk2	tʰɐi35 jyt2 kʰɛk2	tai2 jyut6 kek6	P1776	看粵劇	原文[tʰɐi35]有音無字
 1063	十六、文化/戲臺	戲臺	戏台	hi55 tʰɔi21	hi55 tʰɔi21	hi1 toi4	P1776	戲臺	
 1064	十六、文化/開戲	開場	开场	hɔi55 tʃʰœŋ21	hɔi55 tʃʰœŋ21	hoi1 coeng4	P1776	開戲	
-1065	十六、文化/散戲	散場	散场	ɬan33 tʃʰœŋ21	ɬan33 tʃʰœŋ21	slaan3 coeng4	P1778	散戲	原文「散」誤作[ɬan35]
+1065	十六、文化/散戲	散場	散场	ɬan33 tʃʰœŋ21	ɬan33 tʃʰœŋ21	slaan3 coeng4	P1778	散戲	原文「散」字誤作[ɬan35]
 1066	十六、文化/翻跟頭	翻跟斗	翻跟斗	fan55 kɐn55 tɐu35	fan55 kɐn55 tɐu35	faan1 gan1 dau2	P1778	翻跟頭	
 1067	十六、文化/鞭炮	炮	炮	pʰɛu33	pʰɛu33	peu3	P1778	鞭炮	
 1068	十六、文化/放鞭炮	燒炮	烧炮	ʃiu55 pʰɛu33	ʃiu55 pʰɛu33	siu1 peu3	P1780	放鞭炮	
@@ -1123,7 +1123,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1122	十七、動作/挺胸	躽胸	躽胸	ɛn35 huŋ55	ɛn35 hʊŋ55	en2 hung1	P1816	挺胸	原文[ɛn35]有音無字
 1123	十七、動作/捶背	䂿腰骨	䂿腰骨	tɐp2 iu55 kʷɐt5	tɐp2 jiu55 kʷɐt5	dap6 jiu1 gwat1	P1816	捶背	原文[tɐp2]有音無字
 1124	十七、動作/擤鼻涕	擤鼻涕	擤鼻涕	ɬɐŋ33 pi22 tʰɐi33	ɬɐŋ33 pi22 tʰɐi33	slang3 bi6 tai3	P1816	擤鼻涕	
-1125	十七、動作/打噴嚏	打乞鍬	打乞锹	ta35 hɐt5 tʃʰiu55	ta35 hɐt5 tʃʰiu55	daa2 hat1 ciu1	P1818	打噴嚏	原文[hɐt5 tʃʰiu55]有音無字
+1125	十七、動作/打噴嚏	打嗐鍬	打嗐锹	ta35 hɐt5 tʃʰiu55	ta35 hɐt5 tʃʰiu55	daa2 hat1 ciu1	P1818	打噴嚏	原文[hɐt5 tʃʰiu55]有音無字
 1126	十七、動作/叫	吆	吆	ɛu55	ɛu55	eu1	P1818	叫	原文[ɛu55]有音無字
 1127	十七、動作/蹲	踎	踎	mɐu55	mɐu55	mau1	P1818	蹲	原文[mɐu55]有音無字
 1128	十七、動作/摔了	跌了	跌了	tit3 liu23	tit3 liu24	dit3 liu5	P1820	摔了	
@@ -1157,7 +1157,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1156	十七、動作/害怕	怕	怕	pʰa33	pʰa33	paa3	P1838	害怕	
 1157	十七、動作/窩火兒	激頸	激颈	kik5 kɛŋ35	kek5 kɛŋ35	gik1 geng2	P1838	窩火兒	
 1158	十七、動作/吃驚	心驚	心惊	ɬɐm55 kɛŋ55	ɬɐm55 kɛŋ55	slam1 geng1	P1840	吃驚	
-1159	十七、動作/盼望	巴望	巴望	ma35 muŋ35	ma35 mʊŋ35	maa2 mung2	P1840	盼望	原文有音無字
+1159	十七、動作/盼望	巴望	巴望	ma55 muŋ35	ma55 mʊŋ35	maa1 mung2	P1840	盼望	原文有音無字
 1160	十七、動作/巴不得	巴不得	巴不得	pa55 pɐt5 tɐk5	pa55 pɐt5 tɐk5	baa1 bat1 dak1	P1840	巴不得	
 1161	十七、動作/記着	記住	记住	ki33 tʃy22	ki33 tʃy22	gi3 zyu6	P1842	記着	
 1162	十七、動作/忘記	打忘記	打忘记	ta35 mɔŋ22 ki33	ta35 mɔŋ22 ki33	daa2 mong6 gi3	P1842	忘記	
@@ -1204,7 +1204,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1203	十八、性狀/舒服	爽	爽	ʃɔŋ35	ʃɔŋ35	song2	P1870	舒服	
 1204	十八、性狀/錯	錯	错	tʃʰɔ33	tʃʰɔ33	co3	P1870	錯	
 1205	十八、性狀/難過	難頂	难顶	nan21 tiŋ35	nan21 teŋ35	naan4 ding2	P1870	難過	
-1206	十八、性狀/麻煩	論盡	论尽	lɐn22 tʃɐn22	lɐn22 tʃɐn22	lan6 zan6	P1872	麻煩	原文有音無字
+1206	十八、性狀/麻煩	遴盡	遴尽	lɐn22 tʃɐn22	lɐn22 tʃɐn22	lan6 zan6	P1872	麻煩	原文有音無字
 1207	十八、性狀/糊塗	懵懂	懵懂	muŋ35 tuŋ35	mʊŋ35 tʊŋ35	mung2 dung2	P1872	糊塗	
 1208	十八、性狀/懶	懶	懒	lan23	lan24	laan5	P1872	懶	
 1209	十八、性狀/勤快	勤	勤	kʰɐn21	kʰɐn21	kan4	P1874	勤快	
@@ -1297,8 +1297,8 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1296	二十、指代/這些	阿啲	阿啲	a33 ti55	a33 ti55	aa3 di1	P1924	這些	原文有音無字
 1297	二十、指代/那些	嚕啲	噜啲	lu55 ti55	lu55 ti55	lu1 di1	P1924	那些	原文有音無字
 1298	二十、指代/哪些	邊啲	边啲	pin55 ti55	pin55 ti55	bin1 di1	P1926	哪些	原文[ti55]有音無字
-1299	二十、指代/這樣（做）	噉樣	噉样	kɐm35 iœŋ22	kɐm35 jœŋ22	gam2 joeng6	P1926	這樣（做）	原文[kɐm35]有音無字
-1300	二十、指代/那樣（做）	噉樣	噉样	kɐm35 iœŋ22	kɐm35 jœŋ22	gam2 joeng6	P1926	那樣（做）	原文[kɐm35]有音無字
+1299	二十、指代/這樣（做）	噉樣	噉样	kɐm35 iœŋ35	kɐm35 jœŋ35	gam2 joeng2	P1926	這樣（做）	原文[kɐm35]有音無字
+1300	二十、指代/那樣（做）	噉樣	噉样	kɐm35 iœŋ35	kɐm35 jœŋ35	gam2 joeng2	P1926	那樣（做）	原文[kɐm35]有音無字
 1301	二十、指代/怎樣（做）	同點	同点	tʰuŋ21 tim35	tʰʊŋ21 tim35	tung4 dim2	P1928	怎樣（做）	
 1302	二十、指代/什麼	乜嘢	乜嘢	mɐt5 iɛ23	mɐt5 jɛ24	mat1 je5	P1928	什麼	原文有音無字
 1303	二十、指代/爲什麼	爲乜嘢	为乜嘢	uɐi22 mɐt5 iɛ23	wɐi22 mɐt5 jɛ24	wai6 mat1 je5	P1928	爲什麼	原文[mɐt5 iɛ23]有音無字
@@ -1330,7 +1330,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1329	二十一、副詞/隨便	摎時	摎时	lau23 ʃi21	lau24 ʃi21	laau5 si4	P1946	隨便	原文[lau23]有音無字
 1330	二十一、副詞/曾經	曾經	曾经	tʃʰɐŋ21 kiŋ55	tʃʰɐŋ21 keŋ55	cang4 ging1	P1946	曾經	
 1331	二十一、副詞/終於	終於	终于	tʃuŋ55 y55	tʃʊŋ55 jy55	zung1 jyu1	P1948	終於	
-1332	二十一、副詞/全部	冚唪唥	冚唪唥	hɐm21 pa21 lɐŋ21	hɐm21 pa21 lɐŋ21	ham4 baa4 lang4	P1948	全部	原文有音無字
+1332	二十一、副詞/全部	冚唪唥	冚唪唥	hɐm21 pa21 lɐŋ21	hɐm21 pa21 lɐŋ21	ham4 baa4 lang4	P1948	全部	原文有音無字，應讀[hɐm22 pɐ22 lɐŋ22]
 1333	二十一、副詞/反正	橫直	横直	uaŋ21 tʃik2	waŋ21 tʃek2	waang4 zik6	P1948	反正	
 1334	二十一、副詞/大約	大概	大概	tai22 kʰɔi33	tai22 kʰɔi33	daai6 koi3	P1950	大約	
 1335	二十一、副詞/很	好	好	hu35	hu35	hu2	P1950	很	
@@ -1354,7 +1354,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1353	二十二、介詞/從小	從細	从细	tʃʰuŋ21 ɬɐi33	tʃʰʊŋ21 ɬɐi33	cung4 slai3	P1962	從小	
 1354	二十二、介詞/從頭	從頭	从头	tʃʰuŋ21 tʰɐu21	tʃʰʊŋ21 tʰɐu21	cung4 tau4	P1962	從頭	
 1355	二十三、數量/一個人	一個人	一个人	iɐt5 kɔ33 iɐn21	jɐt5 kɔ33 jɐn21	jat1 go3 jan4	P1964	一個人	
-1356	二十三、數量/一位客人	一位客人	一個客人	iɐt5 kɔ33 hak3 iɐn21	jɐt5 kɔ33 hak3 jɐn21	jat1 go3 haak3 jan4	P1964	一位客人	
+1356	二十三、數量/一位客人	一個客人	一个客人	iɐt5 kɔ33 hak3 iɐn21	jɐt5 kɔ33 hak3 jɐn21	jat1 go3 haak3 jan4	P1964	一位客人	
 1357	二十三、數量/一頭牛	一隻牛	一只牛	iɐt5 tʃik3 ŋɐu21	jɐt5 tʃek3 ŋɐu21	jat1 zik3 ngau4	P1964	一頭牛	
 1358	二十三、數量/一口豬	一隻豬	一只猪	iɐt5 tʃik3 tʃy55	jɐt5 tʃek3 tʃy55	jat1 zik3 zyu1	P1966	一口豬	
 1359	二十三、數量/一隻雞	一隻雞	一只鸡	iɐt5 tʃik3 kɐi55	jɐt5 tʃek3 kɐi55	jat1 zik3 gai1	P1966	一隻雞	
@@ -1394,7 +1394,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1393	二十三、數量/一窩蜂	一竇蜂	一窦蜂	iɐt5 tɐu33 fuŋ55	jɐt5 tɐu33 fʊŋ55	jat1 dau3 fung1	P1988	一窩蜂	
 1394	二十三、數量/一趟	一回	一回	iɐt5 ui21	jɐt5 wui21	jat1 wui4	P1990	一趟	原文「回」字誤作[ui31]
 1395	二十三、數量/一會兒	一陣間	一阵间	iɐt5 tʃɐn22 kɛn55	jɐt5 tʃɐn22 kɛn55	jat1 zan6 gen1	P1990	一會兒	
-1396	二十三、數量/一陣雨	一乍雨	一乍雨	iɐt5 ʃa21 y23	jɐt5 ʃa21 jy24	jat1 saa4 jyu5	P1990	一陣雨	原文[ʃa21]有音無字
+1396	二十三、數量/一陣雨	一乍雨	一乍雨	iɐt5 ʃa21 y23	jɐt5 ʃa21 jy24	jat1 saa4 jyu5	P1990	一陣雨	原文[ʃa21]有音無字，應讀[ɬa22]
 1397	二十三、數量/兩個	兩個	两个	lœŋ23 kɔ33	lœŋ24 kɔ33	loeng5 go3	P1992	兩個	
 1398	二十三、數量/第二	第二	第二	tɐi22 i22	tɐi22 ji22	dai6 ji6	P1992	第二	
 1399	二十三、數量/二哥	二哥	二哥	i22 kɔ55	ji22 kɔ55	ji6 go1	P1992	二哥	
@@ -1414,5 +1414,19 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1413	二十三、數量/一百	一百	一百	iɐt5 pak3	jɐt5 pak3	jat1 baak3	P2002	一百	
 1414	二十三、數量/一百一十	百一	百一	pak3 iɐt5	pak3 jɐt5	baak3 jat1	P2002	一百一十	
 1415	二十三、數量/一千零二十	一千零二十	一千零二十	iɐt5 tʃʰin55 liŋ21 i22 ʃɐp2	jɐt5 tʃʰin55 leŋ21 ji22 ʃɐp2	jat1 cin1 ling4 ji6 sap6	P2004	一千零二十	
-1416	二十三、數量/二斤	二斤	二斤	lœŋ23 kɐn55	lœŋ24 kɐn55	loeng5 gan1	P2004	二斤	
+1416	二十三、數量/二斤	兩斤	两斤	lœŋ23 kɐn55	lœŋ24 kɐn55	loeng5 gan1	P2004	二斤	
 1417	二十三、數量/二兩	二兩	二两	i22 lœŋ35	ji22 lœŋ35	ji6 loeng2	P2004	二兩	
+1418	五、動物/豬崽	豬仔	猪仔	tʃy55 tʃɐi35	tʃy55 tʃɐi35	zyu1 zai2	P1256	豬仔	原文作「豬崽」
+1419	五、動物/小鴨	鴨仔	鸭仔	ap3 tʃɐi35	ap3 tʃɐi35	aap3 zai2	P1266	小鴨	原文作「鴨崽」
+1420	七、稱謂/男孩兒	仔	仔	tʃɐi35	tʃɐi35	zai2	P1378	男孩兒	原文作「崽」
+1421	七、稱謂/兒子	仔	仔	tʃɐi35	tʃɐi35	zai2	P1400	兒子	原文作「崽」
+1422	七、稱謂/大兒子	大仔	大仔	tai22 tʃɐi35	tai22 tʃɐi35	daai6 zai2	P1402	大兒子	原文作「大崽」
+1423	七、稱謂/小兒子	細仔	细仔	ɬɐi33 tʃɐi35	ɬɐi33 tʃɐi35	slai3 zai2	P1402	小兒子	原文作「細崽」
+1424	七、稱謂/重孫子	息仔	息仔	ɬɐk5 tʃɐi35	ɬɐk5 tʃɐi35	slak1 zai2	P1408	重孫子	原文[ɬɐk5]有音無字，作「息崽」
+1425	七、稱謂/姪兒（侄兒）	姪仔	侄仔	tʃɐt2 tʃɐi35	tʃɐt2 tʃɐi35	zat6 zai2	P1422	姪兒（侄兒）	原文作「姪崽」
+1426	七、稱謂/義子	契仔	契仔	kʰɐi33 tʃɐi35	kʰɐi33 tʃɐi35	kai3 zai2	P1434	義子	原文作「契崽」
+1427	七、稱謂/養子	養仔	养仔	iœŋ23 tʃɐi35	jœŋ24 tʃɐi35	joeng5 zai2	P1434	養子	原文作「養崽」
+1428	十一、飲食/香菸	菸仔	烟仔	in55 tʃɐi35	jin55 tʃɐi35	jin1 zai2	P1592	香菸	原文作「菸崽」
+1429	十三、交際/鑽空子	食殺仔	食杀仔	ʃik2 ʃat3 tʃɐi35	ʃek2 ʃat3 tʃɐi35	sik6 saat3 zai2	P1648	鑽空子	原文作「食殺崽」
+1430	十四、婚喪/懷孕	有仔	有仔	iɐu23 tʃɐi35	jɐu24 tʃɐi35	jau5 zai2	P1664	懷孕	原文作「有崽」
+1431	二十、指代/爺兒倆	兩仔爺	两仔爷	lœŋ23 tʃɐi35 iɛ21	lœŋ24 tʃɐi35 jɛ21	loeng5 zai2 je4	P1918	爺兒倆	原文作「兩崽爺」
