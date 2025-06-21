@@ -1395,7 +1395,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1394	罈	坛	tʰam21	tʰam21	taam4	P112		
 1395	淡	淡	tʰam24	tʰam24	taam5	P112		原文誤作[tham35]
 1396	探	探	tʰam33	tʰam33	taam3	P112		
-1397	黮	黮	nɐm55	nɐm55	nam1	P112	～佬：鄉下人	原文有音無字，誤作[nam55]
+1397	耽	耽	nɐm55	nɐm55	nam1	P112	～佬：鄉下人	原文有音無字，誤作[nam55]
 1398	南	南	nam21	nam21	naam4	P112		
 1399	藍	蓝	lam21	lam21	laam4	P112		
 1400	覽	览	lam35	lam35	laam2	P112		

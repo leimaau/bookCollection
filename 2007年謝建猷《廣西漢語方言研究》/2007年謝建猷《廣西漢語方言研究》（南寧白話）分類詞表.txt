@@ -866,7 +866,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 865	十三、交際/背黑鍋	孭鑊	孭镬	mɛ55 uɔk2	mɛ55 wɔk2	me1 wok6	P1644	背黑鍋	
 866	十三、交際/插嘴	多口	多口	tɔ55 hɐu35	tɔ55 hɐu35	do1 hau2	P1646	插嘴	
 867	十三、交際/挑毛病	抓雞腳	抓鸡脚	tʃa55 kɐi55 kœk3	tʃa55 kɐi55 kœk3	zaa1 gai1 goek3	P1646	挑毛病	
-868	十三、交際/做作	沙洲	沙洲	ʃa55 tʃɐu55	ʃa55 tʃɐu55	saa1 zau1	P1646	做作	原文[ʃa55 tʃɐu55]有音無字
+868	十三、交際/做作	沙州	沙州	ʃa55 tʃɐu55	ʃa55 tʃɐu55	saa1 zau1	P1646	做作	原文[ʃa55 tʃɐu55]有音無字
 869	十三、交際/擺架子	擺架閬	摆架阆	pai35 kʰa33 lɔŋ33	pai35 kʰa33 lɔŋ33	baai2 kaa3 long3	P1648	擺架子	
 870	十三、交際/裝傻	裝癡	装痴	tʃɔŋ55 tʃʰi55	tʃɔŋ55 tʃʰi55	zong1 ci1	P1648	裝傻	
 871	十三、交際/鑽空子	食殺崽	食杀崽	ʃik2 ʃat3 tʃɐi35	ʃek2 ʃat3 tʃɐi35	sik6 saat3 zai2	P1648	鑽空子	

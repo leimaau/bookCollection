@@ -1277,7 +1277,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1276	九、稱謂（1）/舍妹	我細妹	我细妹	ŋɔ24 ɬɐi33 mui22	ŋɔ24 ɬɐi33 mui22	ngo5 slai3 mui6	P38	舍妹	
 1277	九、稱謂（1）/城裏人	街上人	街上人	kai55 sœŋ22 jɐn21	kai55 sœŋ22 jɐn21	gaai1 soeng6 jan4	P38	城裏人1	
 1278	九、稱謂（1）/城裏人	城市人	城市人	seŋ21 si24 jɐn21	seŋ21 si24 jɐn21	sing4 si5 jan4	P38	城裏人2	
-1279	九、稱謂（1）/鄉巴佬	黮佬	黮佬	nɐm55 lu35	nɐm55 lu35	nam1 lu2	P38	土包子2	原文[nɐm55]有音無字
+1279	九、稱謂（1）/鄉巴佬	耽佬	耽佬	nɐm55 lu35	nɐm55 lu35	nam1 lu2	P38	土包子2	原文[nɐm55]有音無字
 1280	九、稱謂（1）/鄉巴佬	嚗佬	嚗佬	pɔk5 lu35	pɔk5 lu35	bok1 lu2	P38	土包子1	原文[pɔk5]有音無字
 1281	九、稱謂（1）/鄉巴佬	鄉下佬	乡下佬	hœŋ55 ha35 lu35	hœŋ55 ha35 lu35	hoeng1 haa2 lu2	P38	鄉下人	
 1282	九、稱謂（1）/一家子	本家	本家	pun35 ka55	pun35 ka55	bun2 gaa1	P38	同宗1	原文無釋義
