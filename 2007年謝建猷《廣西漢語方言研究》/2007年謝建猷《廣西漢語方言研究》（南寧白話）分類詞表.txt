@@ -91,7 +91,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 90	二、時令/年底	年底	年底	nin21 tɐi35	nin21 tɐi35	nin4 dai2	P1130	年底	
 91	二、時令/月初	月初	月初	yt2 tʃʰɔ55	jyt2 tʃʰɔ55	jyut6 co1	P1132	月初	
 92	二、時令/月底	月底	月底	yt2 tɐi35	jyt2 tɐi35	jyut6 dai2	P1132	月底	
-93	二、時令/這個月	箇個月	个个月	kɔ33 kɔ33 yt2	kɔ33 kɔ33 jyt2	go3 go3 jyut6	P1132	這個月	原文第一個[kɔ33]有音無字
+93	二、時令/這個月	箇個月	箇个月	kɔ33 kɔ33 yt2	kɔ33 kɔ33 jyt2	go3 go3 jyut6	P1132	這個月	原文第一個[kɔ33]有音無字
 94	二、時令/上個月	上個月	上个月	ʃœŋ22 kɔ33 yt2	ʃœŋ22 kɔ33 jyt2	soeng6 go3 jyut6	P1134	上個月	
 95	二、時令/下個月	下個月	下个月	ha22 kɔ33 yt2	ha22 kɔ33 jyt2	haa6 go3 jyut6	P1134	下個月	
 96	二、時令/正月	正月	正月	tʃiŋ55 yt2	tʃeŋ55 jyt2	zing1 jyut6	P1134	正月	
