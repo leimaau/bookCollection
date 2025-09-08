@@ -1739,7 +1739,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1738	盲	盲	maŋ21	maŋ21	maang4	P113		
 1739	猛	猛	maŋ24	maŋ24	maang5	P113		原文誤作[maŋ35]
 1740	孟	孟	maŋ24	maŋ24	maang5	P113		原文誤作[maŋ35]
-1741	𦀬	𦀬	laŋ55	laŋ55	laang1	P113	織～衫：織毛衣	原文有音無字
+1741	唥	唥	laŋ55	laŋ55	laang1	P113	織～衫：織毛衣	原文有音無字
 1742	冷	冷	laŋ24	laŋ24	laang5	P113		原文誤作[laŋ35]
 1743	爭	争	tʃaŋ55	tʃaŋ55	zaang1	P113		
 1744	撐	撑	tʃʰaŋ55	tʃʰaŋ55	caang1	P113		
@@ -2192,7 +2192,7 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2191	貢	贡	kuŋ33	kʊŋ33	gung3	P115		
 2192	汞	汞	kuŋ33	kʊŋ33	gung3	P115		
 2193	共	共	kuŋ22	kʊŋ22	gung6	P115		原文誤作[kuŋ33]
-2194	𫋐	𫋐	kuŋ33	kʊŋ33	gung3	P115	爬的意思	原文有音無字
+2194	嗊	唝	kuŋ33	kʊŋ33	gung3	P115	爬的意思	原文有音無字
 2195	窮	穷	kʰuŋ21	kʰʊŋ21	kung4	P115		
 2196	孔	孔	kʰuŋ35	kʰʊŋ35	kung2	P115		
 2197	恐	恐	kʰuŋ35	kʰʊŋ35	kung2	P115		
@@ -2225,455 +2225,454 @@ ID	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2224	塔	塔	tʰap3	tʰap3	taap3	P115		
 2225	焫	焫	nat3	nat3	naat3	P115	燒[ʃiu55]燒[ʃiu55]～～：指雞罵狗	原文有音無字，誤作[ʃiu55 ʃiu55 nap3 nap3]
 2226	納	纳	nap2	nap2	naap6	P115		
-2227	擸	擸	lap3	lap3	laap3	P115	挽的意思	原文有音無字，誤作[lap5]
-2228	拉	拉	lap3	lap3	laap3	P115	挽的意思	原文有音無字，誤作[lap5]
-2229	臘	腊	lap2	lap2	laap6	P115		
-2230	圾	圾	ɬap3	ɬap3	slaap3	P115	垃圾的意思	原文有音無字，誤作[ɬap5]
-2231	雜	杂	tʃap2	tʃap2	zaap6	P115		
-2232	閘	闸	tʃap2	tʃap2	zaap6	P115		
-2233	插	插	tʃʰap3	tʃʰap3	caap3	P115		
-2234	鴿	鸽	kap3	kap3	gaap3	P115		
-2235	甲	甲	kap3	kap3	gaap3	P115		
-2236	佮	佮	kap3	kap3	gaap3	P115	作伴	原文有音無字
-2237	裌	裌	kap2	kap2	gaap6	P115		
-2238	𧬈	𧬈	hɐp5	hɐp5	hap1	P115	欺負	原文有音無字，誤作[hap5]
-2239	狹	狭	hap3	hap3	haap3	P115		
-2240	合	合	hɐp2	hɐp2	hap6	P115		原文誤作[hap2]
-2241	峽	峡	hap2	hap2	haap6	P115		
-2242	鴨	鸭	∅ap3	∅ap3	aap3	P115		
-2243	八	八	pat3	pat3	baat3	P115		
-2244	拔	拔	pat2	pat2	baat6	P115		
-2245	抹	抹	mat3	mat3	maat3	P115		
-2246	襪	袜	mɐt2	mɐt2	mat6	P115		原文誤作[mat2]
-2247	法	法	fat3	fat3	faat3	P115		
-2248	發	发	fat3	fat3	faat3	P115		
-2249	髮	发	fat3	fat3	faat3	P115		
-2250	乏	乏	fat2	fat2	faat6	P115		
-2251	罰	罚	fat2	fat2	faat6	P115		
-2252	達	达	tat2	tat2	daat6	P115		
-2253	捺	捺	nat3	nat3	naat3	P115		
-2254	辣	辣	lat2	lat2	laat6	P115		
-2255	撒	撒	ɬat3	ɬat3	slaat3	P115		
-2256	薩	萨	ɬat3	ɬat3	slaat3	P115		
-2257	扎	扎	tʃat3	tʃat3	zaat3	P115		
-2258	紮	扎	tʃat3	tʃat3	zaat3	P115		原文作「扎」字
-2259	軋	轧	tʃat3	tʃat3	zaat3	P115		
-2260	擦	擦	tʃʰat3	tʃʰat3	caat3	P115		
-2261	察	察	tʃʰat3	tʃʰat3	caat3	P115		
-2262	刷	刷	tʃʰat3	tʃʰat3	caat3	P115		
-2263	殺	杀	ʃat3	ʃat3	saat3	P115		
-2264	壓	压	∅at3	∅at3	aat3	P115		
-2265	百	百	pak3	pak3	baak3	P115		
-2266	伯	伯	pak3	pak3	baak3	P115		
-2267	白	白	pak2	pak2	baak6	P115		
-2268	帕	帕	pʰak3	pʰak3	paak3	P115		
-2269	泊	泊	pʰak3	pʰak3	paak3	P115	梁山～	
-2270	迫	迫	pʰak3	pʰak3	paak3	P115		
-2271	拍	拍	pʰak3	pʰak3	paak3	P115		
-2272	魄	魄	pʰak3	pʰak3	paak3	P115		
-2273	陌	陌	mak2	mak2	maak6	P115		
-2274	窄	窄	tʃak3	tʃak3	zaak3	P115		
-2275	責	责	tʃak3	tʃak3	zaak3	P115		
-2276	澤	泽	tʃak2	tʃak2	zaak6	P115		
-2277	宅	宅	tʃak2	tʃak2	zaak6	P115		
-2278	摘	摘	tʃak2	tʃak2	zaak6	P115		
-2279	拆	拆	tʃʰak3	tʃʰak3	caak3	P115		
-2280	策	策	tʃʰak3	tʃʰak3	caak3	P115		原文誤作[tʃhak2]
-2281	冊	册	tʃʰak3	tʃʰak3	caak3	P115		原文誤作[tʃhak2]
-2282	賊	贼	tʃʰak2	tʃʰak2	caak6	P115	小偷	原文有音無字
-2283	格	格	kak3	kak3	gaak3	P115		
-2284	革	革	kak3	kak3	gaak3	P115		
-2285	隔	隔	kak3	kak3	gaak3	P115		
-2286	額	额	ŋak2	ŋak2	ngaak6	P115		
-2287	嚇	吓	hak3	hak3	haak3	P115	～一跳；恐～	
-2288	客	客	hak3	hak3	haak3	P115		
-2289	笠	笠	lɐp5	lɐp5	lap1	P115		
-2290	立	立	lɐp2	lɐp2	lap6	P115		
-2291	執	执	tʃɐp5	tʃɐp5	zap1	P115	～起來	原文作「拾」字
-2292	縶	絷	tʃɐp5	tʃɐp5	zap1	P115	縷	原文有音無字
-2293	汁	汁	tʃɐp5	tʃɐp5	zap1	P115		
-2294	集	集	tʃɐp2	tʃɐp2	zap6	P115		
-2295	習	习	tʃɐp2	tʃɐp2	zap6	P115		
-2296	溼	湿	ʃɐp5	ʃɐp5	sap1	P115		
-2297	濕	湿	ʃɐp5	ʃɐp5	sap1	P115		
-2298	十	十	ʃɐp2	ʃɐp2	sap6	P115		
-2299	急	急	kɐp5	kɐp5	gap1	P115		
-2300	及	及	kɐp2	kɐp2	gap6	P115		
-2301	磕	磕	kʰɐp5	kʰɐp5	kap1	P115		
-2302	級	级	kʰɐp5	kʰɐp5	kap1	P115		
-2303	吸	吸	kʰɐp5	kʰɐp5	kap1	P115		
-2304	筆	笔	pɐt5	pɐt5	bat1	P115		
-2305	畢	毕	pɐt5	pɐt5	bat1	P115		
-2306	不	不	pɐt5	pɐt5	bat1	P115		
-2307	弼	弼	pɐt2	pɐt2	bat6	P115		
-2308	匹	匹	pʰɐt5	pʰɐt5	pat1	P115		
-2309	密	密	mɐt2	mɐt2	mat6	P115		
-2310	物	物	mɐt2	mɐt2	mat6	P115		
-2311	佛	佛	fɐt2	fɐt2	fat6	P115		
-2312	突	突	tɐt2	tɐt2	dat6	P115		
-2313	肄	肄	lɐt2	lɐt2	lat6	P115		
-2314	栗	栗	lɐt2	lɐt2	lat6	P115		
-2315	律	律	lɐt2	lɐt2	lat6	P115		
-2316	率	率	lɐt2	lɐt2	lat6	P115		
-2317	質	质	tʃɐt5	tʃɐt5	zat1	P115		
-2318	疾	疾	tʃɐt2	tʃɐt2	zat6	P115		
-2319	侄	侄	tʃɐt2	tʃɐt2	zat6	P115		
-2320	姪	侄	tʃɐt2	tʃɐt2	zat6	P115		
-2321	膝	膝	tʃʰɐt5	tʃʰɐt5	cat1	P115		原文誤作[tʃhɐt2]
-2322	七	七	tʃʰɐt5	tʃʰɐt5	cat1	P115		
-2323	漆	漆	tʃʰɐt5	tʃʰɐt5	cat1	P115		
-2324	蚤	蚤	tʃu35	tʃu35	zu2	P115		原文誤作[ʃɐt5]
-2325	悉	悉	ɬɐt5	ɬɐt5	slat1	P115		原文誤作[ʃɐt5]
-2326	蝨	虱	ʃɐt5	ʃɐt5	sat1	P115		
-2327	失	失	ʃɐt5	ʃɐt5	sat1	P115		
-2328	室	室	ʃɐt5	ʃɐt5	sat1	P115		
-2329	實	实	ʃɐt2	ʃɐt2	sat6	P115		
-2330	吉	吉	kɐt5	kɐt5	gat1	P115		
-2331	橘	橘	kɐt5	kɐt5	gat1	P115		
-2332	咳	咳	kʰɐt5	kʰɐt5	kat1	P115		
-2333	乞	乞	hɐt5	hɐt5	hat1	P115		
-2334	亥	亥	hɔi22	hɔi22	hoi6	P115		原文誤作[hɐt2]
-2335	轄	辖	hɐt2	hɐt2	hat6	P115		
-2336	核	核	hɐt2	hɐt2	hat6	P115		
-2337	覈	核	hɐt2	hɐt2	hat6	P115	審～	
-2338	北	北	pɐk5	pɐk5	bak1	P115		
-2339	嘜	唛	mɐk5	mɐk5	mak1	P115	米～：米筒	原文有音無字
-2340	墨	墨	mɐk2	mɐk2	mak6	P115		
-2341	麥	麦	mɐk2	mɐk2	mak6	P115		
-2342	脈	脉	mɐk2	mɐk2	mak6	P115		
-2343	德	德	tɐk5	tɐk5	dak1	P116		
-2344	特	特	tɐk2	tɐk2	dak6	P116		
-2345	肋	肋	lɐk2	lɐk2	lak6	P116		
-2346	塞	塞	ɬɐk5	ɬɐk5	slak1	P116	阻～	
-2347	則	则	tʃɐk5	tʃɐk5	zak1	P116		
-2348	鯽	鲫	tʃɐk5	tʃɐk5	zak1	P116		
-2349	側	侧	tʃɐk5	tʃɐk5	zak1	P116		
-2350	測	测	tʃʰɐk5	tʃʰɐk5	cak1	P116		
-2351	賊	贼	tʃʰɐk2	tʃʰɐk2	cak6	P116		
-2352	刻	刻	kʰɐk5	kʰɐk5	kak1	P116	時～	
-2353	握	握	ŋɐk5	ŋɐk5	ngak1	P116		
-2354	軛	轭	ŋɐk5	ŋɐk5	ngak1	P116		
-2355	眲	眲	ŋɐk5	ŋɐk5	ngak1	P116	騙	原文有音無字
-2356	克	克	hɐk5	hɐk5	hak1	P116		
-2357	黑	黑	hɐk5	hɐk5	hak1	P116	黑白；滅	「滅」義原文有音無字，誤作[hɔk5]，應是「黑燈」的「黑」
-2358	嗒	嗒	tɛp5	tɛp5	dep1	P116	親	原文有音無字
-2359	鑷	镊	nɛp2	nɛp2	nep6	P116	鑷子	
-2360	𤗈	𤗈	ɬɛp3	ɬɛp3	slep3	P116	木～	原文作「屑」字
-2361	霅	霅	ɬɛp3	ɬɛp3	slep3	P116	哭～～：抽泣	原文有音無字。應作陽入
-2362	八	八	pɛt3	pɛt3	bet3	P116		
-2363	篾	篾	mɛt2	mɛt2	met6	P116		
-2364	逼	逼	pek5	pek5	bik1	P116		原文誤作[pɛk5]
-2365	碧	碧	pek5	pek5	bik1	P116		原文誤作[pɛk5]
-2366	璧	璧	pek5	pek5	bik1	P116		原文誤作[pɛk5]
-2367	壁	壁	pek5	pek5	bik1	P116		原文誤作[pɛk5]
-2368	闢	辟	pʰek5	pʰek5	pik1	P116		原文誤作[phɛk5]
-2369	辟	辟	pʰek5	pʰek5	pik1	P116		原文誤作[phɛk5]
-2370	劈	劈	pʰɛk3	pʰɛk3	pek3	P116		
-2371	擘	擘	mek5	mek5	mik1	P116	～菜：擇菜；「掰、剝」的意思；捻的意思	原文有音無字，誤作[mɛk5]
-2372	覓	觅	mek2	mek2	mik6	P116		原文誤作[mɛk2]
-2373	的	的	tek5	tek5	dik1	P116	目～	原文誤作[tɛk5]
-2374	滴	滴	tek5	tek5	dik1	P116		原文誤作[tɛk5]
-2375	趯	趯	tɛk3	tɛk3	dek3	P116	跑的意思	原文有音無字
-2376	笛	笛	tek2	tek2	dik6	P116		原文誤作[tɛk2]
-2377	敵	敌	tek2	tek2	dik6	P116		原文誤作[tɛk2]
-2378	踢	踢	tʰɛk3	tʰɛk3	tek3	P116		
-2379	叻	叻	lɛk5	lɛk5	lek1	P116	聰明	原文有音無字
-2380	力	力	lek2	lek2	lik6	P116		原文誤作[lɛk2]
-2381	歷	历	lek2	lek2	lik6	P116		原文誤作[lɛk2]
-2382	曆	历	lek2	lek2	lik6	P116		原文誤作[lɛk2]
-2383	息	息	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
-2384	惜	惜	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
-2385	釋	释	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
-2386	析	析	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
-2387	即	即	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
-2388	織	织	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
-2389	職	职	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
-2390	積	积	tʃek5	tʃek5	zik1	P116	面積；「J」的意思	
-2391	績	绩	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
-2392	直	直	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk3]
-2393	值	值	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk3]
-2394	脊	脊	tʃɛk3	tʃɛk3	zek3	P116		
-2395	隻	只	tʃɛk3	tʃɛk3	zek3	P116		
-2396	蟄	蛰	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2397	植	植	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2398	籍	籍	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2399	席	席	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2400	炙	炙	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2401	寂	寂	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
-2402	赤	赤	tʃʰek5	tʃʰek5	cik1	P116		原文誤作[tʃhɛk5]
-2403	戚	戚	tʃʰek5	tʃʰek5	cik1	P116		原文誤作[tʃhɛk5]
-2404	尺	尺	tʃʰɛk3	tʃʰɛk3	cek3	P116		
-2405	色	色	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
-2406	識	识	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
-2407	式	式	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
-2408	適	适	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
-2409	勺	勺	ʃɛk2	ʃɛk2	sek6	P116		
-2410	食	食	ʃek2	ʃek2	sik6	P116		原文誤作[ʃɛk2]
-2411	石	石	ʃɛk2	ʃɛk2	sek6	P116		
-2412	戟	戟	kek5	kek5	gik1	P116		原文誤作[kɛk5]
-2413	劇	剧	kek5	kek5	gik1	P116		「劇烈」訓讀「激烈」，原文誤作[kɛk5]
-2414	擊	击	kek5	kek5	gik1	P116		原文誤作[kɛk5]
-2415	極	极	kek2	kek2	gik6	P116		原文誤作[kɛk2]
-2416	屐	屐	kʰɛk5	kʰɛk5	kek1	P116		
-2417	激	激	kek5	kek5	gik1	P116	生氣	原文誤作[khɛk5]
-2418	級	级	kʰɛk5	kʰɛk5	kek1	P116	樓梯～：臺階	原文有音無字，記音疑誤
-2419	逆	逆	ŋek2	ŋek2	ngik6	P116	～風	原文誤作[ŋɛk2]
-2420	喫	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
-2421	吃	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
-2422	碟	碟	tip2	tip2	dip6	P116		
-2423	蝶	蝶	tip2	tip2	dip6	P116		
-2424	帖	帖	tʰip3	tʰip3	tip3	P116		
-2425	孽	孽	nip2	nip2	nip6	P116		原文誤作[nip3]
-2426	聶	聂	nip2	nip2	nip6	P116	姓	
-2427	業	业	nip2	nip2	nip6	P116		
-2428	獵	猎	lip2	lip2	lip6	P116		原文誤作[lip3]
-2429	接	接	tʃip3	tʃip3	zip3	P116		
-2430	摺	折	tʃip3	tʃip3	zip3	P116		
-2431	攝	摄	ʃip3	ʃip3	sip3	P116		
-2432	涉	涉	ʃip3	ʃip3	sip3	P116		
-2433	劫	劫	kip3	kip3	gip3	P116		
-2434	怯	怯	hip3	hip3	hip3	P116		
-2435	脅	胁	hip3	hip3	hip3	P116		
-2436	協	协	hip3	hip3	hip3	P116		
-2437	醃	腌	∅ip3	jip3	jip3	P116		
-2438	腌	腌	∅ip3	jip3	jip3	P116		
-2439	葉	叶	∅ip2	jip2	jip6	P116		
-2440	頁	页	∅ip2	jip2	jip6	P116		
-2441	啄	啄	tœk3	tœk3	doek3	P116		
-2442	虐	虐	nœk2	nœk2	noek6	P116		
-2443	略	略	lœk3	lœk3	loek3	P116		
-2444	掠	掠	lœk3	lœk3	loek3	P116		
-2445	削	削	ɬœk3	ɬœk3	sloek3	P116		
-2446	嚼	嚼	tʃœk3	tʃœk3	zoek3	P116		
-2447	着	着	tʃœk3	tʃœk3	zoek3	P116	～衣	
-2448	酌	酌	tʃœk3	tʃœk3	zoek3	P116		
-2449	桌	桌	tʃœk3	tʃœk3	zoek3	P116		
-2450	着	着	tʃœk2	tʃœk2	zoek6	P116	睡～	
-2451	雀	雀	tʃʰœk3	tʃʰœk3	coek3	P116		
-2452	鵲	鹊	tʃʰœk3	tʃʰœk3	coek3	P116		
-2453	腳	脚	kœk3	kœk3	goek3	P116		
-2454	卻	却	kʰœk3	kʰœk3	koek3	P116		
-2455	覺	觉	kʰœk3	kʰœk3	koek3	P116	知覺	
-2456	噦	哕	∅œk2	∅œk2	oek6	P116	乾噦	
-2457	入	入	∅iɐp2	jɐp2	jap6	P116		
-2458	割	割	kɔt3	kɔt3	got3	P116		
-2459	喝	喝	hɔt3	hɔt3	hot3	P116	喝酒	
-2460	渴	渴	hɔt3	hɔt3	hot3	P116		
-2461	豁	豁	hɔt2	hɔt2	hot6	P116	豁然	
-2462	劇	剧	kʰɛk2	kʰɛk2	kek6	P116	戲劇	原文誤作[khek2]
-2463	博	博	pɔk3	pɔk3	bok3	P116		
-2464	縛	缚	pɔk3	pɔk3	bok3	P116		
-2465	剝	剥	pɔk3	pɔk3	bok3	P116		
-2466	薄	薄	pɔk2	pɔk2	bok6	P116		
-2467	卜	卜	pʰuk5	pʰʊk5	puk1	P116		原文誤作[phɔk5]
-2468	朴	朴	pʰɔk3	pʰɔk3	pok3	P116		
-2469	樸	朴	pʰɔk3	pʰɔk3	pok3	P116		
-2470	撲	扑	pʰɔk3	pʰɔk3	pok3	P116		
-2471	僕	仆	pʰuk2	pʰʊk2	puk6	P116		原文誤作[phɔk2]
-2472	莫	莫	mɔk2	mɔk2	mok6	P116	約～	
-2473	膜	膜	mɔk2	mɔk2	mok6	P116		
-2474	幕	幕	mɔk2	mɔk2	mok6	P116		
-2475	寞	寞	mɔk2	mɔk2	mok6	P116		
-2476	陌	陌	mɐk2	mɐk2	mak6	P116		原文誤作[mɔk2]
-2477	戳	戳	tʃʰɔk3	tʃʰɔk3	cok3	P116		原文誤作[tɔk3]
-2478	鐸	铎	tɔk2	tɔk2	dok6	P116		
-2479	託	托	tʰɔk3	tʰɔk3	tok3	P116		
-2480	托	托	tʰɔk3	tʰɔk3	tok3	P116		
-2481	諾	诺	nɔk3	nɔk3	nok3	P116		
-2482	洛	洛	lɔk3	lɔk3	lok3	P116		
-2483	落	落	lɔk2	lɔk2	lok6	P116		
-2484	樂	乐	lɔk2	lɔk2	lok6	P116		
-2485	塑	塑	ɬɔk3	ɬɔk3	slok3	P116		
-2486	索	索	ɬɔk3	ɬɔk3	slok3	P116		
-2487	朔	朔	ɬɔk3	ɬɔk3	slok3	P116		
-2488	作	作	tʃɔk3	tʃɔk3	zok3	P116		
-2489	鑿	凿	tʃɔk2	tʃɔk2	zok6	P116		
-2490	綽	绰	tʃʰɔk3	tʃʰɔk3	cok3	P116		
-2491	角	角	kɔk3	kɔk3	gok3	P116		
-2492	國	国	kɔk3	kɔk3	gok3	P116		
-2493	各	各	kɔk2	kɔk2	gok6	P116		
-2494	郭	郭	kʰɔk3	kʰɔk3	kok3	P116		
-2495	廓	廓	kʰɔk3	kʰɔk3	kok3	P116		
-2496	藿	藿	kʰɔk3	kʰɔk3	kok3	P116		
-2497	確	确	kʰɔk3	kʰɔk3	kok3	P116		原文誤作[khɔk2]
-2498	鄂	鄂	ŋɔk2	ŋɔk2	ngok6	P116		
-2499	嶽	岳	ŋɔk2	ŋɔk2	ngok6	P116		
-2500	岳	岳	ŋɔk2	ŋɔk2	ngok6	P116		
-2501	哭	哭	huk5	hʊk5	huk1	P116		原文誤作[hɔk5]
-2502	殼	壳	hɔk3	hɔk3	hok3	P116		
-2503	鶴	鹤	hɔk2	hɔk2	hok6	P116		
-2504	學	学	hɔk2	hɔk2	hok6	P116		
-2505	屋	屋	∅uk5	∅ʊk5	uk1	P116		原文誤作[hɔk5]
-2506	惡	恶	∅ɔk3	∅ɔk3	ok3	P116		
-2507	鱉	鳖	pit3	pit3	bit3	P117		
-2508	鼈	鳖	pit3	pit3	bit3	P117		
-2509	別	别	pit2	pit2	bit6	P117	區～；離～	
-2510	撇	撇	pʰit3	pʰit3	pit3	P117		
-2511	匿	匿	nek2	nek2	nik6	P117		原文誤作[mit2]
-2512	滅	灭	mit2	mit2	mit6	P117		
-2513	跌	跌	tit3	tit3	dit3	P117		原文誤作[tit2]
-2514	鐵	铁	tʰit3	tʰit3	tit3	P117		
-2515	列	列	lit2	lit2	lit6	P117		原文誤作[lit3]
-2516	裂	裂	lit2	lit2	lit6	P117		原文誤作[lit3]
-2517	劣	劣	lit2	lit2	lit6	P117		
-2518	哲	哲	tʃit3	tʃit3	zit3	P117		
-2519	折	折	tʃit3	tʃit3	zit3	P117	～斷	
-2520	浙	浙	tʃit3	tʃit3	zit3	P117		
-2521	節	节	tʃit3	tʃit3	zit3	P117		
-2522	捷	捷	tʃit2	tʃit2	zit6	P117		
-2523	折	折	ʃit2	ʃit2	sit6	P117	弄～了	原文誤作[tʃit2]
-2524	截	截	tʃit2	tʃit2	zit6	P117		
-2525	絕	绝	tʃit2	tʃit2	zit6	P117		
-2526	撤	撤	tʃʰit3	tʃʰit3	cit3	P117		
-2527	設	设	tʃʰit3	tʃʰit3	cit3	P117		
-2528	妾	妾	tʃʰip3	tʃʰip3	cip3	P117		原文誤作[tʃhit2]
-2529	切	切	tʃʰit3	tʃʰit3	cit3	P117		原文誤作[tʃhit2]
-2530	舌	舌	ʃit2	ʃit2	sit6	P117		
-2531	傑	杰	kit2	kit2	git6	P117		
-2532	杰	杰	kit2	kit2	git6	P117		
-2533	結	结	kit3	kit3	git3	P117		原文誤作[kit2]
-2534	揭	揭	kʰit3	kʰit3	kit3	P117		
-2535	乙	乙	∅it3	jit3	jit3	P117		
-2536	熱	热	∅it2	jit2	jit6	P117		
-2537	木	木	muk2	mʊk2	muk6	P117		
-2538	目	目	muk2	mʊk2	muk6	P117		
-2539	督	督	tuk5	tʊk5	duk1	P117		
-2540	獨	独	tuk2	tʊk2	duk6	P117		
-2541	讀	读	tuk2	tʊk2	duk6	P117		
-2542	毒	毒	tuk2	tʊk2	duk6	P117		
-2543	鹿	鹿	luk2	lʊk2	luk6	P117		
-2544	六	六	luk2	lʊk2	luk6	P117		
-2545	綠	绿	luk2	lʊk2	luk6	P117		
-2546	錄	录	luk2	lʊk2	luk6	P117		
-2547	肅	肃	ɬuk5	ɬʊk5	sluk1	P117		
-2548	宿	宿	ɬuk5	ɬʊk5	sluk1	P117		原文重複記音[ɬuk/ɬok5]
-2549	竹	竹	tʃuk5	tʃʊk5	zuk1	P117		
-2550	燭	烛	tʃuk5	tʃʊk5	zuk1	P117		
-2551	續	续	tʃuk2	tʃʊk2	zuk6	P117		原文有作[tʃok2]，不符原文音系符號
-2552	族	族	tʃuk2	tʃʊk2	zuk6	P117		
-2553	軸	轴	tʃuk2	tʃʊk2	zuk6	P117		
-2554	速	速	tʃʰuk5	tʃʰʊk5	cuk1	P117		
-2555	促	促	tʃʰuk5	tʃʰʊk5	cuk1	P117		
-2556	觸	触	tʃʰuk5	tʃʰʊk5	cuk1	P117		
-2557	束	束	tʃʰuk5	tʃʰʊk5	cuk1	P117		
-2558	縮	缩	ʃuk5	ʃʊk5	suk1	P117		
-2559	叔	叔	ʃuk5	ʃʊk5	suk1	P117		
-2560	熟	熟	ʃuk2	ʃʊk2	suk6	P117		
-2561	俗	俗	ʃuk2	ʃʊk2	suk6	P117		
-2562	贖	赎	ʃuk2	ʃʊk2	suk6	P117		
-2563	屬	属	ʃuk2	ʃʊk2	suk6	P117		
-2564	谷	谷	kuk5	kʊk5	guk1	P117		
-2565	穀	谷	kuk5	kʊk5	guk1	P117		
-2566	菊	菊	kuk5	kʊk5	guk1	P117		
-2567	局	局	kuk2	kʊk2	guk6	P117		
-2568	窟	窟	khuk5	kʰʊk5	kuk1	P117		原文如此，疑誤
-2569	曲	曲	kʰuk5	kʰʊk5	kuk1	P117	1～折；2歌～	
-2570	麯	曲	kʰuk5	kʰʊk5	kuk1	P117		
-2571	麴	麹	kʰuk5	kʰʊk5	kuk1	P117		原文作「曲」字
-2572	玉	玉	∅iuk2	jʊk2	juk6	P117	～林	
-2573	獄	狱	∅iuk2	jʊk2	juk6	P117		
-2574	欲	欲	∅iuk2	jʊk2	juk6	P109，117		原文P109誤作[∅y22]
-2575	慾	欲	∅iuk2	jʊk2	juk6	P109，117		原文P109誤作[∅y22]
-2576	浴	浴	∅iuk2	jʊk2	juk6	P117		
-2577	鉢	钵	put3	put3	but3	P117		
-2578	缽	钵	put3	put3	but3	P117		
-2579	勃	勃	put2	put2	but6	P117		
-2580	潑	泼	pʰut3	pʰut3	put3	P117		
-2581	末	末	mut2	mut2	mut6	P117		
-2582	沒	没	mut2	mut2	mut6	P117	1沉～；2～有	
-2583	闊	阔	fut3	fut3	fut3	P117		原文誤作[fut2]
-2584	活	活	∅ut2	wut2	wut6	P117		
-2585	剝	剥	pʰuk5	pʰʊk5	puk1	P117	打開	原文有音無字，作[phok5]
-2586	摸	摸	muk5	mʊk5	muk1	P117	掏的意思	原文有音無字，誤作[mok3]
-2587	复	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
-2588	復	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
-2589	福	福	fuk5	fʊk5	fuk1	P117		原文作[fok5]
-2590	複	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
-2591	服	服	fuk2	fʊk2	fuk6	P117		原文作[fok2]
-2592	伏	伏	fuk2	fʊk2	fuk6	P117		原文作[fok2]
-2593	𧰵	𧰵	tuk5	tʊk5	duk1	P117	戳的意思	原文有音無字，作[tok5]
-2594	熝	熝	lʊk5	lʊk5	luk1	P117	燙	原文有音無字，誤作[lok2]，釋義誤作「湯」
-2595	粟	粟	ɬuk5	ɬʊk5	sluk1	P117		原文作[ɬok5]
-2596	粥	粥	tʃuk5	tʃʊk5	zuk1	P117		原文作[tʃok5]
-2597	足	足	tʃuk5	tʃʊk5	zuk1	P117		原文作[tʃok5]
-2598	捉	捉	tʃɔk3	tʃɔk3	zok3	P117		原文誤作[tʃok3]
-2599	濁	浊	tʃuk2	tʃʊk2	zuk6	P117		原文作[tʃok2]
-2600	畜	畜	tʃʰuk5	tʃʰʊk5	cuk1	P117	六～	原文作[tʃhok5]
-2601	奪	夺	tyt2	tyt2	dyut6	P117		
-2602	脫	脱	tʰyt3	tʰyt3	tyut3	P117		原文誤作[thyt2]
-2603	捋	捋	lyt3	lyt3	lyut3	P117		
-2604	薛	薛	ɬyt3	ɬyt3	slyut3	P117		
-2605	雪	雪	ɬyt3	ɬyt3	slyut3	P117		
-2606	出	出	tʃʰyt5	tʃʰyt5	cyut1	P117		
-2607	恤	恤	ɬyt5	ɬyt5	slyut1	P117		原文誤作[ʃyt5]
-2608	說	说	ʃyt3	ʃyt3	syut3	P117		原文誤作[ʃyt2]
-2609	決	决	kʰyt3	kʰyt3	kyut3	P117		
-2610	缺	缺	kʰyt3	kʰyt3	kyut3	P117		
-2611	歇	歇	hyt3	hyt3	hyut3	P117		
-2612	血	血	hyt3	hyt3	hyut3	P117		
-2613	閱	阅	∅yt2	jyt2	jyut6	P117		
-2614	月	月	∅yt2	jyt2	jyut6	P117		
-2615	越	越	∅yt2	jyt2	jyut6	P117		
-2616	粵	粤	∅yt2	jyt2	jyut6	P117		
-2617	穴	穴	∅yt2	jyt2	jyut6	P117		
-2618	約	约	∅iœk3	jœk3	joek3	P117		
-2619	弱	弱	∅iœk2	jœk2	joek6	P117		
-2620	藥	药	∅iœk2	jœk2	joek6	P117		
-2621	一	一	∅iɐt5	jɐt5	jat1	P117		
-2622	日	日	∅iɐt2	jɐt2	jat6	P117	～子	
-2623	逸	逸	∅iɐt2	jɐt2	jat6	P117		
-2624	郁	郁	∅iuk5	jʊk5	juk1	P117		原文作[∅iok5]
-2625	育	育	∅iuk5	jʊk5	juk1	P117		原文作[∅iok5]
-2626	逳	逳	∅iuk5	jʊk5	juk1	P117	動彈	原文有音無字，作[∅iok5]
-2627	肉	肉	∅iuk2	jʊk2	juk6	P117		原文作[∅iok2]
-2628	辱	辱	∅iuk2	jʊk2	juk6	P117		原文作[∅iok2]
-2629	括	括	kuat3	kʷat3	gwaat3	P117	包括	
-2630	刮	刮	kuat3	kʷat3	gwaat3	P117		
-2631	挖	挖	∅uat3	wat3	waat3	P117		原文誤作[∅uat5]
-2632	滑	滑	∅uat2	wat2	waat6	P117		
-2633	或	或	∅uak2	wak2	waak6	P117		
-2634	獲	获	∅uak2	wak2	waak6	P117		
-2635	穫	获	∅uak2	wak2	waak6	P117		
-2636	劃	划	∅uak2	wak2	waak6	P117		
-2637	卒	卒	tʃɐt5	tʃɐt5	zat1	P117	兵～	原文作[tʃuɐt5]
-2638	猝	猝	tʃɐt5	tʃɐt5	zat1	P117	倉～	原文作[tʃuɐt5]
-2639	朮	术	ʃɐt2	ʃɐt2	sat6	P117	白～	原文作[ʃuɐt2]
-2640	術	术	ʃɐt2	ʃɐt2	sat6	P117		原文作[ʃuɐt2]
-2641	骨	骨	kuɐt5	kʷɐt5	gwat1	P117	筋～；～頭	
-2642	掘	掘	kuɐt2	kʷɐt2	gwat6	P117		
-2643	屈	屈	∅uɐt5	wɐt5	wat1	P117		
-2644	爩	爩	∅uɐt5	wɐt5	wat1	P117	燻	原文作「熏」字
-2645	核	核	∅uɐt2	wɐt2	wat6	P117	果子～	
-2646	憶	忆	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
-2647	億	亿	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
-2648	益	益	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
-2649	翼	翼	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
-2650	譯	译	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
-2651	易	易	∅iek2	jek2	jik6	P117	交～	原文誤作[∅iɛk2]
-2652	疫	疫	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
-2653	刮	刮	kuɛt3	kʷɛt3	gwet3	P117		
-2654	滑	滑	∅uɛt2	wɛt2	wet6	P117		
-2655	挖	挖	∅uɛt3	wɛt3	wet3	P117		原文誤作[∅uɛt2]
-2656	鑊	镬	∅uɔk2	wɔk2	wok6	P118	鍋	原文誤作[∅uɔk5]
-2657	沃	沃	∅uɔk3	wɔk3	wok3	P118		
-2658	銳	锐	∅iui24	jui24	jui5	P118		
-2659	瑞	瑞	ʃui22	ʃui22	sui6	P118		原文誤作[∅iui22]
-2660	拾	拾	tʃɐp5	tʃɐp5	zap1	P115	～起來	
-2661	痲	痲	ma21	ma21	maa4	P109		原文作「麻」字
-2662	畬	畬	ʃɛ55	ʃɛ55	se1	P109		原文作「畲」字
-2663	稜	棱	lɐŋ55	lɐŋ55	lang1	P113	在皮膚上抓出的痕跡	原文有音無字
-2664	瀰	弥	mɛ21	mɛ21	me4	P109	乳房	原文有音無字
-2665	㞞	𪨊	ɬuŋ21	ɬʊŋ21	slung4	P115		原文誤作「慫」字，而[ɬuŋ21]應該對應「㞞」字
-2666	癒	愈	∅y22	jy22	jyu6	P109		原文誤作[∅y21]
-2667	嚐	尝	ʃœŋ21	ʃœŋ21	soeng4	P114		
-2668	棯	棯	nim55	nim55	nim1	P111		原文作「捻」字
-2669	惠	惠	∅ui22	wui22	wui6	P110		原文誤作[∅ui21]
-2670	著	著	tʃœk3	tʃœk3	zoek3	P116	～衣	原文作「着」字
-2671	著	著	tʃœk2	tʃœk2	zoek6	P116	睡～	原文作「着」字
-2672	棕	棕	tʃuŋ55	tʃʊŋ55	zung1	P115		
-2673	掰	掰	mek5	mek5	mik1	P116	～菜：擇菜；「掰、剝」的意思；捻的意思	原文有音無字，誤作[mɛk5]
-2674	閒	闲	han21	han21	haan4	P112	〔文讀〕	
-2675	閒	闲	hɛn21	hɛn21	hen4	P113	〔白讀〕	
-2676	舔	舔	lɛm35	lɛm35	lem2	P113		原文作「舐」字
-2677	坅	坅	hɐm35	hɐm35	ham2	P113		原文作「埯」字，誤作[haŋ33]，本字「坅」
-2678	鈀	钯	pʰa21	pʰa21	paa4	P109		原文誤作[pha22]，原文作「耙」字
+2227	拉	拉	lap3	lap3	laap3	P115	挽的意思	原文有音無字，誤作[lap5]
+2228	臘	腊	lap2	lap2	laap6	P115		
+2229	圾	圾	ɬap3	ɬap3	slaap3	P115	垃圾的意思	原文有音無字，誤作[ɬap5]
+2230	雜	杂	tʃap2	tʃap2	zaap6	P115		
+2231	閘	闸	tʃap2	tʃap2	zaap6	P115		
+2232	插	插	tʃʰap3	tʃʰap3	caap3	P115		
+2233	鴿	鸽	kap3	kap3	gaap3	P115		
+2234	甲	甲	kap3	kap3	gaap3	P115		
+2235	佮	佮	kap3	kap3	gaap3	P115	作伴	原文有音無字
+2236	裌	裌	kap2	kap2	gaap6	P115		
+2237	𧬈	𧬈	hɐp5	hɐp5	hap1	P115	欺負	原文有音無字，誤作[hap5]
+2238	狹	狭	hap3	hap3	haap3	P115		
+2239	合	合	hɐp2	hɐp2	hap6	P115		原文誤作[hap2]
+2240	峽	峡	hap2	hap2	haap6	P115		
+2241	鴨	鸭	∅ap3	∅ap3	aap3	P115		
+2242	八	八	pat3	pat3	baat3	P115		
+2243	拔	拔	pat2	pat2	baat6	P115		
+2244	抹	抹	mat3	mat3	maat3	P115		
+2245	襪	袜	mɐt2	mɐt2	mat6	P115		原文誤作[mat2]
+2246	法	法	fat3	fat3	faat3	P115		
+2247	發	发	fat3	fat3	faat3	P115		
+2248	髮	发	fat3	fat3	faat3	P115		
+2249	乏	乏	fat2	fat2	faat6	P115		
+2250	罰	罚	fat2	fat2	faat6	P115		
+2251	達	达	tat2	tat2	daat6	P115		
+2252	捺	捺	nat3	nat3	naat3	P115		
+2253	辣	辣	lat2	lat2	laat6	P115		
+2254	撒	撒	ɬat3	ɬat3	slaat3	P115		
+2255	薩	萨	ɬat3	ɬat3	slaat3	P115		
+2256	扎	扎	tʃat3	tʃat3	zaat3	P115		
+2257	紮	扎	tʃat3	tʃat3	zaat3	P115		原文作「扎」字
+2258	軋	轧	tʃat3	tʃat3	zaat3	P115		
+2259	擦	擦	tʃʰat3	tʃʰat3	caat3	P115		
+2260	察	察	tʃʰat3	tʃʰat3	caat3	P115		
+2261	刷	刷	tʃʰat3	tʃʰat3	caat3	P115		
+2262	殺	杀	ʃat3	ʃat3	saat3	P115		
+2263	壓	压	∅at3	∅at3	aat3	P115		
+2264	百	百	pak3	pak3	baak3	P115		
+2265	伯	伯	pak3	pak3	baak3	P115		
+2266	白	白	pak2	pak2	baak6	P115		
+2267	帕	帕	pʰak3	pʰak3	paak3	P115		
+2268	泊	泊	pʰak3	pʰak3	paak3	P115	梁山～	
+2269	迫	迫	pʰak3	pʰak3	paak3	P115		
+2270	拍	拍	pʰak3	pʰak3	paak3	P115		
+2271	魄	魄	pʰak3	pʰak3	paak3	P115		
+2272	陌	陌	mak2	mak2	maak6	P115		
+2273	窄	窄	tʃak3	tʃak3	zaak3	P115		
+2274	責	责	tʃak3	tʃak3	zaak3	P115		
+2275	澤	泽	tʃak2	tʃak2	zaak6	P115		
+2276	宅	宅	tʃak2	tʃak2	zaak6	P115		
+2277	摘	摘	tʃak2	tʃak2	zaak6	P115		
+2278	拆	拆	tʃʰak3	tʃʰak3	caak3	P115		
+2279	策	策	tʃʰak3	tʃʰak3	caak3	P115		原文誤作[tʃhak2]
+2280	冊	册	tʃʰak3	tʃʰak3	caak3	P115		原文誤作[tʃhak2]
+2281	賊	贼	tʃʰak2	tʃʰak2	caak6	P115	小偷	原文有音無字
+2282	格	格	kak3	kak3	gaak3	P115		
+2283	革	革	kak3	kak3	gaak3	P115		
+2284	隔	隔	kak3	kak3	gaak3	P115		
+2285	額	额	ŋak2	ŋak2	ngaak6	P115		
+2286	嚇	吓	hak3	hak3	haak3	P115	～一跳；恐～	
+2287	客	客	hak3	hak3	haak3	P115		
+2288	笠	笠	lɐp5	lɐp5	lap1	P115		
+2289	立	立	lɐp2	lɐp2	lap6	P115		
+2290	執	执	tʃɐp5	tʃɐp5	zap1	P115	～起來	原文作「拾」字
+2291	縶	絷	tʃɐp5	tʃɐp5	zap1	P115	縷	原文有音無字
+2292	汁	汁	tʃɐp5	tʃɐp5	zap1	P115		
+2293	集	集	tʃɐp2	tʃɐp2	zap6	P115		
+2294	習	习	tʃɐp2	tʃɐp2	zap6	P115		
+2295	溼	湿	ʃɐp5	ʃɐp5	sap1	P115		
+2296	濕	湿	ʃɐp5	ʃɐp5	sap1	P115		
+2297	十	十	ʃɐp2	ʃɐp2	sap6	P115		
+2298	急	急	kɐp5	kɐp5	gap1	P115		
+2299	及	及	kɐp2	kɐp2	gap6	P115		
+2300	磕	磕	kʰɐp5	kʰɐp5	kap1	P115		
+2301	級	级	kʰɐp5	kʰɐp5	kap1	P115		
+2302	吸	吸	kʰɐp5	kʰɐp5	kap1	P115		
+2303	筆	笔	pɐt5	pɐt5	bat1	P115		
+2304	畢	毕	pɐt5	pɐt5	bat1	P115		
+2305	不	不	pɐt5	pɐt5	bat1	P115		
+2306	弼	弼	pɐt2	pɐt2	bat6	P115		
+2307	匹	匹	pʰɐt5	pʰɐt5	pat1	P115		
+2308	密	密	mɐt2	mɐt2	mat6	P115		
+2309	物	物	mɐt2	mɐt2	mat6	P115		
+2310	佛	佛	fɐt2	fɐt2	fat6	P115		
+2311	突	突	tɐt2	tɐt2	dat6	P115		
+2312	肄	肄	lɐt2	lɐt2	lat6	P115		
+2313	栗	栗	lɐt2	lɐt2	lat6	P115		
+2314	律	律	lɐt2	lɐt2	lat6	P115		
+2315	率	率	lɐt2	lɐt2	lat6	P115		
+2316	質	质	tʃɐt5	tʃɐt5	zat1	P115		
+2317	疾	疾	tʃɐt2	tʃɐt2	zat6	P115		
+2318	侄	侄	tʃɐt2	tʃɐt2	zat6	P115		
+2319	姪	侄	tʃɐt2	tʃɐt2	zat6	P115		
+2320	膝	膝	tʃʰɐt5	tʃʰɐt5	cat1	P115		原文誤作[tʃhɐt2]
+2321	七	七	tʃʰɐt5	tʃʰɐt5	cat1	P115		
+2322	漆	漆	tʃʰɐt5	tʃʰɐt5	cat1	P115		
+2323	蚤	蚤	tʃu35	tʃu35	zu2	P115		原文誤作[ʃɐt5]
+2324	悉	悉	ɬɐt5	ɬɐt5	slat1	P115		原文誤作[ʃɐt5]
+2325	蝨	虱	ʃɐt5	ʃɐt5	sat1	P115		
+2326	失	失	ʃɐt5	ʃɐt5	sat1	P115		
+2327	室	室	ʃɐt5	ʃɐt5	sat1	P115		
+2328	實	实	ʃɐt2	ʃɐt2	sat6	P115		
+2329	吉	吉	kɐt5	kɐt5	gat1	P115		
+2330	橘	橘	kɐt5	kɐt5	gat1	P115		
+2331	咳	咳	kʰɐt5	kʰɐt5	kat1	P115		
+2332	乞	乞	hɐt5	hɐt5	hat1	P115		
+2333	亥	亥	hɔi22	hɔi22	hoi6	P115		原文誤作[hɐt2]
+2334	轄	辖	hɐt2	hɐt2	hat6	P115		
+2335	核	核	hɐt2	hɐt2	hat6	P115		
+2336	覈	核	hɐt2	hɐt2	hat6	P115	審～	
+2337	北	北	pɐk5	pɐk5	bak1	P115		
+2338	嘜	唛	mɐk5	mɐk5	mak1	P115	米～：米筒	原文有音無字
+2339	墨	墨	mɐk2	mɐk2	mak6	P115		
+2340	麥	麦	mɐk2	mɐk2	mak6	P115		
+2341	脈	脉	mɐk2	mɐk2	mak6	P115		
+2342	德	德	tɐk5	tɐk5	dak1	P116		
+2343	特	特	tɐk2	tɐk2	dak6	P116		
+2344	肋	肋	lɐk2	lɐk2	lak6	P116		
+2345	塞	塞	ɬɐk5	ɬɐk5	slak1	P116	阻～	
+2346	則	则	tʃɐk5	tʃɐk5	zak1	P116		
+2347	鯽	鲫	tʃɐk5	tʃɐk5	zak1	P116		
+2348	側	侧	tʃɐk5	tʃɐk5	zak1	P116		
+2349	測	测	tʃʰɐk5	tʃʰɐk5	cak1	P116		
+2350	賊	贼	tʃʰɐk2	tʃʰɐk2	cak6	P116		
+2351	刻	刻	kʰɐk5	kʰɐk5	kak1	P116	時～	
+2352	握	握	ŋɐk5	ŋɐk5	ngak1	P116		
+2353	軛	轭	ŋɐk5	ŋɐk5	ngak1	P116		
+2354	眲	眲	ŋɐk5	ŋɐk5	ngak1	P116	騙	原文有音無字
+2355	克	克	hɐk5	hɐk5	hak1	P116		
+2356	黑	黑	hɐk5	hɐk5	hak1	P116	黑白；滅	「滅」義原文有音無字，誤作[hɔk5]，應是「黑燈」的「黑」
+2357	嗒	嗒	tɛp5	tɛp5	dep1	P116	親	原文有音無字
+2358	鑷	镊	nɛp2	nɛp2	nep6	P116	鑷子	
+2359	𤗈	𤗈	ɬɛp3	ɬɛp3	slep3	P116	木～	原文作「屑」字
+2360	霫	霫	ɬɛp3	ɬɛp3	slep3	P116	哭～～：抽泣	原文有音無字。應作陽入
+2361	八	八	pɛt3	pɛt3	bet3	P116		
+2362	篾	篾	mɛt2	mɛt2	met6	P116		
+2363	逼	逼	pek5	pek5	bik1	P116		原文誤作[pɛk5]
+2364	碧	碧	pek5	pek5	bik1	P116		原文誤作[pɛk5]
+2365	璧	璧	pek5	pek5	bik1	P116		原文誤作[pɛk5]
+2366	壁	壁	pek5	pek5	bik1	P116		原文誤作[pɛk5]
+2367	闢	辟	pʰek5	pʰek5	pik1	P116		原文誤作[phɛk5]
+2368	辟	辟	pʰek5	pʰek5	pik1	P116		原文誤作[phɛk5]
+2369	劈	劈	pʰɛk3	pʰɛk3	pek3	P116		
+2370	擘	擘	mek5	mek5	mik1	P116	～菜：擇菜；「掰、剝」的意思；捻的意思	原文有音無字，誤作[mɛk5]
+2371	覓	觅	mek2	mek2	mik6	P116		原文誤作[mɛk2]
+2372	的	的	tek5	tek5	dik1	P116	目～	原文誤作[tɛk5]
+2373	滴	滴	tek5	tek5	dik1	P116		原文誤作[tɛk5]
+2374	趯	趯	tɛk3	tɛk3	dek3	P116	跑的意思	原文有音無字
+2375	笛	笛	tek2	tek2	dik6	P116		原文誤作[tɛk2]
+2376	敵	敌	tek2	tek2	dik6	P116		原文誤作[tɛk2]
+2377	踢	踢	tʰɛk3	tʰɛk3	tek3	P116		
+2378	叻	叻	lɛk5	lɛk5	lek1	P116	聰明	原文有音無字
+2379	力	力	lek2	lek2	lik6	P116		原文誤作[lɛk2]
+2380	歷	历	lek2	lek2	lik6	P116		原文誤作[lɛk2]
+2381	曆	历	lek2	lek2	lik6	P116		原文誤作[lɛk2]
+2382	息	息	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
+2383	惜	惜	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
+2384	釋	释	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
+2385	析	析	ɬek5	ɬek5	slik1	P116		原文誤作[ɬɛk5]
+2386	即	即	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
+2387	織	织	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
+2388	職	职	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
+2389	積	积	tʃek5	tʃek5	zik1	P116	面積；「J」的意思	
+2390	績	绩	tʃek5	tʃek5	zik1	P116		原文誤作[tʃɛk5]
+2391	直	直	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk3]
+2392	值	值	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk3]
+2393	脊	脊	tʃɛk3	tʃɛk3	zek3	P116		
+2394	隻	只	tʃɛk3	tʃɛk3	zek3	P116		
+2395	蟄	蛰	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2396	植	植	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2397	籍	籍	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2398	席	席	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2399	炙	炙	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2400	寂	寂	tʃek2	tʃek2	zik6	P116		原文誤作[tʃɛk2]
+2401	赤	赤	tʃʰek5	tʃʰek5	cik1	P116		原文誤作[tʃhɛk5]
+2402	戚	戚	tʃʰek5	tʃʰek5	cik1	P116		原文誤作[tʃhɛk5]
+2403	尺	尺	tʃʰɛk3	tʃʰɛk3	cek3	P116		
+2404	色	色	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
+2405	識	识	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
+2406	式	式	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
+2407	適	适	ʃek5	ʃek5	sik1	P116		原文誤作[ʃɛk5]
+2408	勺	勺	ʃɛk2	ʃɛk2	sek6	P116		
+2409	食	食	ʃek2	ʃek2	sik6	P116		原文誤作[ʃɛk2]
+2410	石	石	ʃɛk2	ʃɛk2	sek6	P116		
+2411	戟	戟	kek5	kek5	gik1	P116		原文誤作[kɛk5]
+2412	劇	剧	kek5	kek5	gik1	P116		「劇烈」訓讀「激烈」，原文誤作[kɛk5]
+2413	擊	击	kek5	kek5	gik1	P116		原文誤作[kɛk5]
+2414	極	极	kek2	kek2	gik6	P116		原文誤作[kɛk2]
+2415	屐	屐	kʰɛk5	kʰɛk5	kek1	P116		
+2416	激	激	kek5	kek5	gik1	P116	生氣	原文誤作[khɛk5]
+2417	級	级	kʰɛk5	kʰɛk5	kek1	P116	樓梯～：臺階	原文有音無字，記音疑誤
+2418	逆	逆	ŋek2	ŋek2	ngik6	P116	～風	原文誤作[ŋɛk2]
+2419	喫	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
+2420	吃	吃	hek5	hek5	hik1	P116		原文誤作[hɛk5]
+2421	碟	碟	tip2	tip2	dip6	P116		
+2422	蝶	蝶	tip2	tip2	dip6	P116		
+2423	帖	帖	tʰip3	tʰip3	tip3	P116		
+2424	孽	孽	nip2	nip2	nip6	P116		原文誤作[nip3]
+2425	聶	聂	nip2	nip2	nip6	P116	姓	
+2426	業	业	nip2	nip2	nip6	P116		
+2427	獵	猎	lip2	lip2	lip6	P116		原文誤作[lip3]
+2428	接	接	tʃip3	tʃip3	zip3	P116		
+2429	摺	折	tʃip3	tʃip3	zip3	P116		
+2430	攝	摄	ʃip3	ʃip3	sip3	P116		
+2431	涉	涉	ʃip3	ʃip3	sip3	P116		
+2432	劫	劫	kip3	kip3	gip3	P116		
+2433	怯	怯	hip3	hip3	hip3	P116		
+2434	脅	胁	hip3	hip3	hip3	P116		
+2435	協	协	hip3	hip3	hip3	P116		
+2436	醃	腌	∅ip3	jip3	jip3	P116		
+2437	腌	腌	∅ip3	jip3	jip3	P116		
+2438	葉	叶	∅ip2	jip2	jip6	P116		
+2439	頁	页	∅ip2	jip2	jip6	P116		
+2440	啄	啄	tœk3	tœk3	doek3	P116		
+2441	虐	虐	nœk2	nœk2	noek6	P116		
+2442	略	略	lœk3	lœk3	loek3	P116		
+2443	掠	掠	lœk3	lœk3	loek3	P116		
+2444	削	削	ɬœk3	ɬœk3	sloek3	P116		
+2445	嚼	嚼	tʃœk3	tʃœk3	zoek3	P116		
+2446	着	着	tʃœk3	tʃœk3	zoek3	P116	～衣	
+2447	酌	酌	tʃœk3	tʃœk3	zoek3	P116		
+2448	桌	桌	tʃœk3	tʃœk3	zoek3	P116		
+2449	着	着	tʃœk2	tʃœk2	zoek6	P116	睡～	
+2450	雀	雀	tʃʰœk3	tʃʰœk3	coek3	P116		
+2451	鵲	鹊	tʃʰœk3	tʃʰœk3	coek3	P116		
+2452	腳	脚	kœk3	kœk3	goek3	P116		
+2453	卻	却	kʰœk3	kʰœk3	koek3	P116		
+2454	覺	觉	kʰœk3	kʰœk3	koek3	P116	知覺	
+2455	噦	哕	∅œk2	∅œk2	oek6	P116	乾噦	
+2456	入	入	∅iɐp2	jɐp2	jap6	P116		
+2457	割	割	kɔt3	kɔt3	got3	P116		
+2458	喝	喝	hɔt3	hɔt3	hot3	P116	喝酒	
+2459	渴	渴	hɔt3	hɔt3	hot3	P116		
+2460	豁	豁	hɔt2	hɔt2	hot6	P116	豁然	
+2461	劇	剧	kʰɛk2	kʰɛk2	kek6	P116	戲劇	原文誤作[khek2]
+2462	博	博	pɔk3	pɔk3	bok3	P116		
+2463	縛	缚	pɔk3	pɔk3	bok3	P116		
+2464	剝	剥	pɔk3	pɔk3	bok3	P116		
+2465	薄	薄	pɔk2	pɔk2	bok6	P116		
+2466	卜	卜	pʰuk5	pʰʊk5	puk1	P116		原文誤作[phɔk5]
+2467	朴	朴	pʰɔk3	pʰɔk3	pok3	P116		
+2468	樸	朴	pʰɔk3	pʰɔk3	pok3	P116		
+2469	撲	扑	pʰɔk3	pʰɔk3	pok3	P116		
+2470	僕	仆	pʰuk2	pʰʊk2	puk6	P116		原文誤作[phɔk2]
+2471	莫	莫	mɔk2	mɔk2	mok6	P116	約～	
+2472	膜	膜	mɔk2	mɔk2	mok6	P116		
+2473	幕	幕	mɔk2	mɔk2	mok6	P116		
+2474	寞	寞	mɔk2	mɔk2	mok6	P116		
+2475	陌	陌	mɐk2	mɐk2	mak6	P116		原文誤作[mɔk2]
+2476	戳	戳	tʃʰɔk3	tʃʰɔk3	cok3	P116		原文誤作[tɔk3]
+2477	鐸	铎	tɔk2	tɔk2	dok6	P116		
+2478	託	托	tʰɔk3	tʰɔk3	tok3	P116		
+2479	托	托	tʰɔk3	tʰɔk3	tok3	P116		
+2480	諾	诺	nɔk3	nɔk3	nok3	P116		
+2481	洛	洛	lɔk3	lɔk3	lok3	P116		
+2482	落	落	lɔk2	lɔk2	lok6	P116		
+2483	樂	乐	lɔk2	lɔk2	lok6	P116		
+2484	塑	塑	ɬɔk3	ɬɔk3	slok3	P116		
+2485	索	索	ɬɔk3	ɬɔk3	slok3	P116		
+2486	朔	朔	ɬɔk3	ɬɔk3	slok3	P116		
+2487	作	作	tʃɔk3	tʃɔk3	zok3	P116		
+2488	鑿	凿	tʃɔk2	tʃɔk2	zok6	P116		
+2489	綽	绰	tʃʰɔk3	tʃʰɔk3	cok3	P116		
+2490	角	角	kɔk3	kɔk3	gok3	P116		
+2491	國	国	kɔk3	kɔk3	gok3	P116		
+2492	各	各	kɔk2	kɔk2	gok6	P116		
+2493	郭	郭	kʰɔk3	kʰɔk3	kok3	P116		
+2494	廓	廓	kʰɔk3	kʰɔk3	kok3	P116		
+2495	藿	藿	kʰɔk3	kʰɔk3	kok3	P116		
+2496	確	确	kʰɔk3	kʰɔk3	kok3	P116		原文誤作[khɔk2]
+2497	鄂	鄂	ŋɔk2	ŋɔk2	ngok6	P116		
+2498	嶽	岳	ŋɔk2	ŋɔk2	ngok6	P116		
+2499	岳	岳	ŋɔk2	ŋɔk2	ngok6	P116		
+2500	哭	哭	huk5	hʊk5	huk1	P116		原文誤作[hɔk5]
+2501	殼	壳	hɔk3	hɔk3	hok3	P116		
+2502	鶴	鹤	hɔk2	hɔk2	hok6	P116		
+2503	學	学	hɔk2	hɔk2	hok6	P116		
+2504	屋	屋	∅uk5	∅ʊk5	uk1	P116		原文誤作[hɔk5]
+2505	惡	恶	∅ɔk3	∅ɔk3	ok3	P116		
+2506	鱉	鳖	pit3	pit3	bit3	P117		
+2507	鼈	鳖	pit3	pit3	bit3	P117		
+2508	別	别	pit2	pit2	bit6	P117	區～；離～	
+2509	撇	撇	pʰit3	pʰit3	pit3	P117		
+2510	匿	匿	nek2	nek2	nik6	P117		原文誤作[mit2]
+2511	滅	灭	mit2	mit2	mit6	P117		
+2512	跌	跌	tit3	tit3	dit3	P117		原文誤作[tit2]
+2513	鐵	铁	tʰit3	tʰit3	tit3	P117		
+2514	列	列	lit2	lit2	lit6	P117		原文誤作[lit3]
+2515	裂	裂	lit2	lit2	lit6	P117		原文誤作[lit3]
+2516	劣	劣	lit2	lit2	lit6	P117		
+2517	哲	哲	tʃit3	tʃit3	zit3	P117		
+2518	折	折	tʃit3	tʃit3	zit3	P117	～斷	
+2519	浙	浙	tʃit3	tʃit3	zit3	P117		
+2520	節	节	tʃit3	tʃit3	zit3	P117		
+2521	捷	捷	tʃit2	tʃit2	zit6	P117		
+2522	折	折	ʃit2	ʃit2	sit6	P117	弄～了	原文誤作[tʃit2]
+2523	截	截	tʃit2	tʃit2	zit6	P117		
+2524	絕	绝	tʃit2	tʃit2	zit6	P117		
+2525	撤	撤	tʃʰit3	tʃʰit3	cit3	P117		
+2526	設	设	tʃʰit3	tʃʰit3	cit3	P117		
+2527	妾	妾	tʃʰip3	tʃʰip3	cip3	P117		原文誤作[tʃhit2]
+2528	切	切	tʃʰit3	tʃʰit3	cit3	P117		原文誤作[tʃhit2]
+2529	舌	舌	ʃit2	ʃit2	sit6	P117		
+2530	傑	杰	kit2	kit2	git6	P117		
+2531	杰	杰	kit2	kit2	git6	P117		
+2532	結	结	kit3	kit3	git3	P117		原文誤作[kit2]
+2533	揭	揭	kʰit3	kʰit3	kit3	P117		
+2534	乙	乙	∅it3	jit3	jit3	P117		
+2535	熱	热	∅it2	jit2	jit6	P117		
+2536	木	木	muk2	mʊk2	muk6	P117		
+2537	目	目	muk2	mʊk2	muk6	P117		
+2538	督	督	tuk5	tʊk5	duk1	P117		
+2539	獨	独	tuk2	tʊk2	duk6	P117		
+2540	讀	读	tuk2	tʊk2	duk6	P117		
+2541	毒	毒	tuk2	tʊk2	duk6	P117		
+2542	鹿	鹿	luk2	lʊk2	luk6	P117		
+2543	六	六	luk2	lʊk2	luk6	P117		
+2544	綠	绿	luk2	lʊk2	luk6	P117		
+2545	錄	录	luk2	lʊk2	luk6	P117		
+2546	肅	肃	ɬuk5	ɬʊk5	sluk1	P117		
+2547	宿	宿	ɬuk5	ɬʊk5	sluk1	P117		原文重複記音[ɬuk/ɬok5]
+2548	竹	竹	tʃuk5	tʃʊk5	zuk1	P117		
+2549	燭	烛	tʃuk5	tʃʊk5	zuk1	P117		
+2550	續	续	tʃuk2	tʃʊk2	zuk6	P117		原文有作[tʃok2]，不符原文音系符號
+2551	族	族	tʃuk2	tʃʊk2	zuk6	P117		
+2552	軸	轴	tʃuk2	tʃʊk2	zuk6	P117		
+2553	速	速	tʃʰuk5	tʃʰʊk5	cuk1	P117		
+2554	促	促	tʃʰuk5	tʃʰʊk5	cuk1	P117		
+2555	觸	触	tʃʰuk5	tʃʰʊk5	cuk1	P117		
+2556	束	束	tʃʰuk5	tʃʰʊk5	cuk1	P117		
+2557	縮	缩	ʃuk5	ʃʊk5	suk1	P117		
+2558	叔	叔	ʃuk5	ʃʊk5	suk1	P117		
+2559	熟	熟	ʃuk2	ʃʊk2	suk6	P117		
+2560	俗	俗	ʃuk2	ʃʊk2	suk6	P117		
+2561	贖	赎	ʃuk2	ʃʊk2	suk6	P117		
+2562	屬	属	ʃuk2	ʃʊk2	suk6	P117		
+2563	谷	谷	kuk5	kʊk5	guk1	P117		
+2564	穀	谷	kuk5	kʊk5	guk1	P117		
+2565	菊	菊	kuk5	kʊk5	guk1	P117		
+2566	局	局	kuk2	kʊk2	guk6	P117		
+2567	窟	窟	khuk5	kʰʊk5	kuk1	P117		原文如此，疑誤
+2568	曲	曲	kʰuk5	kʰʊk5	kuk1	P117	1～折；2歌～	
+2569	麯	曲	kʰuk5	kʰʊk5	kuk1	P117		
+2570	麴	麹	kʰuk5	kʰʊk5	kuk1	P117		原文作「曲」字
+2571	玉	玉	∅iuk2	jʊk2	juk6	P117	～林	
+2572	獄	狱	∅iuk2	jʊk2	juk6	P117		
+2573	欲	欲	∅iuk2	jʊk2	juk6	P109，117		原文P109誤作[∅y22]
+2574	慾	欲	∅iuk2	jʊk2	juk6	P109，117		原文P109誤作[∅y22]
+2575	浴	浴	∅iuk2	jʊk2	juk6	P117		
+2576	鉢	钵	put3	put3	but3	P117		
+2577	缽	钵	put3	put3	but3	P117		
+2578	勃	勃	put2	put2	but6	P117		
+2579	潑	泼	pʰut3	pʰut3	put3	P117		
+2580	末	末	mut2	mut2	mut6	P117		
+2581	沒	没	mut2	mut2	mut6	P117	1沉～；2～有	
+2582	闊	阔	fut3	fut3	fut3	P117		原文誤作[fut2]
+2583	活	活	∅ut2	wut2	wut6	P117		
+2584	剝	剥	pʰuk5	pʰʊk5	puk1	P117	打開	原文有音無字，作[phok5]
+2585	摸	摸	muk5	mʊk5	muk1	P117	掏的意思	原文有音無字，誤作[mok3]
+2586	复	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
+2587	復	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
+2588	福	福	fuk5	fʊk5	fuk1	P117		原文作[fok5]
+2589	複	复	fuk5	fʊk5	fuk1	P117		原文作[fok5]
+2590	服	服	fuk2	fʊk2	fuk6	P117		原文作[fok2]
+2591	伏	伏	fuk2	fʊk2	fuk6	P117		原文作[fok2]
+2592	𧰵	𧰵	tuk5	tʊk5	duk1	P117	戳的意思	原文有音無字，作[tok5]
+2593	熝	熝	lʊk5	lʊk5	luk1	P117	燙	原文有音無字，誤作[lok2]，釋義誤作「湯」
+2594	粟	粟	ɬuk5	ɬʊk5	sluk1	P117		原文作[ɬok5]
+2595	粥	粥	tʃuk5	tʃʊk5	zuk1	P117		原文作[tʃok5]
+2596	足	足	tʃuk5	tʃʊk5	zuk1	P117		原文作[tʃok5]
+2597	捉	捉	tʃɔk3	tʃɔk3	zok3	P117		原文誤作[tʃok3]
+2598	濁	浊	tʃuk2	tʃʊk2	zuk6	P117		原文作[tʃok2]
+2599	畜	畜	tʃʰuk5	tʃʰʊk5	cuk1	P117	六～	原文作[tʃhok5]
+2600	奪	夺	tyt2	tyt2	dyut6	P117		
+2601	脫	脱	tʰyt3	tʰyt3	tyut3	P117		原文誤作[thyt2]
+2602	捋	捋	lyt3	lyt3	lyut3	P117		
+2603	薛	薛	ɬyt3	ɬyt3	slyut3	P117		
+2604	雪	雪	ɬyt3	ɬyt3	slyut3	P117		
+2605	出	出	tʃʰyt5	tʃʰyt5	cyut1	P117		
+2606	恤	恤	ɬyt5	ɬyt5	slyut1	P117		原文誤作[ʃyt5]
+2607	說	说	ʃyt3	ʃyt3	syut3	P117		原文誤作[ʃyt2]
+2608	決	决	kʰyt3	kʰyt3	kyut3	P117		
+2609	缺	缺	kʰyt3	kʰyt3	kyut3	P117		
+2610	歇	歇	hyt3	hyt3	hyut3	P117		
+2611	血	血	hyt3	hyt3	hyut3	P117		
+2612	閱	阅	∅yt2	jyt2	jyut6	P117		
+2613	月	月	∅yt2	jyt2	jyut6	P117		
+2614	越	越	∅yt2	jyt2	jyut6	P117		
+2615	粵	粤	∅yt2	jyt2	jyut6	P117		
+2616	穴	穴	∅yt2	jyt2	jyut6	P117		
+2617	約	约	∅iœk3	jœk3	joek3	P117		
+2618	弱	弱	∅iœk2	jœk2	joek6	P117		
+2619	藥	药	∅iœk2	jœk2	joek6	P117		
+2620	一	一	∅iɐt5	jɐt5	jat1	P117		
+2621	日	日	∅iɐt2	jɐt2	jat6	P117	～子	
+2622	逸	逸	∅iɐt2	jɐt2	jat6	P117		
+2623	郁	郁	∅iuk5	jʊk5	juk1	P117		原文作[∅iok5]
+2624	育	育	∅iuk5	jʊk5	juk1	P117		原文作[∅iok5]
+2625	逳	逳	∅iuk5	jʊk5	juk1	P117	動彈	原文有音無字，作[∅iok5]
+2626	肉	肉	∅iuk2	jʊk2	juk6	P117		原文作[∅iok2]
+2627	辱	辱	∅iuk2	jʊk2	juk6	P117		原文作[∅iok2]
+2628	括	括	kuat3	kʷat3	gwaat3	P117	包括	
+2629	刮	刮	kuat3	kʷat3	gwaat3	P117		
+2630	挖	挖	∅uat3	wat3	waat3	P117		原文誤作[∅uat5]
+2631	滑	滑	∅uat2	wat2	waat6	P117		
+2632	或	或	∅uak2	wak2	waak6	P117		
+2633	獲	获	∅uak2	wak2	waak6	P117		
+2634	穫	获	∅uak2	wak2	waak6	P117		
+2635	劃	划	∅uak2	wak2	waak6	P117		
+2636	卒	卒	tʃɐt5	tʃɐt5	zat1	P117	兵～	原文作[tʃuɐt5]
+2637	猝	猝	tʃɐt5	tʃɐt5	zat1	P117	倉～	原文作[tʃuɐt5]
+2638	朮	术	ʃɐt2	ʃɐt2	sat6	P117	白～	原文作[ʃuɐt2]
+2639	術	术	ʃɐt2	ʃɐt2	sat6	P117		原文作[ʃuɐt2]
+2640	骨	骨	kuɐt5	kʷɐt5	gwat1	P117	筋～；～頭	
+2641	掘	掘	kuɐt2	kʷɐt2	gwat6	P117		
+2642	屈	屈	∅uɐt5	wɐt5	wat1	P117		
+2643	爩	爩	∅uɐt5	wɐt5	wat1	P117	燻	原文作「熏」字
+2644	核	核	∅uɐt2	wɐt2	wat6	P117	果子～	
+2645	憶	忆	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
+2646	億	亿	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
+2647	益	益	∅iek5	jek5	jik1	P117		原文誤作[∅iɛk5]
+2648	翼	翼	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
+2649	譯	译	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
+2650	易	易	∅iek2	jek2	jik6	P117	交～	原文誤作[∅iɛk2]
+2651	疫	疫	∅iek2	jek2	jik6	P117		原文誤作[∅iɛk2]
+2652	刮	刮	kuɛt3	kʷɛt3	gwet3	P117		
+2653	滑	滑	∅uɛt2	wɛt2	wet6	P117		
+2654	挖	挖	∅uɛt3	wɛt3	wet3	P117		原文誤作[∅uɛt2]
+2655	鑊	镬	∅uɔk2	wɔk2	wok6	P118	鍋	原文誤作[∅uɔk5]
+2656	沃	沃	∅uɔk3	wɔk3	wok3	P118		
+2657	銳	锐	∅iui24	jui24	jui5	P118		
+2658	瑞	瑞	ʃui22	ʃui22	sui6	P118		原文誤作[∅iui22]
+2659	拾	拾	tʃɐp5	tʃɐp5	zap1	P115	～起來	
+2660	痲	痲	ma21	ma21	maa4	P109		原文作「麻」字
+2661	畬	畬	ʃɛ55	ʃɛ55	se1	P109		原文作「畲」字
+2662	稜	棱	lɐŋ55	lɐŋ55	lang1	P113	在皮膚上抓出的痕跡	原文有音無字
+2663	瀰	弥	mɛ21	mɛ21	me4	P109	乳房	原文有音無字
+2664	㞞	𪨊	ɬuŋ21	ɬʊŋ21	slung4	P115		原文誤作「慫」字，而[ɬuŋ21]應該對應「㞞」字
+2665	癒	愈	∅y22	jy22	jyu6	P109		原文誤作[∅y21]
+2666	嚐	尝	ʃœŋ21	ʃœŋ21	soeng4	P114		
+2667	棯	棯	nim55	nim55	nim1	P111		原文作「捻」字
+2668	惠	惠	∅ui22	wui22	wui6	P110		原文誤作[∅ui21]
+2669	著	著	tʃœk3	tʃœk3	zoek3	P116	～衣	原文作「着」字
+2670	著	著	tʃœk2	tʃœk2	zoek6	P116	睡～	原文作「着」字
+2671	棕	棕	tʃuŋ55	tʃʊŋ55	zung1	P115		
+2672	掰	掰	mek5	mek5	mik1	P116	～菜：擇菜；「掰、剝」的意思；捻的意思	原文有音無字，誤作[mɛk5]
+2673	閒	闲	han21	han21	haan4	P112	〔文讀〕	
+2674	閒	闲	hɛn21	hɛn21	hen4	P113	〔白讀〕	
+2675	舔	舔	lɛm35	lɛm35	lem2	P113		原文作「舐」字
+2676	坅	坅	hɐm35	hɐm35	ham2	P113		原文作「埯」字，誤作[haŋ33]，本字「坅」
+2677	鈀	钯	pʰa21	pʰa21	paa4	P109		原文誤作[pha22]，原文作「耙」字
