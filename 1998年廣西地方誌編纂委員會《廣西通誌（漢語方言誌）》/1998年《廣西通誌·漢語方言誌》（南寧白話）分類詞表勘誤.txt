@@ -1270,8 +1270,8 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1269	九、稱謂（1）一般稱謂/舍妹	我細妹	我细妹	ŋɔ24 ɬɐi33 mui22	ŋɔ24 ɬɐi33 mui22	ngo5 slai3 mui6	P38	舍妹	
 1270	九、稱謂（1）一般稱謂/城裏人	街上人	街上人	kai55 sœŋ22 jɐn21	kai55 ʃœŋ22 jɐn21	gaai1 soeng6 jan4	P38	城裏人1	
 1271	九、稱謂（1）一般稱謂/城裏人	城市人	城市人	seŋ21 si24 jɐn21	ʃeŋ21 ʃi24 jɐn21	sing4 si5 jan4	P38	城裏人2	
-1272	九、稱謂（1）一般稱謂/鄉巴佬	耽佬	耽佬	nɐm55 lu35	nɐm55 lu35	nam1 lu2	P38	土包子2	原文[nɐm55]有音無字
-1273	九、稱謂（1）一般稱謂/鄉巴佬	嚗佬	嚗佬	pɔk5 lu35	pɔk5 lu35	bok1 lu2	P38	土包子1	原文[pɔk5]有音無字
+1272	九、稱謂（1）一般稱謂/鄉巴佬	嚗佬	嚗佬	pɔk5 lu35	pɔk5 lu35	bok1 lu2	P38	土包子1	原文[pɔk5]有音無字
+1273	九、稱謂（1）一般稱謂/鄉巴佬	耽佬	耽佬	nɐm55 lu35	nɐm55 lu35	nam1 lu2	P38	土包子2	原文[nɐm55]有音無字
 1274	九、稱謂（1）一般稱謂/鄉巴佬	鄉下佬	乡下佬	hœŋ55 ha35 lu35	hœŋ55 ha35 lu35	hoeng1 haa2 lu2	P38	鄉下人	
 1275	九、稱謂（1）一般稱謂/一家子	本家	本家	pun35 ka55	pun35 ka55	bun2 gaa1	P38	同宗1	原文無釋義
 1276	九、稱謂（1）一般稱謂/一家子	同宗	同宗	tʰoŋ21 tsoŋ55	tʰʊŋ21 tʃʊŋ55	tung4 zung1	P38	同宗2	原文無釋義
@@ -1292,7 +1292,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1291	九、稱謂（1）一般稱謂/佣錢	手續費	手续费	sɐu35 tsok2 fɐi33	ʃɐu35 tʃʊk2 fɐi33	sau2 zuk6 fai3	P39	佣錢2	
 1292	九、稱謂（1）一般稱謂/回扣	回扣	回扣	wui21 kʰɐu33	wui21 kʰɐu33	wui4 kau3	P39	回扣	
 1293	九、稱謂（1）一般稱謂/老姑娘	老女	老女	lu24 ny24	lu24 ny24	lu5 nyu5	P39	老姑娘	
-1294	九、稱謂（1）一般稱謂/二婚頭	翻頭婆	翻头婆	fan55 tʰɐu21 pʰɔ21	fan55 tʰɐu21 pʰɔ21	faan1 tau4 po4	P39	二婚頭	
+1294	九、稱謂（1）一般稱謂/二婚頭	返頭婆	返头婆	fan55 tʰɐu21 pʰɔ21	fan55 tʰɐu21 pʰɔ21	faan1 tau4 po4	P39	二婚頭	原文作「翻頭婆」
 1295	九、稱謂（1）一般稱謂/囚犯	犯人	犯人	fan22 jɐn21	fan22 jɐn21	faan6 jan4	P39	囚犯2	
 1296	九、稱謂（1）一般稱謂/囚犯	監墩	监墩	kam55 tɐn35	kam55 tɐn35	gaam1 dan2	P39	囚犯1	原文[tɐn35]有音無字
 1297	九、稱謂（1）一般稱謂/老先生	老先生	老先生	lu24 ɬin55 saŋ55	lu24 ɬin55 ʃaŋ55	lu5 slin1 saang1	P39	老先生	
@@ -3548,8 +3548,8 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3547	二十六、副詞、介詞等/差點兒	爭啲	争啲	tsaŋ55 ti55	tʃaŋ55 ti55	zaang1 di1	P68	差點兒1	
 3548	二十六、副詞、介詞等/差點兒	差啲	差啲	tsʰa55 ti55	tʃʰa55 ti55	caa1 di1	P68	差點兒2	
 3549	二十六、副詞、介詞等/老是	總係	总系	tsoŋ35 hɐi22	tʃʊŋ35 hɐi22	zung2 hai6	P68	老是	
-3550	二十六、副詞、介詞等/馬上	即刻	即刻	tsek5 kʰɐk5	tʃek5 kʰɐk5	zik1 kak1	P68	馬上2	
-3551	二十六、副詞、介詞等/馬上	馬上	马上	ma24 sœŋ22	ma24 ʃœŋ22	maa5 soeng6	P68	馬上1	
+3550	二十六、副詞、介詞等/馬上	馬上	马上	ma24 sœŋ22	ma24 ʃœŋ22	maa5 soeng6	P68	馬上1	
+3551	二十六、副詞、介詞等/馬上	即刻	即刻	tsek5 kʰɐk5	tʃek5 kʰɐk5	zik1 kak1	P68	馬上2	
 3552	二十六、副詞、介詞等/隨即	跟手	跟手	kɐn55 sɐu35	kɐn55 ʃɐu35	gan1 sau2	P68	馬上3	
 3553	二十六、副詞、介詞等/趁早兒	趁早	趁早	tsʰɐn33 tsu35	tʃʰɐn33 tʃu35	can3 zu2	P68	趁早兒	
 3554	二十六、副詞、介詞等/幸虧	好彩	好彩	hu35 tsʰɔi35	hu35 tʃʰɔi35	hu2 coi2	P65，68	多虧2；幸虧1	
@@ -3562,8 +3562,8 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3561	二十六、副詞、介詞等/一塊兒	做隊	做队	tsu33 tui22	tʃu33 tui22	zu3 dui6	P68	一塊兒3	
 3562	二十六、副詞、介詞等/肯定	梗	梗	kɐŋ35	kɐŋ35	gang2	P69	肯定1	原文作「耿」字，本爲「箇肯」的合音
 3563	二十六、副詞、介詞等/肯定	硬	硬	ŋaŋ35	ŋaŋ35	ngaang2	P69	肯定2	
-3564	二十六、副詞、介詞等/反正	橫直	横直	waŋ21 tsek2	waŋ21 tʃek2	waang4 zik6	P69	反正2	
-3565	二十六、副詞、介詞等/反正	反正	反正	fan35 tseŋ33	fan35 tʃeŋ33	faan2 zing3	P69	反正1	
+3564	二十六、副詞、介詞等/反正	反正	反正	fan35 tseŋ33	fan35 tʃeŋ33	faan2 zing3	P69	反正1	
+3565	二十六、副詞、介詞等/反正	橫直	横直	waŋ21 tsek2	waŋ21 tʃek2	waang4 zik6	P69	反正2	
 3566	二十六、副詞、介詞等/一個人	自己	自己	tsɿ22 ki35	tsɿ22 ki35	zy6 gi2	P68	一個人（他～去）	
 3567	二十六、副詞、介詞等/全	冚唪唥	冚唪唥	hɐm22 pɐŋ22 lɐŋ22	hɐm22 pɐŋ22 lɐŋ22	ham6 bang6 lang6	P69	一共2	原文有音無字，作「口巴朗」，音[hɐm22 pɐŋ22 lɐŋ22]
 3568	二十六、副詞、介詞等/順便兒	順便	顺便	sɐn22 pin35	ʃɐn22 pin35	san6 bin2	P69	順便1	

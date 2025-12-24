@@ -541,7 +541,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 540	七、稱謂/親家太太	親家奶	亲家奶	tʃʰɐn33 ka55 nai23	tʃʰɐn33 ka55 nai24	can3 gaa1 naai5	P1430	親家太太	
 541	七、稱謂/親戚	親戚	亲戚	tʃʰɐn55 tʃʰik5	tʃʰɐn55 tʃʰek5	can1 cik1	P1430	親戚	
 542	七、稱謂/繼母	後底乸	后底乸	hɐu22 tɐi35 na35	hɐu22 tɐi35 na35	hau6 dai2 naa2	P1430	繼母	原文[na35]有音無字
-543	七、稱謂/繼父	契爺	契爷	kʰɐi33 iɛ21	kʰɐi33 jɛ21	kai3 je4	P1432	繼父	
+543	七、稱謂/繼父	契爺	契爷	kʰɐi33 iɛ21	kʰɐi33 jɛ21	kai3 je4	P1432	繼父	有誤，應叫「後爸」或「後老竇」
 544	七、稱謂/正房	大婆	大婆	tai22 pʰɔ21	tai22 pʰɔ21	daai6 po4	P1432	正房	
 545	七、稱謂/偏房	細婆	细婆	ɬɐi33 pʰɔ21	ɬɐi33 pʰɔ21	slai3 po4	P1432	偏房	
 546	七、稱謂/義子	契崽	契崽	kʰɐi33 tʃɐi35	kʰɐi33 tʃɐi35	kai3 zai2	P1434	義子	
