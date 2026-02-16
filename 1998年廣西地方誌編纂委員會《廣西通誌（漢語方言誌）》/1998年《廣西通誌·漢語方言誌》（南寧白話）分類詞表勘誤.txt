@@ -3609,10 +3609,10 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3608	二十六、副詞、介詞等/還	仲	仲	tsoŋ22	tʃʊŋ22	zung6	P68	還	
 3609	二十六、副詞、介詞等/完	齊	齐	tsʰɐi21	tʃʰɐi21	cai4	P68	完	
 3610	二十六、副詞、介詞等/終歸	終歸	终归	tsoŋ55 kʷɐi55	tʃʊŋ55 kʷɐi55	zung1 gwai1	P69	終於	
-3611	二十七、連詞/與	同埋	同埋	tʰoŋ21 mai21	tʰʊŋ21 mai21	tung4 maai4	P64	佮伴兒2	
-3612	二十七、連詞/與	湊埋	凑埋	tsʰɐu33 mai21	tʃʰɐu33 mai21	cau3 maai4	P64	佮伴兒3	
-3613	二十七、連詞/與	做隊	做队	tsu33 tui22	tʃu33 tui22	zu3 dui6	P64	佮伴兒1	
-3614	二十七、連詞/佮合	佮	佮	kɐp3	kɐp3	gap3	P64	佮合	
+3611	二十二、動作（1）一般動作/佮伴兒	同埋	同埋	tʰoŋ21 mai21	tʰʊŋ21 mai21	tung4 maai4	P64	佮伴兒2	
+3612	二十二、動作（1）一般動作/佮伴兒	湊埋	凑埋	tsʰɐu33 mai21	tʃʰɐu33 mai21	cau3 maai4	P64	佮伴兒3	
+3613	二十二、動作（1）一般動作/佮伴兒	做隊	做队	tsu33 tui22	tʃu33 tui22	zu3 dui6	P64	佮伴兒1	
+3614	二十二、動作（1）一般動作/佮合	佮	佮	kɐp3	kɐp3	gap3	P64	佮合	
 3615	二十八、量詞/一把（刀）	一把	一把	a55 pa35	a55 pa35	aa1 baa2	P69	一把（～刀、～剪子）	
 3616	二十八、量詞/一桿（秤）	一把	一把	a55 pa35	a55 pa35	aa1 baa2	P69	一桿（～秤）	原文作「一桿（～稱）」
 3617	二十八、量詞/一口（缸）	一隻	一只	a55 tsɛk3	a55 tʃɛk3	aa1 zek3	P69	一口（～缸）	
