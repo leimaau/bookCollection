@@ -72,7 +72,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 71	一、天文（2）風、雲、雷、雨/飄雨	撇雨	撇雨	pʰit3 jy24	pʰit3 jy24	pit3 jyu5	P121	飄雨2	
 72	一、天文（2）風、雲、雷、雨/連陰雨	漚雨	沤雨	ɐu33 jy24	ɐu33 jy24	au3 jyu5	P121	連陰雨1	
 73	一、天文（2）風、雲、雷、雨/連陰雨	漚雨天	沤雨天	ɐu33 jy24 tʰin55	ɐu33 jy24 tʰin55	au3 jyu5 tin1	P121	連陰雨2	
-74	一、天文（2）風、雲、雷、雨/連陰雨	落雨霫霫	落雨霫霫	lɔk2 jy24 ɬɐp2 ɬɐp2	lɔk2 jy24 ɬɐp2 ɬɐp2	lok6 jyu5 slap6 slap6	P121	連陰雨3，雨下個不停	原文作「落雨霅霅」
+74	一、天文（2）風、雲、雷、雨/連陰雨	落雨襲襲	落雨袭袭	lɔk2 jy24 ɬɐp2 ɬɐp2	lɔk2 jy24 ɬɐp2 ɬɐp2	lok6 jyu5 slap6 slap6	P121	連陰雨3，雨下個不停	原文作「落雨霅霅」
 75	一、天文（2）風、雲、雷、雨/雷陣雨	雷陣雨	雷阵雨	lui21 tʃɐn22 jy24	lui21 tʃɐn22 jy24	lui4 zan6 jyu5	P121	雷陣雨	
 76	一、天文（2）風、雲、雷、雨/短時陣雨	陣雨	阵雨	tʃɐn22 jy24	tʃɐn22 jy24	zan6 jyu5	P121	短時陣雨1	
 77	一、天文（2）風、雲、雷、雨/短時陣雨	過雲雨	过云雨	kɔ33 wɐn21 jy24	kɔ33 wɐn21 jy24	go3 wan4 jyu5	P121	短時陣雨2	
@@ -1576,7 +1576,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1575	六、動物（1）牲畜/踩	踩	踩	tʃʰai35	tʃʰai35	caai2	P145	踩，禽類交配	
 1576	六、動物（1）牲畜/雞蛋	雞蛋	鸡蛋	kɐi55 tan22	kɐi55 tan22	gai1 daan6	P145	雞蛋	
 1577	六、動物（1）牲畜/軟殼蛋	軟殼蛋	软壳蛋	jyn24 hɔk3 tan22	jyn24 hɔk3 tan22	jyun5 hok3 daan6	P145	軟殼蛋	
-1578	六、動物（1）牲畜/散黃蛋	涴蛋	涴蛋	wɔ24 tan22	wɔ24 tan22	wo5 daan6	P145	涴蛋，散黃、要壞的蛋	
+1578	六、動物（1）牲畜/散黃蛋	毈蛋	毈蛋	wɔ24 tan22	wɔ24 tan22	wo5 daan6	P145	～蛋，散黃、要壞的蛋	原文有音無字
 1579	六、動物（1）牲畜/屈頭雞	屈頭雞	屈头鸡	wɐt5 tʰɐu21 kɐi55	wɐt5 tʰɐu21 kɐi55	wat1 tau4 gai1	P145	屈頭雞，死在蛋裏的小雞	
 1580	六、動物（1）牲畜/下蛋	生蛋	生蛋	ʃaŋ55 tan22	ʃaŋ55 tan22	saang1 daan6	P145	下蛋1	
 1581	六、動物（1）牲畜/下蛋	屙蛋	屙蛋	ɔ55 tan22	ɔ55 tan22	o1 daan6	P145	下蛋2	
@@ -2386,7 +2386,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2385	八、器具、用品（5）其他生活用品/燈籠	燈籠	灯笼	tɐŋ55 lʊŋ21	tɐŋ55 lʊŋ21	dang1 lung4	P158	燈籠	
 2386	八、器具、用品（5）其他生活用品/手提包	手提袋	手提袋	ʃɐu35 tʰɐi21 tɔi22	ʃɐu35 tʰɐi21 tɔi22	sau2 tai4 doi6	P158	手提包1	
 2387	八、器具、用品（5）其他生活用品/手提包	提包	提包	tʰɐi21 pɛu55	tʰɐi21 pɛu55	tai4 beu1	P158	手提包2	
-2388	八、器具、用品（5）其他生活用品/手提籃	手抽	手抽	ʃɐu35 tʃʰɐu55	ʃɐu35 tʃʰɐu55	sau2 cau1	P158	手提籃，買菜用的一種提籃	
+2388	八、器具、用品（5）其他生活用品/手提籃	手搊	手搊	ʃɐu35 tʃʰɐu55	ʃɐu35 tʃʰɐu55	sau2 cau1	P158	手提籃，買菜用的一種提籃	原文作「手抽」，此處據林亦《廣西粵方言塞音、塞擦音鼻音化小規律所轄字的考察》改作「手搊」
 2389	八、器具、用品（5）其他生活用品/菜籃	菜籃	菜篮	tʃʰɔi33 lam21	tʃʰɔi33 lam21	coi3 laam4	P158	菜籃	
 2390	八、器具、用品（5）其他生活用品/錢包	銀包	银包	ŋɐn21 pɛu55	ŋɐn21 pɛu55	ngan4 beu1	P158	錢包1	
 2391	八、器具、用品（5）其他生活用品/錢包	錢包	钱包	tʃʰin21 pɛu55	tʃʰin21 pɛu55	cin4 beu1	P158	錢包2	
@@ -2581,7 +2581,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2580	九、稱謂（2）職業稱謂/工作	工	工	kʊŋ55	kʊŋ55	gung1	P161	工作1	
 2581	九、稱謂（2）職業稱謂/工作	事	事	ʃi22	ʃi22	si6	P161	工作2	
 2582	九、稱謂（2）職業稱謂/做事	做嘢	做嘢	tʃu33 jɛ24	tʃu33 jɛ24	zu3 je5	P161	做事	
-2583	九、稱謂（2）職業稱謂/沒活幹	冇嘢做	冇嘢做	mu24 jɛ24 tʃu33	mu24 jɛ24 tʃu33	mu5 je5 zu3	P161	沒活幹	
+2583	九、稱謂（2）職業稱謂/沒活幹	冇嘢做	冇嘢做	mu24 jɛ24 tʃu33	mu24 jɛ24 tʃu33	mu5 je5 zu3	P161	沒活幹	這個句子不合法，應當是「冇有嘢做」
 2584	九、稱謂（2）職業稱謂/上班	做工	做工	tʃu33 kʊŋ55	tʃu33 kʊŋ55	zu3 gung1	P161	上班	
 2585	九、稱謂（2）職業稱謂/下班	收工	收工	ʃɐu55 kʊŋ55	ʃɐu55 kʊŋ55	sau1 gung1	P161	下班	
 2586	九、稱謂（2）職業稱謂/不幹了、改行	收山	收山	ʃɐu55 ʃan55	ʃɐu55 ʃan55	sau1 saan1	P161	不幹了；改行	
@@ -3298,8 +3298,8 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3297	十二、疾病、醫療（3）外科/剌個口子	割隻口	割只口	kɔt3 tʃɛk3 hɐu35	kɔt3 tʃɛk3 hɐu35	got3 zek3 hau2	P172	剌個口子1	
 3298	十二、疾病、醫療（3）外科/剌個口子	擘隻口	擘只口	mak3 tʃɛk3 hɐu35	mak3 tʃɛk3 hɐu35	maak3 zek3 hau2	P172	剌個口子2	
 3299	十二、疾病、醫療（3）外科/出血	出血	出血	tʃʰyt5 hyt3	tʃʰyt5 hyt3	cyut1 hyut3	P172	出血	
-3300	十二、疾病、醫療（3）外科/淤血	瘀血	瘀血	jy35 hyt3	jy35 hyt3	jyu2 hyut3	P172	淤血1	原文作「淤血」，應作「瘀血」
-3301	十二、疾病、醫療（3）外科/淤血	黝血	黝血	ɐu35 hyt3	ɐu35 hyt3	au2 hyut3	P172	淤血2	原文「嘔」爲同音替代字
+3300	十二、疾病、醫療（3）外科/瘀血	瘀血	瘀血	jy35 hyt3	jy35 hyt3	jyu2 hyut3	P172	瘀血1	原文作「淤血」，應作「瘀血」，釋義同
+3301	十二、疾病、醫療（3）外科/瘀血	黝血	黝血	ɐu35 hyt3	ɐu35 hyt3	au2 hyut3	P172	瘀血2	原文「嘔」爲同音替代字，原文釋義作「淤血」，應作「瘀血」
 3302	十二、疾病、醫療（3）外科/紅腫	紅腫	红肿	hʊŋ21 tʃʊŋ35	hʊŋ21 tʃʊŋ35	hung4 zung2	P172	紅腫1	
 3303	十二、疾病、醫療（3）外科/紅腫	紅紅腫腫	红红肿肿	hʊŋ21 hʊŋ21 tʃʊŋ35 tʃʊŋ35	hʊŋ21 hʊŋ21 tʃʊŋ35 tʃʊŋ35	hung4 hung4 zung2 zung2	P172	紅腫2	
 3304	十二、疾病、醫療（3）外科/灌膿	漚膿	沤脓	ɐu33 nʊŋ21	ɐu33 nʊŋ21	au3 nung4	P172	灌膿1	
@@ -3555,7 +3555,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 3554	十三、衣服、穿戴（2）鞋帽/鞋楦子	鞋楦	鞋楦	hai21 hyn33	hai21 hyn33	haai4 hyun3	P176	鞋楦子1	
 3555	十三、衣服、穿戴（2）鞋帽/鞋楦子	楦頭	楦头	hyn33 tʰɐu21	hyn33 tʰɐu21	hyun3 tau4	P176	鞋楦子2	
 3556	十三、衣服、穿戴（2）鞋帽/鞋拔子	鞋拔	鞋拔	hai21 pat2	hai21 pat2	haai4 baat6	P176	鞋拔子1	
-3557	十三、衣服、穿戴（2）鞋帽/鞋拔子	鞋抽	鞋抽	hai21 tʃʰɐu55	hai21 tʃʰɐu55	haai4 cau1	P176	鞋拔子2	
+3557	十三、衣服、穿戴（2）鞋帽/鞋拔子	鞋搊	鞋搊	hai21 tʃʰɐu55	hai21 tʃʰɐu55	haai4 cau1	P176	鞋拔子2	原文作「鞋抽」，此處據林亦《廣西粵方言塞音、塞擦音鼻音化小規律所轄字的考察》改作「鞋搊」
 3558	十三、衣服、穿戴（2）鞋帽/雨鞋	水鞋	水鞋	ʃui35 hai21	ʃui35 hai21	sui2 haai4	P176	雨鞋，橡膠做的	
 3559	十三、衣服、穿戴（2）鞋帽/木屐	木屐	木屐	mʊk2 kʰɛk5	mʊk2 kʰɛk5	muk6 kek1	P176	木屐1	
 3560	十三、衣服、穿戴（2）鞋帽/木屐	棕屐	棕屐	tʃʊŋ55 kʰɛk2	tʃʊŋ55 kʰɛk2	zung1 kek6	P176	木屐2	
@@ -4305,7 +4305,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 4304	十六、日常生活（1）衣/衣服	衫褲	衫裤	ʃam55 fu33	ʃam55 fu33	saam1 fu3	P188	衣服	
 4305	十六、日常生活（1）衣/穿衣服	着衫	着衫	tʃœk3 ʃam55	tʃœk3 ʃam55	zoek3 saam1	P188	穿衣服1	
 4306	十六、日常生活（1）衣/穿衣服	穿衫	穿衫	tʃʰyn55 ʃam55	tʃʰyn55 ʃam55	cyun1 saam1	P188	穿衣服2	
-4307	十六、日常生活（1）衣/提褲子	抽褲	抽裤	tʃʰɐu55 fu33	tʃʰɐu55 fu33	cau1 fu3	P188	提褲子1	
+4307	十六、日常生活（1）衣/提褲子	搊褲	搊裤	tʃʰɐu55 fu33	tʃʰɐu55 fu33	cau1 fu3	P188	提褲子1	原文作「抽褲」，此處據林亦《廣西粵方言塞音、塞擦音鼻音化小規律所轄字的考察》改作「搊褲」
 4308	十六、日常生活（1）衣/提褲子	搊褲	搊裤	jɐu55 fu33	jɐu55 fu33	jau1 fu3	P188	提褲子2	原文作「抽」字
 4309	十六、日常生活（1）衣/脫衣服	除衫	除衫	tʃʰy21 ʃam55	tʃʰy21 ʃam55	cyu4 saam1	P188	脫衣服1	
 4310	十六、日常生活（1）衣/脫衣服	解衫	解衫	kai35 ʃam55	kai35 ʃam55	gaai2 saam1	P188	脫衣服2	
@@ -5682,7 +5682,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 5681	二十二、動作（1）一般動作/好哭	濫哭	滥哭	lan22 hʊk5	lan22 hʊk5	laan6 huk1	P210	好哭	原文作「爛哭」
 5682	二十二、動作（1）一般動作/啜泣貌	哭呀呀	哭呀呀	hʊk5 ŋɛ55 ŋɛ55	hʊk5 ŋɛ55 ŋɛ55	huk1 nge1 nge1	P210	啜泣貌1.1	原文[ŋɛ55]有音無字
 5683	二十二、動作（1）一般動作/啜泣貌	哭呀呀	哭呀呀	hʊk5 ŋa55 ŋa55	hʊk5 ŋa55 ŋa55	huk1 ngaa1 ngaa1	P210	啜泣貌1.2	原文[ŋa55]有音無字
-5684	二十二、動作（1）一般動作/啜泣貌	哭霫霫	哭霫霫	hʊk5 ɬɛp2 ɬɛp2	hʊk5 ɬɛp2 ɬɛp2	huk1 slep6 slep6	P210	啜泣貌2	原文[ɬɛp2]有音無字
+5684	二十二、動作（1）一般動作/啜泣貌	哭襲襲	哭袭袭	hʊk5 ɬɛp2 ɬɛp2	hʊk5 ɬɛp2 ɬɛp2	huk1 slep6 slep6	P210	啜泣貌2	原文[ɬɛp2]有音無字
 5685	二十二、動作（1）一般動作/笑	笑	笑	ɬiu33	ɬiu33	sliu3	P210	笑	
 5686	二十二、動作（1）一般動作/笑眯眯	笑吟吟	笑吟吟	ɬiu33 jɐm55 jɐm55	ɬiu33 jɐm55 jɐm55	sliu3 jam1 jam1	P210	笑眯眯	原文無釋義
 5687	二十二、動作（1）一般動作/笑哈哈	笑咔咔	笑咔咔	ɬiu33 kʰa55 kʰa55	ɬiu33 kʰa55 kʰa55	sliu3 kaa1 kaa1	P210	笑哈哈	原文無釋義
@@ -6466,7 +6466,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 6465	二十五、形容詞/韌	韌	韧	jɐŋ33	jɐŋ33	jang3	P223	韌1	原文有音無字，實爲「韌硬」的合音
 6466	二十五、形容詞/韌	焉韌	焉韧	jin55 ŋɐn22	jin55 ŋɐn22	jin1 ngan6	P223	韌2	
 6467	二十五、形容詞/韌	焉焉韌韌	焉焉韧韧	jin55 jin55 ŋɐn22 ŋɐn22	jin55 jin55 ŋɐn22 ŋɐn22	jin1 jin1 ngan6 ngan6	P223	韌3	
-6468	二十五、形容詞/韌	韌乓乓	韧乓乓	jɐŋ33 paŋ55 paŋ55	jɐŋ33 paŋ55 paŋ55	jang3 baang1 baang1	P223	韌4	原文有音無字
+6468	二十五、形容詞/韌	韌繃繃	韧绷绷	jɐŋ33 paŋ55 paŋ55	jɐŋ33 paŋ55 paŋ55	jang3 baang1 baang1	P223	韌4	原文有音無字
 6469	二十五、形容詞/軟	軟	软	jyn24	jyn24	jyun5	P223	軟1	
 6470	二十五、形容詞/軟	軟熟	软熟	jyn24 ʃʊk2	jyn24 ʃʊk2	jyun5 suk6	P223	軟2	
 6471	二十五、形容詞/軟	軟巴巴	软巴巴	jyn24 pɛ21 pɛ21	jyn24 pɛ21 pɛ21	jyun5 be4 be4	P223	軟3，軟綿綿	原文[pɛ21]有音無字，無釋義
@@ -6475,7 +6475,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 6474	二十五、形容詞/嫋	嫋	袅	nɛu21	nɛu21	neu4	P223	細長而柔軟1	
 6475	二十五、形容詞/嫋	軟嫋嫋	软袅袅	jyn24 nɛu21 nɛu21	jyn24 nɛu21 nɛu21	jyun5 neu4 neu4	P223	細長而柔軟2	
 6476	二十五、形容詞/黏	粈	粈	nɛu55	nɛu55	neu1	P223	黏1	原文有音無字
-6477	二十五、形容詞/黏	粈𪐌𪐌	粈𪐌𪐌	nɛu55 nɐk5 nɐk5	nɛu55 nɐk5 nɐk5	neu1 nak1 nak1	P223	黏2，黏乎乎	原文有音無字
+6477	二十五、形容詞/黏	粈得得	粈得得	nɛu55 nɐk5 nɐk5	nɛu55 nɐk5 nɐk5	neu1 nak1 nak1	P223	黏2，黏乎乎	原文有音無字
 6478	二十五、形容詞/糯	糯	糯	nɔ22	nɔ22	no6	P223	糯，特指有黏性的穀物	
 6479	二十五、形容詞/麪	蓬	蓬	mʊŋ55	mʊŋ55	mung1	P223	麪1，薯類很粉	原文有音無字
 6480	二十五、形容詞/麪	蓬	蓬	pʰʊŋ55	pʰʊŋ55	pung1	P223	麪2，薯類很粉	
@@ -6499,7 +6499,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 6498	二十五、形容詞/酸	酸	酸	ɬyn55	ɬyn55	slyun1	P223	酸1	
 6499	二十五、形容詞/酸	酸醰醰	酸醰醰	ɬyn55 tɐm55 tɐm55	ɬyn55 tɐm55 tɐm55	slyun1 dam1 dam1	P223	酸2	原文[tɐm55]有音無字
 6500	二十五、形容詞/甜	甜	甜	tʰim21	tʰim21	tim4	P223	甜1	
-6501	二十五、形容詞/甜	甜㩄㩄	甜㩄㩄	tʰim21 ɬai21 ɬai21	tʰim21 ɬai21 ɬai21	tim4 slaai4 slaai4	P223	甜2	原文[ɬai21]有音無字
+6501	二十五、形容詞/甜	甜纚纚	甜𫄥𫄥	tʰim21 ɬai21 ɬai21	tʰim21 ɬai21 ɬai21	tim4 slaai4 slaai4	P223	甜2	原文[ɬai21]有音無字
 6502	二十五、形容詞/苦	苦	苦	fu35	fu35	fu2	P223	苦	
 6503	二十五、形容詞/辣	辣	辣	lat2	lat2	laat6	P223	辣	
 6504	二十五、形容詞/澀	澀	涩	kip3	kip3	gip3	P223	澀	原文「劫」爲同音替代字
@@ -6593,14 +6593,14 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 6592	二十五、形容詞/地道	正嘢	正嘢	tʃɛŋ33 jɛ24	tʃɛŋ33 jɛ24	zeng3 je5	P225	地道3	原文作「正野」
 6593	二十五、形容詞/不地道	流嘢	流嘢	lɐu21 jɛ24	lɐu21 jɛ24	lau4 je5	P225	不地道，東西不正宗	原文作「陋野」
 6594	二十五、形容詞/破	爛	烂	lan22	lan22	laan6	P225	破	
-6595	二十五、形容詞/破破爛爛	爛霫霫	烂霫霫	lan22 ɬɛp2 ɬɛp2	lan22 ɬɛp2 ɬɛp2	laan6 slep6 slep6	P225	破破爛爛	原文[ɬɛp2]有音無字
+6595	二十五、形容詞/破破爛爛	爛襲襲	烂袭袭	lan22 ɬɛp2 ɬɛp2	lan22 ɬɛp2 ɬɛp2	laan6 slep6 slep6	P225	破破爛爛	原文[ɬɛp2]有音無字
 6596	二十五、形容詞/摔破	𢴬爛	𢴬烂	pan33 lan22	pan33 lan22	baan3 laan6	P225	摔破	原文[pan33]有音無字
 6597	二十五、形容詞/整齊	徛理	徛理	kʰi24 li24	kʰi24 li24	ki5 li5	P225	整齊1	原文作「企理」
 6598	二十五、形容詞/整齊	整齊	整齐	tʃeŋ35 tʃʰɐi21	tʃeŋ35 tʃʰɐi21	zing2 cai4	P225	整齊2	
 6599	二十五、形容詞/整齊	齊整	齐整	tʃʰɐi21 tʃeŋ35	tʃʰɐi21 tʃeŋ35	cai4 zing2	P225	整齊3	
 6600	二十五、形容詞/整齊	歸一	归一	kʷɐi55 jɐt5	kʷɐi55 jɐt5	gwai1 jat1	P225	整齊4	
 6601	二十五、形容詞/零亂	立亂	立乱	lɐp2 lyn22	lɐp2 lyn22	lap6 lyun6	P225	零亂1	原文「立」爲同音替代字，一說本字「𦆻」
-6602	二十五、形容詞/零亂	亂霫霫	乱霫霫	lyn22 ɬɐp2 ɬɐp2	lyn22 ɬɐp2 ɬɐp2	lyun6 slap6 slap6	P225	零亂2	原文[ɬɐp2]有音無字
+6602	二十五、形容詞/零亂	亂襲襲	乱袭袭	lyn22 ɬɐp2 ɬɐp2	lyn22 ɬɐp2 ɬɐp2	lyun6 slap6 slap6	P225	零亂2	原文[ɬɐp2]有音無字
 6603	二十五、形容詞/晚	晏	晏	an33	an33	aan3	P225	晚1（來～了）	
 6604	二十五、形容詞/晚	遲	迟	tʃʰi21	tʃʰi21	ci4	P225	晚2	
 6605	二十五、形容詞/多	多	多	tɔ55	tɔ55	do1	P225	多1	
@@ -6705,7 +6705,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 6704	二十五、形容詞/細膩（粉）	幼細	幼细	jɐu33 ɬɐi33	jɐu33 ɬɐi33	jau3 slai3	P226	細膩2（粉）	
 6705	二十五、形容詞/粗（物）	粗	粗	tʃʰu55	tʃʰu55	cu1	P226	粗（物）	
 6706	二十五、形容詞/粗糙	諧	谐	hai21	hai21	haai4	P226	粗糙1	原文作「磑（硙）」字，其實本字「諧」，避諱糙/躁
-6707	二十五、形容詞/粗糙	諧霫霫	谐霫霫	hai21 ɬɐp2 ɬɐp2	hai21 ɬɐp2 ɬɐp2	haai4 slap6 slap6	P226	粗糙2	原文作「磑（硙）[ɬɐp2][ɬɐp2]」有音無字，連方框都未標，其實本字「諧」，避諱糙/躁
+6707	二十五、形容詞/粗糙	諧襲襲	谐袭袭	hai21 ɬɐp2 ɬɐp2	hai21 ɬɐp2 ɬɐp2	haai4 slap6 slap6	P226	粗糙2	原文作「磑（硙）[ɬɐp2][ɬɐp2]」有音無字，連方框都未標，其實本字「諧」，避諱糙/躁
 6708	二十五、形容詞/粗糙	粗軋軋	粗轧轧	tʃʰu55 jat3 jat3	tʃʰu55 jat3 jat3	cu1 jaat3 jaat3	P226	粗糙3	原文[jap3]有音無字，應作[jat3]，覃遠雄等《南寧平話詞典》引論P22作[ȵat5]
 6709	二十五、形容詞/粗糙	軋	轧	jat3	jat3	jaat3	P226	粗糙4	原文[jap3]有音無字，應作[jat3]，覃遠雄等《南寧平話詞典》引論P22作[ȵat5]
 6710	二十五、形容詞/粗心	粗	粗	tʃʰu55	tʃʰu55	cu1	P226	粗心1	
@@ -6750,7 +6750,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 6749	二十五、形容詞/月白	月白	月白	jyt2 pak2	jyt2 pak2	jyut6 baak6	P227	月白	
 6750	二十五、形容詞/蒼白	白煞煞	白煞煞	pak2 ʃai24 ʃai24	pak2 ʃai24 ʃai24	baak6 saai5 saai5	P227	蒼白	原文[ʃai24]有音無字
 6751	二十五、形容詞/雪白	白雪雪	白雪雪	pak2 ɬyt5 ɬyt5	pak2 ɬyt5 ɬyt5	baak6 slyut1 slyut1	P227	雪白1	原文[ɬyt5]有音無字
-6752	二十五、形容詞/雪白	白霫霫	白霫霫	pak2 ɬɛp2 ɬɛp2	pak2 ɬɛp2 ɬɛp2	baak6 slep6 slep6	P227	雪白2	原文[ɬɛp2]有音無字
+6752	二十五、形容詞/雪白	白襲襲	白袭袭	pak2 ɬɛp2 ɬɛp2	pak2 ɬɛp2 ɬɛp2	baak6 slep6 slep6	P227	雪白2	原文[ɬɛp2]有音無字
 6753	二十五、形容詞/雪白	白蓬蓬	白蓬蓬	pak2 pʰʊŋ55 pʰʊŋ55	pak2 pʰʊŋ55 pʰʊŋ55	baak6 pung1 pung1	P227	雪白3	原文[pʰuŋ55]有音無字
 6754	二十五、形容詞/灰	灰	灰	fui55	fui55	fui1	P227	灰	
 6755	二十五、形容詞/深灰	深灰	深灰	ʃɐm55 fui55	ʃɐm55 fui55	sam1 fui1	P227	深灰1	
@@ -6782,7 +6782,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 6781	二十五、形容詞/黑	黑塌塌	黑塌塌	hɐk5 tʰat3 tʰat3	hɐk5 tʰat3 tʰat3	hak1 taat3 taat3	P228	黑4，形容臉色陰沉	原文作「黑蹋蹋」
 6782	二十五、形容詞/模糊	瞢	瞢	mʊŋ21	mʊŋ21	mung4	P228	模糊1	原文作「矇（蒙）」字，《西遊記》作「夢夢查查」，「夢」與「瞢」同源
 6783	二十五、形容詞/模糊	瞢查查	瞢查查	mʊŋ21 ɬa21 ɬa21	mʊŋ21 ɬa21 ɬa21	mung4 slaa4 slaa4	P228	模糊2	原文[ɬa21]有音無字，作「「矇（蒙）囗[ɬa21]囗[ɬa21]」
-6784	二十五、形容詞/模糊	瞢查查	瞢查查	mʊŋ21 tʃʰa21 tʃʰa21	mʊŋ21 tʃʰa21 tʃʰa21	mung4 caa4 caa4	P228	模糊3	原文[tʃʰa21]有音無字，作「「矇（蒙）囗[tʃʰa21]囗[tʃʰa21]」。明代小說作「夢夢查查」，「夢」與「瞢」通
+6784	二十五、形容詞/模糊	瞢查查	瞢查查	mʊŋ21 tʃʰa21 tʃʰa21	mʊŋ21 tʃʰa21 tʃʰa21	mung4 caa4 caa4	P228	模糊3	原文[tʃʰa21]有音無字，作「「矇（蒙）囗[tʃʰa21]囗[tʃʰa21]」。明代小說《西遊記》作「夢夢查查」，「夢」與「瞢」通
 6785	二十五、形容詞/亮	光	光	kɔŋ55	kɔŋ55	gong1	P228	亮1	
 6786	二十五、形容詞/亮	光鋥鋥	光锃锃	kɔŋ55 tʃʰaŋ33 tʃʰaŋ33	kɔŋ55 tʃʰaŋ33 tʃʰaŋ33	gong1 caang3 caang3	P228	亮2	原文作「光撐撐」
 6787	二十五、形容詞/鋥亮	光鋥鋥	光锃锃	kɔŋ55 ʃaŋ33 ʃaŋ33	kɔŋ55 ʃaŋ33 ʃaŋ33	gong1 saang3 saang3	P228	鋥亮1	原文[ʃaŋ33]有音無字
@@ -6879,7 +6879,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 6878	二十五、形容詞/搗蛋	摎攪	摎搅	lau35 kau22	lau35 kau22	laau2 gaau6	P229	搗蛋	原文作「撩攪」
 6879	二十五、形容詞/糟蹋	折墮	折堕	tʃit3 tɔ22	tʃit3 tɔ22	zit3 do6	P229	糟蹋，做事太損	原文作「節墮」
 6880	二十五、形容詞/蠻橫	橫	横	waŋ21	waŋ21	waang4	P229	蠻橫1	
-6881	二十五、形容詞/蠻橫	橫乓乓	横乓乓	waŋ21 paŋ55 paŋ33	waŋ21 paŋ55 paŋ33	waang4 baang1 baang3	P229	蠻橫2	原文「乓乓」爲替代字
+6881	二十五、形容詞/蠻橫	橫繃繃	横绷绷	waŋ21 paŋ55 paŋ33	waŋ21 paŋ55 paŋ33	waang4 baang1 baang3	P229	蠻橫2	原文「乓乓」爲替代字
 6882	二十五、形容詞/真行	叻	叻	lɛk5	lɛk5	lek1	P229	真行（這後生仔夠～）	原文有音無字
 6883	二十五、形容詞/能幹	叻	叻	lɛk5	lɛk5	lek1	P229	能幹1	原文有音無字
 6884	二十五、形容詞/能幹	叻馬	叻马	lɛk5 ma24	lɛk5 ma24	lek1 maa5	P229	能幹2	原文[lɛk5]有音無字
@@ -6973,7 +6973,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 6972	二十五、形容詞/麻利	麻利	麻利	ma21 li22	ma21 li22	maa4 li6	P231	麻利1	
 6973	二十五、形容詞/麻利	剌利	剌利	la35 li22	la35 li22	laa2 li6	P231	麻利2	原文[la35]有音無字
 6974	二十五、形容詞/磨磳	磨	磨	mɔ55	mɔ55	mo1	P231	磨磳1	原文作「摸」字
-6975	二十五、形容詞/磨磳	磨趿趿	磨趿趿	mɔ55 ɬɐp2 ɬɐp2	mɔ55 ɬɐp2 ɬɐp2	mo1 slap6 slap6	P231	磨磳2	原文有音無字，作「摸囗[ɬɐp2]囗[ɬɐp2]」
+6975	二十五、形容詞/磨磳	磨襲襲	磨袭袭	mɔ55 ɬɐp2 ɬɐp2	mɔ55 ɬɐp2 ɬɐp2	mo1 slap6 slap6	P231	磨磳2	原文有音無字，作「摸囗[ɬɐp2]囗[ɬɐp2]」
 6976	二十五、形容詞/不利索，囉嗦	遴盡	遴尽	lɐn22 tʃɐn22	lɐn22 tʃɐn22	lan6 zan6	P231	不利索，囉嗦1	原文「論盡」爲同音替代字
 6977	二十五、形容詞/不利索，囉嗦	遴遴盡盡	遴遴尽尽	lɐn22 lɐn22 tʃɐn22 tʃɐn22	lɐn22 lɐn22 tʃɐn22 tʃɐn22	lan6 lan6 zan6 zan6	P231	不利索，囉嗦2（佢講話～）	原文「論論盡盡」爲同音替代字
 6978	二十五、形容詞/孬種	衰嘢	衰嘢	ʃui55 jɛ24	ʃui55 jɛ24	sui1 je5	P231	孬種1	原文作「衰野」
@@ -7069,7 +7069,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 7068	二十五、形容詞/均勻	均勻	均匀	kʷʰɐn55 wɐn21	kʷʰɐn55 wɐn21	kwan1 wan4	P232	均勻2	
 7069	二十五、形容詞/省事	乾手淨腳	干手净脚	kɔn55 ʃɐu35 tʃeŋ22 kœk3	kɔn55 ʃɐu35 tʃeŋ22 kœk3	gon1 sau2 zing6 goek3	P232	省事	原文「腳」字誤作[kœk5]
 7070	二十五、形容詞/累	癐	𤶊	kui22	kui22	gui6	P232	累1	原文作[kwui22]
-7071	二十五、形容詞/累	癐䧒䧒	𤶊䧒䧒	kui22 lai21 lai21	kui22 lai21 lai21	gui6 laai4 laai4	P232	累2，乏力	原文有音無字，作「癐[kwui22]囗[lai21]囗[lai21]」
+7071	二十五、形容詞/累	癐來來	𤶊来来	kui22 lai21 lai21	kui22 lai21 lai21	gui6 laai4 laai4	P232	累2，乏力	原文有音無字，作「癐[kwui22]囗[lai21]囗[lai21]」
 7072	二十五、形容詞/（筋骨）痠痛	㾓	㾓	jyn55	jyn55	jyun1	P232	（筋骨）痠痛1	原文「冤」爲同音替代字
 7073	二十五、形容詞/（筋骨）痠痛	㾓痛	㾓痛	jyn55 tʰʊŋ33	jyn55 tʰʊŋ33	jyun1 tung3	P232	（筋骨）痠痛2	原文「冤」爲同音替代字
 7074	二十五、形容詞/癢	痕	痕	hɐn21	hɐn21	han4	P232	癢	原文「痕」爲同音替代字
@@ -7080,7 +7080,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 7079	二十五、形容詞/隱隱作痛	陰陰痛	阴阴痛	jɐm55 jɐm55 tʰʊŋ33	jɐm55 jɐm55 tʰʊŋ33	jam1 jam1 tung3	P232	隱隱作痛	
 7080	二十五、形容詞/辣痛	㿇	㿇	ɬɛp5	ɬɛp5	slep1	P232	辣痛	原文有音無字
 7081	二十五、形容詞/眼力不好	盲摸摸	盲摸摸	maŋ21 mɔ55 mɔ55	maŋ21 mɔ55 mɔ55	maang4 mo1 mo1	P232	眼力不好1	
-7082	二十五、形容詞/眼力不好	盲趿趿	盲趿趿	maŋ21 ɬɐp2 ɬɐp2	maŋ21 ɬɐp2 ɬɐp2	maang4 slap6 slap6	P232	眼力不好2	原文[ɬɐp2]有音無字
+7082	二十五、形容詞/眼力不好	盲襲襲	盲袭袭	maŋ21 ɬɐp2 ɬɐp2	maŋ21 ɬɐp2 ɬɐp2	maang4 slap6 slap6	P232	眼力不好2	原文[ɬɐp2]有音無字
 7083	二十五、形容詞/聾；耳背	聾嗙嗙	聋嗙嗙	lʊŋ21 paŋ55 paŋ55	lʊŋ21 paŋ55 paŋ55	lung4 baang1 baang1	P232	聾；耳背1.1	原文[paŋ55]有音無字
 7084	二十五、形容詞/聾；耳背	聾嗙嗙	聋嗙嗙	lʊŋ21 paŋ55 paŋ33	lʊŋ21 paŋ55 paŋ33	lung4 baang1 baang3	P232	聾；耳背1.2	原文[paŋ55 paŋ33]有音無字
 7085	二十五、形容詞/血淋淋	血淋血瀨	血淋血濑	hyt3 lɐm21 hyt3 lai22	hyt3 lɐm21 hyt3 lai22	hyut3 lam4 hyut3 laai6	P232	血淋淋	原文作「血淋血賴」
@@ -7915,7 +7915,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 7914	三十一、四字詞語/嘮嘮叨叨	吟吟沉沉	吟吟沉沉	ŋɐm21 ŋɐm21 tʃʰɐm21 tʃʰɐm21	ŋɐm21 ŋɐm21 tʃʰɐm21 tʃʰɐm21	ngam4 ngam4 cam4 cam4	P245	嘮嘮叨叨	
 7915	三十一、四字詞語/笨嘴笨舌	笨口笨舌	笨口笨舌	pɐn22 hɐu35 pɐn22 ʃit2	pɐn22 hɐu35 pɐn22 ʃit2	ban6 hau2 ban6 sit6	P245	笨嘴笨舌	
 7916	三十一、四字詞語/粗言爛語	爛口爛舌	烂口烂舌	lan22 hɐu35 lan22 ʃit2	lan22 hɐu35 lan22 ʃit2	laan6 hau2 laan6 sit6	P245	粗言爛語	
-7917	三十一、四字詞語/𪐀牙𪐀齒	𪐀牙𪐀齒	𪐀牙𪐀齿	ni55 ŋa21 ni55 tʃʰi35	ni55 ŋa21 ni55 tʃʰi35	ni1 ngaa4 ni1 ci2	P245	形容食物黏牙齒	原文[ni55]有音無字
+7917	三十一、四字詞語/𪐀牙𪐀齒	𪐀牙𪐀齒	𪐀牙𪐀齿	ni55 ŋa21 ni55 tʃʰi35	ni55 ŋa21 ni55 tʃʰi35	ni1 ngaa4 ni1 ci2	P245	形容食物粘牙齒	原文[ni55]有音無字
 7918	三十一、四字詞語/死頭乾薑	死頭乾薑	死头干姜	ɬi35 tʰɐu21 kɔn55 kœŋ55	ɬi35 tʰɐu21 kɔn55 kœŋ55	sli2 tau4 gon1 goeng1	P245	不聽話，難教；頑固、犟	原文「乾」字誤作[kɔŋ55]
 7919	三十一、四字詞語/沒頭沒尾	倔頭倔腦	倔头倔脑	kʷɐt2 tʰɐu21 kʷɐt2 nu24	kʷɐt2 tʰɐu21 kʷɐt2 nu24	gwat6 tau4 gwat6 nu5	P245	沒頭沒尾	原文作「橛頭橛腦」
 7920	三十一、四字詞語/熟口熟面	熟口熟面	熟口熟面	ʃʊk2 hɐu35 ʃʊk2 min22	ʃʊk2 hɐu35 ʃʊk2 min22	suk6 hau2 suk6 min6	P245	面熟，熟人	

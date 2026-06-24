@@ -363,7 +363,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 362	九、稱謂/瞎子	盲佬	盲佬	maŋ21 lu35	maŋ21 lu35	maang4 lu2	P54	瞎子	詞表外。原文未標音
 363	六、身體/動詞/咬	咬硞硞	咬硞硞	ŋɛu24 kʰuk5 kʰuk5	ŋɛu24 kʰʊk5 kʰʊk5	ngeu5 kuk1 kuk1	P55	咬得咯咯響	詞表外。原文[kʰuk5 kʰuk5]有音無字
 364	六、身體/動詞/哭	哭呀呀	哭呀呀	huk5 ŋa55 ŋa55	hʊk5 ŋa55 ŋa55	huk1 ngaa1 ngaa1	P55	大哭貌	詞表外。原文[ŋa55 ŋa55]有音無字
-365	六、身體/動詞/哭	哭霫霫	哭霫霫	huk5 ɬɐp2 ɬɐp2	hʊk5 ɬɐp2 ɬɐp2	huk1 slap6 slap6	P55	小聲哭	詞表外。原文[ɬɐp2 ɬɐp2]有音無字
+365	六、身體/動詞/哭	哭襲襲	哭袭袭	huk5 ɬɐp2 ɬɐp2	hʊk5 ɬɐp2 ɬɐp2	huk1 slap6 slap6	P55	小聲哭	詞表外。原文[ɬɐp2 ɬɐp2]有音無字
 366	六、身體/動詞/笑	笑吟吟	笑吟吟	ɬiu33 jɐm55 jɐm55	ɬiu33 jɐm55 jɐm55	sliu3 jam1 jam1	P55	笑咪咪	詞表外。原文[jɐm55 jɐm55]有音無字
 367	六、身體/動詞/笑	笑喳喳	笑喳喳	ɬiu33 tsɛ21 tsɛ21	ɬiu33 tʃɛ21 tʃɛ21	sliu3 ze4 ze4	P55	笑嘻嘻	詞表外。原文[tsɛ21 tsɛ21]有音無字
 368	六、身體/動詞/跑	趯喳喳	趯喳喳	tɛk3 tsa21 tsa21	tɛk3 tʃa21 tʃa21	dek3 zaa4 zaa4	P55	四處亂跑	詞表外。原文有音無字
@@ -372,7 +372,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 371	十四、形容詞/黑	黑嘛嘛	黑嘛嘛	hɐk5 ma55 ma55	hɐk5 ma55 ma55	hak1 maa1 maa1	P56	表示黑的程度加深，伸手不見五指	詞表外。原文[ma55 ma55]有音無字
 372	十四、形容詞/白	白截截	白截截	pak2 tsɛt2 tsɛt2	pak2 tʃɛt2 tʃɛt2	baak6 zet6 zet6	P56	慘白慘白，看着令人難受	詞表外。原文[tsɛt2 tsɛt2]有音無字
 373	十四、形容詞/黃	黃黚黚	黄黚黚	wɔŋ21 kɐm21 kɐm21	wɔŋ21 kɐm21 kɐm21	wong4 gam4 gam4	P56	暗黃色，黃而無光澤	詞表外。原文[kɐm21 kɐm21]有音無字
-374	十四、形容詞/高	高嫋嫋	高嫋嫋	ku55 nɛu21 nɛu21	ku55 nɛu21 nɛu21	gu1 neu4 neu4	P56	高得瘦而單薄	詞表外。原文[nɛu21 nɛu21]有音無字
+374	十四、形容詞/高	高嫋嫋	高袅袅	ku55 nɛu21 nɛu21	ku55 nɛu21 nɛu21	gu1 neu4 neu4	P56	高得瘦而單薄	詞表外。原文[nɛu21 nɛu21]有音無字
 375	三、植物/木瓜	木瓜公	木瓜公	muk2 kʷa55 kuŋ55	mʊk2 kʷa55 kʊŋ55	muk6 gwaa1 gung1	P58		詞表外。原文未標音，未釋義
 376	三、植物/木瓜	木瓜乸	木瓜乸	muk2 kʷa55 na35	mʊk2 kʷa55 na35	muk6 gwaa1 naa2	P58		詞表外。原文未標音，未釋義
 377	二、時令、時節/每天	日日	日日	jɐt2 jɐt2	jɐt2 jɐt2	jat6 jat6	P14	每天	詞表外。原文未釋義，原文P13-14聲韻音變舉例，有連讀音變，日日[jɐt2 jɐt2]➔[jɐ22 jɐt2]

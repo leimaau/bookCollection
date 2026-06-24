@@ -1869,7 +1869,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 1868	十三、衣服、穿戴（2）鞋帽/鞋底兒	鞋底	鞋底	hai21 tɐi35	hai21 tɐi35	haai4 dai2	P46	鞋底兒	
 1869	十三、衣服、穿戴（2）鞋帽/鞋幫兒	鞋㬹	鞋㬹	hai21 tsaŋ55	hai21 tʃaŋ55	haai4 zaang1	P46	鞋根	原文作「踭」字
 1870	十三、衣服、穿戴（2）鞋帽/鞋楦子	楦頭	楦头	hyn33 tʰɐu21	hyn33 tʰɐu21	hyun3 tau4	P46	鞋楦子	
-1871	十三、衣服、穿戴（2）鞋帽/鞋拔子	鞋抽	鞋抽	hai21 tsʰɐu55	hai21 tʃʰɐu55	haai4 cau1	P46	鞋拔子	
+1871	十三、衣服、穿戴（2）鞋帽/鞋拔子	鞋搊	鞋搊	hai21 tsʰɐu55	hai21 tʃʰɐu55	haai4 cau1	P46	鞋拔子	原文作「鞋抽」，此處據林亦《廣西粵方言塞音、塞擦音鼻音化小規律所轄字的考察》改作「鞋搊」
 1872	十三、衣服、穿戴（2）鞋帽/雨鞋	水鞋	水鞋	sui35 hai21	ʃui35 hai21	sui2 haai4	P46	雨鞋	
 1873	十三、衣服、穿戴（2）鞋帽/木屐	木屐	木屐	mok2 kʰɛk5	mʊk2 kʰɛk5	muk6 kek1	P46	木屐	
 1874	十三、衣服、穿戴（2）鞋帽/鞋帶兒	鞋帶	鞋带	hai21 tai33	hai21 tai33	haai4 daai3	P46	鞋帶兒	
@@ -2596,7 +2596,7 @@ ID	CLASSIFI	TRAD	SIMP	IPA_S	IPA_T	JYUTPING	SOUR	EXPL	NOTE
 2595	十八、交際/捎個信	帶話	带话	tai33 wa22	tai33 wa22	daai3 waa6	P55	捎個信2	
 2596	十八、交際/匿名信	匿名信	匿名信	nek2 meŋ21 ɬɐn33	nek2 meŋ21 ɬɐn33	nik6 ming4 slan3	P55	匿名信	
 2597	十八、交際/不和	冇啱	冇啱	mu24 ŋam55	mu24 ŋam55	mu5 ngaam1	P55	不和1	
-2598	十八、交際/不和	冇啱瓦	冇啱瓦	mu24 ŋam55 ŋa24	mu24 ŋam55 ŋa24	mu5 ngaam1 ngaa5	P55	不和2	廣州話作「唔啱牙[ŋa21-35]」
+2598	十八、交際/不和	冇啱瓦	冇啱瓦	mu24 ŋam55 ŋa24	mu24 ŋam55 ŋa24	mu5 ngaam1 ngaa5	P55	不和2	廣州話作「唔啱牙[ŋa21-35]」，同時有「滑牙」一詞
 2599	十八、交際/冤家	冤家	冤家	jyn55 ka55	jyn55 ka55	jyun1 gaa1	P56	冤家1	
 2600	十八、交際/冤家	死對頭	死对头	ɬi35 tui33 tʰɐu21	ɬi35 tui33 tʰɐu21	sli2 dui3 tau4	P56	冤家2	
 2601	十八、交際/合夥	佮夥	佮伙	kɐp3 fɔ35	kɐp3 fɔ35	gap3 fo2	P63	合夥1	
